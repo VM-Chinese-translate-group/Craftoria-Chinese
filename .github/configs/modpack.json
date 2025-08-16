@@ -1,6 +1,7 @@
 {
   "packId": 1039252,
   "packName": "Craftoria",
+  "versionPattern": "Craftoria - {version}",
   "infoFilePath": "CNPack/modpackinfo.json",
   "sourceDir": "Source",
   "ftbQuests": {
