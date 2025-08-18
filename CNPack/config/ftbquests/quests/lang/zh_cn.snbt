@@ -4,13 +4,13 @@
 	chapter.0597AF3E8B286CFA.title: "Ars Nouveau"
 	chapter.0644AB97E8D8839B.title: "Create"
 	chapter.0CF7A598566497C7.title: "&6Completionist"
-	chapter.1CFBA632673ABBFD.title: "Organized Storage"
+	chapter.1CFBA632673ABBFD.title: "井井有条的存储"
 	chapter.216D532684E20496.title: "Bosses"
 	chapter.26E59C8DBA7F6FE3.title: "Monster Mayhem"
 	chapter.2A4C06811555B5D0.title: "Relics \\& Artifacts"
-	chapter.2B64DA0213E9FC7B.title: "Personal Storage"
+	chapter.2B64DA0213E9FC7B.title: "私人存储"
 	chapter.2E72024B18414A17.title: "&dEternal"
-	chapter.3188AC6C440F7520.title: "&aGetting Started"
+	chapter.3188AC6C440F7520.title: "&a新手上路"
 	chapter.33E8845C982DC0F2.title: "Mekanism: Ore Processing"
 	chapter.36F47DCAC3D28F1B.title: "Gardening"
 	chapter.37D7FA3DAE36E099.title: "Just Dire Things"
@@ -420,22 +420,22 @@
 	quest.0B98E8AC5CFB0FC2.quest_desc: ["Obtained when you let your&b Entroized Clusters &agrow&f to the &amax stage&f."]
 	quest.0BDF41399223A10A.quest_desc: ["Using a Scroll Forge and an Ender Pearl craft an Ender Scrolls."]
 	quest.0BF3E2C6D60A58BB.quest_desc: [
-		"&aEmotes&r can be accessed through the &6Quick Menu&r."
+		"可以通过&6快捷菜单&r查看&a表情动作&r。"
 		""
-		"Default keybind is \"&eB&r\". "
+		"默认的快捷键是&eB&r键。"
 		""
-		"I &3highly recommend&r changing this keybind to something else."
+		"我&3强烈建议&r将默认键位改到别的键位。"
 		""
-		"You can see all the available &aEmotes&r by heading into the &7All Emotes&r menu through the button below the &6Quick Menu&r. "
+		"点击&6快捷菜单&r底部的&7所有表情&r按钮即可查看所有可用的&a表情动作&r。"
 		""
-		"Configure the &6Quick Menu&r by pressing the &7Configure Emotes&r button. "
+		"点击&7配置表情&r按钮可以设置&6快捷菜单&r中显示的表情动作。 "
 		""
-		"Firstly, select the &aEmote&r of choice then the &cslot&r where you want it to be added to."
+		"首先，在左侧列表选择一个&a表情动作&r，然后左击右侧罗盘的某个&c槽位&r即可添加。"
 		""
-		"&b&lDance Away!&r"
+		"&b&l尽情活蹦乱跳吧！&r"
 	]
-	quest.0BF3E2C6D60A58BB.quest_subtitle: "I challenge you to a dance battle!"
-	quest.0BF3E2C6D60A58BB.title: "&aEmotes"
+	quest.0BF3E2C6D60A58BB.quest_subtitle: "来和你斗斗舞！"
+	quest.0BF3E2C6D60A58BB.title: "&a表情动作"
 	quest.0C18429AFD83973C.quest_desc: [
 		"I love these! With them you can..."
 		""
@@ -2115,7 +2115,7 @@
 		""
 		"I'll let you experiment with the &amodes&r, &cjust don't break anything&r!"
 	]
-	quest.2BF835F8F73E8F06.quest_subtitle: "Diggy diggy hole!"
+	quest.2BF835F8F73E8F06.quest_subtitle: "挖个大洞！"
 	quest.2BF835F8F73E8F06.title: "&cVein Be Gone!"
 	quest.2C4CA092A557205E.quest_desc: [
 		"  1985 called from 2015, it wants it's anti-gravity technology back!"
@@ -2359,7 +2359,7 @@
 		"There are &6three main ones&r, thank me later."
 	]
 	quest.3189264EB89A2A5A.quest_subtitle: "&oTricks of the Trade"
-	quest.3189264EB89A2A5A.title: "&aHelpful Tips \\& Tricks"
+	quest.3189264EB89A2A5A.title: "&a实用提示与技巧"
 	quest.320C2F44DD138054.quest_desc: [
 		"Unlike other bosses, this animal is not meant to be slain. "
 		""
@@ -3105,7 +3105,7 @@
 	quest.4207ADF2CB254C6B.title: "Painting Machine"
 	quest.423B29BD8DAC8C3D.quest_desc: ["The spawner will always spawn a baby entity when possible."]
 	quest.423B29BD8DAC8C3D.quest_subtitle: "+ Youthful"
-	quest.427B70B9D14A1A51.title: "Movement Upgrades"
+	quest.427B70B9D14A1A51.title: "移动升级"
 	quest.42AC14C7D41F0CAB.quest_desc: ["Using the Scroll Forge and a Blaze Rod craft a Fire Scrolls, which are really good at burning your enemies... and sometimes your friends... Just make sure you dont accodently cast fireball on their pets and you should be fine!"]
 	quest.42D6CC67AB29D7DA.quest_desc: [
 		"  You've finally reached &bDigital Circuits&r!"
@@ -4176,7 +4176,7 @@
 	quest.573FAED7B35F6C86.quest_desc: ["For the more seasoned mage the Enchated Spellbook has ten slots."]
 	quest.5773319EE8B3D45C.quest_desc: ["Adds some &6speed control&r to &bChain Drives&r."]
 	quest.578394EC869C10AB.quest_desc: ["Simple point-to-point item transportation, power transmission, or low-key ski lift for players—you decide!"]
-	quest.57852C27FD0C29AA.title: "Upgrades"
+	quest.57852C27FD0C29AA.title: "升级"
 	quest.57A8D67858693F4A.quest_desc: ["The &bBasic Injecting Factory&r allows you to process &a3&r injection recipes at once."]
 	quest.57A8D67858693F4A.title: "Basic Injecting Factory"
 	quest.57D104FF04B35463.title: "Water Vapor"
@@ -4660,12 +4660,12 @@
 	quest.6618D7F353A6FFAD.quest_subtitle: "&oHey, need even more crafting speed?"
 	quest.6618D7F353A6FFAD.title: "Assembler Matrix"
 	quest.66683CAE8F6FB81E.quest_desc: [
-		"These &bBackpacks&r are able to take use of tens and tens of different &bUpgrades&r with all kinds of &6nifty&r and &6useful&r solutions to all your every day problems."
+		"这些&b背包&r可搭配数十种不同的&b升级&r，带来各种&6巧妙&r且&6实用&r的解决方案，解决你日常遇到的各种问题。"
 		""
-		"Press &6U&r on the &bUpgrade Base&r to see all the possible &bUpgrades&r that can be made."
+		"将鼠标放在&b空白升级&r上按下&6U&r键，即可查看所有可制作的&b升级&r。"
 	]
-	quest.66683CAE8F6FB81E.quest_subtitle: "Make your backpack magnetic or why not have it feed yourself?"
-	quest.66683CAE8F6FB81E.title: "Upgrades"
+	quest.66683CAE8F6FB81E.quest_subtitle: "让你的背包自带磁力，或者为什么不让它自动为你喂食？"
+	quest.66683CAE8F6FB81E.title: "升级"
 	quest.668453E081A6C57B.quest_desc: [
 		"  Forged in the heart of supernovas, &bTitanium&r has the highest strength to weight ratio. It's as strong as steel for 45% less mass, making it extremely powerful for its weight."
 		""
@@ -4691,11 +4691,11 @@
 	]
 	quest.66F756E370750359.title: "MekaSuit Pants"
 	quest.670CE9B293296FEB.quest_desc: [
-		"Just kidding!"
+		"只是在开玩笑！"
 		""
-		"You'll need to craft the &b256M Energy Storage Component&r for this."
+		"你需要制作一个&b256M能源存储组件&r来完成这个。"
 		""
-		"Can hold an &ainfinite&r amount of FE."
+		"它可以存储&a无限&r量的FE。"
 	]
 	quest.6711E72048BBDB08.quest_desc: ["&6Holds&r plenty of up to eight different things, color-able, and all nearby &bToolboxes&r can be &6accessed&r with one keybind—handy for keeping your eyes on your work, not your tools."]
 	quest.6716C1CE7B7FFA94.quest_desc: ["The &bCapacity Card &fincreases the amount of filter slots in &bBuses&f."]
@@ -5640,7 +5640,7 @@
 		"The course of this &2world&r lies soley in your hands; where will you bring it?"
 	]
 	quest.78EDBDED3BFEC145.quest_subtitle: "Your Journey. Starts Here."
-	quest.78EDBDED3BFEC145.title: "Welcome to &othe&r &aCraftoria&r!"
+	quest.78EDBDED3BFEC145.title: "欢迎来到&aCraftoria&r！"
 	quest.78F7F62C0E2E7448.quest_desc: ["The &bUltimate Purifying Factory&r allows you to process up to &a9&r purifying recipes at once."]
 	quest.78F7F62C0E2E7448.title: "Ultimate Purifying Factory"
 	quest.791CAEBAE57EF0E1.quest_desc: ["  &bMotors&r take electricity and produce a rotational force. You'll use motors to create many of the machines and other components in the future. &6You should automate these&r."]
@@ -5660,7 +5660,7 @@
 	quest.7931987BD172464D.title: "Fennel"
 	quest.7938CF0A65011F0B.quest_desc: ["Vacuum tube, thermionic valve, &bElectron Tube&r—by any name it’s a cool looking item and a key ingredient for Create components that have “smarts”."]
 	quest.7946DBB127444E4D.title: "Cucumber"
-	quest.7948BA211BD790C8.quest_desc: ["Can hold an &ainfinite&r amount of a single fluid."]
+	quest.7948BA211BD790C8.quest_desc: ["可以存储&a无限&r量的单一流体。"]
 	quest.79515634992D02A3.quest_desc: [
 		"You can take the newly formed &dAntimatter Gas&r and solidify it into an &dAntimatter Pellet&r."
 		" "
@@ -5998,7 +5998,7 @@
 	reward_table.7D1F93D6860D4667.title: "PNC"
 	task.0020C1E77C424CB0.title: "Look at Spiritfire"
 	task.00CA3CB10A03DF62.title: "PNC 100%"
-	task.013281B2076D21ED.title: "Helpful Tips \\& Tricks"
+	task.013281B2076D21ED.title: "实用提示与技巧"
 	task.02D1703C79A7F3EF.title: "Any #c:logs/archwood"
 	task.04FBCF96BB8F176A.title: "Vein be gone!"
 	task.0BA54BE324AE1978.title: "How Delightful!"
@@ -6071,7 +6071,7 @@
 	task.601F7C69458E7589.title: "Welcome to Theurgy"
 	task.61ADF1E6345BC7E1.title: "Any #c:raw_materials/copper"
 	task.63DAD8D3277DA248.title: "Evolving Manufacturing Index"
-	task.64433571E92D5E65.title: "Emotes"
+	task.64433571E92D5E65.title: "表情动作"
 	task.6544A3FD1B532809.title: "Summon a Demonic Husband"
 	task.65A43DD683FB39E4.title: "Summon a Foliot Lumberjack"
 	task.65B2D0E35B083E82.title: "Survival of the Fittest"
