@@ -10,7 +10,12 @@
     "langFile": "config/ftbquests/quests/lang/en_us.snbt",
     "chaptersDir": "config/ftbquests/quests/chapters",
     "chapterGroupsFile": "config/ftbquests/quests/chapter_groups.snbt",
-    "jsonOutputDir": "kubejs/assets/quests/lang"
+    "jsonOutputDir": "kubejs/assets/quests/lang",
+    "extractEmbedded": {
+      "customName": false,
+      "lore": true,
+      "feedbackMessage": true
+    }
   },
   "attentionList": {
     "folders": [

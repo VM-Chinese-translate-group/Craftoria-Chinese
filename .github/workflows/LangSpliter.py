@@ -74,11 +74,14 @@ def escape_string_for_snbt(s: str) -> str:
     return s
 
 
-def split_and_process_all(source_lang_file, chapters_dir, chapter_groups_file, output_dir, multiline_mode: str):
+def split_and_process_all(source_lang_file, chapters_dir, chapter_groups_file, output_dir, multiline_mode: str, extract_config: dict = None):
     """
     一个完整的处理流程，现在会将 chapter.* 条目分发到对应的章节文件中。
     新增 multiline_mode 参数用于控制多行文本的处理方式。
     """
+    if extract_config is None:
+        extract_config = {}
+
     print(f"--- 1. 开始拆分和处理 {source_lang_file} ---")
     if multiline_mode == 'flatten_single':
         print("  -> 已启用【单行列表展平】模式。")
@@ -169,7 +172,7 @@ def split_and_process_all(source_lang_file, chapters_dir, chapter_groups_file, o
         print(f"  -> 成功导出 {len(other_data)} 条条目到: {output_path}")
 
     # 5. 处理章节文件，导出章节、任务、子任务和奖励的相关条目
-    process_chapter_quests(chapters_dir, chapters_lang_data, quests_data, tasks_data, rewards_data, output_dir)
+    process_chapter_quests(chapters_dir, chapters_lang_data, quests_data, tasks_data, rewards_data, output_dir, extract_config)
 
     print("--- 拆分和处理完成 ---\n")
 
@@ -271,7 +274,7 @@ def create_sort_key(item, config, task_to_quest_map, reward_to_quest_map):
     return (is_chapter_key, quest_group_id, internal_type_priority, custom_priority, non_numeric_part, numeric_part)
 
 
-def process_item_list_for_components(item_list, list_key_name, output_dict):
+def process_item_list_for_components(item_list, list_key_name, output_dict, extract_config):
     """
     扫描项目列表（如 'tasks' 或 'rewards'），为每个项目执行深度递归搜索，
     以查找 'minecraft:custom_name' 和 'minecraft:lore'。
@@ -290,7 +293,7 @@ def process_item_list_for_components(item_list, list_key_name, output_dict):
                 components = data['components']
 
                 # 提取 custom_name
-                if 'minecraft:custom_name' in components:
+                if extract_config.get('customName', False) and 'minecraft:custom_name' in components:
                     name_val = components['minecraft:custom_name']
                     try:
                         name_val = name_val.replace(r'\\', '\\')
@@ -301,7 +304,7 @@ def process_item_list_for_components(item_list, list_key_name, output_dict):
                     output_dict[lang_key] = name_val
 
                 # 提取 lore
-                if 'minecraft:lore' in components:
+                if extract_config.get('lore', False) and 'minecraft:lore' in components:
                     lore_list = components['minecraft:lore']
                     if isinstance(lore_list, list):
                         for i, lore_line in enumerate(lore_list, 1):
@@ -332,7 +335,7 @@ def process_item_list_for_components(item_list, list_key_name, output_dict):
         find_translatables_recursively(item_dict, item_id)
 
 
-def process_chapter_quests(chapters_dir, chapters_lang_data, quests_data, tasks_data, rewards_data, output_dir):
+def process_chapter_quests(chapters_dir, chapters_lang_data, quests_data, tasks_data, rewards_data, output_dir, extract_config):
     """
     根据章节文件，将章节、任务、子任务、奖励的相关语言条目导出到对应的JSON文件。
     """
@@ -404,8 +407,8 @@ def process_chapter_quests(chapters_dir, chapters_lang_data, quests_data, tasks_
                         chapter_output_content[key] = value
 
                 # 从任务和奖励中提取基于组件的翻译
-                process_item_list_for_components(quest.get('tasks', []), 'tasks', chapter_output_content)
-                process_item_list_for_components(quest.get('rewards', []), 'rewards', chapter_output_content)
+                process_item_list_for_components(quest.get('tasks', []), 'tasks', chapter_output_content, extract_config)
+                process_item_list_for_components(quest.get('rewards', []), 'rewards', chapter_output_content, extract_config)
 
                 for task in quest.get('tasks', []):
                     task_id = task.get('id')
@@ -423,7 +426,7 @@ def process_chapter_quests(chapters_dir, chapters_lang_data, quests_data, tasks_
                         if key.startswith(reward_prefix):
                             chapter_output_content[key] = value
                     # 提取 reward.feedback_message
-                    if 'feedback_message' in reward:
+                    if extract_config.get('feedbackMessage', False) and 'feedback_message' in reward:
                         feedback_value = reward['feedback_message']
                         if isinstance(feedback_value, str):
                             key = f"reward.{reward_id}.feedback_message"
@@ -785,6 +788,9 @@ if __name__ == "__main__":
             choices=['numbered', 'flatten_single', 'newline'],
             help='控制多行文本的拆分方式: numbered (后缀+数字), flatten_single (单行展平), newline (使用 \\n 合并为单条目)。'
         )
+        parser_split.add_argument('--extract-custom-name', action='store_true', help='启用 custom_name 的提取。')
+        parser_split.add_argument('--extract-lore', action='store_true', help='启用 lore 的提取。')
+        parser_split.add_argument('--extract-feedback-message', action='store_true', help='启用 feedback_message 的提取。')
 
         # --- 合并任务的参数 (标准逻辑) ---
         parser_merge = subparsers.add_parser('merge', help='将多个 JSON 文件合并为一个 SNBT 语言文件。')
@@ -807,12 +813,18 @@ if __name__ == "__main__":
 
         # --- 根据任务分派 ---
         if args.task == 'split':
+            extract_config = {
+                "customName": args.extract_custom_name,
+                "lore": args.extract_lore,
+                "feedbackMessage": args.extract_feedback_message
+            }
             split_and_process_all(
                 source_lang_file=args.source_lang,
                 chapters_dir=args.chapters_dir,
                 chapter_groups_file=args.chapter_groups,
                 output_dir=args.output_dir,
-                multiline_mode=args.multiline_mode
+                multiline_mode=args.multiline_mode,
+                extract_config=extract_config
             )
         elif args.task == 'merge':
             merge_all_to_snbt(

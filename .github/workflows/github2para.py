@@ -68,6 +68,7 @@ def handle_ftb_quests_snbt():
     chapter_groups_file = os.path.join(source_dir, ftb_quests_config["chapterGroupsFile"])
     output_json_dir = os.path.join(source_dir, ftb_quests_config["jsonOutputDir"])
     multiline_mode = ftb_quests_config.get("multilineMode", "numbered")
+    extract_config = ftb_quests_config.get("extractEmbedded", {})
 
     if os.path.exists(snbt_file):
         print(f"检测到 SNBT 文件: {snbt_file}，将进行自动拆分...")
@@ -82,7 +83,8 @@ def handle_ftb_quests_snbt():
             chapters_dir=chapters_dir,
             chapter_groups_file=chapter_groups_file,
             output_dir=output_json_dir,
-            multiline_mode=multiline_mode
+            multiline_mode=multiline_mode,
+            extract_config=extract_config
         )
         print("SNBT 文件已成功拆分为 JSON，准备上传。")
     else:
