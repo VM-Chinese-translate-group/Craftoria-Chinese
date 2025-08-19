@@ -1,20 +1,20 @@
 {
-  "block.displaydelight.food_plate": "Food Plate",
-  "block.displaydelight.small_food_plate": "Small Food Plate",
-  "item.displaydelight.tooltip.can_placed_on": "Can be plated on: ",
-  "item.displaydelight.tooltip.displayable": "Can be placed while sneaking",
+  "block.displaydelight.food_plate": "餐盘",
+  "block.displaydelight.small_food_plate": "小餐盘",
+  "item.displaydelight.tooltip.can_placed_on": "可以被放置在：",
+  "item.displaydelight.tooltip.displayable": "潜行时可以放置",
 
 
-  "block.displaydelight.mushroom_stew": "Mushroom Stew Block",
-  "block.displaydelight.rabbit_stew": "Rabbit Stew Block",
-  "block.displaydelight.beetroot_soup": "Beetroot Soup Block",
+  "block.displaydelight.mushroom_stew": "蘑菇煲方块",
+  "block.displaydelight.rabbit_stew": "兔肉煲方块",
+  "block.displaydelight.beetroot_soup": "甜菜汤方块",
 
-  "block.displaydelight.hot_cocoa": "Hot Cocoa Block",
-  "block.displaydelight.ad_acacia_blossom_soup": "Acacia Blossom Soup Block"
-,"block.displaydelight.ad_kangaroo_pasta": "Kangaroo Pasta Block"
-,"block.displaydelight.ad_kangaroo_stew": "Kangaroo Stew Block"
-,"block.displaydelight.ad_lobster_pasta": "Lobster Pasta Block"
-,"block.displaydelight.ad_maggot_salad": "Maggot Salad Block"
+  "block.displaydelight.hot_cocoa": "热可可方块",
+  "block.displaydelight.ad_acacia_blossom_soup": "金合欢花汤"
+,"block.displaydelight.ad_kangaroo_pasta": "袋鼠肉意面方块"
+,"block.displaydelight.ad_kangaroo_stew": "袋鼠肉炖方块"
+,"block.displaydelight.ad_lobster_pasta": "龙虾意面方块"
+,"block.displaydelight.ad_maggot_salad": "蛆虫沙拉方块"
 ,"block.displaydelight.ad_plated_bison_burger": "Plated Bison Burger Block"
 ,"block.displaydelight.ad_plated_bunfungus_sandwich": "Plated Bunfungus Sandwich Block"
 ,"block.displaydelight.ad_plated_gongylidia_bruschetta": "Plated Gongylidia Bruschetta Block"
