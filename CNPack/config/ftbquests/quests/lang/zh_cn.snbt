@@ -15,11 +15,11 @@
 	chapter.36F47DCAC3D28F1B.title: "Gardening"
 	chapter.37D7FA3DAE36E099.title: "Just Dire Things"
 	chapter.3B4FADE31FB88E9F.title: "Iron's Spells"
-	chapter.40CEA39FE5F5225D.title: "Mekanism"
-	chapter.5158EB105DEA1F80.title: "Immersive Aircraft"
+	chapter.40CEA39FE5F5225D.title: "通用机械"
+	chapter.5158EB105DEA1F80.title: "沉浸式飞机"
 	chapter.51BB74521F2334FA.title: "Cooking"
 	chapter.5A3894BACC5E8994.title: "Theurgy"
-	chapter.5BF964A2F3CAA6E8.title: "Transportation"
+	chapter.5BF964A2F3CAA6E8.title: "物流系统"
 	chapter.679ED31B5B1D91DA.title: "Replication"
 	chapter.6A5B4531418CC297.title: "Modern Industrialization"
 	chapter.70FFEE37C7ABD690.title: "Applied Energistics"
@@ -136,13 +136,13 @@
 	]
 	quest.038AAFBA1E0DEF7E.quest_subtitle: "Essential for the working Create-or"
 	quest.03CF6D6277D93A4A.quest_desc: [
-		"The &bGauge Dropper&r is a useful tool to &6move&r up to &a16&r buckets of &7fluid&r at a time directly from an &9inventory&r. "
+		"&b滴管&r是一种有用的工具，可以用来从&9内部缓存&r中一次性&6转移&r最多&a16&r桶&7流体&r。"
 		""
-		"This will help you to &6configure&r machines properly in the future. "
+		"滴管以后可以帮助你精准地&6调节&r机器。"
 		""
-		"&6Right Click&r to deposit the &7fluid&r and &6Left Click&r to pick it up."
+		"&6左击&r将&7流体&r吸入，&6右击&r将其挤出。"
 	]
-	quest.03CF6D6277D93A4A.title: "Gauge Dropper"
+	quest.03CF6D6277D93A4A.title: "滴管"
 	quest.03E0ADE2191CC3FB.quest_desc: ["Each &bAdvanced Induction Cell&r added to your matrix adds &e25.6 GFE&r of energy storage."]
 	quest.03E0ADE2191CC3FB.title: "Advanced Induction Cell"
 	quest.03F624101CDF5291.quest_desc: [
@@ -632,7 +632,7 @@
 	]
 	quest.0FA3C7049E71EA4A.quest_desc: ["You planning on owning a &bQuarry&f anytime soon?"]
 	quest.0FA3C7049E71EA4A.title: "64k Storage Component"
-	quest.0FB6106D73ABB512.title: "Pipe Upgrades"
+	quest.0FB6106D73ABB512.title: "管道升级"
 	quest.0FDA602713778AF0.title: "Tier 3, 1:3"
 	quest.0FE6DFF73BE7AA10.quest_desc: ["&aLime&r Chalk is needed to summon spirits greater than Foliot. It certifies your mastery of the basics of occultism."]
 	quest.0FE6DFF73BE7AA10.quest_subtitle: "Knowledge"
@@ -665,20 +665,20 @@
 	]
 	quest.1094111FB9512D75.title: "Diesel Generator"
 	quest.110B0C8DD2FD5BE7.quest_desc: [
-		"Welcome to a world of &7Solids&r, &bLiquids&r, &9Gases&r and &ePower&r! "
+		"欢迎来到这个由&7固体&r、&b液体&r、&9气体&r和&e电力&r构成的世界！"
 		""
-		"You will &6create&r and &6upgrade&r &bmachines&r over the course of your &ajourney&r to refine and process &bresources&r, &6generate&r mass amounts of &eenergy&r, and &7gear yourself&r up to take on the &2hostiles&r of the world."
+		"你将在&a游玩&r的过程中&6制造&r并&6升级&r&b各种机器&r，精炼处理各种&b资源&r；&6产出&r大量&e能源&r；武装自己，应对世界中的种种&2敌对生物&r。"
 		""
-		"Make sure to use your &dEMI&r as a way to know the &7processing lines&r associated with each &bmaterial&r. "
+		"务必使用&dEMI&r来了解对应&b材料&r的&7产线&r。"
 		""
-		"&bOsmium&r is one of the most important &3resources&r you'll use. "
+		"&b锇&r是你马上就会用到的几个最重要的&3资源&r之一。"
 		""
-		"It's the core &7metal&r of every &acircuit&r you'll use. "
+		"你用到的每个&a电路&r，都以锇为核心&7金属&r制作而成。"
 		""
-		"Did you know &bOsmium&r is the &8densest&r &2naturally&r occuring element?"
+		"你知道&b锇&r其实是&2天然存在&r的&8密度最大&r的元素吗？"
 	]
-	quest.110B0C8DD2FD5BE7.quest_subtitle: "A world of automation awaits!"
-	quest.110B0C8DD2FD5BE7.title: "&fWelcome to &aMekanism"
+	quest.110B0C8DD2FD5BE7.quest_subtitle: "自动化的世界在等着你！"
+	quest.110B0C8DD2FD5BE7.title: "&f欢迎游玩&a通用机械"
 	quest.117C9FABE86447D1.quest_desc: ["The &bQuantum Entangloporter&r allows you to &6transport&r &bitems&r, &7liquids&r, &egasses&r, &4heat&r, &dpigments&r, &9slurries&r, &ainfuse types&r, and &6energy&r instantly to anywhere, just like the &bTeleporter&r."]
 	quest.117C9FABE86447D1.title: "Quantum Entangloporter"
 	quest.1184EBAC0DADDB5F.quest_desc: [
@@ -2673,7 +2673,7 @@
 	quest.378E30F8E12695A2.quest_desc: ["The &bCharge Pad&r is a pad that can be &6placed down&r and &6charge&r anything standing ontop of it; including any &eenergy using/batteries&r in the inventory of a player standing atop it."]
 	quest.378E30F8E12695A2.title: "Chargepad"
 	quest.37A5C2FCA8F75BE6.title: "Trade with the pope"
-	quest.37AC7F3340783FD3.quest_desc: ["&eLaserIO&f is a mod that will let you &atransfer&b Items, Fluid, Powah, and Redstone&f with 9 separate configurations per block face."]
+	quest.37AC7F3340783FD3.quest_desc: ["你可以使用&eLaserIO&f模组来&a传输&b物品、流体、能量以及红石信号&f。每一个面最多支持9种传输配置。"]
 	quest.37AC7F3340783FD3.title: "&6LaserIO"
 	quest.37C0F6CAEE15D410.quest_desc: ["Like &bSmart Observers&r can &6observe&r both whats in front of them or the contents of what’s in front of them, &bTrain Observers&r can &6observe&r passing trains or even their cargo."]
 	quest.37F1166AB7EF132E.quest_subtitle: "What is this goop?"
@@ -4437,11 +4437,11 @@
 	quest.607FFC2B7A0F972A.quest_desc: [""]
 	quest.607FFC2B7A0F972A.quest_subtitle: "Push and Pull"
 	quest.60868DF852E6028B.quest_desc: [
-		"You can make a plethora of &7tools&r with &bOsmium&r. "
+		"你可以用&b锇&r制作大量&7工具&r。"
 		""
-		"The most important of which is the &bPaxel&r, so you can do everything in one!"
+		"其中最值得注意的是&b镐尖斧&r，只用这一把工具就可以办到所有事情！"
 	]
-	quest.60868DF852E6028B.title: "Extra Gear"
+	quest.60868DF852E6028B.title: "额外装备"
 	quest.60A38769895A0B14.title: "Bank's Dock and Link"
 	quest.60A4B6B0601C837C.quest_desc: ["The &bCopper Stick&f does the same things, but with a block &6place&f maximum of 9 blocks."]
 	quest.60AEE273431548B6.quest_desc: ["Place a &bPressure Disperser&r throughout a turbine and boiler to properly regulate the &7blowoff of pressure&r."]
@@ -5784,7 +5784,7 @@
 	]
 	quest.7BDBE300D4B0B1F7.quest_subtitle: "Bone Meal Overflow!"
 	quest.7BE64AF022E35ADE.quest_desc: ["&bMore Red&f is a mod that lets u run &bredstone &fanywhere u want, up walls, on top of ceilings, under ceilings. "]
-	quest.7BE64AF022E35ADE.title: "&cMore Red"
+	quest.7BE64AF022E35ADE.title: "&c更多红石"
 	quest.7BEA5B1D1B410E82.quest.desc: "The &3Advanced Solar Generator&r is an upgraded version of the small &3Solar Generator&r and provides much more &apower&r. You can &6place&r them in the top corners of the &3Thermal Evaporation Tower&r with the green power &aenergy output&r facing the &3Thermal Evaporation Block&r to &6increase&r the &cheat&r of the tower in the day."
 	quest.7BEA5B1D1B410E82.quest_desc: [
 		"The &bAdvanced Solar Generator&r is an upgraded version of the small &3Solar Generator&r and provides much more &apower&r. "
