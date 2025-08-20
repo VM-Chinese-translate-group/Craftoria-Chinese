@@ -39,12 +39,12 @@
 	quest.000F7897FF9ED7DC.quest_desc: ["和&b赛特斯石英簇&r一样，恩特罗簇也拥有&a4种生长阶段&r，&a前3个阶段&r直接破坏的话只能获得&b恩特罗碎片&f，只有破坏&a第4个阶段&r才能获得&b恩特罗水晶&f。"]
 	quest.0012F8780D9172DE.quest_subtitle: "Found by using the Eye of Abyss"
 	quest.0012F8780D9172DE.title: "&5Leviathan"
-	quest.00237AB9C48C8A9B.quest_desc: ["The &bMatter Condencer &fwill allow you to &6make &bMatter Balls&f for the &bPaint Gun&f, and &6make&b Singularities &fat the cost of &aitem entities&f."]
-	quest.002410CF49E1E14E.quest_desc: ["Craft with &bFE Storage Components &fto store &4power&f."]
+	quest.00237AB9C48C8A9B.quest_desc: ["&b物质聚合器&f能够消耗物品或流体&6生产&b物质炮&f的弹药&b物质球&f，除此之外&6生产&b奇点&f。"]
+	quest.002410CF49E1E14E.quest_desc: ["将外壳与&bME能源存储组件&f合成就可以在网络中存储&4能量&f。"]
 	quest.0035439F73199781.quest_desc: ["我想&b钢&f由&b铁和碳&f组成，而它只是通电而已，甚至都没有锻造。"]
 	quest.0035439F73199781.quest_subtitle: "他们都把这个叫作“钢”"
 	quest.0035439F73199781.title: "&e充能钢"
-	quest.003C38C78609709B.quest_desc: ["Crafted in the &bInscriber&f, the &bAccumulation Press&f is used with &bSky Stone Ingots&f to produce &bAccumulation Circuits&f."]
+	quest.003C38C78609709B.quest_desc: ["&b累积压印模板&f需要在&b压印器&f中制作，用于在压印器中将&b陨钢锭&f加工成&b累积电路板&f。"]
 	quest.0075009DEEA010B7.quest_desc: [
 		"开始战斗吧…"
 		"…和你的朋友们一起！"
@@ -61,8 +61,8 @@
 		"使用&b锻造台&f来对你的建筑棒进行升级，这需要消耗&c红石块&f。"
 	]
 	quest.0119F518ACD8568D.quest_subtitle: "+Redstone Control"
-	quest.011E9553CDCAE218.quest_desc: ["Quadrupling that storage capacity are we?"]
-	quest.011E9553CDCAE218.title: "4k Storage Component"
+	quest.011E9553CDCAE218.quest_desc: ["四倍的存储容量？"]
+	quest.011E9553CDCAE218.title: "4k 存储组件"
 	quest.012B064DED21DCD3.quest_desc: [
 		"The &bUltimate Infusing Factory&r can process up to &a9&r infusing processes at the same time, containing the same \"&6Auto-Sort&r\" function. "
 		""
@@ -143,7 +143,7 @@
 		"&6左击&r将&7流体&r吸入，&6右击&r将其挤出。"
 	]
 	quest.03CF6D6277D93A4A.title: "滴管"
-	quest.03E0ADE2191CC3FB.quest_desc: ["Each &bAdvanced Induction Cell&r added to your matrix adds &e25.6 GFE&r of energy storage."]
+	quest.03E0ADE2191CC3FB.quest_desc: ["每个&b高级感应元件&r可以为你的感应矩阵增加&e25.6 GFE&r存储量。"]
 	quest.03E0ADE2191CC3FB.title: "高级感应元件"
 	quest.03F624101CDF5291.quest_desc: [
 		"  &bSimple&r:"
@@ -211,22 +211,22 @@
 	]
 	quest.0541F90AD95B4B5E.quest_desc: ["Pay attention: it might &6make&r one thing on a &bDepot&r, and another in a &bBasin&r."]
 	quest.0541F90AD95B4B5E.quest_subtitle: "May I press you to a cucumber sandwich?"
-	quest.0547229FF5334CF5.quest_desc: ["The &bInterface&f acts like a chest, you can &aset an item or fluid &finside the &bInterface&f and it will pull that item from the&5 network &fto keep stock."]
+	quest.0547229FF5334CF5.quest_desc: ["&bME接口&f就像一个箱子，你可以在&bME接口&f的GUI中&a标记物品或者流体&r，这样它就会源源不断地从&5网络%f中拉取物品来维持库存。"]
 	quest.0578945AE9664476.quest_subtitle: "Dropped within the Trials of Awaken gateway. "
 	quest.05A0AC380BB141A0.quest_desc: ["The &bRestrictive Transporter&r is a type of &bLogistical Transporter&r that practically works as an \"&6overflow&r\" pipe. Once &3items&r have no where else to go, they'll &6travel&r through the &bRestrictive Transporter&r."]
 	quest.05A0AC380BB141A0.title: "限流管道"
 	quest.05B2AA73EAEDCCF4.quest_desc: [
-		"These &bExport Buses&r have more advanced functionality compared to the regular &bExport Bus&r."
+		"这些&b输出总线&r相较于常规的&b输出总线&r具有更多高级的功能。"
 		""
-		"&bTag Export Bus&r exports items from filtered tags."
+		"&bME标签输出总线&r能够输出指定标签的物品。"
 		""
-		"&bMod Export Bus&r exports items from filtered mods."
+		"&bME模组输出总线&r能够输出指定模组的物品。"
 		""
-		"&bPrecise Export Bus&r exports the exact amount of items you set, no less, no more."
+		"&bME精确输出总线&r能以指定的数量输出物品，不多不少。"
 		""
-		"&bThreshold Export Bus&r exports items when the amount of items is above/below the set threshold."
+		"&bME阈值输出总线&r只在网络中的物品量低于/高于设置的阈值时输出物品。"
 	]
-	quest.05B2AA73EAEDCCF4.title: "Advanced Export Buses"
+	quest.05B2AA73EAEDCCF4.title: "更高级的输出总线"
 	quest.05E2E87CF3F9A5FB.quest_desc: ["Made with &4Redstone&r and &cDiesel&r, used for the &bSpeed Upgrade&r."]
 	quest.05E2E87CF3F9A5FB.title: "&6Lubricant"
 	quest.05E7C7E41BA79426.quest_subtitle: "Quadruple Charging"
@@ -259,11 +259,11 @@
 	quest.0633D2B1E1DB778B.title: "Silicon"
 	quest.06573610058AE660.title: "红色发光甘蔗"
 	quest.069382B7A2FC7D35.quest_desc: [
-		"Will &6calcify&r and &close&r efficiency over time to a minimum of &e33%&r efficiency when not using &bDistilled Water&r. "
+		"不使用&b蒸馏水&r的情况下，它会逐渐&6钙化&r，效率逐渐&c下降&r，最低下降至&e33%&r。 "
 		""
-		"Using an &bAxe&r on the &bBoiler&r will reset its calcification."
+		"用&b斧子&r右击&b锅炉&r可清除钙化。"
 	]
-	quest.069382B7A2FC7D35.quest_subtitle: "Uses Solar Energy instead of Fossil Fuel."
+	quest.069382B7A2FC7D35.quest_subtitle: "用太阳能代替化石燃料。"
 	quest.0696635896D223CA.quest_desc: ["Graybeard Staff will do just that, give you a Greybeard...Just kidding, this staff will help you regen mana as well as buff your scroll power. This is one of the more easy staffs to craft."]
 	quest.06C4D99A90DF7711.quest_desc: ["The &bUltimate Injecting Factory&r allows you to process &a9&r injection recipes at once."]
 	quest.06C4D99A90DF7711.title: "终极压射工厂"
@@ -643,8 +643,8 @@
 	]
 	quest.10391A74418CA104.quest_subtitle: "Pulley for You, Teddy!"
 	quest.103CFBF5C4599A7B.quest_desc: [""]
-	quest.103CFBF5C4599A7B.quest_subtitle: "Some example spells"
-	quest.103CFBF5C4599A7B.title: "Mining"
+	quest.103CFBF5C4599A7B.quest_subtitle: "此处举一例，说明法术使用方法"
+	quest.103CFBF5C4599A7B.title: "挖矿"
 	quest.10534DA1BD464834.quest_subtitle: "Dropped within the Trials of Awaken gateway. "
 	quest.1081BFCAB3F07FFF.quest_desc: [
 		"  Need a steamy upgrade? I know I do! The &bLarge Steam Boiler&r is an upgraded version of the smaller bronze and steel boilers. &6It uses fuel 8 times faster&r than the Furnace, but it produces &6256 mb/t of steam&r when at max temperature. Make sure you don't forget to provide it &bWater&r!"
@@ -682,12 +682,12 @@
 	quest.117C9FABE86447D1.quest_desc: ["The &bQuantum Entangloporter&r allows you to &6transport&r &bitems&r, &7liquids&r, &egasses&r, &4heat&r, &dpigments&r, &9slurries&r, &ainfuse types&r, and &6energy&r instantly to anywhere, just like the &bTeleporter&r."]
 	quest.117C9FABE86447D1.title: "量子传送装置"
 	quest.1184EBAC0DADDB5F.quest_desc: [
-		"You can find &bArchwood Trees&r inside every biome, but most common is &aArchwood Forest&r biome."
+		"&b至高木树&r会生成在任何生物群系中，不过在&a至高木森林&r中最为常见。"
 		""
 		""
-		"&8Tip: the main mod has &94 archwood types&r&8)"
+		"&8（小提示：原版新生魔艺模组中共有&94种至高木&r&8）"
 	]
-	quest.1184EBAC0DADDB5F.title: "Archwood Logs"
+	quest.1184EBAC0DADDB5F.title: "至高木原木"
 	quest.119752DA7C1B29B6.quest_desc: [""]
 	quest.11FC8E533E897B8F.quest_desc: ["只需&b500,000FE&f，就可以在充能器中充能&b雪球&f来召唤和&b闪电&f!!"]
 	quest.11FC8E533E897B8F.quest_subtitle: "雪球中的闪电？"
@@ -771,7 +771,7 @@
 		"  In simple terms, it splits items by spinning them very fast. For example, you can use it to make &bCarbon Dust&r by centrifuging &bCoal Dust&r to unlock a better recipe for &bSteel&r and &bSilicon&r."
 	]
 	quest.141E3D92CBA9F1B3.title: "Centrifuge"
-	quest.1439B72B421AF009.quest_subtitle: "Sweet, Sweet Pie"
+	quest.1439B72B421AF009.quest_subtitle: "甜甜的派"
 	quest.14F545E632726FEE.quest_desc: ["Spawned mobs will be set on fire."]
 	quest.14F545E632726FEE.quest_subtitle: "+ Burning"
 	quest.15008EFBA92CC3DC.quest_desc: [
@@ -1633,7 +1633,7 @@
 	quest.2190034B6F3E2768.quest_desc: ["These are the primary components of &bInput and Output Devices&f."]
 	quest.2190034B6F3E2768.title: "Heart of Computation"
 	quest.21939E58707A7756.quest_desc: ["The &bLarge Macerator&r can &6macerate&r recipes in batches of up to 8 at a &a25%&r deduction of &eEU&r cost. Keep in mind, it &cwont&r do a mix of recipes, they &omust&r be the same type. If not, each type of recipe will be &6split&r into their batch of a max of 8."]
-	quest.21939E58707A7756.quest_subtitle: "Can run recipes in batches."
+	quest.21939E58707A7756.quest_subtitle: "可以批量执行配方。"
 	quest.219AFCECD9D006A2.quest_desc: ["The Guardian &6prevents&r your &bdeath&r, at the cost of one of its limbs."]
 	quest.219AFCECD9D006A2.quest_subtitle: "Undying"
 	quest.21AE41FA52DB561D.quest_desc: [
@@ -1905,12 +1905,12 @@
 	quest.28EB489B44A05070.quest_desc: ["&aReplicators&r will use the &dMatter&r stored in tanks to replicate the item from scratch and send it back to the &bterminal&r."]
 	quest.28EB489B44A05070.quest_subtitle: "Uses matter stored to create items."
 	quest.2909AE63FA355344.quest_desc: [
-		"Some &bquests&r will have &bT3 Codex&r &8(Ancient Codex Entry)&r reward."
+		"部分&b任务&r会奖励&b3级符典条目节选&r&8（远古符典条目节选）&r。"
 		""
 		""
-		"&8Tip: T3 Codexes &4don't &8spawn naturally."
+		"&8小提示：3级符典条目节选&4不会&8自然生成。"
 	]
-	quest.2909AE63FA355344.title: "Tier 3 Glyphs"
+	quest.2909AE63FA355344.title: "3级魔符"
 	quest.292875386D7B9981.quest_desc: ["&b晶质铀&f是一种可通过&6采矿&f获得的矿石。你也可以通过&bMI量子采矿机&f获取。&b晶质铀&f是 Powah 模组中的核心资源，被用于大量合成配方，并为&b反应堆&f供能。"]
 	quest.292875386D7B9981.quest_subtitle: "可能想戴上手套"
 	quest.292875386D7B9981.title: "&a晶质铀"
@@ -1976,20 +1976,20 @@
 	]
 	quest.2A1319D8CFE3653B.quest_subtitle: "You could fit a house in here..."
 	quest.2A1D9C6699BF8A21.quest_desc: [
-		"Ars Nouveau + Farmers Delight addons."
+		"新生魔艺 + 农夫乐事的联动附属模组。"
 		""
-		"&8For more info, please check the &5Ars Nouveau &8book."
-		"&8- More Ars foods."
-		"&8- More buff effects."
-		"&8- Drygmy using Knives."
-		"&8- Chopping board automation with spell."
-		"&8- And more..."
+		"&8若要查看详情，请查阅&5新生魔艺&8的帕秋莉书。"
+		"&8- 更多的新生魔艺食物。"
+		"&8- 更多状态效果。"
+		"&8- 德格米可使用刀。"
+		"&8- 可用法术实现砧板自动化工作。"
+		"&8- 等等等等……"
 		""
 		""
-		"&4NOTE&r: the knife durability will be used."
+		"&4提示&r：自动化仍然会消耗刀的耐久。"
 	]
-	quest.2A1D9C6699BF8A21.quest_subtitle: "Farmers Delight"
-	quest.2A1D9C6699BF8A21.title: "Ars Delight Addon"
+	quest.2A1D9C6699BF8A21.quest_subtitle: "农夫乐事"
+	quest.2A1D9C6699BF8A21.title: "Ars Delight附属模组"
 	quest.2A2E1C7C34C9A4AA.quest_desc: ["破坏小帮手可以破坏并销毁方块。"]
 	quest.2A4193454BA15A9E.title: "榴莲"
 	quest.2A5CD188C06D7F3C.quest_desc: [
@@ -2202,7 +2202,7 @@
 		"&8(to view the value instead of percentage, use &bintegrated dynamics&r&8)"
 	]
 	quest.2DAE44549D0FDD55.quest_subtitle: "Source Storrage"
-	quest.2E0837E85AD433EC.quest_subtitle: "Cinnamon Rolls Are Better"
+	quest.2E0837E85AD433EC.quest_subtitle: "肉桂卷更好吃"
 	quest.2E1EB12F3D9B315E.quest_desc: [
 		"Some notable &brituals&r:"
 		""
@@ -2250,11 +2250,11 @@
 	quest.2F53567C34E86536.quest_desc: ["This is the most basic Spellbook, it can only hold five Spells"]
 	quest.2F66F85A601AC908.quest_desc: [
 		"{image:modern_industrialization:block/machines/macerator/overlay_top_active width:32 height:32 align:center}"
-		"  Now you can &6hemiquadruple your ores&r! This means you'll have a 50% chance to extract an extra dust from your &bRaw Ore&r. You can also turn a &bFull Ore&r and extract a lot of &bRaw Ore&r from it using the &bMacerator&r."
+		"  现在你的矿产已经可以&6翻上半个四倍了&r！什么意思呢？就是在把&b粗矿&r制成粉的时候，你有50%的机率多获得一个粉。你还可以把&b完整的矿石&r直接放进&b研磨机&r，提取出大量&b粗矿&r。"
 		""
-		"  Being a &bMacerator&r, you can throw some metal items in to &6recycle them back into dusts&r, good way to get a little bit out of an adventuring trip or an old tool."
+		"  有了&b研磨机&r，你还可以把各种不要的金属物品丢进去，&6回收成粉&r。这样你就能从各种战利品和老旧工具中搞点好处了。"
 	]
-	quest.2F66F85A601AC908.title: "Bronze Macerator"
+	quest.2F66F85A601AC908.title: "青铜研磨机"
 	quest.2F6C16939D136BF0.quest_desc: ["The&b Annihilation Plane&f will &6break blocks&f and&6 pick up&6&b items&f directly in front of it."]
 	quest.2F6C16939D136BF0.title: "ME Planes"
 	quest.2F7A213261682E1B.quest_desc: [
@@ -2943,7 +2943,7 @@
 	quest.3E9D2DA07E8617EA.title: "&6Theurgy"
 	quest.3EFED58FAE46B366.quest_desc: ["&6Glue&r blocks into contraptions of any size, be they small or super."]
 	quest.3F0097CCBA02804C.quest_desc: ["The &bLarge Steam Furnace&r can &6smelt&r recipes in batches of up to 8 at a &a25%&r deduction of &eEU&r cost. Keep in mind, it &cwont&r do a mix of recipes, they &omust&r be the same type. If not, each type of recipe will be &6split&r into their batch of a max of 8."]
-	quest.3F0097CCBA02804C.quest_subtitle: "The Bigger, The Better!"
+	quest.3F0097CCBA02804C.quest_subtitle: "越大越好！"
 	quest.3F0B58522B009779.quest_desc: [
 		"Can be &6dual-wielded&r and &6enchanted&r."
 		""
@@ -3412,7 +3412,7 @@
 		""
 		"你还可以找到&6词缀物品&r，它是一种强化版的普通物品，具有独特且强大增益效果。"
 		""
-		"&6词缀物品&r有不同的稀有度，从最常见的&a普通&r，到稀有且及其强大的&神化&r。"
+		"&6词缀物品&r有不同的稀有度，从最常见的&a普通&r，到稀有且及其强大的&5神化&r。"
 		""
 		"在旅途中，你可以通过打开宝箱、击杀怪物或是与&7流浪商人&r交易获得&b词缀物品&r，还可以通过击败&6神化Boss&r──能够随意运用词缀的强大实体──来获得。"
 		""
@@ -3537,7 +3537,7 @@
 		""
 		"&4NOTE&r: be mindful of &5source&r (too often OR too much per activation can drain your &5source bar&r)"
 	]
-	quest.499C20A6A0D7952F.quest_subtitle: "Example Spell"
+	quest.499C20A6A0D7952F.quest_subtitle: "示例法术"
 	quest.499C20A6A0D7952F.title: "Armor"
 	quest.49C508DCB4AAC3CB.quest_desc: ["The &bUltimate Sawing Factory&r can process up to &a9&r sawing processes at the same time, containing the same \"&eAuto-Sort&r\" function."]
 	quest.49C508DCB4AAC3CB.title: "终极锯木工厂"
@@ -3593,8 +3593,8 @@
 		"- Spell: no need &5Form glyph&r since &bCrossbow&r will auto add."
 		"&8Split -> Burst -> Sensitive -> AoE -> AoE -> AoE -> AoE -> Break -> Extract -> Pickup"
 	]
-	quest.4BDF01E28F247553.quest_subtitle: "Example Spell"
-	quest.4BDF01E28F247553.title: "Enchanter's Crossbow (T3)"
+	quest.4BDF01E28F247553.quest_subtitle: "示例法术"
+	quest.4BDF01E28F247553.title: "巫师之弩（3级）"
 	quest.4BF483174CC0A0F1.quest_desc: [
 		" When &6powered&r, does not lose durability."
 		""
@@ -3874,19 +3874,19 @@
 	quest.510EAAAA3E08FCD5.quest_desc: ["This miner spirit is second to none, able to get &bmost ores&r. It will also occasionally yield a &6special&r item...."]
 	quest.510EAAAA3E08FCD5.quest_subtitle: "Master (mine)crafted"
 	quest.511C07DFE796F377.quest_desc: [
-		"How to find without crafting? "
-		"&6Answer&r: looting structures."
+		"有没有除合成以外的魔符获取方法？"
+		"&6答案&r：有，去搜刮结构里的宝箱吧。比如："
 		""
-		"- Structures from vanilla minecraft."
+		"- Minecraft原版结构。"
 		""
-		"- Structures from &5Ars additions&r:"
-		"&8+ Ruined Warp Portal (a few T1 codexes)"
-		"&8+ Arcane Library (a lot of T1 codexes)"
+		"- &5Ars Additions&r新加的结构："
+		"&8+ 废弃折跃传送门（少量1级符典条目节选）"
+		"&8+ 奥术图书馆（大量1级符典条目节选）"
 		""
-		"- Structures from other mods."
+		"- 其他模组的结构"
 		""
 		""
-		"&8Tip: a &bT1 Codex &8(Codex Entry) will unlock a random &5T1 Glyph&r &8on using."
+		"&8小提示：&b1级符典条目节选&8使用后会随机学习一个&51级魔符&r&8。"
 	]
 	quest.511C07DFE796F377.title: "Tier 1 Glyphs"
 	quest.511E7475AD64A32D.quest_desc: ["The &bME Crystal Fixer&f can repair &bBudding Block&f into the next tier."]
@@ -4151,12 +4151,12 @@
 	quest.56723AEFD93C17F1.quest_subtitle: "Found by using the Eye of Desert"
 	quest.56723AEFD93C17F1.title: "&6Ancient Remnant"
 	quest.5676B5FD97FB10C3.quest_desc: [
-		"  This is the &bBronze Furnace&r and despite it being just as slow as your regular &bFurnace&r, the difference is that this one &6uses &o20&r&6 times less fuel&r!"
+		"  这是&b青铜炉&r，虽然这玩意跟普通的&b熔炉&r一样慢，但是它可以&6节省&o20倍&r&6燃料&r！"
 		""
-		"  Thank &bSteam&r for being so efficient!"
+		"  感谢&b蒸汽&r带来的效率！"
 	]
 	quest.5676B5FD97FB10C3.quest_subtitle: "It's Smelting Time!"
-	quest.5676B5FD97FB10C3.title: "Bronze Furnace"
+	quest.5676B5FD97FB10C3.title: "青铜炉"
 	quest.569CE57C377AB1B7.title: "油菜"
 	quest.56A515610D242E28.quest_desc: ["The Ink comes in different rarities and you will need higher tier Ink for the higher tier scrolls."]
 	quest.56A515610D242E28.title: "Ink"
@@ -4181,15 +4181,15 @@
 	quest.57A8D67858693F4A.title: "基础压射工厂"
 	quest.57D104FF04B35463.title: "Water Vapor"
 	quest.57D9E9C4AEA9DF63.quest_desc: [
-		"- The &bScribe's Table&r is used to make &5Glyphs&r that can be put in your &bSpell Book&r."
-		"- It is also the place you put your &bEnchanter tools&r (sword/bow/axe, etc) to apply spells on."
+		"- &b抄写台&r可用于制作&5魔符&r，魔符可在&b法术书&r中构建魔法。"
+		"- 抄写台也可为&b巫师工具&r（如巫师之剑、弓、斧等）施加法术。"
 		""
 		""
-		"&8Tip 1: check out the &bTier 1 Glyphs &8quest, I list where to find most of them without crafting :)"
-		"{ \"text\": \"CLICK ME\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"511C07DFE796F377\" } }"
+		"&8小提示①：若想知道除合成以外的魔符获取方法，请查阅任务“&b1级魔符&8”:)"
+		"{ \"text\": \"点击跳转任务\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"511C07DFE796F377\" } }"
 		""
-		"&8Tip 2: it can &6pull &8items from &bstorage &8near it (disable with &bDominion Wand&r&8)"
-		"&6sneak + right click"
+		"&8小提示②：抄写台会自动从附近的&b容器&8中&6抽取&8物品制作魔符（可用&b支配之杖&r&8禁用）"
+		"&6手持支配之杖，潜行+右击即可禁用"
 	]
 	quest.5855D8361A2C6623.quest_desc: ["&b模板&f可以在&b模板管理器&f中使用。"]
 	quest.5855D8361A2C6623.title: "&b建筑小帮手"
@@ -4292,7 +4292,7 @@
 		"&8Can add &5Bounce &8at the end if you are concerned about fall damage."
 		"&8With &6Feather Falling &8enchantment, you can cast this spell horizontally before touching the ground. (the fall damage will be abysmal)"
 	]
-	quest.5BCED97AA55DE2E3.quest_subtitle: "Example Spell"
+	quest.5BCED97AA55DE2E3.quest_subtitle: "示例法术"
 	quest.5BCED97AA55DE2E3.title: "Movement"
 	quest.5BDE55C11519F7F7.quest_desc: [
 		"The &bPurification Chamber&r allows you to process different &9raw ores&r and &eshards&r into &cclumps&r using &7oxygen&r. "
@@ -4513,17 +4513,17 @@
 	]
 	quest.6227304103E32C74.quest_subtitle: "Actually solid, though hollow."
 	quest.62284E06EA07E87E.quest_desc: [
-		"Some &bquests&r will have &bT2 Codex&r &8(Lost Codex Entry)&r reward."
+		"部分&b任务&r会奖励&b2级符典条目节选&r&8（失落符典条目节选）&r。"
 		""
 		""
-		"&8Tip: T2 Codexes &4don't &8spawn naturally."
+		"&8小提示：2级符典条目节选&4不会&8自然生成。"
 	]
-	quest.62284E06EA07E87E.title: "Tier 2 Glyphs"
+	quest.62284E06EA07E87E.title: "2级魔符"
 	quest.6296DCFE578CBD50.quest_desc: [
-		"&bSource Berry Bushes&r spawn in &aArchwood Forest&r."
+		"&b魔源浆果丛&r会在&a至高木森林&r中生成。"
 		""
 		""
-		"&8Tip: &bStarbuncle &8can auto harvest."
+		"&8小提示：&b星宝石兽&8会自动收获魔源浆果丛。"
 	]
 	quest.62B0913266F48F45.quest_desc: ["The Fairy heals and &6supports&r other fa&bmiliars&r while draining your enemies' life."]
 	quest.62B0913266F48F45.quest_subtitle: "Medic! Medic!"
@@ -4769,25 +4769,25 @@
 	]
 	quest.67D5ED5703F35A2D.title: "太阳能中子活化器"
 	quest.67E949C75CEFA446.quest_desc: [
-		"A slightly better mining than the one to the left. "
-		"&8use this when you don't have any &5tier 3 glyphs&r."
+		"比左侧任务稍好一点的挖矿方法。"
+		"&8若你尚无任何&53级魔符&r，可以考虑用此方法。"
 		""
-		"- Need &6Piercing enchantment&r for &5Projectile&r piercing."
-		"&8(don't know why the dev ignore every &5Piercing glyph&r &8before an &5Effect glyph&r&8)."
+		"- 需要为巫师之弩附魔&6穿透魔咒&r，才能让&5弹射物&r实现穿透效果。"
+		"&8（不知道为什么，弩的&5穿透之魔符&r&8放在&5效果魔符&r&8之前会不生效）。"
 		""
-		"- Tool: &bEnchanter's Crossbow&r."
-		"- Arrow: &bAugment Arrow: Split&r."
-		"- Piercing enchantment: as high as possible. (each level add <level> + 1 times)"
-		"- Dimension: 3x3x4 for normal arrow without any enchantment."
-		"&8Close to 9x3x4x(?+1) with &6Piercing level ?&r &8\\& &bSplit arrow&r"
+		"- 所需工具：&b巫师之弩&r。"
+		"- 箭矢：&b增强箭：分裂&r。"
+		"- 穿透魔咒：等级越高越好。（每级能击中<等级数>+1次）"
+		"- 作用范围：3x3x4（无魔咒状态下的普通箭）。"
+		"&8总作用范围为9x3x4，作用(?+1)次，“?”为&6穿透魔咒等级&r&8加上&b分裂箭数&r"
 		""
-		"- Item voiding: &bJar of Voiding&r (give source back) or &bVoid Upgrade&r for Backpack."
+		"- 物品销毁：&b湮灭之瓶&r（返还魔源）。或选用背包的&b虚空升级&r。"
 		""
-		"- Spell: no need &5Form glyph&r since &bCrossbow&r will auto add."
-		"&8Break -> AoE -> AoE -> Pierce -> Pierce -> Pierce -> Extract -> Pickup -> AoE -> AoE"
+		"- 制作法术：无需&5形态魔符&r，因为&b弩&r自动指定了弹射物形态。"
+		"&8破坏 -> 范围效果 -> 范围效果 -> 穿透 -> 穿透 -> 穿透 -> 提取 -> 拾取 -> 范围效果 -> 范围效果"
 	]
-	quest.67E949C75CEFA446.quest_subtitle: "Example Spell"
-	quest.67E949C75CEFA446.title: "Enchanter's Crossbow (T2)"
+	quest.67E949C75CEFA446.quest_subtitle: "示例法术"
+	quest.67E949C75CEFA446.title: "巫师之弩（2级）"
 	quest.67F060243167F8BF.quest_desc: [
 		"The &bSky Steel Ingot&f can be used to craft &bMEGA Item Storage&f cells. It is made by &6dropping&f &bCharged Certus Quartz, Iron, and Sky Stone&f into water."
 		""
@@ -4821,7 +4821,7 @@
 		"&4NOTE&r: can also use the Spell Book to access the mod &bguide book&r."
 		"&4NOTE 2&r: check &bArmory chapter&r for armor \\& tools \\& trinkets."
 	]
-	quest.68721F148E2805FB.title: "Novice Spell Book (T1)"
+	quest.68721F148E2805FB.title: "初学者法术书（1级）"
 	quest.687A9332533A26E8.quest_desc: ["The Deer &6enhances&r your &bjumping&r ability."]
 	quest.687A9332533A26E8.quest_subtitle: "Sky High"
 	quest.688DEE1D1C4F9BDA.quest_desc: [
@@ -4847,31 +4847,31 @@
 	quest.68A8995F4A13381A.quest_subtitle: "Super Powered"
 	quest.68A8995F4A13381A.title: "Eclipse Alloy Armor"
 	quest.68BF4571620AC8CF.quest_desc: [
-		"For manual mining before you have the &bEnchanter's Crossbow&r."
+		"在获取&b巫师之弩&r前，还请手动挖矿。"
 		""
-		"- Tool: &bMage's Spell Book&r."
-		"&8If you have &bArchmage Spell Book&r &8then go for the &bT3 Crossbow &8instead."
+		"- 所需工具：&b法师的法术书&r。"
+		"&8若你已有&b大法师法术书&r&8，请移步至&b3级弩&8对应任务。"
 		""
-		"- Dimension: &93x3x8&r. (width height depth)"
+		"- 作用范围：&93x3x8&r。（按竖直方向算，长、宽、高）"
 		""
-		"- Item voiding (optional): &bJar of Voiding&r. "
-		"&8(give source back)"
+		"- 物品销毁（可选）：&b湮灭之瓶&r。 "
+		"&8（销毁物品可返还魔源）"
 		""
-		"- The spell:"
-		"&8Projectile -> Pierce -> Pierce -> Pierce -> Break -> AoE -> AoE -> Pierce -> Extract -> Pickup"
+		"- 制作法术："
+		"&8弹射物 -> 穿透 -> 穿透 -> 穿透 -> 破坏 -> 范围效果 -> 范围效果 -> 穿透 -> 提取 -> 拾取"
 		""
 		""
-		"&8Check &bPage 2 &8for &8spell explanation."
+		"&8切换至&b第二页&8以查看&8法术解析。"
 		""
 		"{@pagebreak}"
-		"&8Projectile -> Pierce -> Pierce -> Pierce -> Break -> AoE -> AoE -> Pierce -> Extract -> Pickup"
+		"&8弹射物 -> 穿透 -> 穿透 -> 穿透 -> 破坏 -> 范围效果 -> 范围效果 -> 穿透 -> 提取 -> 拾取"
 		""
-		"A projectile hitting &94 times&r, each time        breaking 3x3x2 silktouch and put them in your inventory"
-		"=> 3x3x8 (3x3 mining, 8 times)"
-		"&8width height depth"
+		"射出一发弹射物，连续执行命中效果&94次&r，每次：精准采集3x3x2范围的所有方块，并将掉落物捡拾至物品栏内"
+		"=> 共3x3x8 （3x3范围，纵深为8格）"
+		"&8分别对应长、宽、高"
 	]
-	quest.68BF4571620AC8CF.quest_subtitle: "Example Spell"
-	quest.68BF4571620AC8CF.title: "Mage's Spell Book"
+	quest.68BF4571620AC8CF.quest_subtitle: "示例法术"
+	quest.68BF4571620AC8CF.title: "法师的法术书"
 	quest.68C8CDDDD7EA8A48.quest_desc: ["You'll need an &bSPS Port&r feed and retrieve resources from your &9Phase Shifter&r."]
 	quest.68C8CDDDD7EA8A48.title: "超临界移相器端口"
 	quest.690D4925E05D5421.quest_desc: [
@@ -5223,13 +5223,13 @@
 	quest.6F57A2A5AA6E3F49.title: "Oil Drilling Rig"
 	quest.6F63B60042A7F6AE.quest_desc: [
 		"{image:modern_industrialization:block/machines/compressor/overlay_front_active width:32 height:32 align:center}"
-		"  This is the &bCompressor&r and probably the first machine you'd want to build. Being able to &6turn ingots into plates&r at a 1:1 ratio is extremely helpful during the steam age."
+		"  这是&b压缩机&r，它大概是你最先想造的机器了。它可以&6将锭加工成板&r，而且一个锭就可以做一个板，这对于蒸汽时代的玩家太友好了。"
 		""
-		"  You save on resources and won't need to burn through hammers just to collect enough plates for your first project."
+		" 这样可以大大地节省你的资源，你不用再为了制造足够多的板子把锤子都抡冒烟喽。"
 		""
-		"  It can also take those &bDouble Ingots&r that you can stack with the forge hammer into &o2&r plates, saving steam and time."
+		"  它也可以加工你在锻压台上制造的&b双层锭&r，得到&o2&r个板，这样就更节约蒸汽和时间了。"
 	]
-	quest.6F63B60042A7F6AE.title: "Bronze Compressor"
+	quest.6F63B60042A7F6AE.title: "青铜压缩机"
 	quest.6F6898DC529D1120.quest_desc: [
 		"  Remember when I told you that you could build a &bQuarry&r so that you'd never need to go mining for resources again? Well, this is the time! It wont get you &oeverything&r, but it will get you a lot of the main ores. &oEverything&r comes later."
 		""
@@ -5768,7 +5768,7 @@
 		"- The spell will add &99 extra damage&r to the existing damage (&5Harm&r is 5, each extra &5Amplify&r is 2) "
 		"- The sword also adds a flat &94 extra damage&r? (if someone knows what &5Spell Power&r is, I will be very grateful)"
 	]
-	quest.7B95981B60CD11BE.quest_subtitle: "Example Spell"
+	quest.7B95981B60CD11BE.quest_subtitle: "示例法术"
 	quest.7B95981B60CD11BE.title: "Enchanter's Sword"
 	quest.7BB4CE27736F4C08.quest_desc: [
 		"The final part of the tank is the &bDynamic Valve&r. "
@@ -5782,7 +5782,7 @@
 		""
 		"See the following &7quest chapter&r for how logistics frames attached to &9blocks/inventories/tanks&r within its area are used."
 	]
-	quest.7BDBE300D4B0B1F7.quest_subtitle: "Bone Meal Overflow!"
+	quest.7BDBE300D4B0B1F7.quest_subtitle: "骨粉堆成山！"
 	quest.7BE64AF022E35ADE.quest_desc: ["你可以使用&b更多红石&f模组来&b自由设计&f你的红石系统。例如贴在墙壁上，放置在屋顶上，或是吸附在天花板上。"]
 	quest.7BE64AF022E35ADE.title: "&c更多红石"
 	quest.7BEA5B1D1B410E82.quest.desc: "The &3Advanced Solar Generator&r is an upgraded version of the small &3Solar Generator&r and provides much more &apower&r. You can &6place&r them in the top corners of the &3Thermal Evaporation Tower&r with the green power &aenergy output&r facing the &3Thermal Evaporation Block&r to &6increase&r the &cheat&r of the tower in the day."
@@ -5831,11 +5831,11 @@
 	quest.7D0CF81F7E703B71.quest_desc: [
 		"{image:modern_industrialization:block/machines/water_pump/overlay_front_active width:32 height:32 align:center}"
 		""
-		"  Wondering about automatic &bWater&r pumping are you? Good thing you can do nearly anything you want! A &bWater Pump&r will automatically collect &bWater&r and &6transfer it to adjacent blocks&r. Make sure to place water sources surrounding the pump horizontally, give it &bSteam&r, and it will start producing &bWater&r for 1 EU/t."
+		"  你想要自动泵&b水&r吗？现在就可以实现哦！&b水泵&r会自动吸取&b水&r，并&6泵送到相邻的方块中&r。在水泵水平方向的旁边放上水源，再给它提供&b蒸汽&r，它就会开始以1 EU/t的能耗产&b水&r了。"
 		""
-		"  The &bBronze Water Pump&r will produce &6125mb of &bWater&r for every adjacent water source every 5 seconds&r, allowing for a maximum output of 1000mb every 5 seconds."
+		"  每有一个相邻的水源，&b青铜水泵&r每5秒就会生产&6125mb的&b水&r，最大输出速率为每5秒1000mb。"
 	]
-	quest.7D0CF81F7E703B71.title: "Bronze Water Pump"
+	quest.7D0CF81F7E703B71.title: "青铜水泵"
 	quest.7D155344A5A6CEF7.quest_desc: [
 		"A &bThermal Compressor&r uses &etemperature differences&r on opposite sides of the block to compress &7air&r. "
 		""
@@ -5999,7 +5999,7 @@
 	task.0020C1E77C424CB0.title: "Look at Spiritfire"
 	task.00CA3CB10A03DF62.title: "气动工艺毕业"
 	task.013281B2076D21ED.title: "实用提示与技巧"
-	task.02D1703C79A7F3EF.title: "Any #c:logs/archwood"
+	task.02D1703C79A7F3EF.title: "任意#c:logs/archwood"
 	task.04FBCF96BB8F176A.title: "矿脉枯竭！"
 	task.0BA54BE324AE1978.title: "人生乐事何其多！"
 	task.0D974A2537B460E2.title: "Upgrades AAAAAAAAAAAAHHHHHHHHH"
