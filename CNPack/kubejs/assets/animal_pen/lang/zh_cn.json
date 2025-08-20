@@ -58,7 +58,7 @@
   "display.animal_pen.egg_cooldown": "%2$s §e距下次产蛋时间：%3$s",
   "display.animal_pen.frog_light_cooldown": "%1$s §e距下次生产蛙明灯时间：%3$s",
   "display.animal_pen.sniff_cooldown": "%2$s §e距下次挖掘种子时间：%3$s",
-  "display.animal_pen.brush_cooldown": "%1$s §eBrushing in %3$s",
+  "display.animal_pen.brush_cooldown": "%1$s §e距下次鳞甲可采集时间：%3$s",
   "display.animal_pen.food_ready": "%1$s §a现在可进行喂食！",
   "display.animal_pen.full_ready": "§a可使用%1$s§a收集%2$s",
 
