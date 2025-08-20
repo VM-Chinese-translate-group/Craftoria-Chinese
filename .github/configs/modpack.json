@@ -13,8 +13,8 @@
     "jsonOutputDir": "kubejs/assets/quests/lang",
     "extractEmbedded": {
       "customName": false,
-      "lore": true,
-      "feedbackMessage": true
+      "lore": false,
+      "feedbackMessage": false
     }
   },
   "attentionList": {

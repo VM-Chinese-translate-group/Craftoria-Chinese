@@ -1,0 +1,5 @@
+{
+    "craftoria_core.config.disable_search_tab_autofocus": "禁用搜索选项卡自动对焦",
+    "craftoria_core.config.mixin_toggles": "混合切换",
+    "craftoria_core.config.suppress_unknown_packet_id": "抑制未知数据包ID错误"
+}
