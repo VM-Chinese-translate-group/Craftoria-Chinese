@@ -5,7 +5,7 @@
 	chapter.0644AB97E8D8839B.title: "Create"
 	chapter.0CF7A598566497C7.title: "&6成就奖杯"
 	chapter.1CFBA632673ABBFD.title: "井井有条的存储"
-	chapter.216D532684E20496.title: "Bosses"
+	chapter.216D532684E20496.title: "Boss"
 	chapter.26E59C8DBA7F6FE3.title: "Monster Mayhem"
 	chapter.2A4C06811555B5D0.title: "Relics \\& Artifacts"
 	chapter.2B64DA0213E9FC7B.title: "私人存储"
@@ -64,9 +64,9 @@
 	quest.011E9553CDCAE218.quest_desc: ["四倍的存储容量？"]
 	quest.011E9553CDCAE218.title: "4k 存储组件"
 	quest.012B064DED21DCD3.quest_desc: [
-		"The &bUltimate Infusing Factory&r can process up to &a9&r infusing processes at the same time, containing the same \"&6Auto-Sort&r\" function. "
+		"&b终极灌注工厂&r能够同时处理最多&a九个&r灌注配方，同样包含\"&6自动分类&r\"功能。"
 		""
-		"The &bUltimate Infusing Factory&r can also hold up to &18,960 mb&r of infusing material."
+		"同时，&b终极灌注工厂&r能够容纳最多&18,960 mb&r灌注材料。"
 	]
 	quest.0145A878C472548C.quest_desc: ["This spirit takes care of &6farming&r &btrees&r for you. It even attempts to replant them!"]
 	quest.0145A878C472548C.quest_subtitle: "Got wood?"
@@ -307,7 +307,7 @@
 		""
 		"  Recipe Current is the&6 current amount of energy/steam being actually consumed&r."
 	]
-	quest.07FE9074247583EE.title: "Multiblock Controllers"
+	quest.07FE9074247583EE.title: "多方块结构控制器"
 	quest.0807F0094282C2D5.quest_desc: [
 		"&bAndesite Tunnels&r are pretty basic, &6providing&r cover for &bBelts&r and introduce basic item &6aportioning&r of items transported on them."
 		""
@@ -321,7 +321,7 @@
 	]
 	quest.0897CCAC72E82C5B.quest_subtitle: "你想要更多的电力了吗？"
 	quest.0897CCAC72E82C5B.title: "&4欢迎游玩Powah！！！"
-	quest.08A2F489A73BE55B.quest_desc: ["The &bUltimate Enriching Factory&r can process up to &a9&r recipes at the same time, containing the same \"&eAuto-Sort&r\" function."]
+	quest.08A2F489A73BE55B.quest_desc: ["&b终极富集工厂&r能够同时处理最多&a九个&r配方，同样包含\"&e自动分类&r\"功能。"]
 	quest.08A2F489A73BE55B.title: "终极富集工厂"
 	quest.08B17C05B2111477.quest_desc: [
 		"  Congrats!"
@@ -336,9 +336,9 @@
 	]
 	quest.08B17C05B2111477.quest_subtitle: "Tier 4: Unlocked"
 	quest.08BE35FB8E58C4B5.quest_desc: [
-		"The &bBasic Sawing Factory&r can process up to &a3&r sawing processs at once. "
+		"&b基础锯木工厂&r能够同时处理&a三个&r锯木配方。"
 		""
-		"There is a button on the left called \"&eAuto-Sort&r\" that allows the machine to automatically split the inputs between the &a3&r input slots."
+		"GUI左侧有一个叫作\"&e自动分类&r\"的按钮，该按钮可以使机器自动均分&a三个&r输入槽中的物品。"
 	]
 	quest.08BE35FB8E58C4B5.title: "基础锯木工厂"
 	quest.08C3213E848BFD0C.quest_desc: [
@@ -377,7 +377,7 @@
 		"  &6Make sure you check for which machines &oactually&r&6 need the upgrades&r so you aren't wasting resources on machines that don't really need the extra boost."
 	]
 	quest.091C2772ED417247.title: "Hull Upgrades"
-	quest.09336DBAFB15EF52.quest_desc: ["The &bAdvanced Mechanical Pipe&r has a per-pipe capacity of &98,000mb&r and a per-\"&apull&r\" pipe flow rate of &91,000mb/t&r."]
+	quest.09336DBAFB15EF52.quest_desc: ["每个&b高级机械管道&r可以提供&98,000mb&r流体容纳量，并为每个“&a抽出&r”管道提供&91,000mb/t&r抽出速度。"]
 	quest.09336DBAFB15EF52.title: "高级机械管道"
 	quest.097ACA8114CD8DA8.quest_desc: ["The &bElite Crushing Factory&r can process up to &a7&r crushing processes at the same time, containing the same \"&eAuto-Sort&r\" function."]
 	quest.097ACA8114CD8DA8.title: "精英粉碎工厂"
@@ -531,7 +531,7 @@
 	]
 	quest.0E30CFA6C5B58BEA.quest_desc: ["This &bVat&r allows you to convert your &bAlchemical Niter&r from one tier to another."]
 	quest.0E30CFA6C5B58BEA.quest_subtitle: "Upgrades?"
-	quest.0E352E2B17084DAE.quest_desc: ["The &bAdvanced Sawing Factory&r can process up to &a5&r sawing processes at the same time, containing the same \"&eAuto-Sort&r\" function."]
+	quest.0E352E2B17084DAE.quest_desc: ["&b高级锯木工厂&r能够同时进行最多&a五个&r锯木任务，同样包含\"&e自动分类&r\"功能。"]
 	quest.0E352E2B17084DAE.title: "高级锯木工厂"
 	quest.0E3A8954B2AAF9F7.quest_desc: [
 		"Use the &bRitual Brazier&r to summon the &4Wilden Chimera&r then defeat it."
@@ -714,9 +714,9 @@
 	quest.123F10122DCC72F9.title: "Bulk Cell Compression"
 	quest.1246838BA3EEE910.quest_desc: ["This &3substance&r can be &6processed&r in a &bRefinery&r to create various &7fuels&r, which can eventually be used to produce &bPlastic&r. "]
 	quest.124D18DDDDC4D102.quest_desc: [
-		"The &bBasic Universal Cable&r has a capacity of &e3.2 kFE/t&r per cable. What this means is that, each cable in a network adds &e3.2 kFE&r to the total &3internal&r buffer of the cable network &oand&r to the total transfer rate of the network."
+		"每个&b基础通用线缆&r能够容纳&e3.2 kFE/t&r，意思是说，每个线缆都会给网络增加&e3.2 kFE&r的&3内部&r缓存总量，&o同时&r也会增加同等FE/t的网络总传输速率。"
 		""
-		"For example: If you have &a10&r basic cables in a network, the total &3buffer&r would be &e32.0 kFE&r and the total transfer rate of the network would be &e32.0 kFE/t&r."
+		"举个例子：如果一个网络里有&a10&r个基础通用线缆，它的总&3缓存量&r应为&e32.0 kFE&r，同时，网络的总传输速率应为&e32.0 kFE/t&r。"
 	]
 	quest.124D18DDDDC4D102.title: "基础通用线缆"
 	quest.12A7971658135C90.quest_desc: [
@@ -835,9 +835,9 @@
 	]
 	quest.15C38E0D2B205FB4.title: "气液转换机用水"
 	quest.15CB4C73B630D833.quest_desc: [
-		"The &bElite Infusing Factory&r can process up to &a7&r infusing processes at the same time, containing the same \"&6Auto-Sort&r\" function. "
+		"&b精英灌注工厂&r能够同时处理最多&a七个&r灌注配方，同样包含\"&6自动分类&r\"功能。"
 		""
-		"The &bElite Infusing Factory&r can also hold up to &16,960 mb&r of infusing material."
+		"同时，&b精英灌注工厂&r能够容纳最多&16,960 mb&r灌注材料。"
 	]
 	quest.15D18F5637F6382E.quest_subtitle: "完成对应任务章节。"
 	quest.15D18F5637F6382E.title: "&a通用机械"
@@ -1047,15 +1047,15 @@
 	quest.17E8751018E9E0F6.title: "Dense Energy Cell"
 	quest.17FCD3ECDC775E69.quest_desc: ["- &cArmor Penetration"]
 	quest.183E523C25CC6C3F.quest_desc: [
-		"The &bBasic Logistical Transporter&r is used to &6transport items&r from one point to another."
+		"&b基础物流管道&r可以点对点&6传输物品&r。"
 		""
-		"Each \"&cpull&r\" pipe can bring &a2&r items per second into a transporter network. "
+		"每个“&c抽出&r”管道每秒可以将&a两个&r物品抽出到传输网络中。"
 		""
-		"The pipe itself only allows for a &e1.0 meter per second&r transfer rate. That is the speed at which the item flies through the pipe. "
+		"管道本身只有&e每秒1.0米&r的传输速度，也就是物品在管道里飘的速度。"
 		""
-		"Higher tiers of &bpipes&r can increase this drastically."
+		"高级的&b管道&r会极大增加传输速度。"
 		""
-		"Although, despite the \"&cpull&r\" pipe's limit, the \"&apush&r\" limit into a container or machine is infinite, so long as you can get it into the network."
+		"虽然“&c抽出&r”管道有速度限制，向容器或机器里“&a输入&r”时却没有限制，只需要将其接入传输网络中即可。"
 	]
 	quest.183E523C25CC6C3F.title: "基础物流管道"
 	quest.183EB573F8F1DC8C.quest_desc: [
@@ -1122,16 +1122,16 @@
 	quest.186F257352F2E844.quest_desc: ["  This machine calls for a whole 'nother level of strength. Time to put that new &bTitanium&r you've made to use. The &bPressurizer&r allows you to pressurize &bWater&r &6into &bHP&r&6, or &bhigh pressure, water&6 and &r&bSteam&r &6into &bHP Steam&r. It also works the other way around to depressurize the fluids. The &bPressurizer&r also &6allows you to collect &bLiquid Air&r &6via the &bAir Intake&r, plus it's much more efficient than the &bVacuum Freezer&r."]
 	quest.186F257352F2E844.title: "Pressurizer"
 	quest.188CF922D562E21A.quest_desc: [
-		"&l1. Record&r"
-		"&6Right click&r this item in your &6main hand&r, it will record all of your current &5known glyphs.&r"
+		"&l1. 记录&r"
+		"&6主手&r持有此书时&6右击&r，此书就会记录所有&5你已学习的魔符。&r"
 		""
-		"&l2. Give to other&r"
-		"Use it to learn all the glyphs in the &bCodex&r."
+		"&l2. 传递给他人&r"
+		"其他玩家使用你的&b手抄本&r后，便会学习其中记录的所有魔符。"
 		""
 		""
-		"&4NOTE&r: this will take &2EXP&r to record."
+		"&4提示&r：记录魔符需要消耗&2经验&r。"
 	]
-	quest.188CF922D562E21A.quest_subtitle: "Playing in a Team?"
+	quest.188CF922D562E21A.quest_subtitle: "多人游玩必备"
 	quest.18956DB32D96ED2B.quest_desc: ["An upgrade already? Trying to take your house with you? Good idea! Tents tend to hurt backs."]
 	quest.18956DB32D96ED2B.title: "Medium Spatial Component"
 	quest.18CEE2F64F6E53E6.quest_desc: [
@@ -1263,11 +1263,11 @@
 	]
 	quest.1B1ED97DF0FE2E3C.quest_desc: ["The&b Storage Bus&f allows you to use a chest or other storage box a &5network &ffor your &bME System&f to connect to rather then a &bStorage Drive&f."]
 	quest.1B65CA6898CC3F9E.quest_desc: [
-		"The &bBasic Infusing Factory&r can process up to &a3&r infusing processs at once. "
+		"&b基础灌注工厂&r能够同时处理&a三个&r灌注配方。"
 		""
-		"There is a button on the left called \"&6Auto-Sort&r\" that allows the machine to automatically split the inputs between the &a3&r input slots. "
+		"GUI左侧有一个叫作\"&6自动分类&r\"的按钮，该按钮可以使机器自动均分&a三个&r输入槽中的物品。"
 		""
-		"The &bBasic Infusing Factory&r can hold up to &92,960 mb&r of infusing material."
+		"&b基础灌注工厂&r能够容纳最多&92,960 mb&r灌注材料。"
 	]
 	quest.1C25114D2AF71C35.quest_desc: [
 		"  Using &bIndustrial TNT&r, the &bImplosion Compressor&r is able to compress the dusts and ingots of the most resistant materials. This includes &bTungsten&r, &bBlast-proof Alloy&r, &bBeryllium&r and finally &bDiamonds&r! Some of those materials will be very important for your journey into nuclear fission."
@@ -1374,7 +1374,7 @@
 		"The &bEnergy Upgrades&r increases the &eenergy efficiency&r of the machine, drastically reducing the amount of power it uses."
 	]
 	quest.1DB0824C333DDA8E.title: "能量升级"
-	quest.1DD2C904A7C4E29B.quest_desc: ["The &bAdvanced Logistical Transporter&r can pull &a128 items per second&r into a transporter network and transfer it at a speed of &a10.0 meters per second&r."]
+	quest.1DD2C904A7C4E29B.quest_desc: ["&b终极物流管道&r能够以&a每秒128个物品&r的速度将物品抽出到传输网络中，并以&a每秒10.0米&r的速度传输物品。"]
 	quest.1DD2C904A7C4E29B.title: "终极物流管道"
 	quest.1DE9A85C2E5348D1.quest_desc: [
 		"The &bFusion Reactor Controller&r is the heart of the &bFusion Reactor&r. "
@@ -1388,42 +1388,42 @@
 	quest.1E6ADDD42C99274D.quest_desc: ["The master miner marid is not the best after all! This... entity? will mine &balmost ten times as many resources&r as the marid miner."]
 	quest.1E6ADDD42C99274D.quest_subtitle: "These riches are all mine"
 	quest.1E7FD1EBAE4891FA.quest_desc: [
-		"Each player has a mana/source bar "
-		"&8(bottom left when you hold any &bSpell Book&r &8in &6main hand&r&8)"
+		"所有玩家都有一个魔力值（或魔源）条"
+		"&8（当你&6主手&r&8持有&b法术书&r&8时，魔力值条就会出现在屏幕左下方&8）"
 		""
-		"It has the following properties:"
-		"- Max mana"
-		"- Regen rate"
+		"其有以下属性："
+		"- 最大魔力"
+		"- 魔力恢复"
 		""
-		"Using higher tier &bSpell Book&r:"
-		"- Increase max mana"
-		"- Increase regen rate"
+		"可使用更高级的&b法术书&r来："
+		"- 提高最大魔力"
+		"- 提高魔力恢复"
 		""
-		"Unlocking a new &5glyph&r:"
-		"- Increase max mana"
-		"- Increase regen rate"
+		"每解锁一种新&5魔符&r会："
+		"- 提高最大魔力"
+		"- 提高魔力恢复"
 		""
-		"Using &5the mod&r armor set:"
-		"- Increase max mana"
-		"- Increase regen rate"
+		"穿上&5本模组&r的盔甲套装后会："
+		"- 提高最大魔力"
+		"- 提高魔力恢复"
 		""
-		"Wearing special trinket:"
-		"- Increase max mana / increase regen rate / give &2discount&r on spell usage"
+		"装备特殊饰品后会："
+		"- 提高最大魔力 / 提高魔力恢复 / 在使用法术时提供&2节魔值&r"
 		""
-		"Applying &6Mana Boost&r enchantment:"
-		"- Increase max mana"
+		"附魔&6魔力提升&r魔咒后会："
+		"- 提高最大魔力"
 		""
-		"Applying &6Mana Regen&r enchantment:"
-		"- Increase mana regen"
+		"附魔&6魔力再审&r魔咒后会："
+		"- 提高魔力恢复"
 		""
-		"Drinking &bMana Regeneration Potion&r:"
-		"- Increase mana regen"
+		"饮用&b魔力再生药水&r后会："
+		"- 提高魔力恢复"
 		""
 		""
-		"&4NOTE&r: summoning a familiar will reserve a &9percentage&r for that familiar until you &5Dispel&r."
+		"&4提示&r：召唤使魔后，会固定为使魔预留&9一定百分比&r的魔力，直到你将使魔&5解除&r。"
 	]
-	quest.1E7FD1EBAE4891FA.quest_subtitle: "Player Mana (Source)"
-	quest.1E7FD1EBAE4891FA.title: "Spell 101 - 2"
+	quest.1E7FD1EBAE4891FA.quest_subtitle: "玩家的魔力值（魔源）"
+	quest.1E7FD1EBAE4891FA.title: "法术小指南 - 2"
 	quest.1EBE2B9A6CCE5A69.quest_desc: [
 		"&3Divining Rods&r allow an alchemist to &6locate&r valuable blocks from afar."
 		""
@@ -1494,7 +1494,7 @@
 		""
 		"They help with not only exploration, but maneuvering around your &3factory&r. "
 	]
-	quest.1FAB4634116B6EC8.title: "行动的支柱"
+	quest.1FAB4634116B6EC8.title: "这次行动的中坚力量"
 	quest.1FD59C1147BCE34F.quest_desc: ["The spawner ignores spawn conditions."]
 	quest.1FD59C1147BCE34F.quest_subtitle: "+ Ignores Conditions"
 	quest.1FDE63D5EA5DA3CB.quest_desc: ["If Internet Protocol has ports, than &bPackage Frogports&r must be part of CCP: Chain Conveyor Protocol."]
@@ -1547,11 +1547,11 @@
 		""
 		"&4NOTE&r: some &brecipes&r need &5source&r to operate."
 	]
-	quest.20B9E6F51A4F9789.quest_subtitle: "Second Crafting Station"
+	quest.20B9E6F51A4F9789.quest_subtitle: "合成第二站"
 	quest.20BA7AE12056CF27.quest_desc: [
-		"The &bBasic Enriching Factory&r can process &a3&r enriching recipes at once within a single machine. "
+		"&b基础富集工厂&r能够同时处理&a三个&r富集配方。"
 		""
-		"There is a button on the left called \"&eAuto-Sort&r\" that allows the machine to automatically split the inputs between the &a3&r input slots."
+		"GUI左侧有一个叫作\"&e自动分类&r\"的按钮，该按钮可以使机器自动均分&a三个&r输入槽中的物品。"
 	]
 	quest.20BA7AE12056CF27.title: "基础富集工厂"
 	quest.20F0FCFAEBDE57D1.title: "绿色发光甘蔗"
@@ -1623,7 +1623,7 @@
 	quest.21584ECDBB6907DE.title: "什么是tick？"
 	quest.21586F8B123BFCC3.quest_desc: ["The &bWaste Barrel&r will slowly allow different &2nulclear fluids&r to &7decay&r at a fixed rate."]
 	quest.21586F8B123BFCC3.title: "真正的能源，真正的痛苦"
-	quest.216C2D79B2481DA3.quest_desc: ["The &bAdvanced Universal Cable&r can hold &e51.2 kFE per cable&r in the network and each additional cable adds &e51.2 kFE/t&r to the total network trasmission rate."]
+	quest.216C2D79B2481DA3.quest_desc: ["每个网络中的&b高级通用线缆&r都能容纳&e51.2 kFE&r，每增加一个线缆，网络总传输速率就增加&e51.2 kFE/t&r。"]
 	quest.216C2D79B2481DA3.title: "高级通用线缆"
 	quest.217C5C65AFC95842.quest_desc: [
 		"小巧且适用于近地工作……比如建筑、采矿、修筑洞穴顶板等等。"
@@ -1893,14 +1893,14 @@
 	quest.286229410FA571B7.quest_subtitle: "Keep them trains rollin’!"
 	quest.28724CA9F837F710.quest_desc: ["Amythyst Resonance Charm - when worn this charm will grant you a 15% mana regen boost."]
 	quest.28A35996DE62CFA0.quest_desc: [
-		"&l1. Bigger storage&r"
-		"Checkout &5Ars Énergistique&r, an AE2 addon."
+		"&l1. 更大的储存容量&r"
+		"请查阅&5Ars Énergistique&r，这是与AE2的联动附属模组。"
 		""
-		"&l2. Wireless source&r"
-		"Checkout &5Ars Additions&r for &bEnder Source Jar&r."
+		"&l2. 无线魔源连接&r"
+		"请查阅&5Ars Additions&r模组的&b末影魔源罐&r。"
 	]
-	quest.28A35996DE62CFA0.quest_subtitle: "Bigger storage \\& Wireless"
-	quest.28A35996DE62CFA0.title: "Only 10k? Where wireless?"
+	quest.28A35996DE62CFA0.quest_subtitle: "更大的储存容量，以及无线连接"
+	quest.28A35996DE62CFA0.title: "才10k容量？还不能无线连接？"
 	quest.28D8463C6036B3BF.title: "哈密瓜"
 	quest.28EB489B44A05070.quest_desc: ["&aReplicators&r will use the &dMatter&r stored in tanks to replicate the item from scratch and send it back to the &bterminal&r."]
 	quest.28EB489B44A05070.quest_subtitle: "Uses matter stored to create items."
@@ -2187,22 +2187,22 @@
 		"  Now, this isn't the best generator that'll take fluid fuels. There's such thing as a &bLarge Diesel Generator&r which will ask for &bHighly Advanced Machine Hulls&r; though it's worth it when you hear &6it'll generate up to 16,384 eu/t&r!"
 	]
 	quest.2D4170B5AD28DCBF.title: "HV Diesel Generator"
-	quest.2D4564F6C18AE96B.quest_desc: ["The &bAdvanced Logistical Transporter&r can pull &a32 items per second&r into a transporter network and transfer it at a speed of &a2.0 meters per second&r."]
+	quest.2D4564F6C18AE96B.quest_desc: ["&b高级物流管道&r能够以&a每秒32个物品&r的速度将物品抽出到传输网络中，并以&a每秒2.0米&r的速度传输物品。"]
 	quest.2D4564F6C18AE96B.title: "高级物流管道"
 	quest.2D5A0399B7FFA5DB.quest_desc: ["The Cthulhu allows you to &6breathe&r &bunderwater&r."]
 	quest.2D5A0399B7FFA5DB.quest_subtitle: "Adopt an eldritch horror today"
 	quest.2D8FB52E37D7D96C.quest_desc: ["The spawner does not need a nearby player."]
 	quest.2D8FB52E37D7D96C.quest_subtitle: "+ Ignores Players"
 	quest.2DAE44549D0FDD55.quest_desc: [
-		"&bSource Jars&r are used to store &5source&r."
+		"&b魔源罐&r可用于储存&5魔源&r。"
 		""
-		"- Each source jar can hold &510000 source&r. "
+		"- 每个魔源罐可储存&510000魔源&r。 "
 		""
 		""
-		"&8(to view the value instead of percentage, use &bintegrated dynamics&r&8)"
+		"&8（若要查看具体魔源值而非百分比，请用&b动态联合（俗称集成动力）&r&8模组）"
 	]
-	quest.2DAE44549D0FDD55.quest_subtitle: "Source Storrage"
-	quest.2E0837E85AD433EC.quest_subtitle: "肉桂卷更好吃"
+	quest.2DAE44549D0FDD55.quest_subtitle: "魔源存储"
+	quest.2E0837E85AD433EC.quest_subtitle: "还是肉桂卷更好吃"
 	quest.2E1EB12F3D9B315E.quest_desc: [
 		"Some notable &brituals&r:"
 		""
@@ -2285,16 +2285,16 @@
 	quest.2F9560A5281DCDFD.title: "&3团队&7与&2区块声明"
 	quest.2F993B0F106DB883.quest_desc: ["Used to craft items using various &bInscriber Presses&f."]
 	quest.2F993B0F106DB883.title: "Inscriber"
-	quest.2FA7A5966FEF6701.quest_desc: ["The &bUltimate Mechanical Pipe&r has a per-pipe capacity of &9128,000mb&r and a per-\"&apull&r\" pipe flow rate of &932,000mb/t&r."]
+	quest.2FA7A5966FEF6701.quest_desc: ["每个&b精英机械管道&r可以提供&9128,000mb&r流体容纳量，并为每个“&a抽出&r”管道提供&932,000mb/t&r抽出速度。"]
 	quest.2FA7A5966FEF6701.title: "终极机械管道"
 	quest.2FB2FE782B1103D6.quest_desc: [
-		"  Your second multi-block: The &bSteam Blast Furnace&r! This one is nearly the same, with the only difference being it's one taller and uses &bFire Clay Bricks&r instead of regular &bBricks&r."
+		"  你的第二个多方块机器：&b蒸汽高炉&r来喽！它跟焦炉长得差不多，但是比焦炉高一层，而且用的是&b耐火黏土&r而不是普通的&b红砖&r。"
 		""
-		"  Use the same trick with the &bWrench&r &6to show you the block placements&r and don't forget you'll need only &63 hatches&r this time. They're the same as the &bCoke Oven&r, without the fluid output hatch, not yet anyway!"
+		"  你还是可以用&b扳手&6来辅助搭建&r。这次你只需要&63个仓&r，也就是比&b焦炉&r少了一个流体输出仓——至少现在是这样！"
 		""
-		"  You will use this &bSteam Blast Furnace&r to make your first &bSteel&r!"
+		"  这个&b蒸汽高炉&r将会炼出你的第一块&b钢&r！"
 	]
-	quest.2FB2FE782B1103D6.title: "Steam Blast Furnace"
+	quest.2FB2FE782B1103D6.title: "蒸汽高炉"
 	quest.2FC0A2D07CC2DFC7.quest_desc: [
 		"注意："
 		""
@@ -2308,8 +2308,8 @@
 	quest.300F6868FC217C55.quest_subtitle: "通关存档！"
 	quest.300F6868FC217C55.title: "&6奖杯大收藏家"
 	quest.302BE63E3488B94D.quest_desc: [
-		"Just another crafting item. "
-		"Check &bEMI/JEI&r for recipe."
+		"另一种合成原材料。"
+		"可在&bEMI/JEI&r中查询合成方法。"
 	]
 	quest.305C258D68DA8E96.quest_desc: ["The &bInduction Casing&r will house the cells and providers that will allow you to &6store&r ungodly amounts of &eraw energy&r."]
 	quest.305C258D68DA8E96.title: "感应外壳"
@@ -2345,13 +2345,13 @@
 	]
 	quest.3143EA7DF096CE61.title: "Steel Packer"
 	quest.314F299A677D92A6.quest_desc: [
-		"Main purpose: store potions (up to &9100 potions&r of the same kind). "
-		"&8(also acts as a storage for &bPotion Diffuser &8\\& &bPotion Melder &8to operate)"
+		"主要用途：存储药水（至多存储&9100瓶&r同类药水）。"
+		"&8（也可以用作&b药水散布器&8和&b药水混合器&8的存储容器，供其取用）"
 		""
-		"- Use this with &5Wixie&r: auto potion making."
+		"- 用&5薇克精&r可实现：自动化药水酿造。"
 		""
 		""
-		"&4NOTE&r: &6sneak + right click&r with &bDominion Wand&r to lock."
+		"&4提示&r：手持&b支配之杖&r并对药水罐&6潜行 + 右击&r可将其锁定。"
 	]
 	quest.3189264EB89A2A5A.quest_desc: [
 		"我知道在你的旅途中，你会遇到一些&6烦人的事情&r。所以我来帮你解决这些问题。"
@@ -2385,7 +2385,7 @@
 		""
 		"{image:justdirethings:item/eclipsealloy_paxel_active width:100 height:100 align:center fit:true}"
 	]
-	quest.324EB8165298F503.quest_desc: ["The &bElite Logistical Transporter&r can pull &a64 items per second&r into a transporter network and transfer it at a speed of &a4.0 meters per second&r."]
+	quest.324EB8165298F503.quest_desc: ["&b精英物流管道&r能够以&a每秒64个物品&r的速度将物品抽出到传输网络中，并以&a每秒4.0米&r的速度传输物品。"]
 	quest.324EB8165298F503.title: "精英物流管道"
 	quest.3254374A45D0D708.quest_desc: [
 		"Use a &b Schematic and Quil&r to &6save&r a build or a piece of your world."
@@ -2418,11 +2418,11 @@
 	quest.328E672F6B43D93A.quest_desc: ["For both &6assembling&r your trains and, well, &6being&r train stations."]
 	quest.32DC17E21BF26228.quest_desc: ["Use this to &6download&r saved &bSchematics&r into a new &bSchematic&r ready for use in the &bSchematicannon.&r"]
 	quest.3357A8B614D477B6.quest_desc: [
-		"  A new machine, the little sibling to the &bPacker&r! This one can only be made in steel; it really needs that extra strength."
+		"  这个机器是&b打包机&r的兄弟！它只能由钢材制成，因为它确实需要这么大的力量。"
 		""
-		"  &6The unpacker can perform simple crafts for you, such as converting dusts into tiny dusts&r. Check your EMI for more recipes."
+		"  &6拆包机可以帮你进行简单的合成，比如将粉变成小堆粉&r。查看EMI来了解可执行的配方。"
 	]
-	quest.3357A8B614D477B6.title: "Steel Unpacker"
+	quest.3357A8B614D477B6.title: "钢拆包机"
 	quest.335BFE2345DAFE03.quest_desc: [
 		"For the &bElectric Chain Saw&r:"
 		"- Press &6Left Shift&r and &6Right Click&r to swap between &bFortune/Looting&r and &bSilk Touch&r."
@@ -2464,14 +2464,14 @@
 	]
 	quest.33C2042F320B2D34.quest_subtitle: "Well, Chute."
 	quest.33CD5343AFBF853C.quest_desc: [
-		"Transport &5source&r from A to B."
+		"可将&5魔源&r从A处输送到B处。"
 		""
-		"- Use &bDominion Wand&r to bind."
-		"&8to clear settings, &6sneak + right click&r &8with Dominion Wand."
+		"- 使用&b支配之杖&r可将魔源罐与中继器绑定。"
+		"&8要清除所有设置，请在手持支配之杖时&6潜行 + 右击&r&8。"
 		""
-		"- Distance: &930 blocks&r."
+		"- 最远传输距离：&930格&r。"
 	]
-	quest.33CD5343AFBF853C.quest_subtitle: "Source Transfer"
+	quest.33CD5343AFBF853C.quest_subtitle: "魔源传输"
 	quest.33CDCAD12E8F6828.quest_desc: ["The maximum number of ticks between spawns."]
 	quest.33CDCAD12E8F6828.quest_subtitle: "-10 Max Spawn Delay"
 	quest.33CEED6232901CE5.quest_desc: ["&6Used&r with the &bVaccum Trap&r, this machine will &6suck up&r any &7mobs&r near it and put them in a &bSpawner Core&r, for that too work you must first &6craft&r a &bSpawner Core&r and &6insert&r into the a &bVaccum Trap&r."]
@@ -2488,28 +2488,28 @@
 	quest.33F07E292A9B14B1.title: "传送核心"
 	quest.33F695229D12C6FB.quest_subtitle: "Dry That Resin"
 	quest.3447A04FA017C790.quest_desc: [
-		"!!! ITEMS ON &bPEDESTALS&r WONT BE CONSUMED !!!"
+		"！！！ 放在&b奥术基座&r上的物品不会被消耗 ！！！"
 		""
-		"&8Main item (center in EMI recipe)"
-		"&8Additional item(s) (surrounding the main item)"
-		"&l1. How to use?&r "
-		"Put &badditional items&r in &bPedestals&r &8(if recipe need)&r -> put the &bmain item&r in &bImbuement Chamber&r"
-		"-> wait for it to process -> grab the result from the &bImbuement Chamber&r."
+		"&8主要物品（即在EMI配方中，位于中心位置的）"
+		"&8附加物品（即在EMI配方中，环绕在主要物品周围的）"
+		"&l1. 怎么合成？&r "
+		"首先把&b附加物品&r&8（若配方中有）&r放在&b奥术基座&r上&r -> 然后把&b主要物品&r放进&b灌注室&r"
+		"-> 等待合成完成 -> 从&b灌注室&r中取走目标物品。"
 		""
-		"&l2. Placement&r"
-		"&8P = Pedestal  |  I = Imbuement Chamber "
-		"P P P"
-		"P I P"
-		"P P P"
-		"&8(tip: Pedestals can be 1 block above/below)&r"
+		"&l2. 方块摆放（平面）&r"
+		"&8座 = 奥术基座  |  灌 = 灌注室 "
+		"座座座"
+		"座灌座"
+		"座座座"
+		"&8（小提示：基座位置可以高一格或第一格）&r"
 		""
 		""
-		"&4NOTE 1&r: doesn't need &5source&r to operate. (can be speed up with &5source&r)."
-		"&4NOTE 2&r: IN \\& OUT can be automated with &bpipes&r."
+		"&4提示①&r：无需&5魔源&r即可进行合成。（&5魔源&r只起到加速进程作用）。"
+		"&4提示②&r：可用&b管道&r实现自动输入输出。"
 		""
-		"!!! ITEMS ON &bPEDESTALS&r WONT BE CONSUMED !!!"
+		"！！！ 放在&b奥术基座&r上的物品不会被消耗 ！！！"
 	]
-	quest.3447A04FA017C790.quest_subtitle: "First Crafting Station"
+	quest.3447A04FA017C790.quest_subtitle: "合成第一站"
 	quest.3480351307F0DD04.quest_desc: ["These components go up to 256M, but I won't force you to make higher tiers."]
 	quest.3492CFBA1602D7F2.quest_desc: [
 		"  When &6powered&r, provides &bdiamond armor&r levels of armor and armor toughness."
@@ -2764,13 +2764,13 @@
 	]
 	quest.39CF27CAC4EE33DB.quest_subtitle: "嗡嗡嗡嗡！"
 	quest.39FCE3168C26B863.quest_desc: [
-		"  Once you have a stockpile of this &bSuper Powered Coal&r, you can start diverting away from you bronze machines. They're slow and such a bright orange; blinding to the eyes."
+		"  手上有了不少这种&b超能煤炭&r之后，你就可以脱离青铜机器的束缚了。它们太慢，而且橙色的外壳简直亮瞎眼。"
 		""
-		"  Making &bCoal Coke&r is just heating &bCoal&r with the absence of oxygen. It doesn't allow it to burn and thus puts it through a destructive distillation process. Once you have it though, you'll be able to start working on &bSteel&r and steel machines speeding up processing times at the cost of more steam being used."
+		"  制造&b焦炭&r就是在无氧环境下加热&b煤炭&r，让它无法燃烧，从而进行分解蒸馏。有了焦炭，你就可以开始炼&b钢&r，然后制造钢制机器了。钢机器的速度更快，但是消耗的蒸汽也更多。"
 		""
-		"  &6You'll be aiming for the creation of a &bQuarry&r soon so that it can dig for you&r. Imagine never needing to go mining for ores ever again!"
+		"  &6你很快就可以造出&b采石场&r了，然后天天躺在家里，让它帮你挖矿！"
 	]
-	quest.39FCE3168C26B863.title: "Coke"
+	quest.39FCE3168C26B863.title: "焦炭"
 	quest.3A20D522302FE7B9.quest_desc: [
 		"The &bLogic Processor&f is used in the the very beginning to get your first drives and upgrades."
 		""
@@ -3186,13 +3186,13 @@
 	quest.436C9C6FF59C4FD5.quest_desc: ["Each &bBasic Induction Provider&r added to your matrix adds &e102.4 kFE per tick&r of energy transfer rate, in and out of your matrix."]
 	quest.436C9C6FF59C4FD5.title: "基础感应供应器"
 	quest.43985FE38B0EBCB5.quest_desc: [
-		"The &bBasic Mechanical Pipe&r is used to transport &7liquids&r around through a pipe network."
+		"&b基础机械管道&r用于在管道网络中传输&7流体&r。"
 		""
-		"Each pipe added to a network adds &92000mb&r of a buffer. This buffer is also the total theoretical throughput."
+		"网络中的每个管道会增加&92000mb&r的缓存量，缓存量也是理论最大总传输量。"
 		""
-		"The pump rate of &9250mb/t&r only applies to each \"&cpull&r\" pipe. \"&aPush&r\" pipes are not limited."
+		"&9250mb/t&r泵速只应用于“&c抽出&r”端，对“&a输入&r”端没有限制。"
 		""
-		"For example: If you placed down two \"pull\" pipes, &9500mb/t&r of a &7liquid&r will be pulled into the pipe network, and &9500mb/t&r will be pushed out of it at any available \"&apush&r\" pipes (even only 1 if you have it that way)."
+		"举个例子：如果你放置了两个“抽出”管道，流体将以&9500mb/t&r的速度抽出到管道网络中，而所有“&a输入&r”管道都可以以&9500mb/t&r的速度输入流体（只有一个管道时同样如此）。"
 	]
 	quest.43985FE38B0EBCB5.title: "基础机械管道"
 	quest.439D48E9647FC8C2.quest_desc: [
@@ -3210,13 +3210,13 @@
 	quest.43ACFDB5CD949C74.quest_desc: ["Using the Scroll Forge and a Poisonous Potato to make a Nature Scrolls which are good for Poison damage or keeping foes rooted in place."]
 	quest.43CC79E605DA3F6E.title: "茄子"
 	quest.43DB398322EF99BD.quest_desc: [
-		"The &bSteel Alloy Smelter&r allows you to create &9alloys&r from two different ingots &owithout&r needing to &6mix&r the dusts in a &bMixer&r first. Check your &dEMI&r to see which alloys can be made this way."
+		"&b钢合金熔炉&r可将两种不同的锭直接制成&9合金&r，而&o不&r需要先在&b搅拌机&r中&6混合&r两种粉末。你可以查看&dEMI&r了解哪些合金可以通过这种方法制成。"
 		""
-		"You can also use any &6combination&r of equal amounts of resources to create an alloy, such as &anine&r tiny dust + &anine&r nuggets."
+		"你可以用不同形式的原料&6组合&r进行合金，只要数量是对等的就行，比如&a9个&r小堆粉末+&a9个&r粒。"
 		""
-		"What you &ocannot&r do is &anine&r tiny dust + &aone&r ingot, as the amounts are different."
+		"但是这样的&o不行&r：&a9个&r小堆粉末+&a1个&r锭，因为二者的数量不同。"
 	]
-	quest.43DB398322EF99BD.quest_subtitle: "Mixing &etwo&r materials together for &6alloys&r."
+	quest.43DB398322EF99BD.quest_subtitle: "混合&e两种&r材料，制成&6合金&r。"
 	quest.43EFE64785AE50B4.title: "Tier 4, 1:4"
 	quest.442CDC27ADFA34E4.quest_desc: ["To&6 remove &fany modifications, &6place &bQuartz&f in your &6off-hand&f, and the same modifier u want to remove in your hand. It will &aconsume&f the modifier, not the &bQuartz&f."]
 	quest.443DFD3FB9E0BA2F.quest_desc: ["先弄明白自己需要种什么，再去找种子就好办多了！试试打几棵草，或者到处走走，就能找到几种有趣的植物！"]
@@ -3421,11 +3421,11 @@
 	quest.473F20C25AAAF017.quest_subtitle: "随着你在世界中不断探索，你将解锁更高的世界层级，这将让你获得更好的战利品（以及更强大的怪物！）"
 	quest.473F20C25AAAF017.title: "&c世界层级"
 	quest.475DC864A0BC0F1F.quest_desc: [
-		"  As stated before, you can upgrade your bronze machines into steel machines."
+		"之前提到过，你可以将你的青铜机器升级为钢制机器。"
 		""
-		"  Create the &bSteel Upgrade&r and install it onto any bronze machine &6using a smithing table or packer&r."
+		"做一个&b钢材升级&r，然后&6用工作台或者打包机&r把它安装到任意青铜机器上。"
 	]
-	quest.475DC864A0BC0F1F.title: "Faster Machines?"
+	quest.475DC864A0BC0F1F.title: "更高速的机器？"
 	quest.4788E4092A488C9E.quest_desc: ["Simply a must have for the fast factory."]
 	quest.478A6A8ADA223AEF.quest_desc: [
 		"The &bCanteen&r is used to hold &dNutritional Paste&r and allow you to &6consume&r it. "
@@ -3539,7 +3539,7 @@
 	]
 	quest.499C20A6A0D7952F.quest_subtitle: "示例法术"
 	quest.499C20A6A0D7952F.title: "Armor"
-	quest.49C508DCB4AAC3CB.quest_desc: ["The &bUltimate Sawing Factory&r can process up to &a9&r sawing processes at the same time, containing the same \"&eAuto-Sort&r\" function."]
+	quest.49C508DCB4AAC3CB.quest_desc: ["&b终极锯木工厂&r能够同时进行最多&a九个&r锯木任务，同样包含\"&e自动分类&r\"功能。"]
 	quest.49C508DCB4AAC3CB.title: "终极锯木工厂"
 	quest.49D4F55F8A20DB22.quest_desc: ["Comes in several colors to match any decor."]
 	quest.49D4F55F8A20DB22.quest_subtitle: "Relax. Have a seat."
@@ -3550,13 +3550,13 @@
 	quest.4A476B25B5A3E88D.quest_desc: ["The radius (in blocks) that mobs can spawn in."]
 	quest.4A476B25B5A3E88D.quest_subtitle: "+2 Spawn Range"
 	quest.4A5466E364B85AEF.quest_desc: [
-		"  Darker and cooler than Iron... Plus about 1000 times stronger. It's time to make some &bSteel&r! Use that coal coke you produced earlier and crush it down to a pile of dust. Then, combine that with iron dust to get your &bUncooked Steel Dust&r. Remember, &6using the &bMixer&r will increase your output.&r"
+		"  比铁更深暗更冰冷……而且强度是前者的1000倍。快来炼&b钢&r！就用你之前制得的焦炭，把它弄成粉末，然后跟铁粉混合在一起，得到&b生钢粉&r。别忘了&6用&b搅拌机&r，它可以提升产率。"
 		""
-		"  Now, remember the finest steel has to go through the hottest fire; so we'll be using the &6Steam Blast Furnace&r to reach the extreme temperatures required to melt down the powdered mixture and fuse them together."
+		"  好钢还需烈火炼，所以我们需要&6蒸汽高炉&r提供极端的高温，来熔合这些混合物粉末。"
 		""
-		"  Now that you have obtained steel, you can upgrade your bronze machines with &bSteel Machine Upgrades&r. Steel machines can process recipes up to 4 EU/t and will &6process recipes at twice the speed than normal&r as long as the energy usage doesn't go above 4 EU/t. With this higher roof of energy usage, you might be able to make new things now."
+		"  既然你已经有钢了，那快去用&b钢材升级&r升级你的青铜机器吧。钢机器可以执行能耗小于等于4 EU/t的配方，而且&6运行速度是原来的两倍&r，只要能耗不超过4 EU/t。现在你可以承受更高的能耗了，应该有些新东西可以做了。"
 	]
-	quest.4A5466E364B85AEF.title: "&7Your First Steel!"
+	quest.4A5466E364B85AEF.title: "&7第一块钢！"
 	quest.4A559B47D164D1BB.quest_subtitle: "Found by using the Eye of Curse"
 	quest.4A559B47D164D1BB.title: "&bMale&edictus"
 	quest.4A85523931A7D539.quest_desc: ["Each &bAdvanced Induction Provider&r added to your matrix adds &e819.2 kFE per tick&r of energy transfer rate, in and out of your matrix."]
@@ -3653,11 +3653,11 @@
 	]
 	quest.4D1B83E147CC16AE.quest_subtitle: "AutoCrops, Roll Out!"
 	quest.4D5787F48ECCB000.quest_desc: [
-		"The &bSteel Brewery&r can &6automatically&r brew &afour&r potions at a time at a considerably quicker rate than a regular brewing stand."
+		"&b钢酿造厂&r可以同时&6自动&r酿造&a4&r瓶药水，而且比普通的酿造台速度快不少。"
 		""
-		"Remember it needs &eBlazing Essence&r in place of &6Blaze Powder&r."
+		"需要使用&e烈焰精华&r代替&6烈焰粉&r。"
 	]
-	quest.4D5787F48ECCB000.quest_subtitle: "Brews &e4&r potions at a time."
+	quest.4D5787F48ECCB000.quest_subtitle: "一次酿&e4&r瓶。"
 	quest.4D59020A532C4E92.quest_desc: [
 		"   I bet you can &6figure&r &bthis one&r out. xD"
 		""
@@ -3797,33 +3797,33 @@
 	quest.4EF9C36CED1EDDC4.quest_subtitle: "The Wright Writer's Right Rite"
 	quest.4EF9C36CED1EDDC4.title: "Occult Writing Materials"
 	quest.4F076E5D6F0BED74.quest_desc: [
-		"A &bspell&r is a combination of &bglyphs&r."
+		"将&b魔符&r组合到一起，你便得到了&b法术&r。"
 		""
-		"&bForm glyph&r: only 1 form per &bspell&r."
-		"&8(some enchanter tools auto adds its form, so you don't need to add a form to the spell)&r"
+		"&b形态魔符&r：每道&b法术&r中只能有一个。"
+		"&8（部分巫师工具会自动指定法术形态，此时无需手动添加形态）&r"
 		""
-		"&bAugment glyph&r: 1 or more per Form/Effect."
+		"&b增强魔符&r：影响形态或效果，可有一个或多个。"
 		""
-		"&bEffect glyph&r: 1 or more per spell."
+		"&b效果魔符&r：每道法术中可有一个或多个。"
 		""
-		"&bSpell cost&r = &4cost before discount&r - &2discount&r."
-		"- &4Cost before discount&r: &5additive&r from all the &bglyphs&r."
-		"- &2Discount&r: from &bRing of Lesser Discount&r / &bRing of Greater Discount&r."
+		"&b法术消耗&r = &4原消耗值&r - &2节魔值&r."
+		"- &4原消耗值&r：每多一个&b魔符&r，就会&5增加&r其对应的魔力消耗。"
+		"- &2节魔值&r：&b次等节魔之戒&r或&b高等节魔之戒&r都会提供节魔值。"
 		""
 		""
-		"&8Check &bPage 2 &8if you want to verify spellcost is just spell glyph adding together (no multiplication)"
+		"&8魔符的法术消耗是累加的，而非乘算，若要了解，请查阅&b第二页&8。"
 		""
 		"{@pagebreak}"
-		"Check the mod github for these files :)"
+		"请在模组的Github页面查询以下文件:)"
 		""
-		"&8- SpellResolver.java for getResolveCost() calling ⬇"
+		"&8- SpellResolver.java 中的 getResolveCost() 方法调用 ⬇"
 		""
-		"&8- SpellContext.java for getSpell() calling ⬇"
+		"&8- SpellContext.java 中的 getSpell() 方法调用 ⬇"
 		""
-		"&8- Spell.java for getCost() which is just a loop going through each glyph (AbstractSpellPart) getting the cost"
+		"&8- Spell.java 中的 getCost() 方法，此方法即遍历每个 glyph (AbstractSpellPart) 对象，把其魔力消耗相加。"
 	]
-	quest.4F076E5D6F0BED74.quest_subtitle: "Spell Basics"
-	quest.4F076E5D6F0BED74.title: "Spell 101 - 1"
+	quest.4F076E5D6F0BED74.quest_subtitle: "法术基础"
+	quest.4F076E5D6F0BED74.title: "法术小指南 - 1"
 	quest.4F0F24F222AA434A.quest_desc: ["&eYellow&r Chalk is marginally more powerful than the simple White. It is primarily used for Possession rituals."]
 	quest.4F0F24F222AA434A.quest_subtitle: "Possession"
 	quest.4F2C4595C25E23E1.quest_desc: ["This Rod is pre-attuned to locate a &9Rare&r material."]
@@ -3888,7 +3888,7 @@
 		""
 		"&8小提示：&b1级符典条目节选&8使用后会随机学习一个&51级魔符&r&8。"
 	]
-	quest.511C07DFE796F377.title: "Tier 1 Glyphs"
+	quest.511C07DFE796F377.title: "1级魔符"
 	quest.511E7475AD64A32D.quest_desc: ["The &bME Crystal Fixer&f can repair &bBudding Block&f into the next tier."]
 	quest.5143D5FD55C819CA.quest_desc: [
 		"Contrast to the Glass Divination Rod, this &3Pre-Attuned Rod&r is &6already attuned&r to the type of block specified by the &bSulfur&r used in its making."
@@ -3924,32 +3924,32 @@
 	]
 	quest.5221657F939FE63B.quest_desc: ["Use the Scroll Forge and a Bottle O' Lightning to craft a lightning Scrolls."]
 	quest.5253D3AA5B45369E.quest_desc: [
-		"In this one we talk about &bProjectile form glyph&r."
+		"现在我们来学习&b弹射物形态魔符&r。"
 		""
-		"It is special as it applies &5Spell Effects&r on each projectile."
-		"&4NOTE&r: &bEnchanter tools&r may not follow this ... &0(what can I say, magic mod)&r"
+		"其会让法术呈弹射物状发射出去，并在击中目标后施加&5法术效果&r。"
+		"&4提示&r：&b巫师工具&r可能不适用此条……&0（唉，魔法模组）&r"
 		""
-		"&8Projectile -> Pierce -> Pierce -> Pierce -> Break -> Pierce&r"
-		"- &bPierce augment glyph&r: will make the projectile hitting 1 more block per glyph."
-		"- &bProjectile glyph&r with 3 &bPierce augment glyphs&r: it will pierce 3 more &bblocks&r"
-		"- &5Spell Effects&r in this case will be: &8Break -> Pierce&r"
-		"=> A projectile hitting 4 times, each time apply the above &5Spell Effects&r"
+		"&8弹射物 -> 穿透 -> 穿透 -> 穿透 -> 破坏 -> 穿透&r"
+		"- &b穿透之魔符&r：增强型魔符，每多加一个，弹射物法术就能额外穿透并击中一格方块。"
+		"- &b弹射物之魔符&r与3个&b穿透之魔符&r相结合：额外穿透&b3格方块&r"
+		"- 此法术中的&5法术效果&r：&8破坏 -> 穿透&r"
+		"=> 发射一道弹射物，可击中4次，每次击中都会执行上述&5法术效果&r"
 		""
 		""
-		"How many &bblocks&r do you think it will break? (check &bPage 2&r for answer)"
+		"那么，这道法术每次能破坏&b方块&r呢？（在&b第2页&r可查看答案）"
 		""
 		"{@pagebreak}"
-		"5 blocks? &4You are wrong&r"
+		"5个方块？&4错误&r"
 		""
-		"8 blocks? &2Correct&r"
-		"&8A projectile hitting 4 times, each time apply the above &5Spell Effects&r"
-		"&8<=> A projecitle hitting 4 times, each time breaking 1 block \\& the block behind it&r"
+		"8个方块? &2正确&r"
+		"&8发射一道弹射物，可击中4次，每次击中都会执行上述&5法术效果（破坏 + 穿透）&r"
+		"&8<=> 发射一道弹射物，可击中4次，每次击中都会破坏此方块与其后方的方块&r"
 		""
 		""
-		"&4NOTE&r: &bSpell Tools&r won't follow this &8:(&r"
+		"&4提示&r：&b巫师工具&r可能不适用此条&8:(&r"
 	]
-	quest.5253D3AA5B45369E.quest_subtitle: "Projectile Glyph"
-	quest.5253D3AA5B45369E.title: "Spell 101 - 3"
+	quest.5253D3AA5B45369E.quest_subtitle: "弹射物之魔符"
+	quest.5253D3AA5B45369E.title: "法术小指南 - 3"
 	quest.525658A19130AF37.quest_desc: [
 		"Generates &7Compressed Air&r using various &7fuel fluids&r. "
 		""
@@ -3985,7 +3985,7 @@
 		"&4NOTE&r: Ars Énergistique makes so that the &bgolem&r can harvest from &bCertus Buddings&r."
 		"&8(doesn't convert certus block to budding though)"
 	]
-	quest.52BB8CBB7118C793.quest_subtitle: "Amethyst"
+	quest.52BB8CBB7118C793.quest_subtitle: "紫水晶"
 	quest.5319FD97D5133E7A.quest_desc: ["To craft &bRedstone Crystal&6 throw&b 1 Block of Redstone, 1 Glowstone Dust, and 1 Fluix Crystal &finto &awater &fand watch the magic happen."]
 	quest.534B63750942C433.quest_desc: [
 		"Your first circuit in this technology line is the &bBasic Control Circuit&r. "
@@ -4246,7 +4246,7 @@
 		""
 		"使用&b锻造台&f来对你的建筑棒进行升级，这需要消耗&6铜块&f。"
 	]
-	quest.5A4E9D4056DA2C67.quest_desc: ["The &bElite Universal Cable&r can hold &e409.6 kFE per cable&r in the network and each additional cable adds &e409.6 kFE/t&r to the total network trasmission rate."]
+	quest.5A4E9D4056DA2C67.quest_desc: ["每个网络中的&b精英通用线缆&r都能容纳&e409.6 kFE&r，每增加一个线缆，网络总传输速率就增加&e409.6 kFE/t&r。"]
 	quest.5A4E9D4056DA2C67.title: "精英通用线缆"
 	quest.5A5583EA02C78372.quest_desc: [
 		"一艘升级版的飞艇，拥有大量的存储空间。"
@@ -4282,18 +4282,18 @@
 	quest.5BBB0BDD45F6FFC0.quest_desc: ["The Devil provides &bresistance to fire&r."]
 	quest.5BBB0BDD45F6FFC0.quest_subtitle: "Controlled inferno"
 	quest.5BCED97AA55DE2E3.quest_desc: [
-		"- Default: "
-		"&8Self -> Leap -> Amplify"
+		"- 默认: "
+		"&8自身 -> 腾跃 -> 强化"
 		""
-		"- Longer leap "
-		"&8Self -> Leap -> Amplify -> Amplify"
+		"- 强化版 "
+		"&8自身 -> 腾跃 -> 强化 -> 强化"
 		""
 		""
-		"&8Can add &5Bounce &8at the end if you are concerned about fall damage."
-		"&8With &6Feather Falling &8enchantment, you can cast this spell horizontally before touching the ground. (the fall damage will be abysmal)"
+		"&8若担心会受到摔落伤害，可在法术最后添加&5弹性&8。"
+		"&8若靴子附有&6摔落缓冲&8魔咒，则可以不断往水平方向施法，直至落地。（若无摔落缓冲，会受到成吨摔落伤害）"
 	]
 	quest.5BCED97AA55DE2E3.quest_subtitle: "示例法术"
-	quest.5BCED97AA55DE2E3.title: "Movement"
+	quest.5BCED97AA55DE2E3.title: "位移法术"
 	quest.5BDE55C11519F7F7.quest_desc: [
 		"The &bPurification Chamber&r allows you to process different &9raw ores&r and &eshards&r into &cclumps&r using &7oxygen&r. "
 		""
@@ -4610,7 +4610,7 @@
 	quest.64287B360B07BEBB.quest_desc: ["- &6Connect/Chain&r up to a &cmax&r of &a64&r machines of choice together."]
 	quest.64287B360B07BEBB.quest_subtitle: "Chain Them Up!"
 	quest.6441C36C63A59445.title: "&ePipeZ"
-	quest.644B280698D65076.quest_desc: ["The &bUltimate Universal Cable&r can hold &e3.27 MFE per cable&r in the network and each additional cable adds &e3.27 MFE/t&r to the total network trasmission rate."]
+	quest.644B280698D65076.quest_desc: ["每个网络中的&b终极通用线缆&r都能容纳&e3.27 MFE&r，每增加一个线缆，网络总传输速率就增加&e3.27 MFE/t&r。"]
 	quest.644B280698D65076.title: "终极通用线缆"
 	quest.64D625C86F3AB75C.quest_desc: ["The Beholder makes nearby mobs &bglow&r, and &6shoots&r lasers at your &benemies&r."]
 	quest.64D625C86F3AB75C.quest_subtitle: "I'mma firin mah lazer"
@@ -4623,8 +4623,8 @@
 		""
 		"If you survive, make contact with &6Hydra's Fiery Blood&r and the &aSwamp&r phase of the adventure will be complete."
 	]
-	quest.6531DF5573672E9E.quest_subtitle: "Found in a converted Hollow Hill in the middle of the &6Fire Swamp&r."
-	quest.6531DF5573672E9E.title: "&1Hydra"
+	quest.6531DF5573672E9E.quest_subtitle: "可以在&6火焰沼泽&r中的空心山丘找到。"
+	quest.6531DF5573672E9E.title: "&1九头蛇"
 	quest.656CBEFEE317E2E7.quest_desc: [
 		"By default, the Actuator's storage space is not the largest."
 		""
@@ -4847,7 +4847,7 @@
 	quest.68A8995F4A13381A.quest_subtitle: "Super Powered"
 	quest.68A8995F4A13381A.title: "Eclipse Alloy Armor"
 	quest.68BF4571620AC8CF.quest_desc: [
-		"在获取&b巫师之弩&r前，还请手动挖矿。"
+		"在获取&b巫师之弩&r前，还请用此方法挖矿。"
 		""
 		"- 所需工具：&b法师的法术书&r。"
 		"&8若你已有&b大法师法术书&r&8，请移步至&b3级弩&8对应任务。"
@@ -4861,12 +4861,12 @@
 		"&8弹射物 -> 穿透 -> 穿透 -> 穿透 -> 破坏 -> 范围效果 -> 范围效果 -> 穿透 -> 提取 -> 拾取"
 		""
 		""
-		"&8切换至&b第二页&8以查看&8法术解析。"
+		"&8在&b第二页&8可查看&8法术解析。"
 		""
 		"{@pagebreak}"
 		"&8弹射物 -> 穿透 -> 穿透 -> 穿透 -> 破坏 -> 范围效果 -> 范围效果 -> 穿透 -> 提取 -> 拾取"
 		""
-		"射出一发弹射物，连续执行命中效果&94次&r，每次：精准采集3x3x2范围的所有方块，并将掉落物捡拾至物品栏内"
+		"射出一发弹射物，共可击中&94次&r，每次：精准采集3x3x2范围的所有方块，并将掉落物捡拾至物品栏内"
 		"=> 共3x3x8 （3x3范围，纵深为8格）"
 		"&8分别对应长、宽、高"
 	]
@@ -4875,62 +4875,62 @@
 	quest.68C8CDDDD7EA8A48.quest_desc: ["You'll need an &bSPS Port&r feed and retrieve resources from your &9Phase Shifter&r."]
 	quest.68C8CDDDD7EA8A48.title: "超临界移相器端口"
 	quest.690D4925E05D5421.quest_desc: [
-		"- The &bAgronomic Sourcelink&r produces source by &2growing&r crops/saplings."
-		"&8you can get more from &bMana&r &8Crops/Trees"
+		"- &b农艺魔源通道&r会在周围有树苗或作物&2生长&r时生产魔源。"
+		"&8若为&b魔力&r&8作物或树，则会生产额外魔源。"
 		""
-		"- The &bAlchemical Sourcelink&r produces source from potions (in &bPotion Jar&r)."
-		"&8number of effects ; amplifier (level) ; duration"
+		"- &b炼金魔源通道&r会消耗周围的药水（在&b药水罐&r中的）生产魔源。"
+		"&8药水效果、等级与持续时间都会影响魔源产量。"
 		""
-		"- The &bMycelial Sourcelink&r produces source from &bfoods&r in &bPedestals&r."
-		"&8food value ; saturation ; more for &bMana &8food"
+		"- &b菌丝魔源通道&r会消耗周围&b基座&r中的&b食物&r生产魔源。"
+		"&8食物提供的饥饿值、饱和度越高，魔源产量越高；若为&b魔力&r&8食物，则会生产额外魔源。"
 		""
-		"- The &bVitalic Sourcelink&r produces source from &2Animal Breeding&r, &2Animal Growth&r and &4Mob Death&r."
+		"- &b生死魔源通道&r会在附近有&2动物繁殖&r、&2动物成长&r和&4生物死亡&r时生产魔源。"
 		""
-		"- The &bVolcanic Sourcelink&r produces source by consuming &4burnable items&r in &bPedestals&r."
-		"&8burn time (in ticks) ; more for &bBlazing Archwood Log"
-		""
-		""
-		"&4NOTE&r: the &bMycelial&r \\& &bVolcanic&r have special interactions too, check out the wiki."
-		"&4NOTE 2&r: &bMob Crusher&r kills aren't considered &4Mob Death&r."
-		"&4NOTE 3&r: each source link has &520000 source&r capacity, transfer rate of &51000&r."
+		"- &b火山魔源通道&r会消耗周围&b基座&r中的&4燃料&r生产魔源。"
+		"&8转化魔源量为燃料的燃烧时间（单位：刻）；若为&b烈焰至高木原木&r&8，则会生产额外魔源"
 		""
 		""
-		"&8Check &bPage 2 &8for &6Special Interactions&8."
+		"&4提示&r：&b菌丝&r和&b火山&r魔源通道也存在特殊交互方式，详情请查阅wiki。"
+		"&4提示②&r：&b屠宰机&r杀死生物不算作&4生物死亡&r。"
+		"&4提示③&r：每个魔源通道都有&520000魔源&r的容量，传输速率为&51000&r。"
+		""
+		""
+		"&8在&b第2页&8可查看&6特殊交互方式&8。"
 		""
 		"{@pagebreak}"
-		"- Volcanic Sourcelink, as it consumes items it can:"
-		"&8Convert Stone -> Magma -> Lava"
+		"- 火山魔源通道，在消耗燃料后会："
+		"&8转换石头 -> 岩浆块 -> 熔岩"
 		""
-		"- Mycelial Sourcelink, as it consumes items it can:"
-		"&8Convert Grass -> Mycelium"
-		"&8Grow Mushroom \\& Red Mushroom on Mycelium"
+		"- 菌丝魔源通道，在消耗食物后会："
+		"&8转化草方块 -> 菌丝"
+		"&8让菌丝上长出蘑菇"
 		""
-		"&8Source code to check"
+		"&8可查询以下源代码："
 		"&8AgronomicSourcelinkBlock.java"
 		"&8AlchemicalSourcelinkTile.java"
 		"&8MycelialSourcelinkTile.java"
 		"&8VitalicSourcelinkTile.java"
 		"&8VolcanicSourcelinkTile.java"
 	]
-	quest.690D4925E05D5421.quest_subtitle: "Source Generation"
-	quest.690D4925E05D5421.title: "All The Sourcelinks"
+	quest.690D4925E05D5421.quest_subtitle: "生产魔源"
+	quest.690D4925E05D5421.title: "所有魔源通道"
 	quest.692049F6F50CC017.quest_desc: [
-		"Beneath the &2Dark Forest&r (and sometimes the surrounding areas) lay the fallen &6Strongholds of the Twilight Knights&r. "
+		"在&2黑暗森林&r的下方（有时会在周围），有着陨落的&6暮色骑士要塞&r。"
 		""
-		"The lower levels of the strongholds are completely sealed, and before you enter, you will have to complete a small &binitiation ceremony&r. "
+		"要塞下面是完全封闭的，在进入之前，需要先完成一个&b启动仪式&r。"
 		""
-		"You will have to find a specific room in the upper ruins of the stronghold. "
+		"在要塞废墟的上面有一个特殊的房间。"
 		""
-		"The room contains a &bTrophy Pedestal&r and a shallow pit blocked by &6Stronghold Shields&r."
+		"其中有一个&b战利品宝座&r和一个被&6要塞护盾&r阻挡的浅坑。"
 		""
-		"Placing a trophy from one of the previous bosses on the pedestal will remove the shield and allow access to the lower levels."
+		"将任意的暮色Boss战利品放置在宝座上即可移除要塞护盾并打开进入要塞下方的入口。"
 		""
-		"Once inside the main part of the stronghold, you will eventually have to find the &aKnight Phantoms&r to proceed. "
+		"在要塞内部，你需要找到&a幻影骑士&r。"
 		""
-		"Sending the phantoms to their final rest will make the strange devices of the &8Dark Tower&r obey you."
+		"将幻影骑士击败后你将能够控制&8黑暗高塔&r中的神秘装置。"
 	]
-	quest.692049F6F50CC017.quest_subtitle: "Found in the depths of the strongholds."
-	quest.692049F6F50CC017.title: "&2Knight Phantom"
+	quest.692049F6F50CC017.quest_subtitle: "可以在要塞的深处找到。"
+	quest.692049F6F50CC017.title: "&2幻影骑士"
 	quest.692E56A188B8D3FC.quest_desc: [
 		"&b新生魔艺&f是以&6魔法&f为基础的模组，主要依赖一种名叫&5魔源&r&f的&6魔法&f能量。"
 		""
@@ -5033,7 +5033,7 @@
 		"&3To the right&r is a button called \"&eAuto-Mode&r\" which you can &6enable&r or &6disable&r. This button uses &eenergy&r when &6enabled&r and it allows the machine to automatically craft so long as there are ingredients in the slots."
 	]
 	quest.6A6C19E36893381B.title: "公式装配器"
-	quest.6A9DAB624949191E.quest_desc: ["The &bElite Enriching Factory&r can process up to &a7&r recipes at the same time, containing the same \"&eAuto-Sort&r\" function."]
+	quest.6A9DAB624949191E.quest_desc: ["&b精英富集工厂&r能够同时处理最多&a七个&r配方，同样包含\"&e自动分类&r\"功能。"]
 	quest.6A9DAB624949191E.title: "精英富集工厂"
 	quest.6AB303BEA478C0F3.quest_desc: ["&6Programmable&r Rotation Control!"]
 	quest.6ADBF1DFBDF45D7C.quest_desc: [
@@ -5246,7 +5246,7 @@
 	quest.6FA1BD39E9BB9392.quest_desc: ["The &bUltimate Combining Factory&r allows you to process &a9&r combining recipes at once."]
 	quest.6FA1BD39E9BB9392.title: "终极融合工厂"
 	quest.6FD3C9B4EF558332.quest_desc: ["Brassy on the edges, but classy-not-brassy all over."]
-	quest.6FDE684299FEC954.quest_desc: ["The &bElite Mechanical Pipe&r has a per-pipe capacity of &932,000mb&r and a per-\"&apull&r\" pipe flow rate of &98,000mb/t&r."]
+	quest.6FDE684299FEC954.quest_desc: ["每个&b精英机械管道&r可以提供&932,000mb&r流体容纳量，并为每个“&a抽出&r”管道提供&98,000mb/t&r抽出速度。"]
 	quest.6FDE684299FEC954.title: "精英机械管道"
 	quest.6FE07EECD4579FD4.quest_desc: [
 		"  The &bEclipse Gate Wand&r's &6abilities&r are:"
@@ -5488,13 +5488,13 @@
 	quest.7422BD3C0F060AC5.quest_desc: ["These are the highest level spellbooks a experience mage can Obtain"]
 	quest.7422BD3C0F060AC5.title: "Magelike Spellbooks"
 	quest.742A5BB44F257D8E.quest_desc: [
-		"  &bItem Pipes&r work just about the same as &bFluid Pipes&r, aside from &6they will transport items and is much more configurable&r. Just like &bFluid pipes&r, they will not connect to inventories by default, but you still can force a connection. If you right click a connection without a &bWrench&r, you'll see a filter."
+		"  &b物品管道&r的工作方式和&b流体管道&r大差不差，但是&6它运的是物品，而且更加灵活&r。和&b流体管道&r一样，它也是默认不与容器连接的，但是你可以强制连接。如果你手中不拿&b扳手&r，点击连接处，就可以打开过滤器界面。"
 		""
-		"  This filter can be set to many different items at the same time and by default is set to whitelist. This means only items in the filter will be transported through the connection. Blacklist will disallow any items set to the filter to be transported through the connection."
+		"  这个过滤器可以添加多个物品，默认为白名单模式。也就是说，只有过滤器包含的物品可以通过连接处。黑名单模式相反，就是不允许过滤器包含的物品通过。"
 		""
-		"  Item pipes will insert items into higher priorities first, and transfer 16 items &6every 3 seconds&r, but can be upgraded with &bMotors&r for higher thoughput."
+		"  物品管道会优先将物品传输至优先级更高的地方，速率为&6每3秒&r16个物品，可用&b电动机&r升级。"
 	]
-	quest.742A5BB44F257D8E.title: "Item Transportation"
+	quest.742A5BB44F257D8E.title: "物品运输"
 	quest.7436F6599E2D79C1.quest_desc: [
 		"- Can by &6Dyed&r and &6Trimmed&r!"
 		""
@@ -5516,11 +5516,11 @@
 	quest.74D9B681E8EFE064.quest_desc: ["Ender Pearls are dropped from endermen and are used to create Ender Scrolls."]
 	quest.7529F840525E5BDF.quest_desc: ["Each &bUltimate Induction Cell&r added to your matrix adds &e1.6 TFE&r of energy storage."]
 	quest.7529F840525E5BDF.title: "终极感应元件"
-	quest.7533E0212EFE326D.quest_subtitle: "When placed facing into a &ebeehive&r, &6honey&r will be extracted in &bfluid form&r."
+	quest.7533E0212EFE326D.quest_subtitle: "面向&e蜂箱&r放置时，可将&6蜂蜜&r以&b流体形式&r抽取出来。"
 	quest.754B6893342E703D.quest_desc: [
-		"The &bAdvanced Infusing Factory&r can process up to &a5&r infusing processes at the same time, containing the same \"&6Auto-Sort&r\" function. "
+		"&b高级灌注工厂&r能够同时处理最多&a五个&r灌注配方，同样包含\"&6自动分类&r\"功能。"
 		""
-		"The &bAdvanced Infusing Factory&r can also hold up to &14,960 mb&r of infusing material."
+		"同时，&b高级灌注工厂&r能够容纳最多&14,960 mb&r灌注材料。"
 	]
 	quest.754EC4FE62F454E8.quest_desc: [
 		"You know how &6placing&r one chest next to another can form a double chest?"
@@ -5706,16 +5706,16 @@
 	quest.7A7F75393420DB4C.quest_subtitle: "Occult arboretum"
 	quest.7A7F75393420DB4C.title: "Ritual: Summon Otherworld Sapling Trader"
 	quest.7A9CDE804E04BE57.quest_desc: [
-		"Having trouble finding &5amethyst&r? This tool will help you with that."
+		"若你找不到&5紫水晶&r，这个工具也许能帮上忙。"
 		""
-		"1. Have it in your &6main hand&r and &6right click&r."
-		"2. You will get a buff that allows you to see &5amethyst buddings&r through wall when you are close enough."
-		"&8(the range is 75 blocks)"
+		"1. &6主手&r拿着此物，然后&6右击&r。"
+		"2. 然后你就会获得一个状态效果：透视到一定范围内地下的&5紫水晶母岩&r。"
+		"&8（透视范围为75格）"
 		""
 		""
-		"&4NOTE&r: will detect other mod &bBuddings&r too."
+		"&4提示&r：也会透视到其他模组的&b矿物母岩&r。"
 	]
-	quest.7A9CDE804E04BE57.quest_subtitle: "Maybe This Will Help"
+	quest.7A9CDE804E04BE57.quest_subtitle: "也许能帮上忙"
 	quest.7AC17F66BB030623.quest_desc: [
 		"You can find &bBudding Certus&f inside of the &bMeteorite &for you can make them. When making the &bbudding block&f, they have tiers, &bDamaged&f, &bChipped&f, &bFlawed&f, and &bFlawless&f. When breaking them they will downgrade one stage. "
 		""
@@ -5811,7 +5811,7 @@
 	quest.7C38A9BA01CA3772.quest_desc: ["&9Rare&r resources take more effort to find or to create, and are in some cases not found in nature."]
 	quest.7C38A9BA01CA3772.title: "Rare Sulfurs"
 	quest.7C57D76FDBD784F8.quest_desc: ["You can &6connect&r &bTanks&r above and below using a &bWrench&r, provided that either &bTank&r is &cempty&r or both tanks contain the same &7fluid&r."]
-	quest.7C834204DEE1813C.quest_desc: ["The &bAdvnaced Enriching Factory&r can process up to &a5&r recipes at the same time, containing the same \"&eAuto-Sort&r\" function."]
+	quest.7C834204DEE1813C.quest_desc: ["&b高级富集工厂&r能够同时处理最多&a五个&r配方，同样包含\"&e自动分类&r\"功能。"]
 	quest.7C834204DEE1813C.title: "高级富集工厂"
 	quest.7C8EF2A739AAC1D7.title: "ME Cell Housing"
 	quest.7CB7BF24437115A4.quest_desc: [
@@ -5879,15 +5879,15 @@
 	]
 	quest.7DA234839458B333.title: "火焰喷射器"
 	quest.7DA49A7F33A82D1C.quest_desc: [
-		"There are very few obstacles in the &6Courtyard&r, and the &aNaga&r can just as easily break them down."
+		"在&6娜迦庭院&r中有不少障碍物，而&a娜迦&r却可以轻松破坏这些方块。"
 		""
-		"Killing the &aNaga&r and touching one of his magical scales will allow you to enter the next area."
+		"击败&a娜迦&r并拿到它那带有魔力的鳞片后你便能够进入下一个boss区域了。"
 	]
-	quest.7DA49A7F33A82D1C.quest_subtitle: "Can be found in a courtyard adorned with a snake motif."
-	quest.7DA49A7F33A82D1C.title: "&aNaga"
-	quest.7DB4E20D476B5786.quest_desc: ["Killing the &cMinoshroom&r, and eating some of his &bMeef Stroganoff&r will allow you to enter the &6Fire Swamp&r without being burnt."]
-	quest.7DB4E20D476B5786.quest_subtitle: "You may locate a natural entrance through a chasm or cave, or you may find the entrance in a small mound."
-	quest.7DB4E20D476B5786.title: "&cMinoshroom"
+	quest.7DA49A7F33A82D1C.quest_subtitle: "可以在用蛇形图案装饰的娜迦庭院找到。"
+	quest.7DA49A7F33A82D1C.title: "&a娜迦"
+	quest.7DB4E20D476B5786.quest_desc: ["击败&c米诺菇&r并吃下&b牛头人沙拉酱肉&r，你将能够进入&6火焰沼泽&r而不再被燃烧。"]
+	quest.7DB4E20D476B5786.quest_subtitle: "你可能会在在峡谷或洞穴中发现天然的迷宫入口，或者在小山丘里找到入口。"
+	quest.7DB4E20D476B5786.title: "&c米诺菇"
 	quest.7DD81584380EE8F7.quest_desc: ["This &bwand&r is used to interface with &6Mercurial Logistics&r."]
 	quest.7E49DB806DD04701.quest_desc: [""]
 	quest.7ED9955750255A69.quest_subtitle: "完成对应任务章节。"
@@ -5939,7 +5939,7 @@
 		"{image:justdirethings:block/coalblock_t1 width:100 height:100 align:center fit:true}"
 	]
 	quest.7F4BFF2C6E887FCC.quest_subtitle: "A Better Coal"
-	quest.7F7AB9192CD7FC70.quest_desc: ["The &bElite Sawing Factory&r can process up to &a7&r sawing processes at the same time, containing the same \"&eAuto-Sort&r\" function."]
+	quest.7F7AB9192CD7FC70.quest_desc: ["&b高级锯木工厂&r能够同时进行最多&a七个&r锯木任务，同样包含\"&e自动分类&r\"功能。"]
 	quest.7F7AB9192CD7FC70.title: "精英锯木工厂"
 	quest.7FA5112E27A0D70C.quest_desc: ["This pickaxe may be more useful for making &bminer spirits&r than it is for you, but it is far better than its brittle predecessor."]
 	quest.7FA5112E27A0D70C.quest_subtitle: "Spirit pick"
