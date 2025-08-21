@@ -754,17 +754,17 @@
 	quest.13A991D769FF6E2A.quest_desc: ["提示：试着种在浅水里！"]
 	quest.13A991D769FF6E2A.title: "稻米"
 	quest.13AF33D9F34D640F.quest_desc: [
-		"A slightly better spell book. Allow the usage of &5tier 2 glyphs&r in spell."
+		"稍高级一点的法术书，能够在法术中使用&52级魔符&r。"
 		""
-		"Acquired by getting into the nether for &bNether Quartz&r \\& &6Blaze Rods&r."
+		"要获取此书，需先前往下界采集&b下界石英&r和&6烈焰棒&r。"
 	]
-	quest.13AF33D9F34D640F.title: "Mage's Spell Book (T2)"
+	quest.13AF33D9F34D640F.title: "法师的法术书（2级）"
 	quest.13C735FBB47EDCB2.quest_desc: [
-		"This spell book is the most powerful, can use &5any glyphs&r."
+		"最为强大的法术书，能够使用&5任何魔符&r。"
 		""
-		"Acquired by fighting &4Pillagers&r \\& the &4Wilden Chimera&r \\& &4The Wither&r."
+		"要获取此书，需先击败&4几只灾厄村民&r、&4荒野奇美拉&r以及&4凋灵&r。"
 	]
-	quest.13C735FBB47EDCB2.title: "Archmage Spell Book (T3)"
+	quest.13C735FBB47EDCB2.title: "大法师法术书（级）"
 	quest.141E3D92CBA9F1B3.quest_desc: [
 		"  This is a new electric machine that uses centripetal force to &6separate mixtures and items made of multiple materials into separate items&r."
 		""
@@ -3577,21 +3577,21 @@
 	quest.4B7C404E9118BE09.quest_desc: ["The &bAdvanced Purifying Factory&r allows you to process &a5&r purifying recipes at once."]
 	quest.4B7C404E9118BE09.title: "高级提纯工厂"
 	quest.4BDF01E28F247553.quest_desc: [
-		"One of the best mining options &5Ars&r has to offer."
+		"这是&5新生魔艺&r所能提供的最高效的挖矿方法之一。"
 		""
-		"- Need &6Piercing enchantment&r for &5Projectile&r piercing."
-		"&8(don't know why the dev ignore every &5Piercing glyph&r &8before an &5Effect glyph&r&8)."
+		"- 需要为巫师之弩附魔&6穿透魔咒&r，才能让&5弹射物&r实现穿透效果。"
+		"&8（不知道为什么，弩的&5穿透之魔符&r&8放在&5效果魔符&r&8之前会不生效）。"
 		""
-		"- Storage: &bBackpack&r with &bPickup Upgrade&r. (Bank can't pick up when there &5Pickup glyph&r)"
-		"- Tool: &bEnchanter's Crossbow&r."
-		"- Arrow: &bAugment Arrow: Split&r."
-		"- Piercing enchantment: as high as possible. (each level add <level> + 1 times)"
-		"- Dimension: you count it. I was getting over &910k blocks&r each shot with &6Piercing VIII&r."
+		"- 存储方案：带有&b拾取升级&r的&b背包&r。（&5拾取之魔符&r对Bank存储不奏效）"
+		"- 所需工具：&b巫师之弩&r。"
+		"- 箭矢：&b增强箭：分裂&r。"
+		"- 穿透魔咒：等级越高越好。（每级能击中<等级数>+1次）"
+		"- 作用范围：自己算吧。在附有&6穿透 VIII&r的情况下，一发箭下去背包里就多了&910k个方块&r出来。"
 		""
-		"- Item voiding: &bJar of Voiding&r (give source back) or &bVoid Upgrade&r for Backpack."
+		"- 物品销毁：&b湮灭之瓶&r（返还魔源）。或选用背包的&b虚空升级&r。"
 		""
-		"- Spell: no need &5Form glyph&r since &bCrossbow&r will auto add."
-		"&8Split -> Burst -> Sensitive -> AoE -> AoE -> AoE -> AoE -> Break -> Extract -> Pickup"
+		"- 制作法术：无需&5形态魔符&r，因为&b弩&r自动指定了弹射物形态。"
+		"&8分裂 -> 爆炸 -> 敏感 -> 范围效果 -> 范围效果 -> 范围效果 -> 范围效果 -> 破坏 -> 提取 -> 拾取"
 	]
 	quest.4BDF01E28F247553.quest_subtitle: "示例法术"
 	quest.4BDF01E28F247553.title: "巫师之弩（3级）"
@@ -4813,13 +4813,13 @@
 	quest.683EEA78F71AC153.quest_desc: ["&b钻石棒&f也有同样的功能，但其&6放置&f的最大数量限制为128个方块。"]
 	quest.68493CE96FD68EBA.title: "Cryomancer"
 	quest.68721F148E2805FB.quest_desc: [
-		"Your first &bSpell Book&r will allow you to start &6collecting&r and using &bspells&r."
+		"这是你的第一本&b法术书&r，自此你可以开始&6收集&r并使用&b法术&r了。"
 		""
-		"This spell book can only use &5tier 1 glyphs&r."
+		"此法术书只能使用&51级魔符&r。"
 		""
 		""
-		"&4NOTE&r: can also use the Spell Book to access the mod &bguide book&r."
-		"&4NOTE 2&r: check &bArmory chapter&r for armor \\& tools \\& trinkets."
+		"&4注&r：也可以通过&bguide book&r模组使用法术书。"
+		"&4注②&r：查看此章下边的&b盔甲&r相关任务即可了解盔甲、工具和饰品的信息。"
 	]
 	quest.68721F148E2805FB.title: "初学者法术书（1级）"
 	quest.687A9332533A26E8.quest_desc: ["The Deer &6enhances&r your &bjumping&r ability."]
@@ -5353,10 +5353,10 @@
 	quest.720874ECBFD3FD19.quest_subtitle: "JDT Fluidics 101"
 	quest.720874ECBFD3FD19.title: "Fluid Fuels"
 	quest.720F16D6B1CB519C.quest_desc: [
-		"&bSource Gems&r are &6crafted&r with &9Lapis&r or &dAmethyst&r inside of the &bImbuement Chamber&r."
+		"&b魔源宝石&r可用&9青金石&r或&d紫水晶&r在&b灌注室&r进行&6合成&r。"
 		""
 		""
-		"&8Tip: this recipe doesn't need any pedestal."
+		"&8注：此合成配方无需基座。"
 	]
 	quest.72481CA0AC8AFD6A.quest_desc: [
 		"While bearing some similarity to the &bFluix ME Covered Cable&r in appearance, they provide diagnostic function by visualizing the &6channel usage&r on the &bcables&r, the &6channels&r appear as lit colored lines that run along the black stripe on the &bcables&r giving you an understanding of how your &6channels&r are being used on your &6network&r."
