@@ -2,7 +2,7 @@
 	chapter.01B56BD678E7745B.title: "Powah"
 	chapter.04AD21E8ACC60AFD.title: "PneumaticCraft"
 	chapter.0597AF3E8B286CFA.title: "新生魔艺"
-	chapter.0644AB97E8D8839B.title: "Create"
+	chapter.0644AB97E8D8839B.title: "机械动力"
 	chapter.0CF7A598566497C7.title: "&6成就奖杯"
 	chapter.1CFBA632673ABBFD.title: "井井有条的存储"
 	chapter.216D532684E20496.title: "Boss"
@@ -60,7 +60,7 @@
 		""
 		"使用&b锻造台&f来对你的建筑棒进行升级，这需要消耗&c红石块&f。"
 	]
-	quest.0119F518ACD8568D.quest_subtitle: "+Redstone Control"
+	quest.0119F518ACD8568D.quest_subtitle: "+红石控制"
 	quest.011E9553CDCAE218.quest_desc: ["四倍的存储容量？"]
 	quest.011E9553CDCAE218.title: "4k 存储组件"
 	quest.012B064DED21DCD3.quest_desc: [
@@ -72,9 +72,9 @@
 	quest.0145A878C472548C.quest_subtitle: "Got wood?"
 	quest.0145A878C472548C.title: "Ritual: Summon Foliot Lumberjack"
 	quest.017309CDB87F2A1E.quest_desc: [
-		"Actually does nothing on it's own... but is a key ingredient in making other desirable stuff."
+		"它本身没什么用……但却是制作其他好东西的关键材料。"
 		""
-		"Also maybe the first thing you will want to build a contraption to make."
+		"所以，这或许会是你第一个想要造个机器来批量生产的东西。"
 	]
 	quest.01E8A006742F7A00.quest_desc: [
 		"By default, the Actuator's storage space is not the largest."
@@ -130,15 +130,15 @@
 	]
 	quest.038773FFAF3C8817.title: "使用通用机械进行矿物处理"
 	quest.038AAFBA1E0DEF7E.quest_desc: [
-		"&bGoggles&r allow you to see more information about placed Create components."
+		"戴上&b工程师护目镜&r，就能看到已放置的机械动力装置的更多信息。"
 		""
-		"You will likely find everything in the &c“Tools”&r wing also useful, even indispensable for many tasks in Create."
+		"此外，&c“工具”&r分页下的所有物品也都非常有用，在机械动力的许多任务中甚至是不可或缺的。"
 	]
 	quest.038AAFBA1E0DEF7E.quest_subtitle: "Essential for the working Create-or"
 	quest.03CF6D6277D93A4A.quest_desc: [
 		"&b滴管&r是一种有用的工具，可以用来从&9内部缓存&r中一次性&6转移&r最多&a16&r桶&7流体&r。"
 		""
-		"滴管以后可以帮助你精准地&6调节&r机器。"
+		"滴管以后可以帮助你精准&6配置&r机器。"
 		""
 		"&6左击&r将&7流体&r吸入，&6右击&r将其挤出。"
 	]
@@ -158,7 +158,7 @@
 		"{image:justdirethings:block/blockplacert2_side width:100 height:100 align:center}"
 	]
 	quest.03F624101CDF5291.quest_subtitle: "( noun verb, not verb noun )"
-	quest.0442AA6067606DA8.quest_subtitle: "Wheels of Fortune?"
+	quest.0442AA6067606DA8.quest_subtitle: "命运之轮？"
 	quest.044EA6B07D6C3E41.title: "青苹果"
 	quest.045942C709C63044.quest_desc: [
 		"  Simple."
@@ -270,7 +270,7 @@
 	quest.06D66E791A9939DD.quest_desc: ["Build a &bCharger&r, and power it with a &bVibration Chamber&r or generators from others mods."]
 	quest.06D66E791A9939DD.quest_subtitle: "Provides a way to charge supported tools through the ME Network"
 	quest.06D66E791A9939DD.title: "Charger"
-	quest.06F1E4885CE3C0C9.quest_desc: ["&bBlank Parchment&r can be used in the &bScribe's Table&r to put &dSpells&r onto the &6Parchment&r."]
+	quest.06F1E4885CE3C0C9.quest_desc: ["可在&b抄写台&r将&d法术&r注入&b空白羊皮纸&r，使其变为&6法术羊皮纸&r。"]
 	quest.0729CB454B970201.quest_desc: [
 		"  This is the &bBronze Drill&r. This will give you the main ores that you'll need to expand further."
 		""
@@ -336,7 +336,7 @@
 	]
 	quest.08B17C05B2111477.quest_subtitle: "Tier 4: Unlocked"
 	quest.08BE35FB8E58C4B5.quest_desc: [
-		"&b基础锯木工厂&r能够同时处理&a三个&r锯木配方。"
+		"&b基础锯木工厂&r能够同时进行最多&a三个&r锯木任务。"
 		""
 		"GUI左侧有一个叫作\"&e自动分类&r\"的按钮，该按钮可以使机器自动均分&a三个&r输入槽中的物品。"
 	]
@@ -448,9 +448,9 @@
 		"(* or &bEncased Fans&r, etc)"
 	]
 	quest.0C1C61B4554B38E5.quest_desc: [
-		"The &bCombiner&r allows you to &6combine items&r together like a &dgem&r and &7stone&r to receive &8ore&r, &ewax&r and &ccopper&r to protect it from the elements, mixing dyes, and more. "
+		"&b融合机&r可以用来&6融合物品&r，例如，将&d宝石&r和&7石头&r融合成&8矿石&r，将&e蜡&r和&c铜&r融合在一起以防止氧化，还可以混合染料，等等。"
 		""
-		"Check your &dEMI&r to see what else you can do with it."
+		"查看&dEMI&r，浏览融合机的其他用途。"
 	]
 	quest.0C1C61B4554B38E5.title: "融合机"
 	quest.0C2DFB4A8DF29B1D.quest_desc: [
@@ -507,7 +507,7 @@
 		""
 		"&b热导线缆&r的热阻值取决于所处的&2生物群系&r。"
 		""
-		"处于&c温暖或炎热&r生物群系时，传输效率会&a更高&r，处于&b寒冷/冰封&r生物群系时，传输速率会&c更低&r."
+		"处于&c温暖或炎热&r生物群系时，传输效率会&a更高&r，处于&b寒冷或冰封&r生物群系时，传输速率会&c更低&r."
 	]
 	quest.0DA354D54D288D20.title: "基础热导线缆"
 	quest.0DC8081D9EA61411.title: "猕猴桃"
@@ -643,7 +643,7 @@
 	]
 	quest.10391A74418CA104.quest_subtitle: "Pulley for You, Teddy!"
 	quest.103CFBF5C4599A7B.quest_desc: [""]
-	quest.103CFBF5C4599A7B.quest_subtitle: "此处举一例，说明法术使用方法"
+	quest.103CFBF5C4599A7B.quest_subtitle: "法术示例"
 	quest.103CFBF5C4599A7B.title: "挖矿"
 	quest.10534DA1BD464834.quest_subtitle: "Dropped within the Trials of Awaken gateway. "
 	quest.1081BFCAB3F07FFF.quest_desc: [
@@ -734,7 +734,7 @@
 		"Provides &2discount&r to spell."
 		"Also provides a small boost to &6Max Mana&r \\& &6Mana Regen&r."
 	]
-	quest.132511B52E6234EF.quest_desc: ["The &bElite Combining Factory&r allows you to process &a7&r combining recipes at once."]
+	quest.132511B52E6234EF.quest_desc: ["&b精英融合工厂&r能够同时处理&a七个&r融合配方。"]
 	quest.132511B52E6234EF.title: "精英融合工厂"
 	quest.132ED1F976F1D0AB.title: "黄色发光甘蔗"
 	quest.134098BE2769F85A.quest_desc: [
@@ -772,8 +772,8 @@
 	]
 	quest.141E3D92CBA9F1B3.title: "Centrifuge"
 	quest.1439B72B421AF009.quest_subtitle: "甜甜的派"
-	quest.14F545E632726FEE.quest_desc: ["Spawned mobs will be set on fire."]
-	quest.14F545E632726FEE.quest_subtitle: "+ Burning"
+	quest.14F545E632726FEE.quest_desc: ["生成的生物将处于燃烧状态。"]
+	quest.14F545E632726FEE.quest_subtitle: "+燃烧"
 	quest.15008EFBA92CC3DC.quest_desc: [
 		"You can open the AE2 guide by holding G on almost any AE2 item."
 		""
@@ -1059,53 +1059,52 @@
 	]
 	quest.183E523C25CC6C3F.title: "基础物流管道"
 	quest.183EB573F8F1DC8C.quest_desc: [
-		"Potion maker."
-		"Enchanting Apparatus automation (with &5Ars Addditions&r)."
+		"可用于自动酿造药水。"
+		"或附魔装置自动化（需有&5Ars Addditions&r模组）。"
 		""
-		"&l1. Wixie Cauldron&r"
-		"- Summoning: &6right click&r on the &bCauldron&r."
+		"&l1. 薇克精炼药锅&r"
+		"- 召唤：手持薇克精护符&6右击&r一个&b炼药锅&r。"
 		""
-		"- Using: need to set the &bstorage&r to the Wixie Cauldron with &bDominion Wand&r."
-		"&8+ Place pedestal(s), potion jars near the converted block."
-		"&8+ You don't need to provide Blaze Powder, Glass Bottles or Water&r."
+		"- 使用方法：需先用&b支配之杖&r绑定&b库存&r至薇克精炼药锅。"
+		"&8+ 在薇克精炼药锅周围放置奥术基座和药水罐。"
+		"&8+ 无需提供烈焰粉、玻璃瓶和水。&r"
 		""
-		"- Source needed: YES."
+		"- 是否需要魔源：是。"
 		""
-		"- Placement"
-		"&8P: Pedestal/Pattern Provider"
-		"&8C: Cauldron"
-		"&8J: Potion Jar"
-		"P P P"
-		"P C P"
-		"P P P"
-		"&bPotion Jars&r are near the cauldron."
-		"&8(tip: Pedestals/Pattern Provider can be 1 block above/below)&r"
+		"- 摆放方法（平面）"
+		"&8座：基座或样板供应器"
+		"&8锅：薇克精炼药锅"
+		"&8罐：药水罐"
+		"座座座"
+		"座锅座"
+		"座座座"
+		"&b药水罐&r放在炼药锅周围即可。"
+		"&8（小提示：基座或样板供应器的位置可以有一格高度的落差）&r"
 		""
 		""
-		"&4NOTE&r: &5Ars Énergistique&r enables reading output filters from &8(Extended)&r &bPattern Provider&r instead of &bPedestals&r."
-		"&8(storage chest/barrel still needs to be set)"
-		""
-		"&8Check &bPage 2 &8for Wixie's Enchanting Apparatus."
+		"&4提示&r：不止&b奥术基座&r，&5Ars Énergistique&r模组让&8（扩展）&r&b样板供应器&r也能充当成品输出过滤器。"
+		"&8（不过仍然需要绑定木桶或箱子作为库存）"
+		"&8在&b第二页&8可查看薇克精的附魔装置自动化。"
 		"{@pagebreak}"
-		"&l2. Wixie's Enchanting Apparatus&r"
-		"- Summoning: &6sneak + right click&r on the &bEnchanting Apparatus&r."
+		"&l2. 薇克精的附魔装置自动化&r"
+		"- 召唤：手持薇克精护符&6潜行 + 右击&r一个&b附魔装置&r。"
 		""
-		"- Using: need to set the &bstorage&r to the Wixie Cauldron with &bDominion Wand&r."
-		"&8+ Place pedestal(s) near the converted block."
+		"- 使用方法：需先用&b支配之杖&r绑定&b库存&r至薇克精附魔装置。"
+		"&8+ 在薇克精附魔装置周围放置奥术基座。"
 		""
-		"- Source needed: YES."
+		"- 是否需要魔源：是。"
 		""
-		"- Placement"
-		"&8P: Pedestal/Pattern Provider"
-		"&8E: Enchanting Apparatus"
-		"P P P"
-		"P E P"
-		"P P P"
-		"&8(tip: Pedestals/Pattern Provider can be 1 block above/below)&r"
+		"- 摆放方法（平面）"
+		"&8座：基座或样板供应器"
+		"&8附：薇克精附魔装置"
+		"座座座"
+		"座附座"
+		"座座座"
+		"&8（小提示：基座或样板供应器的位置可以有一格高度的落差）&r"
 		""
 		""
-		"&4NOTE&r: &5Ars Énergistique&r enables reading output filters from &8(Extended)&r &bPattern Provider&r instead of &bPedestals&r."
-		"&8(storage chest/barrel still needs to be set)"
+		"&4提示&r：不止&b奥术基座&r，&5Ars Énergistique&r模组让&8（扩展）&r&b样板供应器&r也能充当成品输出过滤器。"
+		"&8（不过仍然需要绑定木桶或箱子作为库存）"
 	]
 	quest.183EB573F8F1DC8C.quest_subtitle: "Potion | Crafting | Apparatus"
 	quest.18416E8B02E02817.quest_subtitle: "收获9x9范围内的作物。"
@@ -1474,8 +1473,8 @@
 	]
 	quest.1F828E56F64FFD15.quest_subtitle: "Purple Fire?"
 	quest.1F828E56F64FFD15.title: "Spiritfire"
-	quest.1F88FCB1B73FF882.quest_desc: ["The total number of entities allowed nearby."]
-	quest.1F88FCB1B73FF882.quest_subtitle: "+2 Max Entities"
+	quest.1F88FCB1B73FF882.quest_desc: ["刷怪停止前附近同类型实体的最大数量。"]
+	quest.1F88FCB1B73FF882.quest_subtitle: "+2 最大实体数量"
 	quest.1F9A1456487655B0.quest_desc: [
 		"Using your &bTeleportation Core&r, construct a &9Teleporter&r to allow you to instantly travel across any distance. "
 		""
@@ -1495,8 +1494,8 @@
 		"They help with not only exploration, but maneuvering around your &3factory&r. "
 	]
 	quest.1FAB4634116B6EC8.title: "这次行动的中坚力量"
-	quest.1FD59C1147BCE34F.quest_desc: ["The spawner ignores spawn conditions."]
-	quest.1FD59C1147BCE34F.quest_subtitle: "+ Ignores Conditions"
+	quest.1FD59C1147BCE34F.quest_desc: ["刷怪笼将忽略生成条件。"]
+	quest.1FD59C1147BCE34F.quest_subtitle: "+ 忽略条件"
 	quest.1FDE63D5EA5DA3CB.quest_desc: ["If Internet Protocol has ports, than &bPackage Frogports&r must be part of CCP: Chain Conveyor Protocol."]
 	quest.1FDE63D5EA5DA3CB.quest_subtitle: "Not where frogs land and take off from."
 	quest.1FF9FB01DBE735FC.quest_desc: [
@@ -1533,19 +1532,19 @@
 	]
 	quest.20A093E5684D2E30.title: "&bThe Midgame Age!"
 	quest.20B9E6F51A4F9789.quest_desc: [
-		"&l0.5 Is it in range?&r"
-		"Range: &93 blocks&r. (all axises)"
-		"&8(to know if the pedestals are in range: check the &bprevious quest&8)&r"
+		"&l0.5 确认范围&r"
+		"可用范围：&93格&r。（无论任何方向）"
+		"&8（确认范围的方法：见&b前置任务&8）&r"
 		""
 		""
-		"&8Main item (center in EMI recipe)"
-		"&8Additional item(s) (surrounding the main item)"
-		"&l1. How to use?&r "
-		"Put &badditional items&r in &bPedestals&r &8(if recipe need)&r -> put the &bmain item&r in &bEnchanting Apparatus&r"
-		"-> wait for it to process -> grab the result from the &bEnchanting Apparatus&r."
+		"&8主要物品（即在EMI配方中，位于中心位置的）"
+		"&8附加物品（即在EMI配方中，环绕在主要物品周围的）"
+		"&l1. 如何使用？&r "
+		"首先把&b附加物品&r&8（若配方中有）&r放在&b奥术基座&r上&r -> 然后把&b主要物品&r放进&b附魔装置&r"
+		"-> 等待合成完成 -> 从&b附魔装置&r中取走成品。"
 		""
 		""
-		"&4NOTE&r: some &brecipes&r need &5source&r to operate."
+		"&4提示&r：部分&b合成配方&r需要&5魔源&r才能进行。"
 	]
 	quest.20B9E6F51A4F9789.quest_subtitle: "合成第二站"
 	quest.20BA7AE12056CF27.quest_desc: [
@@ -1603,7 +1602,7 @@
 		"4. Put result into &bstorage&r next to the drygmy stone. (DrygmyTile)"
 	]
 	quest.21286633DE0F586E.quest_subtitle: "Mob Farm"
-	quest.2133B29DE47BDC25.quest_desc: ["The &bAdvanced Combining Factory&r allows you to process &a5&r combining recipes at once."]
+	quest.2133B29DE47BDC25.quest_desc: ["&b高级融合工厂&r能够同时处理&a五个&r融合配方。"]
 	quest.2133B29DE47BDC25.title: "高级融合工厂"
 	quest.215606B3A894512E.quest_desc: [
 		"  Do you see those percents on each ore in the quarry outputs?"
@@ -1667,7 +1666,7 @@
 	quest.21E51BEA3B8E3EDC.title: "钢锭"
 	quest.21EDEEE1A1B82B53.quest_desc: ["  Processing the &bIridium Ore&r from your &bTitanium Drills&r, you can begin to produce &bIridium Dust&r which will be needed for &bSuperconductor Dust&r, a material capable of extraordinary power transfer and storage."]
 	quest.21EDEEE1A1B82B53.title: "Raw Iridium"
-	quest.21EE3862F6DA8E09.quest_desc: ["The &bPrecision Sawmill&r is a machine used to process &9logs&r and other wood-based materials with &eextreme efficiency&r, with a byproduct of &9sawdust&r."]
+	quest.21EE3862F6DA8E09.quest_desc: ["&b精密锯木机&r能够以&e极高的效率&r处理&9原木&r及其他木质材料，同时会产生副产物&9锯末&r。"]
 	quest.21EE3862F6DA8E09.title: "精密锯木机"
 	quest.220163965130D8C7.quest_desc: ["&6Breaks&r &bblocks without solid colision boxes&r... like &btracks&r, &blevers&r, &bbuttons&r, etc."]
 	quest.2209DC294580BF3D.quest_desc: [
@@ -1821,8 +1820,8 @@
 	]
 	quest.250D1E2BFE6E0D50.quest_subtitle: "Double Efficiency!"
 	quest.250D1E2BFE6E0D50.title: "Advanced Large Steam Boiler"
-	quest.253FA8D6C09E2BD5.quest_desc: ["Spawned entities will make no noise."]
-	quest.253FA8D6C09E2BD5.quest_subtitle: "+ Silent"
+	quest.253FA8D6C09E2BD5.quest_desc: ["生成实体将不会发出任何声音。"]
+	quest.253FA8D6C09E2BD5.quest_subtitle: "+ 静音"
 	quest.2571BC62616A45AB.quest_desc: [
 		"This is your &dQIO Dashboard&r. "
 		""
@@ -1993,19 +1992,19 @@
 	quest.2A2E1C7C34C9A4AA.quest_desc: ["破坏小帮手可以破坏并销毁方块。"]
 	quest.2A4193454BA15A9E.title: "榴莲"
 	quest.2A5CD188C06D7F3C.quest_desc: [
-		"- &bEnchanting Apparatus&r"
-		"&6Right click&r the Enchanting Apparatus with an &6empty hand&r."
-		"It will light up all the &bPedestals&r in range."
+		"- &b附魔装置&r"
+		"&6空手&r&6右击&r附魔装置即可。"
+		"所有在可用范围内的&b基座&r都会发出亮光。"
 		""
-		"- &bImbuement Chamber&r"
-		"&6Right click&r the Imbuement Chamber with &ban item&r to light the pedestals up. "
-		"&8(don't do amethyst/lapis)"
+		"- &b灌注室&r"
+		"&手持任意物品&r&6右击&r灌注室，即可让范围内的基座发光。"
+		"&8（“任意物品”不包括紫水晶和青金石）"
 		""
-		"- &bWixie Cauldron&r, &bWixie's Enchanting Apparatus&r"
-		"&8(won't light up, but the &9range &8is the &2same &8as &bImbuement Chamber&8)"
+		"- &b薇克精炼药锅&r以及&b薇克精附魔装置&r"
+		"&8（无法让基座发光，但其&9可用范围&8与&b灌注室&8&2相同&8。"
 	]
-	quest.2A5CD188C06D7F3C.quest_subtitle: "How to know if in range"
-	quest.2A5CD188C06D7F3C.title: "How to know if in range?"
+	quest.2A5CD188C06D7F3C.quest_subtitle: "如何确认基座是否在可用范围内"
+	quest.2A5CD188C06D7F3C.title: "如何确认基座是否在可用范围内？"
 	quest.2A68AB7D1EDD44BD.quest_desc: [
 		"&bStructural Glass&r is a block that can be used in almost any &emulti-block&r as a clear block."
 		" "
@@ -2191,8 +2190,8 @@
 	quest.2D4564F6C18AE96B.title: "高级物流管道"
 	quest.2D5A0399B7FFA5DB.quest_desc: ["The Cthulhu allows you to &6breathe&r &bunderwater&r."]
 	quest.2D5A0399B7FFA5DB.quest_subtitle: "Adopt an eldritch horror today"
-	quest.2D8FB52E37D7D96C.quest_desc: ["The spawner does not need a nearby player."]
-	quest.2D8FB52E37D7D96C.quest_subtitle: "+ Ignores Players"
+	quest.2D8FB52E37D7D96C.quest_desc: ["无论附近是否有玩家都激活。"]
+	quest.2D8FB52E37D7D96C.quest_subtitle: "+ 忽略玩家"
 	quest.2DAE44549D0FDD55.quest_desc: [
 		"&b魔源罐&r可用于储存&5魔源&r。"
 		""
@@ -2472,8 +2471,8 @@
 		"- 最远传输距离：&930格&r。"
 	]
 	quest.33CD5343AFBF853C.quest_subtitle: "魔源传输"
-	quest.33CDCAD12E8F6828.quest_desc: ["The maximum number of ticks between spawns."]
-	quest.33CDCAD12E8F6828.quest_subtitle: "-10 Max Spawn Delay"
+	quest.33CDCAD12E8F6828.quest_desc: ["两次生成之间的最大时间间隔。"]
+	quest.33CDCAD12E8F6828.quest_subtitle: "-10 最大生成延迟"
 	quest.33CEED6232901CE5.quest_desc: ["&6Used&r with the &bVaccum Trap&r, this machine will &6suck up&r any &7mobs&r near it and put them in a &bSpawner Core&r, for that too work you must first &6craft&r a &bSpawner Core&r and &6insert&r into the a &bVaccum Trap&r."]
 	quest.33D0760B5FEF7C46.quest_desc: [
 		"  &oThis&r is the ultimate generator."
@@ -2492,16 +2491,16 @@
 		""
 		"&8主要物品（即在EMI配方中，位于中心位置的）"
 		"&8附加物品（即在EMI配方中，环绕在主要物品周围的）"
-		"&l1. 怎么合成？&r "
+		"&l1. 如何使用？&r "
 		"首先把&b附加物品&r&8（若配方中有）&r放在&b奥术基座&r上&r -> 然后把&b主要物品&r放进&b灌注室&r"
-		"-> 等待合成完成 -> 从&b灌注室&r中取走目标物品。"
+		"-> 等待合成完成 -> 从&b灌注室&r中取走成品。"
 		""
 		"&l2. 方块摆放（平面）&r"
 		"&8座 = 奥术基座  |  灌 = 灌注室 "
 		"座座座"
 		"座灌座"
 		"座座座"
-		"&8（小提示：基座位置可以高一格或第一格）&r"
+		"&8（小提示：基座位置可以有一格高度的落差）&r"
 		""
 		""
 		"&4提示①&r：无需&5魔源&r即可进行合成。（&5魔源&r只起到加速进程作用）。"
@@ -2575,8 +2574,8 @@
 		""
 		"Secondly it will provide an &aIn-World&f Highlight of which &bPattern Provider&f is stuck when doing large crafting jobs."
 	]
-	quest.35F320164724B44C.quest_desc: ["The minimum number of ticks between spawns."]
-	quest.35F320164724B44C.quest_subtitle: "-10 Min Spawn Delay"
+	quest.35F320164724B44C.quest_desc: ["两次生成之间的最小时间间隔。"]
+	quest.35F320164724B44C.quest_subtitle: "-10 最小生成延迟"
 	quest.35F6CAD5BE56A32A.quest_desc: [
 		"  &bShadowpulse Soil&r behaves like the previous &bsoil&r tier, but &6grows crops faster still&r.  "
 		""
@@ -2678,11 +2677,11 @@
 	quest.37C0F6CAEE15D410.quest_desc: ["Like &bSmart Observers&r can &6observe&r both whats in front of them or the contents of what’s in front of them, &bTrain Observers&r can &6observe&r passing trains or even their cargo."]
 	quest.37F1166AB7EF132E.quest_subtitle: "What is this goop?"
 	quest.37F3778D0316A17C.quest_desc: [
-		"This enchantment is for applying a spell on your &5Ars Nouveau&r armor."
-		"&8(Enchanter tools won't need this enchantment)"
+		"“反应”魔咒可为&5新生魔艺&r盔甲附上法术。"
+		"&8（巫师工具不需要附魔此魔咒）"
 		""
-		"Example: &8Self -> Heal -> Amplify&r "
-		"(healing you whenever you get hit)"
+		"示例法术：&8自身 -> 治疗 -> 强化&r "
+		"（每当你受击时，进行治疗）"
 	]
 	quest.37F3ABF113A1D399.quest_desc: [
 		"  The &bLV Energy Input Hatch&r is like a giant electrical inlet. As I've stated before, you need an &bEnergy Input Hatch&r to power multi-block electrical machines."
@@ -2746,12 +2745,12 @@
 		"- &bEnchanter's Crossbow&r: great for mining (paring with &bSplit arrow&r)"
 	]
 	quest.3995CC829C7B015A.quest_desc: [
-		"&6Crafted&r from &dMagebloom&r."
-		"&bFiber&r is used for:"
-		"- &bThreads&r."
-		"- &bParchments."
-		"- &bArmor&r."
-		"- Villager trading. (&2Shady Wizard&r)"
+		"可用&d法师之花&r&6合成&r。"
+		"&b纤维&r可用于："
+		"- &b合成法术纤维&r。"
+		"- &b合成羊皮纸。"
+		"- &b合成盔甲&r。"
+		"- 村民交易 (&2暗影导师&r)"
 	]
 	quest.39A4FF688D140EC2.quest_desc: ["The &bLogistical Sorter&r is an &6automatic filter-based sorting machine&r that allows you to not only &6send&r &3items&r from one inventory to another directly with a &bfilter&r, but also choose where you want the filtered (or not filtered) item to go within a network. You can use the &bDictionary&r to find item and block tags to &6assist&r you in having more specific filters."]
 	quest.39A4FF688D140EC2.title: "物流分类机"
@@ -2815,7 +2814,7 @@
 		""
 		"You can also use &7oxygen&r to forcefully &4oxidate&r some copper materials, water vapor to solidify concrete,  reverse the cooking of clay, and re-hydrate dead coral."
 	]
-	quest.3BAA7EC7653A7905.title: "反质子核合成器"
+	quest.3BAA7EC7653A7905.title: "化学压射室"
 	quest.3BAFFE6DA1F9BFDF.title: "Chemical Injection for Sulfur"
 	quest.3BDEC456E9E80548.quest_desc: [
 		"Some notables &brituals&r:"
@@ -2964,8 +2963,8 @@
 	quest.3F6174E82DDC48C3.quest_desc: ["The &bEnergized Smelter&r is a machine used to &6smelt&r items and blocks into their \"&8cooked&r\" counterparts."]
 	quest.3F6174E82DDC48C3.title: "电力熔炼炉"
 	quest.3F6730383CCC8BB0.quest_desc: ["Don’t be fooled… it may appear similar to the humble &bcauldron,&r but is flexible enough to work with &bBelts&r, &bFluid Pipes&r, and &bMechanical Mixers&r and &bPresses&r—&6enabling&r the automation of many recipes."]
-	quest.3F73EC8E087E2920.quest_desc: ["Spawned mobs will drop extra loot, increasing with level."]
-	quest.3F73EC8E087E2920.quest_subtitle: "+I Echoing"
+	quest.3F73EC8E087E2920.quest_desc: ["生成的生物将会掉落额外战利品，且回响等级越高，额外战利品也越多。"]
+	quest.3F73EC8E087E2920.quest_subtitle: "+1 回响属性"
 	quest.3F8B9421E85C047D.title: "Water for Chemical Washing"
 	quest.3FB60EC2EE4D0435.quest_desc: [
 		"The &bEnchanter's Tools&r can be applied with &dSpells&r at the &bScribe's Table&r."
@@ -3103,8 +3102,8 @@
 	quest.41D1344A31FEA6DF.title: "Kanthal Coils"
 	quest.4207ADF2CB254C6B.quest_desc: ["The &bPainting Machine&r allows you to &6automatically paint&r certain &3blocks and items&r using pigments."]
 	quest.4207ADF2CB254C6B.title: "上色机"
-	quest.423B29BD8DAC8C3D.quest_desc: ["The spawner will always spawn a baby entity when possible."]
-	quest.423B29BD8DAC8C3D.quest_subtitle: "+ Youthful"
+	quest.423B29BD8DAC8C3D.quest_desc: ["如果可能，生成的生物将为幼年形态。"]
+	quest.423B29BD8DAC8C3D.quest_subtitle: "+ 幼年"
 	quest.427B70B9D14A1A51.title: "移动升级"
 	quest.42AC14C7D41F0CAB.quest_desc: ["Using the Scroll Forge and a Blaze Rod craft a Fire Scrolls, which are really good at burning your enemies... and sometimes your friends... Just make sure you dont accodently cast fireball on their pets and you should be fine!"]
 	quest.42D6CC67AB29D7DA.quest_desc: [
@@ -3318,8 +3317,8 @@
 	quest.454FF6E2926163F7.title: "Give up?"
 	quest.4554EE3CC1F80F7D.quest_desc: ["Let your favorite mob &6drive&r your trains!"]
 	quest.45664AAC3ACCEF36.quest_desc: ["A much more &6capable&r &bObserver.&r"]
-	quest.45692D06641029FD.quest_subtitle: "Some example spells"
-	quest.45692D06641029FD.title: "Fighting"
+	quest.45692D06641029FD.quest_subtitle: "法术示例"
+	quest.45692D06641029FD.title: "战斗"
 	quest.456D933518B72DA2.quest_desc: [
 		"The &bControl Rod Assembly&r is used to prevent a &cfission chain reaction&r. "
 		""
@@ -3345,8 +3344,8 @@
 	]
 	quest.462944FD21A92AED.quest_desc: ["&4Infused Alloy&r is the first alloy you'll make, comprised of &cinfusing redstone&r into &6copper&r making an extra conductive metal that you'll use for &acircuitry&r. "]
 	quest.462944FD21A92AED.title: "灌注合金"
-	quest.465ECB57BFCF5291.quest_desc: ["Spawned entities will have no AI."]
-	quest.465ECB57BFCF5291.quest_subtitle: "+ No AI"
+	quest.465ECB57BFCF5291.quest_desc: ["生成的生物将为无AI状态。"]
+	quest.465ECB57BFCF5291.quest_subtitle: "+ 无AI"
 	quest.4670BD132DF4A70E.quest_desc: [
 		"This is the last CPU you'll ever need, it handles all the crafting jobs you throw at it."
 		""
@@ -3466,9 +3465,9 @@
 	quest.48212961977655E7.quest_subtitle: "你不能使用它刷你的牙"
 	quest.48212961977655E7.title: "绝缘覆层"
 	quest.4861D856CE0B5C93.quest_desc: [
-		"Applies potion effect to surrounding mobs (including players)."
+		"为周围的生物施加药水效果（包括玩家）。"
 		""
-		"- It has a 1.45 times &5multiplier&r?"
+		"- 似乎会将药水时效&5延长&r1.5倍？"
 	]
 	quest.486620B859CE9D1F.quest_desc: [
 		"This &bdevice&r separates &aincoming&r &7air&r into &chot&r and &bcold&r components, with one side becoming &chot&r and the other &bcold&r. "
@@ -3498,8 +3497,8 @@
 		"{image:justdirethings:item/voidshift_wand width:100 height:100 align:center fit:true}"
 	]
 	quest.48E96D243486D38E.quest_subtitle: "From Here to There"
-	quest.48F4ED8C915995DC.quest_desc: ["The spawner ignores light levels."]
-	quest.48F4ED8C915995DC.quest_subtitle: "+ Ignores Light"
+	quest.48F4ED8C915995DC.quest_desc: ["刷怪笼生成将忽略光照条件。"]
+	quest.48F4ED8C915995DC.quest_subtitle: "+ 忽略光照"
 	quest.495EEAA73357FA60.quest_desc: [
 		"  Accepts top-level &6upgrades&r:"
 		""
@@ -3547,8 +3546,8 @@
 	quest.49E73DF03C8D28C7.quest_subtitle: "Afrit Control"
 	quest.4A0E862883FE42BB.quest_desc: ["This gem is able to &6store&r most &bmobs&r inside it, for easy transport."]
 	quest.4A0E862883FE42BB.quest_subtitle: "Gotta catch them all"
-	quest.4A476B25B5A3E88D.quest_desc: ["The radius (in blocks) that mobs can spawn in."]
-	quest.4A476B25B5A3E88D.quest_subtitle: "+2 Spawn Range"
+	quest.4A476B25B5A3E88D.quest_desc: ["生物生成的范围半径（以方块为单位）。"]
+	quest.4A476B25B5A3E88D.quest_subtitle: "+2 生成范围"
 	quest.4A5466E364B85AEF.quest_desc: [
 		"  比铁更深暗更冰冷……而且强度是前者的1000倍。快来炼&b钢&r！就用你之前制得的焦炭，把它弄成粉末，然后跟铁粉混合在一起，得到&b生钢粉&r。别忘了&6用&b搅拌机&r，它可以提升产率。"
 		""
@@ -3846,7 +3845,7 @@
 	]
 	quest.4FBA0ECAC8AEBCD8.title: "核裂变"
 	quest.4FDD66D88C90C951.quest_desc: ["To obtain the &bSpawner &fyou must &6break &fa &bvanilla spawner &fwith&a Silk Touch&f. Every &bSpawner&f will have the same stats and can be modified to be better."]
-	quest.4FDD66D88C90C951.title: "&cApothic Spawners"
+	quest.4FDD66D88C90C951.title: "&c神话刷怪笼"
 	quest.5021D7D55A0B3533.quest_desc: ["Welcome to a world of &bChemistry&r! Some &echemicals&r are normally &cdangerous&r, but luckily here, your body is &7resistant&r to those dangerous chemicals."]
 	quest.5021D7D55A0B3533.title: "化学时间！"
 	quest.508A650402DC24F5.quest_desc: ["The casing for your &bSupercritical Phase Shifter&r is expensive, but tough. "]
@@ -4077,7 +4076,7 @@
 	]
 	quest.55391FF509DA53A5.quest_subtitle: "The easiest way to alchemy"
 	quest.55391FF509DA53A5.title: "&dWelcome to Theurgy"
-	quest.553EB688C3FFD7E4.quest_desc: ["The &bBasic Combining Factory&r allows you to process &a3&r combining recipes at once."]
+	quest.553EB688C3FFD7E4.quest_desc: ["&b基础融合工厂&r能够同时处理&a三个&r融合配方。"]
 	quest.553EB688C3FFD7E4.title: "基础融合工厂"
 	quest.55542D5D7CDA77A5.quest_desc: [
 		"  &6Transforms&b:"
@@ -4162,8 +4161,8 @@
 	quest.56A515610D242E28.title: "Ink"
 	quest.56C5ECD3430B6A55.quest_desc: ["The &bHDPE Reinforced Elytra&r is a direct upgrade to the regular &delytra&r. This one sports double the durability and the ability to repair it with &7HDPE Sheets&r, repairing &3one fourth&r the durability for each!"]
 	quest.56C5ECD3430B6A55.title: "高密度聚乙烯加强鞘翅"
-	quest.56EF0A864720C7C5.quest_desc: ["To be used with &6Starbuncle&r as a &bfilter&r for item transportation. "]
-	quest.56EF0A864720C7C5.title: "Item Scroll: Filter"
+	quest.56EF0A864720C7C5.quest_desc: ["物品传输的&b过滤器&r，可用在&6星宝石兽&r上。"]
+	quest.56EF0A864720C7C5.title: "物品卷轴：过滤器"
 	quest.5707678AB1482B68.quest_desc: [
 		"   Blocks of &bblaze ember&r can be &6transformed&r into &braw voidflame coal&r "
 		""
@@ -4181,7 +4180,7 @@
 	quest.57A8D67858693F4A.title: "基础压射工厂"
 	quest.57D104FF04B35463.title: "Water Vapor"
 	quest.57D9E9C4AEA9DF63.quest_desc: [
-		"- &b抄写台&r可用于制作&5魔符&r，魔符可在&b法术书&r中构建魔法。"
+		"- &b抄写台&r可用于制作&5魔符&r，魔符可用于在&b法术书&r中构建魔法。"
 		"- 抄写台也可为&b巫师工具&r（如巫师之剑、弓、斧等）施加法术。"
 		""
 		""
@@ -5187,7 +5186,7 @@
 		"  &6You need to create its dust&r from four ingredients: &bIron&r, &bChromium&r, &bManganese&r, and &bNickel&r. Then, after you heat it up to extreme temperatures in your EBF, you need to use the &bVacuum Freezer&r to cool down the red hot ingot to be usable. "
 	]
 	quest.6EBFFFB567687A1E.title: "Stainless Steel"
-	quest.6EC57118E3771D72.quest_subtitle: "-5% Initial Health"
+	quest.6EC57118E3771D72.quest_subtitle: "-5% 初始生命值"
 	quest.6EDBFB47B2F8E6BA.quest_desc: ["The most powerful controlled spirit of all, &bMarid&r offer many benefits to master summoners."]
 	quest.6EDBFB47B2F8E6BA.quest_subtitle: "Masterful"
 	quest.6EDFD510DC096B12.quest_desc: [
@@ -5243,7 +5242,7 @@
 	quest.6F7A998802C99AD4.title: "Spatial Pylon"
 	quest.6F9513334361D44E.quest_desc: ["&6Consuming&r this fruit will open your &bThird Eye&r, allowing you to see things you otherwise could not."]
 	quest.6F9513334361D44E.quest_subtitle: "Hallucinogens"
-	quest.6FA1BD39E9BB9392.quest_desc: ["The &bUltimate Combining Factory&r allows you to process &a9&r combining recipes at once."]
+	quest.6FA1BD39E9BB9392.quest_desc: ["&b终极融合工厂&r能够同时处理&a九个&r融合配方。"]
 	quest.6FA1BD39E9BB9392.title: "终极融合工厂"
 	quest.6FD3C9B4EF558332.quest_desc: ["Brassy on the edges, but classy-not-brassy all over."]
 	quest.6FDE684299FEC954.quest_desc: ["每个&b精英机械管道&r可以提供&932,000mb&r流体容纳量，并为每个“&a抽出&r”管道提供&98,000mb/t&r抽出速度。"]
@@ -5304,13 +5303,13 @@
 		"&4NOTE&r: check the &bwiki&r or the &bbook&r for all the interactions it can do."
 	]
 	quest.70E5F2E588EFEC0D.quest_desc: [
-		"This quest is just for &bquest chapter focusing&r on open."
+		"此任务仅用作居中对焦，以确保你每次打开&b此任务章节&r时，视角会对焦至此任务。"
 		""
-		"It is optional, so should be safe for chapter completion."
-		"&8(hidden though &6Invisible Quest&r &8option)"
+		"由于此任务为可选任务，因此应对章节完成度无影响。"
+		"&8（已设置为&6不可见任务&r&8）"
 	]
-	quest.70E5F2E588EFEC0D.quest_subtitle: "Please Ignore"
-	quest.70E5F2E588EFEC0D.title: "Ars Auto Focus"
+	quest.70E5F2E588EFEC0D.quest_subtitle: "请无视此任务"
+	quest.70E5F2E588EFEC0D.title: "新生魔艺自动居中"
 	quest.70EA0BAAB50E32BF.quest_desc: ["The&b Circuit Slicer&f is the same as the&b Inscriber&f, but crafts &a9 items&f at a time, and is &afaster&f. It even still has upgrade slots."]
 	quest.71776A6A96EB037C.quest_desc: [
 		"  &b耐火黏土&r是将河里普通的&b黏土&r和回火剂&b红砖粉&6混合&r，然后&6再次烧制&r硬化，使其能够承受极端的温度。"
@@ -5319,8 +5318,8 @@
 	]
 	quest.71776A6A96EB037C.title: "耐火黏土"
 	quest.71897BF955F73585.quest_desc: [
-		"- &bEnchanted Potion Flask: Extend Time&r"
-		"&8(this and the &bWixie Thread&8, each acts as a &5multiplier&8)"
+		"- &b增强药水烧瓶：延长时效&r"
+		"&8（此物与&b薇克精之纤维&8均可&5延长药水时效&8）"
 	]
 	quest.71A219DF9715D153.quest_desc: ["Using the Scroll Forge and a Frozen Bone to craft an Ice Scrolls."]
 	quest.71B6DA56399050E1.quest_desc: ["&b个人缩小装置&f通过消耗&4能量&f来将你&a缩小&f。"]
@@ -5618,11 +5617,11 @@
 	quest.78756CC2F8821E41.title: "化学品升级"
 	quest.78ACE4A0D8338FD1.title: "Gunpowder"
 	quest.78B4459314C86937.quest_desc: [
-		"- By itself, it is used for &6displaying&r an item."
+		"- 本身只有装饰用途，用作&6展示&r物品。"
 		""
-		"- With &bImbuement Chamber&r / &bEnchanting Apparatus&r: pedestals as ingredient &9inputs&r."
+		"- 若基座放在&b灌注室&r或&b附魔装置&r周围，则可用于&9输入&r合成原材料。"
 		""
-		"- With &bWixie Cauldron&r: pedestals as recipe &4output&r filters. (what to craft)"
+		"- 放在&b薇克精炼药锅&r旁：基座可用作&4产物输出&r过滤器。（用于告诉薇克精要合成什么）"
 	]
 	quest.78B4459314C86937.quest_subtitle: "Display / Input / Filter"
 	quest.78B4459314C86937.title: "Arcane Pedestal"
@@ -5751,8 +5750,8 @@
 	]
 	quest.7B86C9C90997B3E3.quest_subtitle: "&o来到魔法？"
 	quest.7B86C9C90997B3E3.title: "&5研习魔法？！"
-	quest.7B88129FF5C9145F.quest_desc: ["How far a player can be before spawning stops."]
-	quest.7B88129FF5C9145F.quest_subtitle: "+4 Activation Range"
+	quest.7B88129FF5C9145F.quest_desc: ["刷怪笼激活时玩家必须所处的范围。"]
+	quest.7B88129FF5C9145F.quest_subtitle: "+4 激活范围"
 	quest.7B95981B60CD11BE.quest_desc: [
 		"This sword will add &5Touch glyph&r at the start, so you don't need to include &5Form glyph&r in the spell"
 		""
@@ -5963,8 +5962,8 @@
 		"- From &d&lMatter Tanks&r to other &bmachines&r that need it."
 	]
 	quest.7FCA9352AF05C235.quest_subtitle: "Matter pipes will allow you to connect &aReplication&r machines."
-	quest.7FD0A63CDC267251.quest_desc: ["The number of entities spawned at once."]
-	quest.7FD0A63CDC267251.quest_subtitle: "+1 Spawn Count"
+	quest.7FD0A63CDC267251.quest_desc: ["每次生成的最大实体数量。"]
+	quest.7FD0A63CDC267251.quest_subtitle: "+1 生成数量"
 	quest.7FD2368444636E93.quest_desc: [
 		"The Blacksmith can &6upgrade&r other &boccult familiars&r."
 		""
