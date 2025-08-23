@@ -1042,7 +1042,7 @@
 		"别急，这个问题可以解决！"
 	]
 	quest.17C1F2791A6E0676.title: "速度升级"
-	quest.17E7640F55666577.quest_desc: ["The &bPigment Extractor&r allows you to take almost &aany dyed object&r and &6extract the dye&r from it and thus destroying the left over, un-dyed object."]
+	quest.17E7640F55666577.quest_desc: ["&b颜料提取器&r能够从几乎&a所有染色物体&r中&6提取出染料&r，剩下的物体会被摧毁。"]
 	quest.17E8751018E9E0F6.quest_desc: ["The exact same thing as the one before, but with eight times the capacity. Don't accidentally discharge it! That might hurt."]
 	quest.17E8751018E9E0F6.title: "Dense Energy Cell"
 	quest.17FCD3ECDC775E69.quest_desc: ["- &cArmor Penetration"]
@@ -1655,13 +1655,13 @@
 	quest.21E1E62AA4761EE2.quest_subtitle: "&o一切由你主张"
 	quest.21E1E62AA4761EE2.title: "&a探索世界？&5研习魔法？&e组装机械？"
 	quest.21E51BEA3B8E3EDC.quest_desc: [
-		"&bSteel!&r "
+		"&b钢铁！&r"
 		""
-		"The pinnacle of machine and building structure. "
+		"机器和建筑结构的顶点。"
 		""
-		"You'll need to use this for just about &aeverything&r. "
+		"几乎&a一切&r都需要这种金属。"
 		""
-		"It's made by &6double infusing&r &7iron&r with &8coal&r, then &6smelting&r the product. "
+		"将&8炭&r&6灌注&r进&7铁&r中&6两次&r，&6烧炼&r最终的产物，就能得到钢。"
 	]
 	quest.21E51BEA3B8E3EDC.title: "钢锭"
 	quest.21EDEEE1A1B82B53.quest_desc: ["  Processing the &bIridium Ore&r from your &bTitanium Drills&r, you can begin to produce &bIridium Dust&r which will be needed for &bSuperconductor Dust&r, a material capable of extraordinary power transfer and storage."]
@@ -2890,11 +2890,11 @@
 		"Know depending on the &6Tier&r of the &bInk&r you choose, the more rare scrolls will be availiable, and the the scroll will be more powerful."
 	]
 	quest.3D5B74D9663AAB5A.quest_desc: [
-		"The &bHeat Generator&r is a simple source of energy that relies on &cheat sources&r surrounding it. "
+		"&b热力发电机&r是一个简易的能量源，依靠周围的&c热源&r来发电。"
 		""
-		"The &bGenerator&r can take in &cheat&r from &a7&r locations, &a6&r of which are it's different faces. Another is the generator itself which can be &4lava-logged&r. It doesnt &6generate&r a lot of power, but for the beginning of your journey, it's plenty!"
+		"&b热力发电机&r能够从&a七个&r地方吸收&C热量&r，其中&a六个&r是它的六个面。剩下的一个是发电机本身，它可以&4装入熔岩&r。虽然它不会&6产生&r大量能量，但在游戏初期可以算是很多了！"
 		""
-		"Not only will &cheat&r emitting &bblocks&r and &7fluids&r generate power, but heat from &bThermodynamic Conductors&r as well."
+		"除了放&c热&r&b方块&r和&7流体&r以外，&b热导线缆&r的热量也能够用来发电。"
 	]
 	quest.3D5B74D9663AAB5A.title: "热力发电机"
 	quest.3D7406A517FA591D.quest_desc: ["Using these &bMaterials&r you'll be able to &6construct&r you first &bPressure Chamber&r. "]
@@ -3048,7 +3048,7 @@
 		""
 		"GUI&3中部的左侧&r，有一个写着&c“DUMP”&r的按钮，这个按钮可以&6排出&r剩余的&7灌注材料&r，灌注材料显示在&3按钮旁&r的条形栏中。"
 		""
-		"而&3右侧&r有一个&a绿色槽位&r，放置在这个槽位的物品可以给&b机器&r&e供能&r，除了使用&7电池&r等储&e电&r&b设备&r，&b粉状或块状&r的&4红石&r也可以用来供能。依此，你可以使用&8固体“燃料”&r轻松地为&b机器&r&e供电&r，还有一种选择，之后再来介绍。"
+		"而&3右侧&r有一个&a绿色槽位&r，放置在这个槽位的物品可以给&b机器&r&e供能&r，除了使用&7电池&r等储&e电&r&b设备&r，&b粉状或块状&r的&4红石&r也可以用来供能。依此，你可以使用&8固体“燃料”&r轻松地为&b机器&r&e供电&r，还有一种选择，之后再进行介绍。"
 		""
 		"&e能量条&r就显示在能量槽的&3右边&r。"
 	]
@@ -4678,9 +4678,9 @@
 	quest.66A4DD110F0E66D1.quest_desc: ["Time to &6plumb&r the depths of Create's... plumbing."]
 	quest.66A4DD110F0E66D1.quest_subtitle: "Nice to Cu"
 	quest.66AE27B8C8DADDA5.quest_desc: [
-		"The &bPigment Mixer&r is a sturdy machine with the &6ability to mix&r &dliquid pigments&r. "
+		"&b颜料混合器&r是一个&6能够混合&r&d流体颜料&r的可靠机器。"
 		""
-		"Obtain these pigments using the &bPigment Extractor&r."
+		"使用&b颜料提取器&r来获得颜料。"
 	]
 	quest.66AE27B8C8DADDA5.title: "颜料混合器"
 	quest.66F756E370750359.quest_desc: [
