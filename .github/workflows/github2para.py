@@ -49,6 +49,7 @@ def handle_ftb_quests_snbt():
     """
     检查是否存在 FTB Quests 的 en_us.snbt 文件。
     如果存在，则使用 LangSpliter 将其拆分为多个 JSON 文件，以便上传。
+    如果不存在，则从 lang/en_us 文件夹下读取所有 snbt 文件并合并，然后进行分割。
     配置从 modpack.json 读取。
     """
     try:
@@ -70,6 +71,37 @@ def handle_ftb_quests_snbt():
     multiline_mode = ftb_quests_config.get("multilineMode", "numbered")
     extract_config = ftb_quests_config.get("extractEmbedded", {})
 
+    # 如果主 SNBT 文件不存在，则尝试从子目录合并
+    if not os.path.exists(snbt_file):
+        print(f"未找到主 SNBT 文件: {snbt_file}。尝试从 lang/en_us 文件夹合并。")
+        fallback_dir = os.path.join(os.path.dirname(snbt_file), "en_us")
+        if os.path.isdir(fallback_dir):
+            snbt_files_to_merge = [
+                os.path.join(fallback_dir, f)
+                for f in os.listdir(fallback_dir)
+                if f.endswith(".snbt")
+            ]
+
+            if snbt_files_to_merge:
+                merged_content = ""
+                print(f"正在从 {fallback_dir} 合并 {len(snbt_files_to_merge)} 个 .snbt 文件...")
+                # 排序以确保合并顺序一致
+                for file_path in sorted(snbt_files_to_merge):
+                    with open(file_path, "r", encoding="utf-8") as f_part:
+                        merged_content += f_part.read() + "\n"
+
+                # 将合并后的内容写入目标 SNBT 文件路径
+                os.makedirs(os.path.dirname(snbt_file), exist_ok=True)
+                with open(snbt_file, "w", encoding="utf-8") as f_merged:
+                    f_merged.write(merged_content)
+                print(f"文件已成功合并到: {snbt_file}")
+            else:
+                print(f"在回退目录 {fallback_dir} 中未找到 .snbt 文件。")
+        else:
+            print(f"也未找到回退目录 {fallback_dir}。")
+
+
+    # 在尝试回退逻辑后，再次检查文件是否存在
     if os.path.exists(snbt_file):
         print(f"检测到 SNBT 文件: {snbt_file}，将进行自动拆分...")
 
