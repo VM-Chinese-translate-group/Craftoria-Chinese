@@ -14,7 +14,7 @@
 	chapter.33E8845C982DC0F2.title: "通用机械：矿物处理"
 	chapter.36F47DCAC3D28F1B.title: "园艺耕作"
 	chapter.37D7FA3DAE36E099.title: "Just Dire Things"
-	chapter.3B4FADE31FB88E9F.title: "Iron's Spells"
+	chapter.3B4FADE31FB88E9F.title: "Iron的法术"
 	chapter.40CEA39FE5F5225D.title: "通用机械"
 	chapter.5158EB105DEA1F80.title: "沉浸式飞机"
 	chapter.51BB74521F2334FA.title: "Cooking"
@@ -134,7 +134,7 @@
 		""
 		"此外，&c“工具”&r分页下的所有物品也都非常有用，在机械动力的许多任务中甚至是不可或缺的。"
 	]
-	quest.038AAFBA1E0DEF7E.quest_subtitle: "Essential for the working Create-or"
+	quest.038AAFBA1E0DEF7E.quest_subtitle: "机械动力人士必备"
 	quest.03CF6D6277D93A4A.quest_desc: [
 		"&b滴管&r是一种有用的工具，可以用来从&9内部缓存&r中一次性&6转移&r最多&a16&r桶&7流体&r。"
 		""
@@ -229,7 +229,7 @@
 	quest.05B2AA73EAEDCCF4.title: "更高级的输出总线"
 	quest.05E2E87CF3F9A5FB.quest_desc: ["Made with &4Redstone&r and &cDiesel&r, used for the &bSpeed Upgrade&r."]
 	quest.05E2E87CF3F9A5FB.title: "&6Lubricant"
-	quest.05E7C7E41BA79426.quest_subtitle: "Quadruple Charging"
+	quest.05E7C7E41BA79426.quest_subtitle: "四重充能"
 	quest.060D9F59EB26C7BD.title: "氯化氢"
 	quest.061C09A44A80D7D8.quest_desc: [
 		"Get the &bWixie's Enchanting Apparatus&r"
@@ -254,9 +254,9 @@
 	quest.061C09A44A80D7D8.title: "Wixie's Enchanting Apparatus"
 	quest.061EC183CDCBB25B.quest_desc: ["This spirit will mine &brandom Ores&r. It is also a little faster."]
 	quest.061EC183CDCBB25B.quest_subtitle: "Diggy diggy hole"
-	quest.06294216A755E2F2.quest_desc: ["Blaze Rods are used to craft Fire Scrolls."]
-	quest.0633D2B1E1DB778B.quest_desc: ["Obtained by &6smelting &bCertus Quartz Dust&f, &bSilicon&f is used in 3 different processors you will need to proceed."]
-	quest.0633D2B1E1DB778B.title: "Silicon"
+	quest.06294216A755E2F2.quest_desc: ["用烈焰棒制作炽焰法术卷轴。"]
+	quest.0633D2B1E1DB778B.quest_desc: ["&6烧炼&b赛特斯石英粉&f可获得硅，&b硅&f能够制作3种接下来你会用到的处理器。"]
+	quest.0633D2B1E1DB778B.title: "硅"
 	quest.06573610058AE660.title: "红色发光甘蔗"
 	quest.069382B7A2FC7D35.quest_desc: [
 		"不使用&b蒸馏水&r的情况下，它会逐渐&6钙化&r，效率逐渐&c下降&r，最低下降至&e33%&r。 "
@@ -267,16 +267,16 @@
 	quest.0696635896D223CA.quest_desc: ["Graybeard Staff will do just that, give you a Greybeard...Just kidding, this staff will help you regen mana as well as buff your scroll power. This is one of the more easy staffs to craft."]
 	quest.06C4D99A90DF7711.quest_desc: ["&b终极压射工厂&r能够同时处理&a九个&r压射配方。"]
 	quest.06C4D99A90DF7711.title: "终极压射工厂"
-	quest.06D66E791A9939DD.quest_desc: ["Build a &bCharger&r, and power it with a &bVibration Chamber&r or generators from others mods."]
-	quest.06D66E791A9939DD.quest_subtitle: "Provides a way to charge supported tools through the ME Network"
-	quest.06D66E791A9939DD.title: "Charger"
+	quest.06D66E791A9939DD.quest_desc: ["制作一台&b充能器&r，并用&b谐振仓&r或其他模组的发电机给它供电。"]
+	quest.06D66E791A9939DD.quest_subtitle: "也是一种通过ME网络给其支持的工具充电的方式"
+	quest.06D66E791A9939DD.title: "充能器"
 	quest.06F1E4885CE3C0C9.quest_desc: ["可在&b抄写台&r将&d法术&r注入&b空白羊皮纸&r，使其变为&6法术羊皮纸&r。"]
 	quest.0729CB454B970201.quest_desc: [
-		"  This is the &bBronze Drill&r. This will give you the main ores that you'll need to expand further."
+		"  这是&b青铜钻&r。它可以采集各种主要矿物，供日后发展使用。"
 		""
-		"  Check the outputs in &6EMI&r and make sure you know that the drill has a chance of breaking, so don't just make 1."
+		"  你可以在&6EMI&r中查看它采集的产物。另外，钻头有一定几率损坏，所以最好多做几个备用。"
 	]
-	quest.0729CB454B970201.title: "Bronze Drill"
+	quest.0729CB454B970201.title: "青铜钻"
 	quest.077658D04D0D4AB3.quest_desc: [
 		"The &bSal Ammoniac Tank&r must be &6placed below&r the &bSal Ammoniac Accumulator&r. In tandem, these two devices will create &dSal Ammoniac solvent&r from &9Water&r."
 		""
@@ -418,7 +418,7 @@
 	]
 	quest.0B94435972292812.title: "Spatial IO Port"
 	quest.0B98E8AC5CFB0FC2.quest_desc: ["Obtained when you let your&b Entroized Clusters &agrow&f to the &amax stage&f."]
-	quest.0BDF41399223A10A.quest_desc: ["Using a Scroll Forge and an Ender Pearl craft an Ender Scrolls."]
+	quest.0BDF41399223A10A.quest_desc: ["使用卷轴撰写台和末影珍珠制作末影法术卷轴。"]
 	quest.0BF3E2C6D60A58BB.quest_desc: [
 		"可以通过&6快捷菜单&r查看&a表情动作&r。"
 		""
@@ -1605,15 +1605,15 @@
 	quest.2133B29DE47BDC25.quest_desc: ["&b高级融合工厂&r能够同时处理&a五个&r融合配方。"]
 	quest.2133B29DE47BDC25.title: "高级融合工厂"
 	quest.215606B3A894512E.quest_desc: [
-		"  Do you see those percents on each ore in the quarry outputs?"
+		"  你看到采石场产物列表中每种矿物都有的产物概率了吗？"
 		""
-		"  Those are &oindividual&r percents. &6Each ore has it's own individual chance&r. "
+		"  这些概率都是&o互相独立&r的。&6每种矿物都有独立的产出概率&r。 "
 		""
-		"  If you place a bronze item output hatch, you'll only get one ore, but the chance that another ore is produced is still there, and thus it could be lost if there is no space for it."
+		"  如果你安装的是青铜物品输出仓，那你就只能得到一种矿物。实际上其他的矿物并不是就不会产出了，而是因为你没有足够的槽位容纳它们，所以遗失了。"
 		""
-		"  &6Place multiple item output hatches, preferably steel, to increase maximum possible outputs.&r"
+		"  &6你可以多安装几个物品输出仓来增加你获得的产物种类，最好用钢制的。&r"
 	]
-	quest.215606B3A894512E.title: "Quarry Tips"
+	quest.215606B3A894512E.title: "有关采石场的小提示"
 	quest.21584ECDBB6907DE.quest_desc: [
 		" &a冷静冷静！&btick&r就是游戏中&6可记录的&6最小&r的时间单位。"
 		""
@@ -2338,11 +2338,11 @@
 	quest.30FC83AF65C13591.quest_desc: ["Like the &bAndesite Tunnel&r, but with &6filtering&r and &6distribution&r modes."]
 	quest.31203D3E004E1DAB.title: "氯"
 	quest.3143EA7DF096CE61.quest_desc: [
-		"  A new machine! This one can only be made in steel; it really needs that extra strength."
+		"  啊，新机器！它必须由钢材制成，因为它确实需要这么大的力量。"
 		""
-		"  The &bPacker&r can perform simple crafts for you. You can &6automate double ingots, pipes, many types of bricks, and more&r! Check your EMI for more recipes."
+		"  &b打包机&r可以帮你进行简单的合成，比如&6自动化制作双层锭、管道、各种砖等等&r！你可以在EMI中查看所有可执行的配方。"
 	]
-	quest.3143EA7DF096CE61.title: "Steel Packer"
+	quest.3143EA7DF096CE61.title: "钢打包机"
 	quest.314F299A677D92A6.quest_desc: [
 		"主要用途：存储药水（至多存储&9100瓶&r同类药水）。"
 		"&8（也可以用作&b药水散布器&8和&b药水混合器&8的存储容器，供其取用）"
@@ -2417,9 +2417,9 @@
 	quest.328E672F6B43D93A.quest_desc: ["For both &6assembling&r your trains and, well, &6being&r train stations."]
 	quest.32DC17E21BF26228.quest_desc: ["Use this to &6download&r saved &bSchematics&r into a new &bSchematic&r ready for use in the &bSchematicannon.&r"]
 	quest.3357A8B614D477B6.quest_desc: [
-		"  这个机器是&b打包机&r的兄弟！它只能由钢材制成，因为它确实需要这么大的力量。"
+		"  这个机器是&b打包机&r的兄弟！它必须由钢材制成，因为它确实需要这么大的力量。"
 		""
-		"  &6拆包机可以帮你进行简单的合成，比如将粉变成小堆粉&r。查看EMI来了解可执行的配方。"
+		"  &6拆包机可以帮你进行简单的合成，比如将粉变成小堆粉&r。你可以在EMI中查看所有可执行的配方。"
 	]
 	quest.3357A8B614D477B6.title: "钢拆包机"
 	quest.335BFE2345DAFE03.quest_desc: [
@@ -4090,18 +4090,17 @@
 		"{image:justdirethings:block/gooblock_tier2 width:100 height:100 align:center fit:true}"
 	]
 	quest.55696F71CC09E588.quest_desc: [
-		"This chapter is a offered as a gallery of Create—a mod of many talents:"
+		"本章作为机械动力的画廊呈现—其是一个“多才多艺”的模组："
 		""
-		"- &6Mechanize&r parts, resources, farming, energy production, and more."
-		"- &6Add&r mechanical movement to your builds"
-		"- &6Build&r and &6schedule&r trains, including a mail delivery network."
-		"- &6Move&r and &6store items and fluids"
-		"- &6Build&r a smart factory"
-		"- &6Copy-and-paste&r builds, or &6import&r them."
-		"- &6Fill&r, &6drain&r, or &6explore&r bodies of water or lava"
+		"- &6机械化&r部件、资源、农业、能源生产等更多内容。"
+		"- &6添加&r机械运动在你的建筑中"
+		"- &6建造&r火车并安排&6时刻表&r用于调度火车，包括调度邮件投递网络。"
+		"- &6搬运&r与&6储存物品和流体&r"
+		"- &6建造&r智能工厂"
+		"- &6复制和粘贴&r建筑，或&6导入&r它们。"
+		"- &6填充&r、&6排空&r或&6探索&r水域或岩浆"
 		""
-		"This chapter is not a set of paths through the mod."
-		"Create itself provides excellent information about its componets with extended hover info and ground-breaking &6Ponder&r system."
+		"本章节并不是游玩该模组的路线指引。 机械动力模组自身已通过悬停信息与开创性的&6思索&r系统，为其组件提供了极佳的说明。"
 	]
 	quest.5570CFF754032FDB.quest_desc: [
 		"塔中栖息着各种冰雪生物，而&9冰雪女王&r就在塔顶一个冰层覆盖的房间里。"
@@ -5201,7 +5200,7 @@
 		""
 		"  Remember that you'll need a &olot&r of &bRubber Sheets&r in the long run, so you'll need to make them constantly. Note that you can use &bWood&r to &6grind down&r and turn into &bWood Pulp&r which can then be turned into &bPaper&r with a high output yield."
 	]
-	quest.6EF133E0EC49BC33.title: "Rubber"
+	quest.6EF133E0EC49BC33.title: "橡胶"
 	quest.6F07EDE7A819467B.quest_subtitle: "完成对应任务章节。"
 	quest.6F07EDE7A819467B.title: "&cPowah"
 	quest.6F1F240CD3A5CB1F.title: "柠檬"
@@ -5230,13 +5229,13 @@
 	]
 	quest.6F63B60042A7F6AE.title: "青铜压缩机"
 	quest.6F6898DC529D1120.quest_desc: [
-		"  Remember when I told you that you could build a &bQuarry&r so that you'd never need to go mining for resources again? Well, this is the time! It wont get you &oeverything&r, but it will get you a lot of the main ores. &oEverything&r comes later."
+		"  你还记不记得我之前跟你说，你可以造一个&b采石场&r，这样就不再需要亲自去挖矿了？对，现在就可以造了！当然它不能给你提供&o所有的东西&r，但至少主要的矿物还是管够的。至于&o所有的东西&r，以后会有的。"
 		""
-		"  The &bSteam Quarry&r is a steam powered multiblock machine that uses different &6drills&r that you install onto it to dig deeper than bedrock and retrieves ores straight from the below, whatever might be under there."
+		"  &b蒸汽采石场&r是一个蒸汽动力的多方块机器，可以安装不同的&6钻头&r，它会一直挖到基岩层之下，然后把那下面有的矿物采集上来。"
 		""
-		"  You can check which ores this method will provide by checking EMI. I recommend that you have multiple&b Steam Blast Furnaces&r running before you begin putting together the &bQuarry&r because &6this will use a LOT of &r&bSteel&r."
+		"  你可以在EMI中查看这种方法能获取的矿物。我建议你在搭建&b采石场&r之前，先多搞几个&b蒸汽高炉&r，因为&6它真的很费&r&b钢&r。"
 	]
-	quest.6F6898DC529D1120.title: "Infinite Resources?"
+	quest.6F6898DC529D1120.title: "无限资源？"
 	quest.6F760612E07E3CBA.title: "大豆"
 	quest.6F7A998802C99AD4.quest_desc: ["These are pylons designed to outline the volume you wish to store into spatial drives. You must use these to outline 3 edges to an imaginary box surrounding the build. Each line of them uses 1 channel and each line needs to be at at least 2 pylons long. Try experimenting with the number of lines and how much power it uses! You might be able to optimize your digitizing."]
 	quest.6F7A998802C99AD4.title: "Spatial Pylon"
@@ -5285,12 +5284,12 @@
 		"To remove a &bScroll, &6click &fon the spell you want to&6 remove&f and &6click&f the &bScroll&f from the Inscription on the &6Right Side&f."
 	]
 	quest.707EBB99AA8F4C57.quest_desc: [
-		"  Time to make your first wire; long strings of highly conductive metals for the transfer of electricity. &6You can combine these plain wires with your &bRubber Sheets&r &6to make &bCables&r. "
+		"  是时候造点用导电性良好的金属制成的用于输送电能的长线——电线了。&6你可以将这些裸露的线和&b橡胶布&r合成，&6制成&b电缆&r。"
 		""
-		"  Make sure you put enough rubber around those wires, don't want to get shocked!"
+		"  外面缠绕的橡胶一定要够多，别触电了！"
 	]
 	quest.707EBB99AA8F4C57.quest_subtitle: "Wire! Zap!"
-	quest.707EBB99AA8F4C57.title: "Steel Wiremill"
+	quest.707EBB99AA8F4C57.title: "钢线材轧机"
 	quest.7080BD0EC57359A6.quest_desc: [
 		"This &bwand&r is your &5Ars Nouveau&r's \"wrench\"."
 		""
@@ -5545,11 +5544,11 @@
 	quest.75810CDFB362E0CB.quest_subtitle: "Make A Connection!"
 	quest.75810CDFB362E0CB.title: "Singularities"
 	quest.7593E582FA928061.quest_desc: [
-		"  This is the &bCopper Drill&r. This will give you &6stones and dirts&r, mostly used as building materials."
+		"  这是&b铜钻&r。它可以采集&6石头和泥土&r，用来当建筑材料。"
 		""
-		"  Check the outputs in EMI and make sure you know that &6the drill has a chance of breaking&r, so don't just make one."
+		"  你可以在EMI中查看它采集的产物。另外，&6钻头有一定几率损坏&r，所以最好多做几个备用。"
 	]
-	quest.7593E582FA928061.title: "Copper Drill"
+	quest.7593E582FA928061.title: "铜钻"
 	quest.75C95D894C3B3428.quest_desc: [
 		"  Congrats!"
 		""
@@ -6017,7 +6016,7 @@
 	task.1BEC4027E735B683.title: "Need a guide?"
 	task.1D870ED2303FAE8A.title: "研习魔法？！"
 	task.1F5A29E07CD58234.title: "Hats"
-	task.203841AC95941F00.title: "Welcome to Create!"
+	task.203841AC95941F00.title: "欢迎来到机械动力！"
 	task.2103677DA5F292DE.title: "Summon a Dragon Familiar"
 	task.21895164503139CA.title: "气液转换机用水"
 	task.22E777BE43621489.title: "Any #handcrafted:chests"
@@ -6060,7 +6059,7 @@
 	task.52C834FDFA57A474.title: "Summon a Beholder Familiar"
 	task.5327B3CEDA60D4BE.title: "Any #c:raw_materials/silver"
 	task.5397C5FA8788480F.title: "任意#c:seeds/rice"
-	task.54E5D81FEE18AF83.title: "Pyromancer"
+	task.54E5D81FEE18AF83.title: "炽焰术士"
 	task.570D439C4AC9F64C.title: "世界层级"
 	task.58AC1E8BBD7EAB5B.title: "Summon a Mummy Familiar"
 	task.5CB700830F80DFD8.title: "Water for Chemical Washing"
