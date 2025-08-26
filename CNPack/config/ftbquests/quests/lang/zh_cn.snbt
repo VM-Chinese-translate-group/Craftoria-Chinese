@@ -23,7 +23,7 @@
 	chapter.679ED31B5B1D91DA.title: "Replication"
 	chapter.6A5B4531418CC297.title: "现代工业化"
 	chapter.70FFEE37C7ABD690.title: "应用能源"
-	chapter.7269FD2B5B0F0424.title: "Occultism"
+	chapter.7269FD2B5B0F0424.title: "神秘学"
 	chapter.7B329826EADF9720.title: "实用物品"
 	chapter.7DD7526F1C5EEE18.title: "WIP"
 	chapter_group.01BEAD68B1D370D3.title: "&8&lMagic&r &d✡"
@@ -499,7 +499,7 @@
 	quest.0D44F37BE787CA30.quest_desc: ["This &3substance&r can be &6processed&r in a &bThermopneumatic Processing Plant&r to produce &eLPG&r, which is an &aexcellent&r &7liquid fuel&r comparable in quality to &3Thermal Expansion’s&r &7Refined Fuel&r. "]
 	quest.0D44F37BE787CA30.title: "&6Gasoline"
 	quest.0D8988AF02D890EA.quest_subtitle: "找到远古战场"
-	quest.0D8988AF02D890EA.title: "The Walking Dead"
+	quest.0D8988AF02D890EA.title: "行尸走肉"
 	quest.0DA354D54D288D20.quest_desc: [
 		"&b基础热导线缆&r用于将&4热量&r从一个地方传导到另一个地方。"
 		""
@@ -598,8 +598,8 @@
 		" &#8226; Third is a &bDiesel Jetpack&r. Yes, you heard me right. A jetpack. The &6stronger the fuel&r in it the &6faster you'll fly&r. Use your \"V\" key to toggle the jetpack on and off. Let your wings free and fly with the power of technology! &oAnd a bit of fuel...&r"
 	]
 	quest.0ED4263270D37EF6.title: "Diesel Accessories"
-	quest.0ED5CB1120D1BD6E.quest_desc: ["Found while exploring, the Scrolls are found all around the world, but if your not careful and choose to use the Scroll it will only have one use."]
-	quest.0ED5CB1120D1BD6E.title: "Scroll"
+	quest.0ED5CB1120D1BD6E.quest_desc: ["探索时，你可以在世界各地发现卷轴，但注意，它就只能使用一次。"]
+	quest.0ED5CB1120D1BD6E.title: "卷轴"
 	quest.0EFB32C64C146682.quest_desc: [
 		"Your right-hand man, in brass mechanical form."
 		""
@@ -1156,14 +1156,14 @@
 		"Be cautious—it can also set &6fire&r to the &asurrounding environment&r!"
 	]
 	quest.1910E0D1BB24E94D.quest_desc: [
-		"To produce &eenergy&r, the &bSolar Panel&r needs a matching tier &bPhotovoltaic Cell&r in its &6inventory&r."
+		"你需要在&b太阳能板&r的&6物品栏&r中放入对应等级的&b光伏电池&r，它才能开始发&e电&r。"
 		""
-		"By supplying &9Distilled Water&r to the &bSolar Panel&r, the &bPhotovoltaic Cell&r in its slot will last &a2x&r as long!"
+		"向&b太阳能板&r供应&9蒸馏水&r可使其中的&b光伏电池&r的寿命延长至原来的&a2倍&r！"
 		""
-		"&eEnergy generation&r rates are determined by how high the &6sun&r is in the &bsky&r and if the &bsky&r is &avisible&r."
+		"&e发电&r速率取决于当前&6太阳&r的高度角，以及太阳能板上方是否&a有遮挡物&r。"
 	]
-	quest.1910E0D1BB24E94D.quest_subtitle: "Be better for the &aenvironment&r!"
-	quest.1910E0D1BB24E94D.title: "Solar Panels"
+	quest.1910E0D1BB24E94D.quest_subtitle: "对&a环境&r更友好！"
+	quest.1910E0D1BB24E94D.title: "太阳能板"
 	quest.1987DF7742136DC4.quest_desc: [
 		"  Remember when I said the &bDistillery&r could only output one type of fluid per cycle? Well, this is your upgrade!"
 		""
@@ -1522,7 +1522,7 @@
 	quest.206C9BCE1D67C3B8.quest_desc: ["Cleaning up &bChalk&r can be somewhat of a chore by hand. Thankfully, this is a solved problem: use a &bBrush&r!"]
 	quest.206C9BCE1D67C3B8.quest_subtitle: "Don't got any soap?"
 	quest.207613A34C3F10FA.title: "化学灌注器的氧气"
-	quest.2085CB41244C2783.quest_desc: ["Whilst in the Nether, you must fight your way to the Hogs, and obtain Hogskin."]
+	quest.2085CB41244C2783.quest_desc: ["你需要前往下界击杀疣猪兽，并获取疣猪皮。"]
 	quest.209744C68891F1DA.quest_desc: ["The Bat allows you to &6see&r in the &bdark&r."]
 	quest.209744C68891F1DA.quest_subtitle: "Echolocate"
 	quest.20A093E5684D2E30.quest_desc: [
@@ -1890,7 +1890,7 @@
 	quest.2821236A1E8FEF73.title: "聚变反应堆端口"
 	quest.286229410FA571B7.quest_desc: ["&6Prevents&r collisions and &6controls&r the flow of scheduled trains."]
 	quest.286229410FA571B7.quest_subtitle: "Keep them trains rollin’!"
-	quest.28724CA9F837F710.quest_desc: ["Amythyst Resonance Charm - when worn this charm will grant you a 15% mana regen boost."]
+	quest.28724CA9F837F710.quest_desc: ["紫水晶共鸣护符——当佩戴此护符时，将为你提供15%的法力回复。"]
 	quest.28A35996DE62CFA0.quest_desc: [
 		"&l1. 更大的储存容量&r"
 		"请查阅&5Ars Énergistique&r，这是与AE2的联动附属模组。"
@@ -2024,7 +2024,7 @@
 	]
 	quest.2AB5183A0BD8D387.title: "Multi Core Crafting Accelerator"
 	quest.2ABCACEBACE7A37D.title: "门瑞欧浆果"
-	quest.2ACF8F5EFD3C4AF7.title: "Boots"
+	quest.2ACF8F5EFD3C4AF7.title: "靴子"
 	quest.2ADDD30536A7FF68.quest_desc: ["&b强化玻璃&r是是一种&3超强透明材料&r，能够用于&b聚变反应堆&r的中心位置。人人都喜欢&6看到&r漂亮的颜色（虽然它们可能会&4抹杀&r你，也可能不会）。"]
 	quest.2B1717F5D6E20B79.quest_desc: [
 		"  With an &bElectrolyzer&r, enough time and power, and your freshly made &bSingularity&r, you can extract large amounts of energy through &bQuantum Hawking Radiation&r in the form of &bUniversally Usable Matter&r, also known simply as &dUU Matter&r."
@@ -2128,25 +2128,25 @@
 	quest.2C4CA092A557205E.title: "Gravi-chestplate"
 	quest.2C4E81B5F427DECD.quest_desc: ["巧制寿司模组添加了几种作物和食材，专门用来制作……没错，寿司！"]
 	quest.2C67C22D74F097A3.quest_desc: [
-		"Some notables &brituals&r:"
+		"有些&b仪式&r值得一提："
 		""
-		"- &bTablet of Binding&r"
-		"&8Turns special mobs into familiars."
+		"- &b绑定之板&r"
+		"&8可将特定生物转化为使魔。"
 		""
-		"- &bTablet of Containment&r"
-		"&8Traps entities (item/mob) in Jar of Containment."
+		"- &b收容之板&r"
+		"&8可将实体（掉落物或生物）囚禁进收容罐中。"
 		""
-		"- &bTablet of Challenge&r"
-		"&8Summons raid when used in a \"villager\"."
+		"- &b挑战之板&r"
+		"&8在“村庄”内使用时，会召唤一次袭击。"
 		""
-		"- &bTable of Flight&r"
-		"&8Creative flight around 60 blocks radius."
+		"- &b飞行之板&r"
+		"&8玩家在仪式半径60格内能进行创造模式飞行。"
 		""
-		"- &bTablet of Summon Wilden:&r"
-		"&8Summons wilden mobs. (Chimera boss if augmented)"
+		"- &b荒野召唤之板：&r"
+		"&8召唤荒野生物。（若进行增强，则会召唤荒野奇美拉Boss）"
 	]
 	quest.2C67C22D74F097A3.quest_subtitle: "本任务为全收集任务"
-	quest.2C67C22D74F097A3.title: "Purple Tablets"
+	quest.2C67C22D74F097A3.title: "紫色仪式之板"
 	quest.2C92B957A5E8646F.quest_desc: ["The &bBlank Pattern&f is used to make &acrafting recipes &6automated&f. You must &6encode &fthe &bBlank Pattern &fin the &bPattern Encoder&f, then place it into a &bPattern Provider&f."]
 	quest.2CB005B413D2B889.quest_desc: [
 		"没错，你可以变得十分带派！"
@@ -2203,20 +2203,20 @@
 	quest.2DAE44549D0FDD55.quest_subtitle: "魔源存储"
 	quest.2E0837E85AD433EC.quest_subtitle: "还是肉桂卷更好吃"
 	quest.2E1EB12F3D9B315E.quest_desc: [
-		"Some notable &brituals&r:"
+		"有些&b仪式&r值得一提："
 		""
-		"- &bTablet of Conjure Island: Desert&r"
-		"&8+ Convert a &9radius &8around it into &banother biome&8 (what biome? Check description of the tablet)"
-		"&8+ Water/air blocks will be &4replaced."
-		"&8+ Need &5source &8as it running. (after finishing, not needed anymore)"
+		"- &b空岛召唤：沙漠之板&r"
+		"&8+ 改变一定&9半径范围&8内的&b生物群系&8（具体群系种类请查阅对应仪式之板的介绍）"
+		"&8+ 会将范围内的水和空气方块&4替换&8为对应群系方块。"
+		"&8+ 需要&5魔源&8才能运行。（仪式结束后不再需要）"
 		""
-		"- &bTablet of Disintegration&r"
-		"&8Quest maker note: not worth it."
-		"&8+ Not only you need source to operate, the experience is also in item form. "
-		"&8+ Using it (a stack at a time) is still a hassle."
+		"- &b解离之板&r"
+		"&8作者的话：纯亏，别用。"
+		"&8+ 这仪式不仅要消耗魔源，转化出来的经验还是经验宝石的形态，不能直接吸。"
+		"&8+ 毕竟经验宝石一次只能用一组，效率太过低下。"
 	]
 	quest.2E1EB12F3D9B315E.quest_subtitle: "本任务为全收集任务"
-	quest.2E1EB12F3D9B315E.title: "Red Tablets"
+	quest.2E1EB12F3D9B315E.title: "红色仪式之板"
 	quest.2E50F969D8AE49B2.quest_desc: ["每个&b精英感应元件&r可以为你的感应矩阵增加&e204.8 GFE&r的能量存储上限。"]
 	quest.2E50F969D8AE49B2.title: "精英感应元件"
 	quest.2E5D9CB5D821E96A.quest_desc: [
@@ -2246,7 +2246,7 @@
 		"A tip for you: it doesn’t consume &9water source blocks&r."
 	]
 	quest.2E97456B0ED0AB1A.title: "电动泵"
-	quest.2F53567C34E86536.quest_desc: ["This is the most basic Spellbook, it can only hold five Spells"]
+	quest.2F53567C34E86536.quest_desc: ["这是最基础的法术书，它只能容纳五个法术"]
 	quest.2F66F85A601AC908.quest_desc: [
 		"{image:modern_industrialization:block/machines/macerator/overlay_top_active width:32 height:32 align:center}"
 		"  现在你的矿产已经可以&6翻上半个四倍了&r！什么意思呢？就是在把&b粗矿&r制成粉的时候，你有50%的机率多获得一个粉。你还可以把&b完整的矿石&r直接放进&b研磨机&r，提取出大量&b粗矿&r。"
@@ -2332,7 +2332,7 @@
 		"This allows you to make entire lakes of any &7fluid&r you’d like."
 	]
 	quest.30D584EAD9243548.title: "流体填充机"
-	quest.30ED8D5374012D92.quest_desc: ["A Bottle o' Lightning is obtained by Right-Clicking a bottle on a charged creeper."]
+	quest.30ED8D5374012D92.quest_desc: ["用玻璃瓶右击闪电苦力怕，可以获得一个雷电瓶。"]
 	quest.30FB66E92909D4B9.quest_subtitle: "All the Niters"
 	quest.30FB66E92909D4B9.title: "&bAlchemical Niter"
 	quest.30FC83AF65C13591.quest_desc: ["Like the &bAndesite Tunnel&r, but with &6filtering&r and &6distribution&r modes."]
@@ -2482,7 +2482,7 @@
 		"  As long as you know how to care for your factory, you will &onever&r need to worry about power ever again."
 	]
 	quest.33D0760B5FEF7C46.title: "Plasma Turbine"
-	quest.33EEBDD0730C020E.quest_desc: ["Using the Scroll Forge and a Blood Vial to craft a Blood Scrolls."]
+	quest.33EEBDD0730C020E.quest_desc: ["使用卷轴撰写台和猩红精华来制作猩红法术卷轴。"]
 	quest.33F07E292A9B14B1.quest_desc: ["&b传送核心&r是&6传送&r的核心，不仅可以传送资源，也可以传送人。"]
 	quest.33F07E292A9B14B1.title: "传送核心"
 	quest.33F695229D12C6FB.quest_subtitle: "Dry That Resin"
@@ -2671,11 +2671,11 @@
 	]
 	quest.378E30F8E12695A2.quest_desc: ["The &bCharge Pad&r is a pad that can be &6placed down&r and &6charge&r anything standing ontop of it; including any &eenergy using/batteries&r in the inventory of a player standing atop it."]
 	quest.378E30F8E12695A2.title: "充电台"
-	quest.37A5C2FCA8F75BE6.title: "Trade with the pope"
+	quest.37A5C2FCA8F75BE6.title: "与牧师交易"
 	quest.37AC7F3340783FD3.quest_desc: ["你可以使用&eLaserIO&f模组来&a传输&b物品、流体、能量以及红石信号&f。每一个面最多支持9种传输配置。"]
 	quest.37AC7F3340783FD3.title: "&6LaserIO"
 	quest.37C0F6CAEE15D410.quest_desc: ["Like &bSmart Observers&r can &6observe&r both whats in front of them or the contents of what’s in front of them, &bTrain Observers&r can &6observe&r passing trains or even their cargo."]
-	quest.37F1166AB7EF132E.quest_subtitle: "What is this goop?"
+	quest.37F1166AB7EF132E.quest_subtitle: "这是什么糊？"
 	quest.37F3778D0316A17C.quest_desc: [
 		"“反应”魔咒可为&5新生魔艺&r盔甲附上法术。"
 		"&8（巫师工具不需要附魔此魔咒）"
@@ -2783,7 +2783,7 @@
 	quest.3A5A59C7AEA670C7.quest_subtitle: "First ritual"
 	quest.3A5A59C7AEA670C7.title: "Aviar's Circle"
 	quest.3AA43F4E91E31E82.title: "丝兰果实"
-	quest.3AAE23B6BE07E5DC.quest_desc: ["Using the Scroll Forge and a Divine Pearl to craft a Holy Scrolls which are good for healing and effects."]
+	quest.3AAE23B6BE07E5DC.quest_desc: ["使用卷轴撰写台和神圣珍珠来制作神圣法术卷轴，这些卷轴能施放治疗和增益。"]
 	quest.3AE00D06232E0175.quest_desc: [
 		"  &bThe Portal Gun&r:"
 		"    • L/R clicks, &6open&r paired &5portals&r"
@@ -2800,7 +2800,7 @@
 	quest.3B0AB80C9FAD48F2.title: "反质子核合成器"
 	quest.3B117FA99DD7558F.quest_desc: ["You may wish to &6automate&r the production of this."]
 	quest.3B117FA99DD7558F.title: "Solvent"
-	quest.3B3FDF02E891DD39.quest_desc: ["The Apprentice Spellbook being a better book, requires you to take a trip to the Nether."]
+	quest.3B3FDF02E891DD39.quest_desc: ["学徒法术书是一本更好的书，不过需要你去一趟下界。"]
 	quest.3B6674B3B91BD8B4.quest_desc: [
 		"&bMechanical Belts&r-cheap to make, essential for early contraptions (and still usefull for high speed ones), and dye-able too."
 		""
@@ -2879,15 +2879,15 @@
 	quest.3CF03758A5C98E5B.quest_subtitle: "示例法术"
 	quest.3CF03758A5C98E5B.title: "巫师之弓"
 	quest.3D4317C2B25D5680.quest_desc: [
-		"The &bScroll Forge&r is used to &6craft&r scrolls using &bPaper&r and &bInk&r."
+		"&b卷轴撰写台&r用于使用&b纸张&r和&b墨水&r&6制作&r卷轴。"
 		""
-		"There are different types of &bspells&r you can create with different items. "
+		"你可以使用不同的物品制作不同类型的&b法术&r。"
 		""
-		"These different items are refered to as &bFocuses&r. "
+		"这些不同的物品被称为&b核心&r。"
 		""
-		"Each &bFocus&r is used for a specific variety of scrolls. "
+		"每个&b核心&r用于特定类型的卷轴。"
 		""
-		"Know depending on the &6Tier&r of the &bInk&r you choose, the more rare scrolls will be availiable, and the the scroll will be more powerful."
+		"根据你选择的&6墨水&r的&b品质&r，可获得更稀有的、更强大的卷轴。"
 	]
 	quest.3D5B74D9663AAB5A.quest_desc: [
 		"&b热力发电机&r是一个简易的能量源，依靠周围的&c热源&r来发电。"
@@ -2917,24 +2917,25 @@
 		"Do check out the cascaded gantries, explained in the ponder."
 	]
 	quest.3E1B0CBA0889C0AE.quest_subtitle: "For the well-heeled landed Gantry"
-	quest.3E212B5DE277B73A.quest_subtitle: "Oink Oink"
+	quest.3E212B5DE277B73A.quest_subtitle: "哼 哼(猪叫声)"
 	quest.3E41681892FA2E44.quest_desc: ["Used in &bPattern Providers&r or &bInterfaces&r, which allows them to provide power to touching blocks/cables."]
 	quest.3E62028A2B03EEA4.quest_desc: ["&b精英热导线缆&r拥有&a1.0&r点&4热容&r，&e5.0&r点热导，但热阻为&c8000.0&r。"]
 	quest.3E62028A2B03EEA4.title: "精英热导线缆"
 	quest.3E8C6BD8557C6F08.quest_desc: [
-		"After you have used the Manuscript to unlock an Eldritch Scrolls you can use an Echo Shards in the Scrolls forge to craft Eldritch Spell. These Scrolls can only be crafted with Legendary Ink."
+		"在你使用手稿解锁了邪术法术卷轴之后，你可以在卷轴撰写台中使用回响碎片来制作邪术法术。这些卷轴只能用传说墨水来制作。"
 		""
-		"Abyssal Shroud - Ever wish you could just evaid attacks? Creeper blows up and you just say \"Haha missed me\"? With this spell you turn into an enderman, teleporting away when you are attacked, vertually invinsible for as long as the spell last."
 		""
-		"Eldrich Blast - Once activated you can fire up to 7 blast of pure energy. Each shot can fire up to 30 blocks away, just make sure you don't blow your head off."
+		"深渊庇佑——你是否曾希望可以躲避攻击？苦力怕爆炸了你却只是说“哈哈，没炸到我”？使用这个法术，你将像末影人一样，在受到攻击时传送离开，几乎在咒语持续期间无敌。"
 		""
-		"Planar Sight - This one feels like hacking... you can see any entity within the allowed render distance. Yes, it works with invisible and visible entitys and makes them glow through walls."
+		"邪术冲击波——激活后，你可以发射多达7次纯能量冲击波。每次射击可以射程高达30个方块，只要确保不要射爆自己的头。"
 		""
-		"Skulk Tentacles - This is a very unsettling spell that releases a forest of Skulk Tentcales from the ground , great for pranking friends who are new to the game or wiping out groups of mobs and does a decent amount of damage."
+		"位面视觉——就像黑客一样……你可以看到可渲染距离内的任何实体。它适用于隐形和可见实体，并使它们隔墙发光。"
 		""
-		"Sonic Boom - Become a Warden and unleash a boom that does lots of damage to entitys within a 20-30 (depending on the lvl) block range."
+		"幽匿之触——这是一个非常令人不安的咒语，从地面释放出大量潜渊触手，非常适合戏弄新手玩家或消灭一群怪物，并造成可观的伤害。"
 		""
-		"Telekinesis - Ever had a mob or friend that you just want to yeet into oblivian, with this spell you can pick up an enitiy and fling them around until the spell ends. Careful though if you make them run into a wall they will take kinetic damage."
+		"音爆——像监守者一样，释放出对20-30（取决于等级）方块范围内的实体造成大量伤害的冲击波。"
+		""
+		"念力——是否有过想要将怪物或朋友扔到虚无中，使用这个咒语，你可以举起一个实体并将它们扔来扔去，直到咒语结束。不过要小心，如果让他们撞到墙上，他们会受到动能伤害。"
 	]
 	quest.3E903D71F66D3DB4.quest_subtitle: "N2O Turbo-Charged!"
 	quest.3E903D71F66D3DB4.title: "&6Replicator (MK II)"
@@ -3058,7 +3059,7 @@
 		""
 		"To use the &bTablet&r, specify &9pick-up&r and &9drop-off&r locations by &6right-clicking&r on the &3inventory&r or &btank&r with the &bTablet&r."
 	]
-	quest.40FF154148BBAFF2.quest_subtitle: "oooh Shiny!"
+	quest.40FF154148BBAFF2.quest_subtitle: "哇哦，亮闪闪的！"
 	quest.41183734EB2C28FF.quest_desc: ["&6Fills&r vanilla &bfluid containers&r and &6applies&r &9fluids&r to &bitems&r in sequenced recipes."]
 	quest.41183734EB2C28FF.quest_subtitle: "Where’d the itsy bitsy spider go?"
 	quest.413557ECF489FD2C.quest_subtitle: "在末地浮岛的稀有结构中出现。"
@@ -3105,7 +3106,7 @@
 	quest.423B29BD8DAC8C3D.quest_desc: ["如果可能，生成的生物将为幼年形态。"]
 	quest.423B29BD8DAC8C3D.quest_subtitle: "+ 幼年"
 	quest.427B70B9D14A1A51.title: "移动升级"
-	quest.42AC14C7D41F0CAB.quest_desc: ["Using the Scroll Forge and a Blaze Rod craft a Fire Scrolls, which are really good at burning your enemies... and sometimes your friends... Just make sure you dont accodently cast fireball on their pets and you should be fine!"]
+	quest.42AC14C7D41F0CAB.quest_desc: ["使用卷轴撰写台和烈焰棒制作炽焰法术卷轴，它们非常适合灼烧你的敌人……有时甚至是你的朋友……只是确保不要不小心把火球术施放在他们的宠物身上，这样你就安全了！"]
 	quest.42D6CC67AB29D7DA.quest_desc: [
 		"  You've finally reached &bDigital Circuits&r!"
 		""
@@ -3206,7 +3207,7 @@
 		"  Bronze machines can only process recipes up to 2 energy unit per tick. You might see it as \"2 EU/t\" when using the machines. 1 millibucket of steam is the same as 1 EU; I for one am really glad it's a very simple conversion cause I'm not a fan of math. Once your &bBoiler&r is at maximum temperature, it can supply 4 machines with &bSteam&r simultaneously! Now &othat's&r hot."
 	]
 	quest.439D48E9647FC8C2.title: "青铜锅炉"
-	quest.43ACFDB5CD949C74.quest_desc: ["Using the Scroll Forge and a Poisonous Potato to make a Nature Scrolls which are good for Poison damage or keeping foes rooted in place."]
+	quest.43ACFDB5CD949C74.quest_desc: ["使用卷轴撰写台和毒马铃薯制作自然法术卷轴，这些卷轴能够造成毒伤或定身敌人。"]
 	quest.43CC79E605DA3F6E.title: "茄子"
 	quest.43DB398322EF99BD.quest_desc: [
 		"&b钢合金熔炉&r可将两种不同的锭直接制成&9合金&r，而&o不&r需要先在&b搅拌机&r中&6混合&r两种粉末。你可以查看&dEMI&r了解哪些合金可以通过这种方法制成。"
@@ -3456,7 +3457,7 @@
 		""
 		"{image:justdirethings:item/celestigem width:100 height:100 align:center fit:true}"
 	]
-	quest.480F170F7028C337.quest_desc: ["The Lesser Spell slot "]
+	quest.480F170F7028C337.quest_desc: ["小型法术槽"]
 	quest.48212961977655E7.quest_desc: [
 		"哈哈，不过我觉得它味道可能不会太好。"
 		""
@@ -3713,7 +3714,7 @@
 	quest.4E56C9A5F225A883.title: "&6Gadgets Against Grind"
 	quest.4E6BB4279E8E793A.quest_desc: ["&8Abundant&r resources tend to be everywhere and in great quantities."]
 	quest.4E6BB4279E8E793A.title: "Abundant Sulfurs"
-	quest.4E7439769A073494.title: "Leggins"
+	quest.4E7439769A073494.title: "护腿"
 	quest.4E8963E1C18ADBAB.quest_desc: [
 		"The &bIncubator&r is a small multiblock used to recombine Principles of matter into objects."
 		""
@@ -3895,7 +3896,7 @@
 		"It, otherwise, behaves precisely the same as the Glass Divination Rod. This one in particular has been attuned to find an &8Abundant&r material."
 	]
 	quest.5143D5FD55C819CA.quest_subtitle: "Target acquired"
-	quest.51542DCB5C8E5C3A.quest_desc: ["The Second tier of Spellbook only holding 6 Spells"]
+	quest.51542DCB5C8E5C3A.quest_desc: ["更高一级的法术书也只能容纳6个法术"]
 	quest.51649293068FE93D.quest_desc: ["&bRotational Chasis&r and &bLinear Chassis&r &6help&r build contraptions without superglue."]
 	quest.516F2A1A1270D9DC.quest_desc: [
 		"  &bSimple&r:"
@@ -3910,7 +3911,7 @@
 		""
 		"{image:justdirethings:block/blockbreakert2_side width:100 height:100 align:center}"
 	]
-	quest.51A8026A0F8A83B1.quest_desc: ["Emeralds can be found while mining, exploring, or trading with villagers and is used to craft the Evocation Scrolls."]
+	quest.51A8026A0F8A83B1.quest_desc: ["绿宝石可以在采矿、探索或与村民交易时获取，并用于制作唤魔法术卷轴。"]
 	quest.51E386BC7692D06C.quest_desc: ["To &6establish&r a &6Mercurial Logistics network&r, these &bWires&r must be used to &6link&r between in- and outputs. &bConnection Nodes&r allow for multiple wires to converge to one point, if needed."]
 	quest.51E386BC7692D06C.title: "Mercurial Connections"
 	quest.51ECF72F223BDB3A.title: "咖啡豆"
@@ -3921,7 +3922,7 @@
 		""
 		"Once you do have &bBrass&r, you'll be able to &6craft&r the items in the &c\"Brass\"&r wing: the &bDeployer&r for &cperforming what are normally player actions&r, smarter versions of more basic Create blocks, and nice choices for decor too. We've placed the &bBlaze Burner&r itself there too, though of course you'll already have made one."
 	]
-	quest.5221657F939FE63B.quest_desc: ["Use the Scroll Forge and a Bottle O' Lightning to craft a lightning Scrolls."]
+	quest.5221657F939FE63B.quest_desc: ["使用卷轴撰写台和雷电瓶来制作雷霆法术卷轴。"]
 	quest.5253D3AA5B45369E.quest_desc: [
 		"现在我们来学习&b弹射物形态魔符&r。"
 		""
@@ -4156,8 +4157,8 @@
 	quest.5676B5FD97FB10C3.quest_subtitle: "It's Smelting Time!"
 	quest.5676B5FD97FB10C3.title: "青铜炉"
 	quest.569CE57C377AB1B7.title: "油菜"
-	quest.56A515610D242E28.quest_desc: ["The Ink comes in different rarities and you will need higher tier Ink for the higher tier scrolls."]
-	quest.56A515610D242E28.title: "Ink"
+	quest.56A515610D242E28.quest_desc: ["墨水有不同的稀有度，你需要更高等级的墨水来制作更高等级的卷轴。"]
+	quest.56A515610D242E28.title: "墨水"
 	quest.56C5ECD3430B6A55.quest_desc: ["The &bHDPE Reinforced Elytra&r is a direct upgrade to the regular &delytra&r. This one sports double the durability and the ability to repair it with &7HDPE Sheets&r, repairing &3one fourth&r the durability for each!"]
 	quest.56C5ECD3430B6A55.title: "高密度聚乙烯加强鞘翅"
 	quest.56EF0A864720C7C5.quest_desc: ["物品传输的&b过滤器&r，可用在&6星宝石兽&r上。"]
@@ -4171,7 +4172,7 @@
 		""
 		"{image:justdirethings:block/coalblock_t3 width:100 height:100 align:center fit:true}"
 	]
-	quest.573FAED7B35F6C86.quest_desc: ["For the more seasoned mage the Enchated Spellbook has ten slots."]
+	quest.573FAED7B35F6C86.quest_desc: ["有十个法术槽位的附魔法术书，更适合经验丰富的法师。"]
 	quest.5773319EE8B3D45C.quest_desc: ["Adds some &6speed control&r to &bChain Drives&r."]
 	quest.578394EC869C10AB.quest_desc: ["Simple point-to-point item transportation, power transmission, or low-key ski lift for players—you decide!"]
 	quest.57852C27FD0C29AA.title: "升级"
@@ -4388,7 +4389,7 @@
 		""
 		"- Deploying on top of an &9inventory&r containing a &cWeapon&r or &7Minigun Ammo&r (assuming the drone is carrying a minigun upgrade) will tell the &bDrone&r to arm itself using &bitems&r inside the &9inventory&r before &edefending&r its area ."
 	]
-	quest.5F2801445E518E49.quest_desc: ["Vials of Blood are obtained by standing in an Alchemist Cauldron or by Standing in a normal Cauldron with a fire under it. Once it fills up with some blood you can Right-Click with an emtpy bottle to collect the blood."]
+	quest.5F2801445E518E49.quest_desc: ["通过站在炼金锅中或站在下面有火燃烧的普通炼药锅中，可以获得猩红精华。一旦里面装满了一些血液，你可以用空玻璃瓶右击来收集血液。"]
 	quest.5F46E1D3938F5F2A.quest_desc: [
 		"- &bEnchanter Tools&r: apply spell at the &bScribe Table&r."
 		""
@@ -4396,7 +4397,7 @@
 		"&8apply spell by using Spell Parchment in the &bEnchanting Apparatus&r&8."
 	]
 	quest.5F46E1D3938F5F2A.title: "Ars Armory"
-	quest.5F8E418D6A0AD158.quest_desc: ["Divine Pearls are crafted using one Gold Ingot and one Amythist Shard in a Crafting Bench. They are used to create Holy Scrolls."]
+	quest.5F8E418D6A0AD158.quest_desc: ["神圣珍珠是通过在工作台上使用一块金锭和一块紫水晶碎片来制作的。它们用于制作神圣法术卷轴。"]
 	quest.5F95D00149FB24FD.quest_desc: ["The &bChemical Dissolution Chamber&r takes an &9ore&r and chemically &6dissolves&r all of the impurities resulting in an unprocessed &dslurry of ore&r."]
 	quest.5F95D00149FB24FD.title: "化学溶解室"
 	quest.5FB18A0E7827D203.quest_desc: ["Transporter spirits, as one may expect, can &6transfer items&r between containers. That includes Dimensional Storage, and &bother spirits&r."]
@@ -4713,7 +4714,7 @@
 	]
 	quest.67785FD77E880DDB.quest_subtitle: "深居于主世界底部的稀有洞穴，虚空百合会指引方向。"
 	quest.67785FD77E880DDB.title: "&d虚空之花"
-	quest.67792A4DE6EDBC37.quest_desc: ["The Eldritch Manuscript is made with Eight Knowlege Fragments and one Echo Shard. These are both found while looting Ancient Cities. Upon use it will give you the power of one Eldritch Scroll that you choose. You may unlock more but, a new Manuscript is needed per scroll."]
+	quest.67792A4DE6EDBC37.quest_desc: ["邪术手稿由八个远古知识碎片和一个回声碎片制成。这些碎片都可以在远古城市里找到。使用后，它将赋予你选择的一个邪术法术卷轴的力量。你可以解锁更多，但每解锁一个卷轴就需要一个新的手稿。"]
 	quest.6794A40DE2A79575.quest_desc: [
 		"本模组添加了一种新的&2村民&r。 "
 		"&8（以防你不知道，AE2也加了一种）"
@@ -4807,9 +4808,9 @@
 		"适合在想要安静氛围的情况下使用。"
 	]
 	quest.681A718388A97FFC.title: "降噪升级"
-	quest.682D1178AF51998C.quest_desc: ["Craft any Rune that goes best with the magic armor or upgrade orb that you want."]
+	quest.682D1178AF51998C.quest_desc: ["制作任一符文，用于最适配的魔法盔甲或升级你想要的法球。"]
 	quest.683EEA78F71AC153.quest_desc: ["&b钻石棒&f也有同样的功能，但其&6放置&f的最大数量限制为128个方块。"]
-	quest.68493CE96FD68EBA.title: "Cryomancer"
+	quest.68493CE96FD68EBA.title: "冰霜术士"
 	quest.68721F148E2805FB.quest_desc: [
 		"这是你的第一本&b法术书&r，自此你可以开始&6收集&r并使用&b法术&r了。"
 		""
@@ -4947,7 +4948,7 @@
 	quest.692E56A188B8D3FC.title: "欢迎游玩新生魔艺"
 	quest.693C902E4E926BB4.quest_desc: ["The &bChemical Oxidizer&r can take &3solids&r and &6oxidize&r them into a &egaseous state&r."]
 	quest.693C902E4E926BB4.title: "化学氧化机"
-	quest.69400E62D67A21FC.quest_desc: ["Using a Scroll Forge and an Emerald create an Evocation Scrolls."]
+	quest.69400E62D67A21FC.quest_desc: ["使用卷轴撰写台和一颗绿宝石制作唤魔卷轴。"]
 	quest.69403313B37E8219.quest_desc: [
 		" &bSimple&r:"
 		"    • &6Clicks&r the facing &3target&r"
@@ -5148,7 +5149,7 @@
 	quest.6CA941AE132445D9.title: "机器框架"
 	quest.6CF338A73F212B79.quest_desc: ["Essentially an I/O port, like the &bAndesite Funnel&r, but with &6filtering&r!"]
 	quest.6D0926D173AA5D06.title: "蔓越莓"
-	quest.6D092A4BC4A22314.quest_desc: ["Ancient Knowledge Fragments can be found rarely in bookshelf loot, more commonly found in Ancient Cities or by trading with a Wandering Trader. These are used to Craft an Elditch Manuscript which is key in unlocking Ancient Knowledge that was lost long, long ago and is now only seen used by Wardens and the few who dare to go looking for this old school of magic."]
+	quest.6D092A4BC4A22314.quest_desc: ["远古知识碎片在书架的战利品中很少见，更常见于远古城市或通过与流浪商人交易获得。这些碎片被用来制作邪术手稿，这是解锁很久以前就遗失的古代知识的关键，现在只有监守者和少数敢于寻找这种古老魔法的人才会使用。"]
 	quest.6D18BFC48A82E53E.quest_desc: ["Through the power of gravity, &6throwing&b 1 Gold Ingot, 1 Lapis Lazuli, and 1 Entro dust&f you will obtain&b 1 Entro Infused Ingot&f."]
 	quest.6D702C00A519AD12.quest_desc: ["&b精英提纯工厂&r能够同时处理&a七个&r提纯配方。"]
 	quest.6D702C00A519AD12.title: "精英提纯工厂"
@@ -5279,9 +5280,9 @@
 	quest.703C1F1E9A6F4A9E.quest_desc: ["The &bChemical Infuser&r allows you to react &7two gases&r into a &9singular product&r."]
 	quest.703C1F1E9A6F4A9E.title: "化学灌注器"
 	quest.704C0B04EFF5024C.quest_desc: [
-		"This Table is used to compile &bScrolls &fyou have found and crafted into a &bSpellbook&f."
+		"法术抄写台用于整理你找到并放到&b法术书&f里的&b卷轴&f。"
 		""
-		"To remove a &bScroll, &6click &fon the spell you want to&6 remove&f and &6click&f the &bScroll&f from the Inscription on the &6Right Side&f."
+		"要移除一个&b卷轴，&6点击&f你想&6移除&f的法术，然后&6点击&f&6右侧的&f&b卷轴&f。"
 	]
 	quest.707EBB99AA8F4C57.quest_desc: [
 		"  是时候造点用导电性良好的金属制成的用于输送电能的长线——电线了。&6你可以将这些裸露的线和&b橡胶布&r合成，&6制成&b电缆&r。"
@@ -5320,7 +5321,7 @@
 		"- &b增强药水烧瓶：延长时效&r"
 		"&8（此物与&b薇克精之纤维&8均可&5延长药水时效&8）"
 	]
-	quest.71A219DF9715D153.quest_desc: ["Using the Scroll Forge and a Frozen Bone to craft an Ice Scrolls."]
+	quest.71A219DF9715D153.quest_desc: ["使用卷轴撰写台和冰封骨头制作冰霜法术卷轴。"]
 	quest.71B6DA56399050E1.quest_desc: ["&b个人缩小装置&f通过消耗&4能量&f来将你&a缩小&f。"]
 	quest.71DD555551705B17.quest_desc: [
 		"One of the first uses of &8steel&r is to make a &bDynamic Tank&r. "
@@ -5363,7 +5364,7 @@
 	]
 	quest.72481CA0AC8AFD6A.quest_subtitle: "The Smarter Brother"
 	quest.72481CA0AC8AFD6A.title: "Fluix Smart Cable"
-	quest.72539873C7201A47.quest_desc: ["Poisonous Potatos are used to craft Nature Scrolls."]
+	quest.72539873C7201A47.quest_desc: ["毒马铃薯用于制作自然法术卷轴。"]
 	quest.7277A0413086D71A.quest_desc: ["&6Right-click&f a &bFluix Block &fwith an &bEntro Seed&f to turn it into a &bEntroized Fluix Budding&f."]
 	quest.7290F8670BBBF12E.quest_desc: ["The &bME Active Formation Plane&f works like the regular &bFormation Plane&r, except it pulls the blocks/items from the system without you having to push to it, pretty handy, isn't it?"]
 	quest.72CBC6171104037F.quest_desc: [
@@ -5483,8 +5484,8 @@
 		"Did you expect something else?"
 	]
 	quest.741485F43A560FF3.quest_subtitle: "*Chirp*"
-	quest.7422BD3C0F060AC5.quest_desc: ["These are the highest level spellbooks a experience mage can Obtain"]
-	quest.7422BD3C0F060AC5.title: "Magelike Spellbooks"
+	quest.7422BD3C0F060AC5.quest_desc: ["这些是经验丰富的法师能够获得的最高等级的法术书"]
+	quest.7422BD3C0F060AC5.title: "秘法魔典"
 	quest.742A5BB44F257D8E.quest_desc: [
 		"  &b物品管道&r的工作方式和&b流体管道&r大差不差，但是&6它运的是物品，而且更加灵活&r。和&b流体管道&r一样，它也是默认不与容器连接的，但是你可以强制连接。如果你手中不拿&b扳手&r，点击连接处，就可以打开过滤器界面。"
 		""
@@ -5511,7 +5512,7 @@
 		"Keep in mind, you can't loop the &aenergy&r back around, it's a &cone-way&r process."
 	]
 	quest.74C5FDC3B1E74586.title: "Flux Transformer"
-	quest.74D9B681E8EFE064.quest_desc: ["Ender Pearls are dropped from endermen and are used to create Ender Scrolls."]
+	quest.74D9B681E8EFE064.quest_desc: ["末影珍珠由末影人掉落，并用于制作末影法术卷轴。"]
 	quest.7529F840525E5BDF.quest_desc: ["每个&b终极感应元件&r可以为你的感应矩阵增加&e1.6 TFE&r的能量存储上限。"]
 	quest.7529F840525E5BDF.title: "终极感应元件"
 	quest.7533E0212EFE326D.quest_subtitle: "面向&e蜂箱&r放置时，可将&6蜂蜜&r以&b流体形式&r抽取出来。"
@@ -5574,7 +5575,7 @@
 	quest.76C83F5BB91BA6A4.title: "白色马勃菌"
 	quest.7723EF8CE359646F.quest_desc: ["This spirit will bring back &brandom ores&r - including &bdeepslate ores&r."]
 	quest.7723EF8CE359646F.quest_subtitle: "Do you think the mining dimension is like the overworld?"
-	quest.77719A9FBDFE49A7.quest_desc: ["Once you obtain a blank Runestone you can craft one that is infused with the power different types of magic. These are used to craft upgrades for you gear or just better gear in general"]
+	quest.77719A9FBDFE49A7.quest_desc: ["获得了一块空白符文后，你就可以制作一块注入了不同类型魔力的符文。这些符文用于升级你的装备或更优质的装备。"]
 	quest.77897C0A26941E97.quest_desc: [
 		"- &3Freezes&r targets."
 		""
@@ -5821,9 +5822,9 @@
 	quest.7CB7BF24437115A4.quest_subtitle: "I have a crush"
 	quest.7CB7BF24437115A4.title: "Ritual: Summon Foliot Crusher"
 	quest.7CF09238E123231F.quest_desc: [
-		"The &bRod o' Lightning&r gives you a &a+15%&r &9Spell Cooldown Reduction&r and &eLightning Spell Power&r, it also gives a &a5%&r scroll power to non-lighting &bScrolls&r. "
+		"&b雷霆之杖&r能为你提供 &a+15%&r的&9法术冷却缩减&r和&e雷霆法术能效&r，它还为非雷霆法术卷轴提供&a5%&r的法术能效。"
 		""
-		"Use this to help cast spells more efficiently."
+		"使用这个来更有效地施放法术。"
 	]
 	quest.7D0CF81F7E703B71.quest_desc: [
 		"{image:modern_industrialization:block/machines/water_pump/overlay_front_active width:32 height:32 align:center}"
@@ -5889,7 +5890,7 @@
 	quest.7E49DB806DD04701.quest_desc: [""]
 	quest.7ED9955750255A69.quest_subtitle: "完成对应任务章节。"
 	quest.7ED9955750255A69.title: "&d新生魔艺"
-	quest.7EDF633DDB5DA2A1.quest_desc: ["Frozen Bones are dropped from Strays and are used to craft Ice Scrolls"]
+	quest.7EDF633DDB5DA2A1.quest_desc: ["冰封骨头由流浪者掉落，用于制作冰霜法术卷轴"]
 	quest.7EF829BFBBB4009B.quest_desc: [
 		"在充能台周围放置充能棒并为其供能后，便可在台内为不同材料充能。充能对象既可以是单一物品，也可以是多种物品的组合。"
 		""
@@ -5999,7 +6000,7 @@
 	task.02D1703C79A7F3EF.title: "任意#c:logs/archwood"
 	task.04FBCF96BB8F176A.title: "矿脉枯竭！"
 	task.0BA54BE324AE1978.title: "人生乐事何其多！"
-	task.0D974A2537B460E2.title: "Upgrades AAAAAAAAAAAAHHHHHHHHH"
+	task.0D974A2537B460E2.title: "升级 AAAAAAAAAAAAHHHHHHHHH"
 	task.0FA270C84C6558F4.title: "纯净浆液"
 	task.0FF55D7FA5CEAD32.title: "任意#c:seeds/flax"
 	task.11CC52C63FF1FDE8.title: "Summon a Beaver Familiar"
@@ -6011,11 +6012,11 @@
 	task.160306663D203B48.title: "团队与区块声明"
 	task.17EAF020DF15D376.title: "杂项植物"
 	task.1A36A5D48C75BE0D.title: "Any #minecraft:candles"
-	task.1ACF33BDD92D15DA.title: "KILL the Pope"
-	task.1B5D407F2729F56F.title: "The DEAD King"
+	task.1ACF33BDD92D15DA.title: "击杀牧师"
+	task.1B5D407F2729F56F.title: "死者之王"
 	task.1BEC4027E735B683.title: "Need a guide?"
 	task.1D870ED2303FAE8A.title: "研习魔法？！"
-	task.1F5A29E07CD58234.title: "Hats"
+	task.1F5A29E07CD58234.title: "帽子"
 	task.203841AC95941F00.title: "欢迎来到机械动力！"
 	task.2103677DA5F292DE.title: "Summon a Dragon Familiar"
 	task.21895164503139CA.title: "气液转换机用水"
@@ -6081,7 +6082,7 @@
 	task.74C6D98426025A18.title: "Summon a Guardian Familiar"
 	task.7537E40C4FAB6D5C.title: "欢迎游玩Powah"
 	task.7A0371393E813129.title: "Observe: &2Any Certus Budding&r"
-	task.7AB3BAEAA2E50F06.title: "Archevoker"
+	task.7AB3BAEAA2E50F06.title: "高位唤魔者"
 	task.7C14A87514F74DF9.title: "Make VoidShimmer Soil"
 	task.7E36340AFD8F91C6.title: "Summon a Greedy Familiar"
 }
