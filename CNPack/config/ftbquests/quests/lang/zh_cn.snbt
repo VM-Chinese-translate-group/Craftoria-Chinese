@@ -498,7 +498,7 @@
 	quest.0D1AFCAD90FAA4F9.quest_desc: ["This Rod is pre-attuned to find a &aCommon&r material."]
 	quest.0D44F37BE787CA30.quest_desc: ["This &3substance&r can be &6processed&r in a &bThermopneumatic Processing Plant&r to produce &eLPG&r, which is an &aexcellent&r &7liquid fuel&r comparable in quality to &3Thermal Expansion’s&r &7Refined Fuel&r. "]
 	quest.0D44F37BE787CA30.title: "&6Gasoline"
-	quest.0D8988AF02D890EA.quest_subtitle: "Find an Ancient Battleground"
+	quest.0D8988AF02D890EA.quest_subtitle: "找到远古战场"
 	quest.0D8988AF02D890EA.title: "The Walking Dead"
 	quest.0DA354D54D288D20.quest_desc: [
 		"&b基础热导线缆&r用于将&4热量&r从一个地方传导到另一个地方。"
@@ -966,14 +966,14 @@
 		"- &2可再激活仪式&r&8：飞行之板、收容之板……"
 	]
 	quest.16E5B09AA7E6A487.quest_desc: [
-		"  &bConveyor Belts&r are used to move items around within your machines."
+		"  &b传送带&r是机器中用于移动物品的部件。"
 		""
-		"  They use &bMotors&r to turn and &bRubber Sheets&r as a platform to move."
+		"  它依靠&b电动机&r来旋转，以&b橡胶布&r作为移动的平面。"
 		""
-		"  &6You should automate these&r."
+		"  &6这个需要自动化生产&r。"
 	]
 	quest.16E5B09AA7E6A487.quest_subtitle: "All Aboard the Item Express!"
-	quest.16E5B09AA7E6A487.title: "Conveyor Belts"
+	quest.16E5B09AA7E6A487.title: "传送带"
 	quest.16F37A3E31EBDA50.quest_desc: [
 		"速度很快的单座飞机，需要耗费很多体力来驾驶，但开起来还是挺有趣的，伙计！"
 		""
@@ -1680,8 +1680,8 @@
 	quest.2209DC294580BF3D.title: "&b雪怪首领"
 	quest.222793DF035B167C.quest_desc: ["The simplest &bcable&f to make, &6transfers&b power &fand &bchannels&f to your system"]
 	quest.222793DF035B167C.title: "Fluix Glass Cable"
-	quest.22420EF3089DD7F6.quest_desc: ["  Your first taste of true &4a&r&6u&r&et&r&2o&r&am&r&ba&r&3t&r&9i&r&do&r&5n&r! This is also the first machine you'll want to make a lot of. The &bAssembler&r allows you to &6automate&r almost all recipes related to the machines. Check your &bEMI&r to see which recipes you are allowed to automate using the &bAssembler&r. You can setup up to &63 recipes in one assembler&r by using &6slot locking&r. Just remember that it will make as many of the first recipe before it moves onto the next, &6so never put multiple high demand recipes into a single assembler&r."]
-	quest.22420EF3089DD7F6.title: "Assembler"
+	quest.22420EF3089DD7F6.quest_desc: ["  从这里开始，你才真正推开了完全&4自&r&a动&r&d化&r的大门！这大概也是第一个你想要大量制造的机器。&b装配机&r可以实现几乎所有使用机器的配方的&6自动化&r。你可以使用&bEMI&r查看&b装配机&r可以自动化的配方。利用&6锁定编辑&r，你可以在&6一个装配机&r中设置多达&63个配方&r。但是记住，它只有在材料耗尽无法继续合成当前配方时，才会进入下一个配方。&6因此，最好不要把几个高需求量的配方塞进一个装配机里&r。"]
+	quest.22420EF3089DD7F6.title: "装配机"
 	quest.22488BFDDB85DB29.quest_desc: ["Some say, the best looking &bfluid pipes&r in the game—they even sport windows to &6show&r &9fluid&r flowing within them."]
 	quest.225C580584927804.quest_desc: ["&b高级烧炼工厂&r能够同时进行最多&a五个&r烧炼任务，同样包含\"&e自动分类&r\"功能。"]
 	quest.225C580584927804.title: "高级烧炼工厂"
@@ -2844,12 +2844,12 @@
 	quest.3C1D103FCEF249C8.title: "&e组装机械？"
 	quest.3C2B6ABA8420BF3B.title: "芒果"
 	quest.3C3519AFEBBAEC70.quest_desc: [
-		"  &bPistons&r use rotational force to extend a rod out with a lot of possible force."
+		"  &b活塞&r将旋转力转化为活塞杆向前伸出时巨大的力。"
 		""
-		"  This is very useful for compressing things, as well as packing things. &6You should automate these&r."
+		"  这用来压缩或者打包物品非常合适。&6这个需要自动化生产&r。"
 	]
-	quest.3C3519AFEBBAEC70.quest_subtitle: "Metal Punch"
-	quest.3C3519AFEBBAEC70.title: "Pistons"
+	quest.3C3519AFEBBAEC70.quest_subtitle: "金属冲压"
+	quest.3C3519AFEBBAEC70.title: "活塞"
 	quest.3C6E442CEB73191F.quest_desc: [
 		"&b燃气发电机&r可以使用各种&c可燃气体&r发&e电&r。"
 		""
@@ -5140,12 +5140,12 @@
 	]
 	quest.6C96992416059AC4.quest_subtitle: "The \"Do It All\" Tool!"
 	quest.6CA941AE132445D9.quest_desc: [
-		"  &bMachine Hulls&r contain the main electronics to allow machines to run. There are different tiers to machine hulls, each allowing you to upgrade your machines. The &bBasic Machine Hull&r is the base of every machine that takes LV power."
+		"  &b机器框架&r含有运行机器所需的主要电子设备。机器框架有不同的等级，相应的，机器也可以升级。&b基础机器框架&r是所有LV机器的基础。"
 		""
-		"  If you want your machine to accept MV power, you must upgrade it using an &bAdvanced Machine Hull&r. You can do this by &6right clicking the machine with the upgraded hull&r in your hand or by placing it in the top right slot of the machine's GUI that seems to have a small isometric cube depiction. You can do the same with higher tier hulls as they will allow for higher tier power sources."
+		"  如果你想让你的机器直接使用MV能源，你就必须用&b进阶机器框架&r升级它。只需要手持&6更高级的机器框架右击机器&r，或将它放入机器GUI右上角画有小立方体图案的槽位即可升级。你可以继续用更高级的框架升级机器，这样就可以使用更高级的能源了。"
 	]
-	quest.6CA941AE132445D9.quest_subtitle: "The Electronic Heart"
-	quest.6CA941AE132445D9.title: "Machine Hulls"
+	quest.6CA941AE132445D9.quest_subtitle: "电子之心"
+	quest.6CA941AE132445D9.title: "机器框架"
 	quest.6CF338A73F212B79.quest_desc: ["Essentially an I/O port, like the &bAndesite Funnel&r, but with &6filtering&r!"]
 	quest.6D0926D173AA5D06.title: "蔓越莓"
 	quest.6D092A4BC4A22314.quest_desc: ["Ancient Knowledge Fragments can be found rarely in bookshelf loot, more commonly found in Ancient Cities or by trading with a Wandering Trader. These are used to Craft an Elditch Manuscript which is key in unlocking Ancient Knowledge that was lost long, long ago and is now only seen used by Wardens and the few who dare to go looking for this old school of magic."]
@@ -5196,9 +5196,9 @@
 	quest.6EDFD510DC096B12.title: "改造站"
 	quest.6EEAF4D9F3BF6414.quest_desc: ["&b建筑小帮手&f可用于建筑工作。"]
 	quest.6EF133E0EC49BC33.quest_desc: [
-		"  Flexible, non-conductive, and strong. &bRubber&r will be a major part of every electric machine. You can produce it by &6mixing&r &bPaper&r with either &bSynthetic Oil&r or &bSynthetic Rubber&r. Mix the &bCoke Dust&r you made with &bWater&r in a &bMixer&r to produce &bRaw Synthetic Oil&r. Use a &bSteam Blast Furnace&r to produce these two fluids. &bSynthetic Rubber&r is more difficult to obtain, &6but will yield more rubber per sheet of paper&r."
+		"  柔性、绝缘、坚韧的材料。&b橡胶&r是电动机器不可或缺的重要组分。将&b纸&r和&b合成油&r或者&b合成橡胶&r&6混合&r即可制得橡胶。在&b搅拌机&r中混合&b焦炭粉&r和&b水&r可制得&b粗制合成油&r，再用&b蒸汽高炉&r处理即可得到合成油。制造&b合成橡胶&r稍微麻烦一点，&6但是它可以用一张纸制成更多的橡胶布&r。"
 		""
-		"  Remember that you'll need a &olot&r of &bRubber Sheets&r in the long run, so you'll need to make them constantly. Note that you can use &bWood&r to &6grind down&r and turn into &bWood Pulp&r which can then be turned into &bPaper&r with a high output yield."
+		"  你未来会需要&o很多&r的&b橡胶布&r，因此你需要持续地生产它。你可以&6研磨&r&b原木&r得到&b木浆&r，再制成&b纸&r，这种方法产量比较高。"
 	]
 	quest.6EF133E0EC49BC33.title: "橡胶"
 	quest.6F07EDE7A819467B.quest_subtitle: "完成对应任务章节。"
@@ -5588,16 +5588,16 @@
 	quest.77968A26B3D90399.quest_subtitle: "Best wrench in the game, I say."
 	quest.77978ED3AC1DFA26.quest_desc: ["&aExtendedAE &fis a mod that can be used to &aspeed up, and expand &aae2 &fso its faster and bigger."]
 	quest.779C3C6B89AD2526.quest_desc: [
-		"  Electric machines work exactly the same as steam machines, except from the fact &6they require electricity to function instead of steam&r and they can progressively overclock recipes to up to 32 EU/t (for now)."
+		"  电力机器的工作方式和蒸汽机器大差不差，只是&6它们消耗电能来工作，而不是蒸汽&r，而且可以将配方超频到32 EU/t（目前如此）。"
 		""
-		"  You can use your EMI to view the recipes for the electric versions of the machines you are already familiar with. The recipes are more complex and will require more specific machine oriented parts."
+		" 你可以使用EMI查看你熟悉的机器的电动版本的配方。它们制作起来更复杂，需要许多奇奇怪怪的零件。"
 		""
-		"  Your first main part will be the &bAnalog Circuits&r. This will be the main circuit for the LV machines as well as the base for high tier circuits and machines. &6You should automate this as soon as possible&r."
+		" 你的第一个核心零件就是这个&b模拟电路&r。它是LV机器的主电路，也是更高级机器和电路的基础材料。&6你最好尽快把它的生产自动化了&r。"
 		""
-		"  I strongly suggest that you begin to automate parts as soon as you possibly can. I'll let you know which parts you should automate as we come across them. Doing so will make electric machines practically free as you wont need to manually craft any components by yourself!"
+		"  我强烈建议你尽快开始自动化这些零件的生产。我会在任务中告诉你哪些零件需要自动化生产的。搞好了自动化，制造这些电力机器就跟免费的似的了，因为所有的零件都不需要你自己动手制造了！"
 	]
-	quest.779C3C6B89AD2526.quest_subtitle: "Time for a Major Upgrade"
-	quest.779C3C6B89AD2526.title: "&eThe Electric Age!"
+	quest.779C3C6B89AD2526.quest_subtitle: "大飞跃"
+	quest.779C3C6B89AD2526.title: "&e电气时代！"
 	quest.7806DD85D325C01C.quest_desc: [
 		"   &bPolymorphic Catalyst&r is the key to unlock JDT's better &bfuels&r."
 		""
@@ -5641,9 +5641,9 @@
 	quest.78EDBDED3BFEC145.title: "欢迎来到&aCraftoria&r！"
 	quest.78F7F62C0E2E7448.quest_desc: ["&b终极提纯工厂&r能够同时处理&a九个&r提纯配方。"]
 	quest.78F7F62C0E2E7448.title: "终极提纯工厂"
-	quest.791CAEBAE57EF0E1.quest_desc: ["  &bMotors&r take electricity and produce a rotational force. You'll use motors to create many of the machines and other components in the future. &6You should automate these&r."]
+	quest.791CAEBAE57EF0E1.quest_desc: ["  &b电动机&r利用电能产生旋转力。在未来你制造很多机器和其他零件的时候都会用到电动机。&6这个需要自动化生产&r。"]
 	quest.791CAEBAE57EF0E1.quest_subtitle: "You Spin Me Right 'Round"
-	quest.791CAEBAE57EF0E1.title: "Motors"
+	quest.791CAEBAE57EF0E1.title: "电动机"
 	quest.7921D6460E480F82.quest_desc: [
 		"Use a &bBoiler Value&r to &cinput heat&r and &9water&r. "
 		""
@@ -5790,14 +5790,14 @@
 	]
 	quest.7BEA5B1D1B410E82.title: "高级太阳能发电机"
 	quest.7C0FA555C5FE00D1.quest_desc: [
-		"  &bRobotic Arms&r are ways to automatically move things around within a machine."
+		"  &b机械臂&r是机器中用于自动移动物品的部件。"
 		""
-		"  These can be very complex components and thus are made of &bSteel&r to stay strong and prevent internal damage."
+		"  这玩意是个很复杂的东西，所以得用&b钢&r制成，以保证它的强度，避免内部损伤。"
 		""
-		"  &6You should automate these&r."
+		"  &6这个需要自动化生产&r。"
 	]
-	quest.7C0FA555C5FE00D1.quest_subtitle: "Beep Boop"
-	quest.7C0FA555C5FE00D1.title: "Robotic Arms"
+	quest.7C0FA555C5FE00D1.quest_subtitle: "哔嘟"
+	quest.7C0FA555C5FE00D1.title: "机械臂"
 	quest.7C201074DDBAE831.quest_desc: ["I guess that entire biome could disappear into your &bME Storage..."]
 	quest.7C201074DDBAE831.title: "256k Storage Component"
 	quest.7C31082BB88384BF.quest_desc: [
@@ -5969,13 +5969,13 @@
 	]
 	quest.7FD2368444636E93.quest_subtitle: "Enhance"
 	quest.7FD5FCEFE3697A7C.quest_desc: [
-		"For only a &omeasly&r &e8EU/t&r, the &bSteam Farmer&r can perform the following things:"
-		"- &6Tilling&r: When enabled, dirt blocks will be turned into farmland. This will not work unless water is supplied."
-		"- &6Hydrating&r: When supplied with water, tilled soil will be hydrated."
-		"- &6Harvesting&r: When there is enough output space provided, it will harvest fully grown crops and trees."
-		"- &6Plating&r: When supplied with crops or saplings, it will plant them on valid soil. Using different plating modes will plant them in different arrangements."
+		"&b蒸汽农耕机&r只需要&o微不足道的&r&e8EU/t&r，就可以实现："
+		"-&6耕地&r：启用时，可将泥土变为耕地。需要提供水才能工作。"
+		"-&6灌溉&r：供水时可将耕地变得湿润。"
+		"-&6收获&r：当输出空间足够时，收获成熟的作物和树木。"
+		"-&6种植&r：提供作物或树苗时，自动在合适的方块上种植它们。选择不同的种植模式，即可按照不同的排列方式种植。"
 	]
-	quest.7FD5FCEFE3697A7C.quest_subtitle: "What did the baby &ecorn&r say to the mama &ecorn&r?"
+	quest.7FD5FCEFE3697A7C.quest_subtitle: "&e谷子&r宝宝对&e谷子&r妈妈说了什么？"
 	quest.7FEBDFAE021B3C56.quest_desc: ["Useful for &oreally&r big crafts."]
 	quest.7FEBDFAE021B3C56.title: "Mega Crafting Storage"
 	reward_table.0DF6EBF90213BF49.title: "Immersive Aircraft"
@@ -6071,7 +6071,7 @@
 	task.64433571E92D5E65.title: "表情动作"
 	task.6544A3FD1B532809.title: "Summon a Demonic Husband"
 	task.65A43DD683FB39E4.title: "Summon a Foliot Lumberjack"
-	task.65B2D0E35B083E82.title: "Survival of the Fittest"
+	task.65B2D0E35B083E82.title: "适者生存"
 	task.66BF2FED6B091A68.title: "探索世界！"
 	task.6C6C366D034AF5C7.title: "Summon an Otherworld Sapling Trader"
 	task.708EE345AEBB270B.title: "Make ShadowPulse Soil"
