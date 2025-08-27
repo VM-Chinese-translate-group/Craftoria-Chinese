@@ -52,8 +52,8 @@
 		"这个超棒的大家伙拥有可供四人乘坐的座舱、三个引擎、两个武器舱位，并且还有充足的空间用于存放作战物资或者将战利品运回基地。"
 	]
 	quest.0075009DEEA010B7.quest_subtitle: "我是不是听到有人在放《女武神的骑行》？"
-	quest.00AC0C951A5D79D9.quest_desc: ["&0Black&r Chalk is the stablest of all. Its power keeps even the strongest spirits in check."]
-	quest.00AC0C951A5D79D9.quest_subtitle: "Perfect Foundation"
+	quest.00AC0C951A5D79D9.quest_desc: ["所有粉笔中，&0黑色&r粉笔是最稳定的。它的力量甚至能控制最强大的魔灵。"]
+	quest.00AC0C951A5D79D9.quest_subtitle: "完美阵基"
 	quest.00B1AE0AB854AB40.title: "硫酸"
 	quest.010F3BEDCA334DCB.quest_desc: [
 		"&b破坏升级&f会&6摧毁&f你指向的方块（但&c不包括&f方块实体）。这些方块将会&4完全消失&f ，不过你可以使用撤销功能来&6撤销&f错误操作。"
@@ -68,20 +68,20 @@
 		""
 		"同时，&b终极灌注工厂&r能够容纳最多&18,960 mb&r灌注材料。"
 	]
-	quest.0145A878C472548C.quest_desc: ["This spirit takes care of &6farming&r &btrees&r for you. It even attempts to replant them!"]
-	quest.0145A878C472548C.quest_subtitle: "Got wood?"
-	quest.0145A878C472548C.title: "Ritual: Summon Foliot Lumberjack"
+	quest.0145A878C472548C.quest_desc: ["这个魔灵会帮你 &6种植和收获&r&b树木&r，并还会重新种植它们！"]
+	quest.0145A878C472548C.quest_subtitle: "有木头吗？"
+	quest.0145A878C472548C.title: "仪式：召唤魔精伐木工"
 	quest.017309CDB87F2A1E.quest_desc: [
 		"它本身没什么用……但却是制作其他好东西的关键材料。"
 		""
 		"所以，这或许会是你第一个想要造个机器来批量生产的东西。"
 	]
 	quest.01E8A006742F7A00.quest_desc: [
-		"By default, the Actuator's storage space is not the largest."
+		"默认情况下，促动器的存储空间不是最大的。"
 		""
-		"You can solve that problem by using &bStabilizers&r. These will further &6stabilize&r the Actuator's link to the storage dimension. allowing for it to &6store more&r and more."
+		"你可以使用&b稳定器&r来解决这个问题。它们将进一步&6稳定&r促动器与存储维度的连接，使其能够&6存储越来越多&r。"
 	]
-	quest.01E8A006742F7A00.quest_subtitle: "That's still not enough"
+	quest.01E8A006742F7A00.quest_subtitle: "还不够"
 	quest.02272D430F08B1DC.quest_desc: [
 		"  Now you can make a large tank! This is a tank multi-block that can store 64,000mb &oper&r block within the total volume the tank takes up, air blocks and solid."
 		""
@@ -252,8 +252,8 @@
 	]
 	quest.061C09A44A80D7D8.quest_subtitle: "Autocraft time?"
 	quest.061C09A44A80D7D8.title: "Wixie's Enchanting Apparatus"
-	quest.061EC183CDCBB25B.quest_desc: ["This spirit will mine &brandom Ores&r. It is also a little faster."]
-	quest.061EC183CDCBB25B.quest_subtitle: "Diggy diggy hole"
+	quest.061EC183CDCBB25B.quest_desc: ["这种魔灵会挖掘&b随机的矿石&r。当然，它也稍微快一点。"]
+	quest.061EC183CDCBB25B.quest_subtitle: "挖呀挖呀挖"
 	quest.06294216A755E2F2.quest_desc: ["用烈焰棒制作炽焰法术卷轴。"]
 	quest.0633D2B1E1DB778B.quest_desc: ["&6烧炼&b赛特斯石英粉&f可获得硅，&b硅&f能够制作3种接下来你会用到的处理器。"]
 	quest.0633D2B1E1DB778B.title: "硅"
@@ -286,8 +286,8 @@
 	quest.077658D04D0D4AB3.title: "Sal Ammoniac Accumulator"
 	quest.07821D28021BB440.quest_desc: ["&6Breaks&r &bblocks,&r 'nuff said."]
 	quest.07821D28021BB440.quest_subtitle: "Drill, Baby. Drill!"
-	quest.07D88A0ABF82A39A.quest_desc: ["Harvested from &6Animals&f while using a &bKnife&f."]
-	quest.07D88A0ABF82A39A.quest_subtitle: "Perfect candle material"
+	quest.07D88A0ABF82A39A.quest_desc: ["使用 &b刀&f 从 &6动物&f 上获取。"]
+	quest.07D88A0ABF82A39A.quest_subtitle: "完美的蜡烛材料"
 	quest.07F1FA5EF3E6A7F3.quest_desc: [
 		"This &3substance&r can be &6processed&r in a &bThermopneumatic Processing Plant&r to &6produce&r &bKerosene&r or, by adding &4Redstone, Lubricant&r. "
 		""
@@ -487,13 +487,13 @@
 	quest.0C6D0B1C1AF75292.quest_subtitle: "Say My Name!"
 	quest.0C6D0B1C1AF75292.title: "Chemical Reactor"
 	quest.0C91DF887A33A8E6.quest_desc: [
-		"&oRemember how I said spirits can mine ores for you?&r"
+		"&o还记得我说过魔灵可以为你采矿吗？&r"
 		""
-		"This device is a portal to another dimension, one that only your spirits can enter. &6Supply&r a &bminer spirit&r, and it will bring back &bOre&r and &bother blocks&r, storing them in its inventory."
+		"这个装置是通往另一个维度的传送门，只有你的魔灵才能进入。&6放入&r一只&b矿工魔灵&r，它将带回&b矿石&r和&b其他方块&r，并存储在其中。"
 		""
-		"The block can be &6disabled&r with &bredstone,&r and the lamp's &bdurability&r can be &6measured&r by a &bcomparator.&r With some simple wiring, you can stop your miners' lamps from breaking before it is too late."
+		"这个方块可以用&b红石&r来&6禁用，&r神灯的&b耐久度&r可以用&b比较器&r来&6测量。&r通过一些简单的布线，你可以在为时已晚之前阻止矿工的神灯损坏。"
 	]
-	quest.0C91DF887A33A8E6.quest_subtitle: "It's not void mining; it's pocket dimension mining"
+	quest.0C91DF887A33A8E6.quest_subtitle: "这不是虚空采矿；这是在口袋维度中采矿"
 	quest.0C9D9AFD7C5C9F97.quest_desc: ["&b下界合金棒&f也有同样的功能，但其&6放置&f的最大数量限制为1024个方块。"]
 	quest.0D1AFCAD90FAA4F9.quest_desc: ["This Rod is pre-attuned to find a &aCommon&r material."]
 	quest.0D44F37BE787CA30.quest_desc: ["This &3substance&r can be &6processed&r in a &bThermopneumatic Processing Plant&r to produce &eLPG&r, which is an &aexcellent&r &7liquid fuel&r comparable in quality to &3Thermal Expansion’s&r &7Refined Fuel&r. "]
@@ -634,8 +634,8 @@
 	quest.0FA3C7049E71EA4A.title: "64k Storage Component"
 	quest.0FB6106D73ABB512.title: "管道升级"
 	quest.0FDA602713778AF0.title: "三阶 1:3"
-	quest.0FE6DFF73BE7AA10.quest_desc: ["&aLime&r Chalk is needed to summon spirits greater than Foliot. It certifies your mastery of the basics of occultism."]
-	quest.0FE6DFF73BE7AA10.quest_subtitle: "Knowledge"
+	quest.0FE6DFF73BE7AA10.quest_desc: ["召唤比魔精更强大的魔灵需要使用&a黄绿色&r粉笔。它证明了你对神秘学基础知识的掌握。"]
+	quest.0FE6DFF73BE7AA10.quest_subtitle: "知识"
 	quest.10391A74418CA104.quest_desc: [
 		"Essential for one of my favorite class of contraptions: the &bdrillificator&r*."
 		""
@@ -647,13 +647,13 @@
 	quest.103CFBF5C4599A7B.title: "挖矿"
 	quest.10534DA1BD464834.quest_subtitle: "Dropped within the Trials of Awaken gateway. "
 	quest.1081BFCAB3F07FFF.quest_desc: [
-		"  Need a steamy upgrade? I know I do! The &bLarge Steam Boiler&r is an upgraded version of the smaller bronze and steel boilers. &6It uses fuel 8 times faster&r than the Furnace, but it produces &6256 mb/t of steam&r when at max temperature. Make sure you don't forget to provide it &bWater&r!"
+		"  需要蒸汽升级吗？是的我需要！&b大型蒸汽锅炉&r是小青铜/钢锅炉的升级版。&6它消耗燃料的速度是熔炉的8倍&r，达到最高温度时可产生&6256 mb/t的蒸汽&r。还有，要记得给它供&b水&r！"
 		""
-		"  The main block you'll need is &bBronze Plated Bricks&r, but you'll also need other blocks shown in your EMI. The &bLarge Steam Boiler&r is comprised of one layer of &bHeatproof Machine Casings&r with layers of &6Bronze Plated Bricks&r and &6Pipe Machine Casings&r."
+		"  你主要会用到很多&b镀青铜砖块&r，以及一些其他的方块，EMI里有写。&b大型蒸汽锅炉&r由一层&b耐热机器外壳&r和几层&6镀青铜砖块&r以及&6管道机器外壳&r组层。"
 		""
-		"  The Controller is on the second layer, on top of the &bHeatproof Machine Casings&r. &6Don't forget you can use your &bWrench&r &6to show the shape of the multiblock and placement of the blocks needed for it&r. The required hatches must be placed on the bottom layer. You'll need a way to input water and a solid fuel, as well as a way to extract &bSteam&r."
+		"  控制器在第二层，&b耐热机器外壳&r的上面。&6别忘了用&b扳手&r&6可以显示多方块结构的形状和各个方块的位置&r。所需的输入/输出仓必须放在最底层。你需要输入水和固体燃料，还要输出&b蒸汽&r。"
 	]
-	quest.1081BFCAB3F07FFF.title: "Large Steam Boiler"
+	quest.1081BFCAB3F07FFF.title: "大型蒸汽锅炉"
 	quest.1094111FB9512D75.quest_desc: [
 		"  There are three &bSmall Diesel Generators&r that are the beginning of power generation via fluids or gases. You can use your EMI to check for how much EU will be produced per millibucket of each type of fuel."
 		""
@@ -738,9 +738,9 @@
 	quest.132511B52E6234EF.title: "精英融合工厂"
 	quest.132ED1F976F1D0AB.title: "黄色发光甘蔗"
 	quest.134098BE2769F85A.quest_desc: [
-		"If an &boccult familiar&r &6dies&r, it will drop such a shard."
+		"如果一个&b使魔&r&6死亡&r，它会掉落像这样的碎片。"
 		""
-		"You can use this to &6revive&r it, if you like."
+		"你可以用这个来&6复活&r它。"
 	]
 	quest.135FBE79D4415F15.quest_desc: [
 		"  Before you even ask, the answer is no. These &bnukes&r do &onot&r explode. These are nukes without it's detonator. "
@@ -782,9 +782,9 @@
 	quest.151E812270A52250.quest_desc: ["&6Crafting Components&f are used to craft &bCo-Processing Units&r and &bCrafting Storages&b."]
 	quest.151E812270A52250.title: "Crafting Unit"
 	quest.1523A200F5E4361B.quest_desc: ["The &bExtended Inscriber &fwill allow for &afour process &fat the same time."]
-	quest.15325B16AFE33D5C.quest_desc: ["You'll need &bTallow&r to make proper occultist candles. &6Killing larger animals&r with any &bknife&r will harvest some."]
-	quest.15325B16AFE33D5C.quest_subtitle: "Tools of the Trade"
-	quest.15325B16AFE33D5C.title: "Knives"
+	quest.15325B16AFE33D5C.quest_desc: ["你需要&b动物油脂&r来制作合适的蜡烛。用任意的&b刀&r&6击杀大型动物&r可以获得一些。"]
+	quest.15325B16AFE33D5C.quest_subtitle: "必备工具"
+	quest.15325B16AFE33D5C.title: "刀"
 	quest.156575F76CAB51A0.quest_desc: [
 		" You have reached &dINFINITY&r. "
 		""
@@ -855,46 +855,46 @@
 	quest.1610E88D5231E670.quest_desc: ["&b热力蒸馏控制器&r是热力蒸馏塔的大脑，热力蒸馏塔可以接收&7流体&r，&6蒸发&r其中的&7水分&r，&9浓缩&r&3溶解其中的溶质&r，在&6EMI&r可以查看能够得到的物品。你&o也许&r需要多建几个……"]
 	quest.1610E88D5231E670.title: "热力蒸馏控制器"
 	quest.162DD68C3B91FC5E.quest_desc: [
-		"  We have a lot to cover."
+		"  这里有好多要讲的。"
 		""
-		"  Cable networks have hard limitations on the amount of energy they will pull into the network depending on the tier. you can see a few stats below..."
+		"  电缆网络的最大能量输入速率受到其等级的严格限制。部分数据如下……"
 		""
-		"    Max Transfer Rate: 256 EU/t"
-		"    Material: Tin"
-		""
-		""
-		"    Max Transfer Rate: 1024 EU/t"
-		"    Material: Electrum"
+		"    最大传输速率：256 EU/t"
+		"    材质：锡"
 		""
 		""
-		"    Max Transfer Rate: 8192 EU/t"
-		"    Material: Aluminum"
+		"    最大传输速率：1024 EU/t"
+		"    材质：琥珀金"
 		""
 		""
-		"    Max Transfer Rate: 65536 EU/t"
-		"    Material: Annealed Copper"
+		"    最大传输速率：8192 EU/t"
+		"    材质：铝"
 		""
 		""
-		"  Now, the input and transfer rate is hard capped, but the discharge rate is infinite. This mean, for example, a LV cable network can provide more than 256 EU/t for a short amount of time. The larger the cable network, the larger the internal cable buffer. All this \"stored\" energy can be discharged almost instantaneously if given a place to go to."
+		"    最大传输速率：65536 EU/t"
+		"    材质：退火铜"
 		""
-		"  Do keep in mind that &6each tier of cable will &oonly&r &6connect to it's respective tier electric machine&r. A LV cable will not connect to steam machines, MV machines, or HV machines. The method that each machine uses to process and use electricity is different depending on the strength of the power it receives."
 		""
-		"  If you want to transfer more energy than the cable tier allows you to, you can either create multiple cable networks or use &bTransformers&r. &bTransformers&r allow you to step up or step down your power. This means, for example, &6you can take LV power and turn it into HV power and vice versa&r."
+		"  虽然输入速率被限制死了，但是输出速率可没有。也就是说，举个例子，LV电缆其实是可以在短时间内提供超过256 EU/t 的能量的。电缆网络越大，其内部可缓存的能量就越多。如果给它们一个去处，这些“储存”的能量就会瞬间被释放。"
 		""
-		"  As you'll see, an &oX&r to &oY&r transformer will connect to &oY&r cables on its output side and &oX&r cables on its 5 input sides. &6You can use your &bWrench&r &6to configure which side the output is&r."
+		"  请记住，&6不同等级的电缆&o只能&r&6与相应等级的机器相连&r。LV电缆不会连上蒸汽机器、MV机器或者HV机器。每个机器工作和使用电能的方式都依其接受的能量强度而有所不同。"
 		""
-		"  Cables follow the same rules that fluid and item pipes follow. Using a &bWrench&r on them will disconnect connections and shift right clicking will break them, this time losing the power in that specific section of cable network."
+		"  如果你想突破当前等级电缆的传输速率限制，你可以多造几个电缆网络，或者使用&b变压器&r。&b变压器&r可以升高或降低能量的电压。也就是说，举个例子，&6你可以将LV能量变为HV能量，反之亦然&r。"
 		""
-		"  P.S. Cables from Modern Industrialization, connected to any medium that accepts FE power, will 10x the power from EU to FE. There is an upgrade to this down the line, so look out for it!"
+		"  &oX&r至&oY&r变压器的输出面可连接&oY&r电缆，其余5个输入面可连接&oX&r电缆。&6用&b扳手&r&6可更改输出面位置&r。"
+		""
+		"  电缆也遵循流体和物品管道遵循的规则。用&b扳手&r右击电缆可断开连接，shift右击可将电缆拆卸下来，但其内部缓存的能量会丢失。"
+		""
+		"  P.S.现代工业化模组的电缆如果连接到任何使用FE能量的东西，就会将EU以十倍的比率转化为FE。之后这个会有所升级，还请留意一下！"
 	]
-	quest.162DD68C3B91FC5E.title: "Energy Transfer"
+	quest.162DD68C3B91FC5E.title: "能量传输"
 	quest.163BCEEEE08F3898.quest_desc: [
-		"  The &bPolarizer&r, well, polarizes stuff! What this means is that it's ||electrons|| are lined up and thus the metal you feed into it becomes magnetic."
+		"  &b电磁偏振器&r可以磁化东西！就是把金属中的||电子||定向排列，使它变得有磁性。"
 		""
-		"  &bPolarized Rods&r don't have the most uses, but &6using them for the automation of motors is perfect&r!"
+		"  &b磁化杆&r的用途不多，但是&6用于电动机生产的自动化是极好的&r！"
 		"{image:modern_industrialization:block/machines/polarizer/overlay_front_active width:32 height:32 align:center}"
 	]
-	quest.163BCEEEE08F3898.title: "Polarizer"
+	quest.163BCEEEE08F3898.title: "电磁偏振器"
 	quest.1646940008F2A109.quest_desc: [
 		"&b辞典&r能够用来查找&b物品&r和&b方块&r的&9标签&r。"
 		""
@@ -921,11 +921,11 @@
 	]
 	quest.1687FEFDB90272B0.quest_desc: ["无论是农夫乐事、乡村乐事、饺子乐事还是果园乐事模组，都为我们心爱的游戏添加了不少作物。"]
 	quest.168AB4DADB1CA2D9.quest_desc: [
-		"All &bChalk&r is crafted &6impure&r, and can be &6purified&r in &5Spiritfire&r to become usable."
+		"所有制成的&b粉笔&r都是&6含杂的&r，可以在 &5灵火&r中&6净化&r后使用。"
 		""
-		"White Chalk is the simplest foundation chalk, and has no unique properties on its own."
+		"白色粉笔是最基础的阵基粉笔，本身没有独特的属性。"
 	]
-	quest.168AB4DADB1CA2D9.quest_subtitle: "First Foundation"
+	quest.168AB4DADB1CA2D9.quest_subtitle: "第一阵基"
 	quest.16AAEB122CDC1A46.quest_desc: [
 		"{image:modern_industrialization:block/machines/mixer/overlay_top_active width:32 height:32 align:center}"
 		"  这是一个外壳光滑的青铜机器，顶部嵌着一个闪闪发光的金属碗，碗里是搅拌机的叶片。它可以&6混合&r各种各样的东西！你可以用它来&6混合粉末&r，产率比手工更高，因为这样就不会把粉撒得到处都是了。"
@@ -1214,11 +1214,11 @@
 	quest.1A885E0BA312B916.quest_desc: ["&b电阻形加热器&r可以将&a能量&r转化为热量，然后，通过&b热力蒸馏阀门&r，你可以把热量&6输入&r进蒸馏塔，以提高蒸馏塔的温度。"]
 	quest.1A885E0BA312B916.title: "电阻型加热器"
 	quest.1A8D5373290BC1A6.quest_desc: [
-		"With the help of spirits, it's possible to create a link to another dimension where you can &6store&r all of those &bitems&r you've amassed - truly, your collection is a marvel."
+		"你可以在魔灵的帮助下，创建通往另一个维度的链接。在那里你可以&6存储&r收集到的所有&b物品&r——说真的，你的收藏真是惊人。"
 		""
-		"You'll need the &bStorage Actuator&r to do this. Think of it as a really big chest."
+		"你需要使用&b存储促动器&r来实现这些。就把它想象成一个非常大的箱子。"
 	]
-	quest.1A8D5373290BC1A6.quest_subtitle: "Magical storage"
+	quest.1A8D5373290BC1A6.quest_subtitle: "储存魔法"
 	quest.1A9827E5F8B7CF39.quest_desc: [
 		"每个&b高级加压管道&r都会给管道网络增加&916,000mb/t&r的总容量和基本速率。"
 		""
@@ -1384,8 +1384,8 @@
 	quest.1DF80E9D2A1732BC.quest_desc: ["Use a &5Dispel&r spell or &4kill&r the mob to get the charm back."]
 	quest.1DF80E9D2A1732BC.quest_subtitle: "Dispel / Kill"
 	quest.1DF80E9D2A1732BC.title: "Accidental summon?"
-	quest.1E6ADDD42C99274D.quest_desc: ["The master miner marid is not the best after all! This... entity? will mine &balmost ten times as many resources&r as the marid miner."]
-	quest.1E6ADDD42C99274D.quest_subtitle: "These riches are all mine"
+	quest.1E6ADDD42C99274D.quest_desc: ["矿脉领主魔王终究不是最好的！这个……魔灵？比魔王矿工多挖掘&b几乎十倍&r 的资源 。"]
+	quest.1E6ADDD42C99274D.quest_subtitle: "稀世珍宝都是我的"
 	quest.1E7FD1EBAE4891FA.quest_desc: [
 		"所有玩家都有一个魔力值（或魔源）条"
 		"&8（当你&6主手&r&8持有&b法术书&r&8时，魔力值条就会出现在屏幕左下方&8）"
@@ -1465,14 +1465,14 @@
 	quest.1F81CBD8519E244B.quest_subtitle: "Lava and Loving It"
 	quest.1F81CBD8519E244B.title: "Blazegold Armor"
 	quest.1F828E56F64FFD15.quest_desc: [
-		"&5Spiritfire&r is a special kind of flame that can &6transform&r some objects into others."
+		"&5灵火&r是一种特殊的火焰，可以将一些物品变成其他物品。"
 		""
-		"You can make some by &6throwing&r a &bDemon's Dream fruit&r on the ground, and &6lighting it on fire&r."
+		"你可以将&b魔鬼之梦果&r&6扔到&r地上，然后&6点燃&r它，来制作灵火。"
 		""
-		"You can &6throw&r &bAndesite&r into it to receive &bOtherstone&r, and &bOak Saplings&r to receive &bOtherworld Saplings&r."
+		"你可以将 &b安山岩&r&6扔进去&r以获得&b异界石&r，扔入&b橡树树苗&r来获得&b异界树苗&r。"
 	]
-	quest.1F828E56F64FFD15.quest_subtitle: "Purple Fire?"
-	quest.1F828E56F64FFD15.title: "Spiritfire"
+	quest.1F828E56F64FFD15.quest_subtitle: "紫色的火？"
+	quest.1F828E56F64FFD15.title: "灵火"
 	quest.1F88FCB1B73FF882.quest_desc: ["刷怪停止前附近同类型实体的最大数量。"]
 	quest.1F88FCB1B73FF882.quest_subtitle: "+2 最大实体数量"
 	quest.1F9A1456487655B0.quest_desc: [
@@ -1519,12 +1519,12 @@
 		""
 		"{image:justdirethings:item/totem_of_death_recall width:100 height:100 align:center fit:true}"
 	]
-	quest.206C9BCE1D67C3B8.quest_desc: ["Cleaning up &bChalk&r can be somewhat of a chore by hand. Thankfully, this is a solved problem: use a &bBrush&r!"]
+	quest.206C9BCE1D67C3B8.quest_desc: ["用手工清理&b粉笔&r确实有点麻烦。幸亏这个问题已经解决了：使用&b粉笔刷&r！"]
 	quest.206C9BCE1D67C3B8.quest_subtitle: "Don't got any soap?"
 	quest.207613A34C3F10FA.title: "化学灌注器的氧气"
 	quest.2085CB41244C2783.quest_desc: ["你需要前往下界击杀疣猪兽，并获取疣猪皮。"]
-	quest.209744C68891F1DA.quest_desc: ["The Bat allows you to &6see&r in the &bdark&r."]
-	quest.209744C68891F1DA.quest_subtitle: "Echolocate"
+	quest.209744C68891F1DA.quest_desc: ["蝙蝠使魔可以让你在&b黑暗&r中&6看清楚&r。"]
+	quest.209744C68891F1DA.quest_subtitle: "回声定位"
 	quest.20A093E5684D2E30.quest_desc: [
 		"  Even more advanced electronics! These circuit boards are aluminum based and allow for more complex machinery."
 		""
@@ -1633,8 +1633,8 @@
 	quest.2190034B6F3E2768.title: "Heart of Computation"
 	quest.21939E58707A7756.quest_desc: ["The &bLarge Macerator&r can &6macerate&r recipes in batches of up to 8 at a &a25%&r deduction of &eEU&r cost. Keep in mind, it &cwont&r do a mix of recipes, they &omust&r be the same type. If not, each type of recipe will be &6split&r into their batch of a max of 8."]
 	quest.21939E58707A7756.quest_subtitle: "可以批量执行配方。"
-	quest.219AFCECD9D006A2.quest_desc: ["The Guardian &6prevents&r your &bdeath&r, at the cost of one of its limbs."]
-	quest.219AFCECD9D006A2.quest_subtitle: "Undying"
+	quest.219AFCECD9D006A2.quest_desc: ["守护者使魔可以通过舍弃自身的一条肢体来&6避免&r其主人&b死亡&r。"]
+	quest.219AFCECD9D006A2.quest_subtitle: "不朽"
 	quest.21AE41FA52DB561D.quest_desc: [
 		"  This handy dandy device &6charges&r all &bitems&r in your inventory that &cneed power&r."
 		""
@@ -1946,8 +1946,8 @@
 	]
 	quest.29D05998ADC8ACF5.quest_desc: ["  A super advanced processor to push the overclocking capabilities of your machine to it's limits and soon enough, something a bit more... &cNuclear&r."]
 	quest.29D05998ADC8ACF5.title: "Processing Unit"
-	quest.29DE74B144E0A85F.quest_desc: ["&6Orange&r Chalk is perfect for calling upon Afrit, though it does not offer control over them."]
-	quest.29DE74B144E0A85F.quest_subtitle: "Tangy"
+	quest.29DE74B144E0A85F.quest_desc: ["&6橙色&r粉笔非常适合用来召唤火灵，尽管并不能控制它们。"]
+	quest.29DE74B144E0A85F.quest_subtitle: "芬香"
 	quest.29E3DC274AF5DAFA.quest_desc: [
 		"  The &bferricore wrench&r is... a wrench."
 		""
@@ -1965,15 +1965,15 @@
 		""
 		"- Insert &eelectric&r crafting machines to run in &6parallel&r."
 	]
-	quest.29EB6FA48EDBE556.quest_desc: ["&7Light Gray&r Chalk serves as an improved foundational chalk above White, stabilizing pentacles made with it more."]
-	quest.29EB6FA48EDBE556.quest_subtitle: "Second Foundation"
+	quest.29EB6FA48EDBE556.quest_desc: ["&7淡灰色&r粉笔是一种比白色更好的基础粉笔，用它绘制的五芒星更加稳定。"]
+	quest.29EB6FA48EDBE556.quest_subtitle: "第二阵基"
 	quest.2A08F71925AE775E.quest_desc: ["I mean... it's all there right in it's name."]
 	quest.2A1319D8CFE3653B.quest_desc: [
-		"By default, the Actuator's storage space is not the largest."
+		"默认情况下，促动器的存储空间不是最大的。"
 		""
-		"You can solve that problem by using &bStabilizers&r. These will further &6stabilize&r the Actuator's link to the storage dimension. allowing for it to &6store more&r and more."
+		"你可以使用&b稳定器&r来解决这个问题。它们将进一步&6稳定&r促动器与存储维度的连接，使其能够&6存储越来越多&r。"
 	]
-	quest.2A1319D8CFE3653B.quest_subtitle: "You could fit a house in here..."
+	quest.2A1319D8CFE3653B.quest_subtitle: "这里可以放下一栋房子……"
 	quest.2A1D9C6699BF8A21.quest_desc: [
 		"新生魔艺 + 农夫乐事的联动附属模组。"
 		""
@@ -2188,8 +2188,8 @@
 	quest.2D4170B5AD28DCBF.title: "HV Diesel Generator"
 	quest.2D4564F6C18AE96B.quest_desc: ["&b高级物流管道&r能够以&a每秒32个物品&r的速度将物品抽出到传输网络中，并以&a每秒2.0米&r的速度传输物品。"]
 	quest.2D4564F6C18AE96B.title: "高级物流管道"
-	quest.2D5A0399B7FFA5DB.quest_desc: ["The Cthulhu allows you to &6breathe&r &bunderwater&r."]
-	quest.2D5A0399B7FFA5DB.quest_subtitle: "Adopt an eldritch horror today"
+	quest.2D5A0399B7FFA5DB.quest_desc: ["克苏鲁使魔可以让你&b在水下&r&6呼吸&r。"]
+	quest.2D5A0399B7FFA5DB.quest_subtitle: "今天收养了个古怪的东西"
 	quest.2D8FB52E37D7D96C.quest_desc: ["无论附近是否有玩家都激活。"]
 	quest.2D8FB52E37D7D96C.quest_subtitle: "+ 忽略玩家"
 	quest.2DAE44549D0FDD55.quest_desc: [
@@ -2373,11 +2373,11 @@
 	quest.320C2F44DD138054.quest_subtitle: "&6谜题羊树丛&r只出现于&d魔法森林&r，在其中可以找到这种友好的动物。"
 	quest.320C2F44DD138054.title: "&3谜题羊"
 	quest.320F924B4D0D5EE6.quest_desc: [
-		"The Beaver increases the &6speed&r at which you harvest &bwood.&r"
+		"河狸使魔可以增加你砍伐&b木材&r的&6速度。&r"
 		""
-		"It will also try to &6chop&r down &btrees.&r"
+		"它还可以自己&6砍伐&r&b树木。&r"
 	]
-	quest.320F924B4D0D5EE6.quest_subtitle: "How much wood could a woodchuck chuck if a woodchuck could chuck wood?"
+	quest.320F924B4D0D5EE6.quest_subtitle: "伐伐伐伐伐伐伐伐伐木工！"
 	quest.322A0B6AC3347EB4.quest_desc: [
 		"• &cX-Ray&r"
 		"• &cInstant Break&r"
@@ -2407,9 +2407,9 @@
 		"  Although, you can contain this to use it for various applications. You are holding... &bInfinity&r."
 	]
 	quest.325D7C592E2FB05A.title: "Singularity"
-	quest.32677D1F144A1184.quest_desc: ["Demonic Partners are bound to serve you and provide companionship. They come in two forms - why not summon both?"]
-	quest.32677D1F144A1184.quest_subtitle: "..."
-	quest.32677D1F144A1184.title: "Summon Demonic Partners"
+	quest.32677D1F144A1184.quest_desc: ["恶魔夫妇可以帮助你并提供陪伴。它们有两种类别——为什么不都召唤呢？"]
+	quest.32677D1F144A1184.quest_subtitle: "……"
+	quest.32677D1F144A1184.title: "召唤恶魔夫妇"
 	quest.327EDC1D4C50D185.quest_desc: ["The &dQIO Exporter&r is specially made to &aextract&r items from your system into the block the node is placed on."]
 	quest.327EDC1D4C50D185.title: "QIO输出端口"
 	quest.3288EB24E412AF9A.quest_subtitle: "完成对应任务章节。"
@@ -2560,7 +2560,7 @@
 		"Drive them with a &bThreshhold Switch&r on a &bVault&r to get a cool progress bar &6showing&r how full it is."
 	]
 	quest.3594EFD40D059EA3.quest_subtitle: "Totally, like, tubular."
-	quest.359A7C4C3C5E734F.quest_desc: ["The Headless Ratman steals the heads of mobs killed near it. It, then, provides you with a &6damage bonus&r against that mob type."]
+	quest.359A7C4C3C5E734F.quest_desc: ["无头鼠人可以偷取附近被击败的怪物的头颅。然后，会为你提供对该怪物类型的&6伤害加成&r。"]
 	quest.359A7C4C3C5E734F.quest_subtitle: "Getting ahead"
 	quest.35A5048875097D66.quest_desc: [
 		"Used for modifying lots of &bPatterns&r at once."
@@ -2707,12 +2707,12 @@
 	]
 	quest.38DF71D9CB5045F2.quest_desc: ["It’s brass, it &6spins,&r and it &6looks fly&r. ‘Nuff said."]
 	quest.38E1A4E0A032E377.quest_desc: [
-		"&bStable Wormholes&r act as placeable access points to the &bStorage Actuator&r. Items can be piped in and out of them, but it is recommended to use a transporter spirit when extracting from them for lag concerns."
+		"&b稳定虫洞&r作为可放置的访问端连接到&b存储促动器&r。物品可以从中输入输出，但建议在提取时使用魔精搬运工以减少延迟问题。"
 		""
-		"The &bStorage Accessor&r is a simple device that lets you &6interface with your storage&r from far away. It has no range nor dimension limit, but the actuator must be chunk loaded."
+		"&b存储访问器&r是一个简单的设备，可以让你远程&6与你的存储进行交互&r。它没有范围或维度限制，但存储促动器所在的区块必须被加载。"
 	]
-	quest.38E1A4E0A032E377.quest_subtitle: "Remote transferrence"
-	quest.38E1A4E0A032E377.title: "Storage Access"
+	quest.38E1A4E0A032E377.quest_subtitle: "远程交换"
+	quest.38E1A4E0A032E377.title: "存储访问"
 	quest.38EF4E7FE82B62A6.quest_subtitle: "Never be late, be late, for a very important date."
 	quest.392EC503FD52E32A.quest_desc: ["A variety of &bSulfur&r types exist, split across many &6tiers&r."]
 	quest.392EC503FD52E32A.title: "Sulfurs"
@@ -4471,11 +4471,11 @@
 	quest.614E49D8AA7F85FC.quest_desc: ["每个&b精英感应供应器&r可以为你的感应矩阵增加&e9.55 MFE/t&r的能量传输速率，同时包括输入和输出速率。"]
 	quest.614E49D8AA7F85FC.title: "精英感应供应器"
 	quest.61748279816F2D7F.quest_desc: [
-		"The &bRedstone Control Module&f is meant to let you control your machines with &credstone&f! &6Right Clicking&f the module in your hand will &6change&f it's setting from the machine requiring a &9High Signal&f to &9Low Signal&f and vice versa. Then place it into the &credstone&f module slot."
+		"&b红石控制模块&f的功能是让机器可被&c红石&f控制！手持模块&6右击&f可&6切换其&f模式，有&9高信号&f和&9低信号&f两种。然后把它放进&c红石&f模块槽位即可。"
 		""
-		"What this means is:"
-		"- While the setting is on &9High Signal&f, the machine will only &6function&f if it is given a &credstone&f signal. No &credstone&f signal will turn it off."
-		"- While the setting is on &9Low Signal&f, the machine will only &6function&f if it is not given a &credstone&f signal. A &credstone&f signal will turn it off."
+		"这些模式是什么意思呢？"
+		"-设为&9高信号&f模式时，机器会在接收到&c红石&f信号时&6工作&f。无&c红石&f信号时机器就会关闭。"
+		"-设为&9低信号&f模式时，机器会在无&c红石&f信号时&6工作&f。接收到&c红石&f信号时机器就会关闭。"
 	]
 	quest.619BC1F1094F4EFA.quest_desc: [
 		"It's hover and SHIFT info says it all: "
@@ -5994,7 +5994,7 @@
 	reward_table.59C15B9D0F7ED5E1.title: "Resources"
 	reward_table.769C9AEC3DB2FA42.title: "Mekanism T2"
 	reward_table.7D1F93D6860D4667.title: "PNC"
-	task.0020C1E77C424CB0.title: "Look at Spiritfire"
+	task.0020C1E77C424CB0.title: "查看灵火"
 	task.00CA3CB10A03DF62.title: "气动工艺毕业"
 	task.013281B2076D21ED.title: "实用提示与技巧"
 	task.02D1703C79A7F3EF.title: "任意#c:logs/archwood"
@@ -6003,7 +6003,7 @@
 	task.0D974A2537B460E2.title: "升级 AAAAAAAAAAAAHHHHHHHHH"
 	task.0FA270C84C6558F4.title: "纯净浆液"
 	task.0FF55D7FA5CEAD32.title: "任意#c:seeds/flax"
-	task.11CC52C63FF1FDE8.title: "Summon a Beaver Familiar"
+	task.11CC52C63FF1FDE8.title: "召唤河狸使魔"
 	task.12C4C946FBE466AD.title: "Summon a Devil Familiar"
 	task.13B903DFDCAB1CD3.title: "技能"
 	task.141B9E891675C4BB.title: "Summon a Chimera Familiar"
@@ -6025,10 +6025,10 @@
 	task.256831387C82AA19.title: "Iron的法术与魔法书"
 	task.268DC896793A48C7.title: "觅食时间到！"
 	task.2772306CF31750FD.title: "任意#minecraft:coals"
-	task.2836DAFB8BAF8D7B.title: "Summon a Headless Ratman Familiar"
+	task.2836DAFB8BAF8D7B.title: "召唤无头鼠骑士使魔"
 	task.296A456AF1F00270.title: "Summon an Otherstone Trader"
 	task.2A1C946A44A39D6F.title: "Make Primogel Soil"
-	task.2DCC056348E9BB4B.title: "Summon a Demonic Wife"
+	task.2DCC056348E9BB4B.title: "召唤恶魔妻子"
 	task.2FA7F24545E1C37E.title: "Start Here"
 	task.3033BCAB98641150.title: "Advanced Pattern Provider"
 	task.310C3BFD53972F70.title: "寿司狗GoGo！"
@@ -6048,12 +6048,12 @@
 	task.41BA785802B6F35E.title: "任务"
 	task.41EC40C5739AA13D.title: "你将发现的群系作物！"
 	task.42634C57B87C09DB.title: "Summon a Fairy Familiar"
-	task.429785464C6CD059.title: "Any #minecraft:axes"
+	task.429785464C6CD059.title: "任意#minecraft:axes"
 	task.443D8F4CD01CC0C9.title: "Summon a Parrot \"Familiar\""
 	task.4552085BF5330776.title: "OK, Let Me Cook"
 	task.4CE3EEAAF41AE050.title: "Summon a Foliot Janitor"
 	task.4D5812F798FB8C8C.title: "&dTheurgy &9100%"
-	task.4D63FA888F0497B5.title: "Summon a Cthulhu Familiar"
+	task.4D63FA888F0497B5.title: "召唤克苏鲁使魔"
 	task.4E775BAB4EB29C69.title: "任意#c:crops/garlic"
 	task.4F4699F9117BC270.title: "Pre-Programmed Drones"
 	task.4F7787C0557CF5CC.title: "Apo The Carist"
@@ -6064,22 +6064,22 @@
 	task.570D439C4AC9F64C.title: "世界层级"
 	task.58AC1E8BBD7EAB5B.title: "Summon a Mummy Familiar"
 	task.5CB700830F80DFD8.title: "Water for Chemical Washing"
-	task.5D5634634E3879E5.title: "Summon a Bat Familiar"
+	task.5D5634634E3879E5.title: "召唤蝙蝠使魔"
 	task.5DAF1EE0903D876A.title: "组装机械？"
 	task.601F7C69458E7589.title: "Welcome to Theurgy"
 	task.61ADF1E6345BC7E1.title: "Any #c:raw_materials/copper"
 	task.63DAD8D3277DA248.title: "进化生产目录"
 	task.64433571E92D5E65.title: "表情动作"
-	task.6544A3FD1B532809.title: "Summon a Demonic Husband"
-	task.65A43DD683FB39E4.title: "Summon a Foliot Lumberjack"
+	task.6544A3FD1B532809.title: "召唤恶魔丈夫"
+	task.65A43DD683FB39E4.title: "召唤魔精伐木工"
 	task.65B2D0E35B083E82.title: "适者生存"
 	task.66BF2FED6B091A68.title: "探索世界！"
 	task.6C6C366D034AF5C7.title: "Summon an Otherworld Sapling Trader"
 	task.708EE345AEBB270B.title: "Make ShadowPulse Soil"
 	task.7206B162C5B4E0B8.title: "Ores at Tier 1"
 	task.73B852C41DE1F864.title: "任意#c:crops/rice"
-	task.73DFBACC98E080BC.title: "Any Knife"
-	task.74C6D98426025A18.title: "Summon a Guardian Familiar"
+	task.73DFBACC98E080BC.title: "任意刀"
+	task.74C6D98426025A18.title: "召唤守护者使魔"
 	task.7537E40C4FAB6D5C.title: "欢迎游玩Powah"
 	task.7A0371393E813129.title: "Observe: &2Any Certus Budding&r"
 	task.7AB3BAEAA2E50F06.title: "高位唤魔者"
