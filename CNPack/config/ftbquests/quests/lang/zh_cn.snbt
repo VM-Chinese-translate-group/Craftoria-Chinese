@@ -83,13 +83,13 @@
 	]
 	quest.01E8A006742F7A00.quest_subtitle: "还不够"
 	quest.02272D430F08B1DC.quest_desc: [
-		"  Now you can make a large tank! This is a tank multi-block that can store 64,000mb &oper&r block within the total volume the tank takes up, air blocks and solid."
+		"现在你可以造大型储罐了！这个多方块储罐中的&o每个&r方块都有64,000mb的存储空间，总储量就是总体积（包括构成它的固体方块和空气方块）乘以64,000mb。"
 		""
-		"  When you place down a Large Tank, open it's GUI and check out the top left. It'll let you choose which size you want. "
+		"造好大型储罐后，打开它的GUI，看看左上角，那里可以调整储罐的大小。"
 		""
-		"  Once you've chosen, hold out your trusty wrench and a hologram will show you where to place blocks."
+		"调好之后，拿上你可爱的扳手，按照全息影像搭建吧。"
 		""
-		"  Use a Large Tank Hatch too. It works just like other hatches, aside from it only being a point of access to the tank. It'll input and output from any hatches you put on it."
+		"另外，你还需要用到大型储罐仓。它的工作方式和其他的仓差不多，但是它只是作为大型储罐的一个交互口，把其他的仓放在它上面，就可以输入/输出储罐了。"
 	]
 	quest.023A420F24C515EB.quest_desc: ["A &8reinforced&r version of the &bBasic Pressure Tube&r, these can be &2camouflaged&r and have &bTube Modules&r added to provide &eextra functionality&r."]
 	quest.026C88446512DDB8.quest_subtitle: "Can run &eCoke Oven&r recipes in batches."
@@ -4193,9 +4193,9 @@
 	quest.5855D8361A2C6623.quest_desc: ["&b模板&f可以在&b模板管理器&f中使用。"]
 	quest.5855D8361A2C6623.title: "&b建筑小帮手"
 	quest.58CA2853D9620919.quest_desc: [
-		"The &bBasic Upgrade&f is an upgrade you can &6create&f with only simple components to &9speed&f up your machines."
+		"&b基本升级&f&6制造&f起来不需要什么复杂的零件，它可以&9加速&f你的机器。"
 		""
-		"Each adds to the max &eenergy&f cap by &62EU/t&f."
+		"每个升级可将&e能量&f上限提高&62EU/t&f。"
 	]
 	quest.58E5ADE9A50BDF29.quest_desc: ["This Rod is pre-attuned to find &bBudding Amethyst&r. &bAmethyst&r is used rather a lot in alchemy, and is &6needed&r for better Divining Rods."]
 	quest.58ED87D90B7F7168.quest_desc: [
