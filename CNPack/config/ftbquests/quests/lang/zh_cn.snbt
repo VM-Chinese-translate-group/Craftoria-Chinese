@@ -383,7 +383,7 @@
 	quest.097ACA8114CD8DA8.title: "精英粉碎工厂"
 	quest.098C3858B4FFCE78.quest_desc: ["使用&b热力发电机&f时，如果在其下方放置一个&b烈焰晶体块&f，它将以&b280%的效率发电。"]
 	quest.098C3858B4FFCE78.quest_subtitle: "功率增加280%"
-	quest.09B10C121C7E9023.quest_desc: ["Used to craft &bME Energy Storage Components&f and other accessories."]
+	quest.09B10C121C7E9023.quest_desc: ["用于制作&bME能源存储组件&f与通量访问点。"]
 	quest.0A67575BAF8596B0.quest_desc: ["Better than you model train tracks: straights, curves (two kinds), and slopes—works across Nether portals and unloaded chunks too!"]
 	quest.0AC7D844C55119E1.quest_desc: [
 		"  This is no &bMonkey Wrench&r, but you better hope you can move like one in the future."
@@ -412,12 +412,12 @@
 		"Extract &bUnassembled PCBs&r from the sides and &cFailed PCBs&r from the top or bottom of the tank."
 	]
 	quest.0B94435972292812.quest_desc: [
-		"The &bSpatial IO Port &fis the core of the &bSpatial Digitizing system&f. It's placed at the vertex where all 3 &bpylon edges &fmeet. It's where you place the &bSpatial Drive &fand allow it to&6 capture a build or rlease it&f. This is also the block to power when charging the system."
+		"&b空间IO端口&f正是&b空间数字化系统&f的核心，将它摆放在3条&b空间塔的交点&f后，放入&b空间存储元件&f即可&6存储或释放任意结构&f。空间IO端口也是你在为整个系统供电时通电的方块。（译注：原文有误，空间塔也可以接收能量。）"
 		""
-		"You can also interact with the &bSpatial IO Port with hoppers&f or other piping methods to automate the process if you so desire. A &6redstone signal&f is all the &bSpatial IO Port&f needs to activate. Be careful!"
+		"你可以用&b空间IO端口配漏斗或其他管道&f来自动化这个流程。注意啦！&b空间IO端口&f需要&6红石信号&f激活。"
 	]
-	quest.0B94435972292812.title: "Spatial IO Port"
-	quest.0B98E8AC5CFB0FC2.quest_desc: ["Obtained when you let your&b Entroized Clusters &agrow&f to the &amax stage&f."]
+	quest.0B94435972292812.title: "空间IO端口"
+	quest.0B98E8AC5CFB0FC2.quest_desc: ["破坏&a生长&f至&a最高阶段&f的&b恩特罗簇&f以获得。"]
 	quest.0BDF41399223A10A.quest_desc: ["使用卷轴撰写台和末影珍珠制作末影法术卷轴。"]
 	quest.0BF3E2C6D60A58BB.quest_desc: [
 		"可以通过&6快捷菜单&r查看&a表情动作&r。"
@@ -630,8 +630,8 @@
 		"&9Logistics:&r    "
 		"- Inventory x 35"
 	]
-	quest.0FA3C7049E71EA4A.quest_desc: ["You planning on owning a &bQuarry&f anytime soon?"]
-	quest.0FA3C7049E71EA4A.title: "64k Storage Component"
+	quest.0FA3C7049E71EA4A.quest_desc: ["打算尽快做一台&b采石场&f吗？"]
+	quest.0FA3C7049E71EA4A.title: "64k 存储元件"
 	quest.0FB6106D73ABB512.title: "管道升级"
 	quest.0FDA602713778AF0.title: "三阶 1:3"
 	quest.0FE6DFF73BE7AA10.quest_desc: ["召唤比魔精更强大的魔灵需要使用&a黄绿色&r粉笔。它证明了你对神秘学基础知识的掌握。"]
@@ -703,15 +703,15 @@
 	quest.12094D44D2E3DB16.title: "Arcanist's Cloak"
 	quest.120AAA5FECD27573.quest_subtitle: "Go fluid, go! Stop fluid, stop!"
 	quest.123F10122DCC72F9.quest_desc: [
-		"Adding a &bCompression Card&r to your &bBulk Storage Cell&r makes it automatically compress items/blocks to higher tiers of compression."
+		"给你的&b大宗存储元件&r塞上一张&b压缩卡&r，它就能自动将物品/方块压缩至更高的压缩程度。"
 		""
-		"Ex. Nuggets -> Ingots -> Blocks"
+		"从金属粒->金属锭->金属块"
 		""
-		"You'll also want a &bDecompression Module&r somewhere on your network to also automatically de-compress items as needed."
+		"你大概还需要在你的网络找个位置放一个&b解压缩模块&r，这样它就会自动解压出自动合成所需的物品了。"
 		""
-		"NOTE: &bDecompression Module&r &lNEEDS&r to be on the same network as your autocrafting, otherwise your autocrafters can't see those items."
+		"注意：&b解压缩模块&r需要处于执行自动合成的网络，否则自动合成将无法调用物品。"
 	]
-	quest.123F10122DCC72F9.title: "Bulk Cell Compression"
+	quest.123F10122DCC72F9.title: "大宗元件的自动压缩"
 	quest.1246838BA3EEE910.quest_desc: ["This &3substance&r can be &6processed&r in a &bRefinery&r to create various &7fuels&r, which can eventually be used to produce &bPlastic&r. "]
 	quest.124D18DDDDC4D102.quest_desc: [
 		"每个&b基础通用线缆&r能够容纳&e3.2 kFE/t&r，意思是说，每个线缆都会给网络增加&e3.2 kFE&r的&3内部&r缓存总量，&o同时&r也会增加同等FE/t的网络总传输速率。"
@@ -748,8 +748,8 @@
 		"  These are used explicitly for use in the &bImplosion Compressor&r."
 	]
 	quest.135FBE79D4415F15.title: "Legalized Nuclear Bomb"
-	quest.13600E981D85B79D.quest_desc: ["Required for autocrafting, as these store the items and fluids used in crafts."]
-	quest.13600E981D85B79D.title: "Crafting Storage"
+	quest.13600E981D85B79D.quest_desc: ["自动合成需要合成存储器才能执行，它们负责储存自动合成中使用的物品和流体。"]
+	quest.13600E981D85B79D.title: "合成存储器"
 	quest.138DC280BDD0622B.title: "氢"
 	quest.13A991D769FF6E2A.quest_desc: ["提示：试着种在浅水里！"]
 	quest.13A991D769FF6E2A.title: "稻米"
@@ -775,12 +775,12 @@
 	quest.14F545E632726FEE.quest_desc: ["生成的生物将处于燃烧状态。"]
 	quest.14F545E632726FEE.quest_subtitle: "+燃烧"
 	quest.15008EFBA92CC3DC.quest_desc: [
-		"You can open the AE2 guide by holding G on almost any AE2 item."
+		"你可以将鼠标悬浮在绝大多数AE2物品上长按G打开AE2指南。"
 		""
-		"Here's also a free &bGuide&r item in-case you want one."
+		"想拿的话这里有一本免费的物品形式的&b指南&r。"
 	]
 	quest.151E812270A52250.quest_desc: ["&6Crafting Components&f are used to craft &bCo-Processing Units&r and &bCrafting Storages&b."]
-	quest.151E812270A52250.title: "Crafting Unit"
+	quest.151E812270A52250.title: "合成单元"
 	quest.1523A200F5E4361B.quest_desc: ["The &bExtended Inscriber &fwill allow for &afour process &fat the same time."]
 	quest.15325B16AFE33D5C.quest_desc: ["你需要&b动物油脂&r来制作合适的蜡烛。用任意的&b刀&r&6击杀大型动物&r可以获得一些。"]
 	quest.15325B16AFE33D5C.quest_subtitle: "必备工具"
@@ -6014,7 +6014,7 @@
 	task.1A36A5D48C75BE0D.title: "任意#minecraft:candles"
 	task.1ACF33BDD92D15DA.title: "击杀牧师"
 	task.1B5D407F2729F56F.title: "死者之王"
-	task.1BEC4027E735B683.title: "Need a guide?"
+	task.1BEC4027E735B683.title: "需要指导？"
 	task.1D870ED2303FAE8A.title: "研习魔法？！"
 	task.1F5A29E07CD58234.title: "帽子"
 	task.203841AC95941F00.title: "欢迎来到机械动力！"
