@@ -598,7 +598,7 @@
 		" &#8226; Third is a &bDiesel Jetpack&r. Yes, you heard me right. A jetpack. The &6stronger the fuel&r in it the &6faster you'll fly&r. Use your \"V\" key to toggle the jetpack on and off. Let your wings free and fly with the power of technology! &oAnd a bit of fuel...&r"
 	]
 	quest.0ED4263270D37EF6.title: "Diesel Accessories"
-	quest.0ED5CB1120D1BD6E.quest_desc: ["探索时，你可以在世界各地发现卷轴，但注意，它就只能使用一次。"]
+	quest.0ED5CB1120D1BD6E.quest_desc: ["探索时，你可以在世界各地找到卷轴，但如果你不小心用掉了，卷轴就会被消耗。"]
 	quest.0ED5CB1120D1BD6E.title: "卷轴"
 	quest.0EFB32C64C146682.quest_desc: [
 		"Your right-hand man, in brass mechanical form."
@@ -1890,7 +1890,7 @@
 	quest.2821236A1E8FEF73.title: "聚变反应堆端口"
 	quest.286229410FA571B7.quest_desc: ["&6Prevents&r collisions and &6controls&r the flow of scheduled trains."]
 	quest.286229410FA571B7.quest_subtitle: "Keep them trains rollin’!"
-	quest.28724CA9F837F710.quest_desc: ["紫水晶共鸣护符——当佩戴此护符时，将为你提供15%的法力回复。"]
+	quest.28724CA9F837F710.quest_desc: ["紫水晶共鸣护符——当佩戴此护符时，将为你提供15%的法力值恢复。"]
 	quest.28A35996DE62CFA0.quest_desc: [
 		"&l1. 更大的储存容量&r"
 		"请查阅&5Ars Énergistique&r，这是与AE2的联动附属模组。"
@@ -2213,7 +2213,7 @@
 		"- &b解离之板&r"
 		"&8作者的话：纯亏，别用。"
 		"&8+ 这仪式不仅要消耗魔源，转化出来的经验还是经验宝石的形态，不能直接吸。"
-		"&8+ 毕竟经验宝石一次只能用一组，效率太过低下。"
+		"&8+ 而且经验宝石一次只能用一组，效率太过低下。"
 	]
 	quest.2E1EB12F3D9B315E.quest_subtitle: "本任务为全收集任务"
 	quest.2E1EB12F3D9B315E.title: "红色仪式之板"
@@ -2817,20 +2817,20 @@
 	quest.3BAA7EC7653A7905.title: "化学压射室"
 	quest.3BAFFE6DA1F9BFDF.title: "Chemical Injection for Sulfur"
 	quest.3BDEC456E9E80548.quest_desc: [
-		"Some notables &brituals&r:"
+		"有些&b仪式&r值得一提："
 		""
-		"- &bTablet of Awakening&r"
-		"&8+ Amethyst golems are good."
-		"&8+ Bookwyrms for storage lectern."
-		"&8+ Weald Walkers aren't that strong."
+		"- &b启蒙之板&r"
+		"&8+ 紫晶傀儡很有用。"
+		"&8+ 书龙可绑定存储讲台。"
+		"&8+ 林地行者不是很强。"
 		""
-		"- &bTablet of Conjure Island: Plains&r"
-		"&8+ Convert a &9radius &8around it into &banother biome&8 (what biome? Check description of the tablet)"
-		"&8+ Water/air blocks will be &4replaced."
-		"&8+ Need &5source &8as it running. (after finishing, not needed anymore)"
+		"- &b空岛召唤：平原之板&r"
+		"&8+ 改变一定&9半径范围&8内的&b生物群系&8（具体群系种类请查阅对应仪式之板的介绍）"
+		"&8+ 会将范围内的水和空气方块&4替换&8为对应群系方块。"
+		"&8+ 需要&5魔源&8才能运行。（仪式结束后不再需要）"
 	]
 	quest.3BDEC456E9E80548.quest_subtitle: "本任务为全收集任务"
-	quest.3BDEC456E9E80548.title: "Green Tablets"
+	quest.3BDEC456E9E80548.title: "绿色仪式之板"
 	quest.3C1D103FCEF249C8.quest_desc: [
 		"你难道不&c喜欢&r&8烟雾&r和&e汽油的香味&r吗？"
 		""
@@ -2879,7 +2879,7 @@
 	quest.3CF03758A5C98E5B.quest_subtitle: "示例法术"
 	quest.3CF03758A5C98E5B.title: "巫师之弓"
 	quest.3D4317C2B25D5680.quest_desc: [
-		"&b卷轴撰写台&r用于使用&b纸张&r和&b墨水&r&6制作&r卷轴。"
+		"&b卷轴撰写台&r用于使用&b纸&r和&b墨水&r&6制作&r卷轴。"
 		""
 		"你可以使用不同的物品制作不同类型的&b法术&r。"
 		""
@@ -3871,8 +3871,8 @@
 	quest.50BFFEAF92B72965.title: "焦炉"
 	quest.50D1398BBF8DBBB2.quest_desc: ["The &bElectrolytic Separator&r allows you to take multiple &7fluids&r and &6separate&r them into their core elemental components by using &eelectricity&r to break apart the molecules in a process called \"&6Electrolysis&r\""]
 	quest.50D1398BBF8DBBB2.title: "电解分离器"
-	quest.510EAAAA3E08FCD5.quest_desc: ["This miner spirit is second to none, able to get &bmost ores&r. It will also occasionally yield a &6special&r item...."]
-	quest.510EAAAA3E08FCD5.quest_subtitle: "Master (mine)crafted"
+	quest.510EAAAA3E08FCD5.quest_desc: ["这种矿工魔灵无与伦比，能够获得&b大部分矿石&r。它偶尔还会产出一件&6特殊&r物品……"]
+	quest.510EAAAA3E08FCD5.quest_subtitle: "小矿石，大师作"
 	quest.511C07DFE796F377.quest_desc: [
 		"有没有除合成以外的魔符获取方法？"
 		"&6答案&r：有，去搜刮结构里的宝箱吧。比如："
@@ -3995,14 +3995,14 @@
 		"你会用到很多，多多制作吧。"
 	]
 	quest.534B63750942C433.title: "基础控制电路"
-	quest.5358F626FAFBEDD3.quest_desc: ["The Chimera will &6grow&r as it is &6fed&r. This increases its strength, and, when grown enough, you can &6ride&r it."]
-	quest.5358F626FAFBEDD3.quest_subtitle: "Battle mount"
+	quest.5358F626FAFBEDD3.quest_desc: ["&6喂养&r奇美拉可使其 &6成长&r，并增强它的力量。长得足够大后，你可以&6骑乘&r它。"]
+	quest.5358F626FAFBEDD3.quest_subtitle: "战斗坐骑"
 	quest.53724D97E9DE80D5.title: "Tank's Dock and Link"
 	quest.537DCC3519883A20.quest_desc: ["&b过滤升级&r可以安装在电动泵上，将&9重水&r从普通的&7H2O&r中&6分离&r出来。"]
 	quest.537DCC3519883A20.title: "过滤升级"
 	quest.53A07420D75804AB.quest_subtitle: "Just Charge It!!!"
-	quest.53A66CA8EFE820D1.quest_desc: ["Greedy Familiars &6collect&r &bitems&r for you. When put in a Familiar Ring, they enhance your item collection range."]
-	quest.53A66CA8EFE820D1.quest_subtitle: "For the hoard"
+	quest.53A66CA8EFE820D1.quest_desc: ["贪婪使魔会为你&6收集&r&b物品&r。当它被放入使魔之戒中时，可以增强你的物品拾取范围。"]
+	quest.53A66CA8EFE820D1.quest_subtitle: "为了宝藏！"
 	quest.53DEE3EF1297B630.quest_desc: ["This &bEmitter&r uses &dMercury Flux&r to generate &6heat&r that can be used in place of the &bPyromantic Brazier&r."]
 	quest.53DEE3EF1297B630.quest_subtitle: "A new source of heat"
 	quest.53EC4A657655A7D5.title: "Brine"
@@ -4206,11 +4206,11 @@
 		"使用&b锻造台&f来对你的建筑棒进行升级，这需要消耗&7羽毛&f。"
 	]
 	quest.58F3BCF5BFBCF371.quest_desc: [
-		"By default, the Actuator's storage space is not the largest."
+		"默认情况下，促动器的存储空间不是最大的。"
 		""
-		"You can solve that problem by using &bStabilizers&r. These will further &6stabilize&r the Actuator's link to the storage dimension. allowing for it to &6store more&r and more."
+		"你可以使用&b稳定器&r来解决这个问题。它们将进一步&6稳定&r促动器与存储维度的连接，使其能够&6存储越来越多&r。"
 	]
-	quest.58F3BCF5BFBCF371.quest_subtitle: "I want more"
+	quest.58F3BCF5BFBCF371.quest_subtitle: "我要更多"
 	quest.590D73FDE6335297.quest_desc: ["&6Measure&r how much &denergy,&r in the form of Stress Units, your contraptions are &6generating&r and &6consuming,&r or how fast they are working."]
 	quest.59128813386BFDB1.quest_desc: [
 		"&bPoint 2 Point (P2P) Tunnels&f can be overwhelmingly complex, but at the same time extremely useful. These &btunnels&f can be used to &6transfer up to 32 channels from one point to the other&f. Now, you might be asking: \"But why can't I just use a &bDense Cable&f?\""
@@ -4278,8 +4278,8 @@
 	quest.5B9BFD4F72E79F5B.title: "Precious Sulfurs"
 	quest.5BB4989DC6C5DB7A.quest_desc: ["Use a &bPowered Charger&f to charge &bCertus Quartz Crystal&f."]
 	quest.5BB4989DC6C5DB7A.title: "Charged Certus"
-	quest.5BBB0BDD45F6FFC0.quest_desc: ["The Devil provides &bresistance to fire&r."]
-	quest.5BBB0BDD45F6FFC0.quest_subtitle: "Controlled inferno"
+	quest.5BBB0BDD45F6FFC0.quest_desc: ["恶魔使魔可为其主人提供&b抗火&r效果。"]
+	quest.5BBB0BDD45F6FFC0.quest_subtitle: "掌控炼狱"
 	quest.5BCED97AA55DE2E3.quest_desc: [
 		"- 默认: "
 		"&8自身 -> 腾跃 -> 强化"
@@ -4299,12 +4299,12 @@
 		"该机器是&a三倍&r矿物产线的第一步。"
 	]
 	quest.5BDE55C11519F7F7.title: "提纯仓"
-	quest.5BDEC0D157A43D9E.quest_desc: ["&5Purple&r Chalk is common in rituals that bind spirits into objects."]
-	quest.5BDEC0D157A43D9E.quest_subtitle: "Infusion"
+	quest.5BDEC0D157A43D9E.quest_desc: ["&5紫色&r粉笔常见于将魔灵束缚于物体的仪式中。"]
+	quest.5BDEC0D157A43D9E.quest_subtitle: "注魔"
 	quest.5C56A0938613CBC0.quest_desc: [
-		"This metal can be &6found&r in &bthe Nether&r, disguised as Netherrack."
+		"这种金属可以在&b下界&r&6找到&r，外观与普通的下界岩完全相同。"
 		""
-		"&6Seeing&r through the &bThird Eye&r reveals its true form. You might want to bring a &bDivination Rod&r."
+		"通过&b异界眼镜&r可以看到它的真实形态。你可能还需要带上&b探测杖&b。"
 	]
 	quest.5C56A0938613CBC0.quest_subtitle: "How do you say it?"
 	quest.5C82C92D1F366C04.quest_desc: ["&b终极烧炼工厂&r能够同时进行最多&a九个&r烧炼任务，同样包含\"&e自动分类&r\"功能。"]
@@ -4400,9 +4400,9 @@
 	quest.5F8E418D6A0AD158.quest_desc: ["神圣珍珠是通过在工作台上使用一块金锭和一块紫水晶碎片来制作的。它们用于制作神圣法术卷轴。"]
 	quest.5F95D00149FB24FD.quest_desc: ["The &bChemical Dissolution Chamber&r takes an &9ore&r and chemically &6dissolves&r all of the impurities resulting in an unprocessed &dslurry of ore&r."]
 	quest.5F95D00149FB24FD.title: "化学溶解室"
-	quest.5FB18A0E7827D203.quest_desc: ["Transporter spirits, as one may expect, can &6transfer items&r between containers. That includes Dimensional Storage, and &bother spirits&r."]
-	quest.5FB18A0E7827D203.quest_subtitle: "I pick things up and I put them down"
-	quest.5FB18A0E7827D203.title: "Ritual: Summon Foliot Transporter"
+	quest.5FB18A0E7827D203.quest_desc: ["正如你所想的，魔精搬运工可以在容器之间&6转移物品&r，包括维度存储，以及&b其他魔灵&r。"]
+	quest.5FB18A0E7827D203.quest_subtitle: "举手之劳"
+	quest.5FB18A0E7827D203.title: "召唤魔精搬运工"
 	quest.5FB2FD0ABDF3C475.quest_desc: [
 		"Combines 2 potions into 1."
 		""
@@ -4525,7 +4525,7 @@
 		"&8小提示：&b星宝石兽&8会自动收获魔源浆果丛。"
 	]
 	quest.62B0913266F48F45.quest_desc: ["The Fairy heals and &6supports&r other fa&bmiliars&r while draining your enemies' life."]
-	quest.62B0913266F48F45.quest_subtitle: "Medic! Medic!"
+	quest.62B0913266F48F45.quest_subtitle: "萨尼铁塔！"
 	quest.62B245A23CA62678.quest_desc: [
 		"  你现在&6合成&r的这些&b管道&6是用于&6运输&r各种&b流体&r和&b气体&r的。它不能同时运输一种以上&r的&b流体&r，而且它&6不会&r自动连接到附近的&6空&b管道&r、&b容器&r或者&b机器&r，所以你需要用&b扳手&r来&6配置&r它。"
 		""
@@ -4611,8 +4611,8 @@
 	quest.6441C36C63A59445.title: "&ePipeZ"
 	quest.644B280698D65076.quest_desc: ["每个网络中的&b终极通用线缆&r都能容纳&e3.27 MFE&r，每增加一个线缆，网络总传输速率就增加&e3.27 MFE/t&r。"]
 	quest.644B280698D65076.title: "终极通用线缆"
-	quest.64D625C86F3AB75C.quest_desc: ["The Beholder makes nearby mobs &bglow&r, and &6shoots&r lasers at your &benemies&r."]
-	quest.64D625C86F3AB75C.quest_subtitle: "I'mma firin mah lazer"
+	quest.64D625C86F3AB75C.quest_desc: ["眼魔可以使附近的生物&b发光&r，并向&b敌人&r&6发射&r激光。"]
+	quest.64D625C86F3AB75C.quest_subtitle: "电眼逼人！"
 	quest.65043D06CD1BCB53.title: "韭菜"
 	quest.65210BAE0163445F.title: "荔枝"
 	quest.6531DF5573672E9E.quest_desc: [
@@ -4625,11 +4625,11 @@
 	quest.6531DF5573672E9E.quest_subtitle: "可以在&6火焰沼泽&r中的空心山丘找到。"
 	quest.6531DF5573672E9E.title: "&1九头蛇"
 	quest.656CBEFEE317E2E7.quest_desc: [
-		"By default, the Actuator's storage space is not the largest."
+		"默认情况下，促动器的存储空间不是最大的。"
 		""
-		"You can solve that problem by using &bStabilizers&r. These will further &6stabilize&r the Actuator's link to the storage dimension. allowing for it to &6store more&r and more."
+		"你可以使用&b稳定器&r来解决这个问题。它们将进一步&6稳定&r促动器与存储维度的连接，使其能够&6存储越来越多&r。"
 	]
-	quest.656CBEFEE317E2E7.quest_subtitle: "How much space could an occultist need?"
+	quest.656CBEFEE317E2E7.quest_subtitle: "神秘学家到底要多大空间？"
 	quest.65A75D8101BEB05F.quest_desc: [
 		"  &bSimple&r:"
 		"    • &bFluids&r get &6placed&r"
@@ -4738,11 +4738,11 @@
 	quest.67A41E4D6BCA5F2B.quest_desc: ["This is the heart of the Quantum Item Orchestration system. You'll store your QIO drives here. Protect it with your life."]
 	quest.67A41E4D6BCA5F2B.title: "QIO驱动器阵列"
 	quest.67ACD099BDB606FA.quest_desc: [
-		"With these &bGoggles&r over your eyes, you will see as if you had the &bThird Eye&r."
+		"戴上这个&b护目镜&r，你将仿佛拥有&b第三只眼&r一般。"
 		""
-		"You'll still be unable to harvest blocks though, without a specialized tool...."
+		"不过没有专用工具，你仍然无法采集那些方块……"
 	]
-	quest.67ACD099BDB606FA.quest_subtitle: "Otherworldly"
+	quest.67ACD099BDB606FA.quest_subtitle: "异界视野"
 	quest.67B17617F57B247F.quest_desc: [
 		"The &bElevator&r uses &7pressure&r to move you up and down to different floors using the &bController&r, by placing one &bElevator&r you can go up a &etotal&r of six blocks, if you stack the &bElevator Bases&r on top of each above the &cmax height&r it'll &aincrease&r it with six by each you place."
 		""
@@ -4821,8 +4821,8 @@
 		"&4注②&r：查看此章下边的&b盔甲&r相关任务即可了解盔甲、工具和饰品的信息。"
 	]
 	quest.68721F148E2805FB.title: "初学者法术书（1级）"
-	quest.687A9332533A26E8.quest_desc: ["The Deer &6enhances&r your &bjumping&r ability."]
-	quest.687A9332533A26E8.quest_subtitle: "Sky High"
+	quest.687A9332533A26E8.quest_desc: ["小鹿使魔可以&6增强&r你的&b跳跃&r 能力。"]
+	quest.687A9332533A26E8.quest_subtitle: "逐鹿天穹"
 	quest.688DEE1D1C4F9BDA.quest_desc: [
 		"This &9module&r emits a &4redstone signal&r with strength proportional to the &7pressure&r within the &btubes&r. "
 		""
@@ -4993,8 +4993,8 @@
 		"它真是&6又快又好&r，制造速度直接翻了一倍！"
 	]
 	quest.698235E8EC974A7F.quest_subtitle: "这是健身器材么？"
-	quest.698594BEA9750A4E.quest_desc: ["&8Gray&r Chalk stabilizes pentacles even more than its predecessor."]
-	quest.698594BEA9750A4E.quest_subtitle: "Third Foundation"
+	quest.698594BEA9750A4E.quest_desc: ["&8灰色&r粉笔比上一种粉笔更能稳定五芒星。"]
+	quest.698594BEA9750A4E.quest_subtitle: "第三阵基"
 	quest.69B079DABB860AEF.quest_desc: ["由强化黑曜石加强的电路板，专为承受最剧烈的工作和碰撞。"]
 	quest.69B079DABB860AEF.title: "终极控制电路"
 	quest.69BD8400AAA37066.quest_desc: [
@@ -5012,8 +5012,8 @@
 		"{image:justdirethings:block/sensort2_side width:100 height:100 align:center}"
 	]
 	quest.69BD8400AAA37066.quest_subtitle: "So Sensitive"
-	quest.69C0D033A9EE9EA7.quest_desc: ["The Mummy simply &6fights&r your &benemies&r in hand-to-hand combat."]
-	quest.69C0D033A9EE9EA7.quest_subtitle: "From the sand"
+	quest.69C0D033A9EE9EA7.quest_desc: ["木乃伊使魔只能与你的&b敌人&r&6肉搏&r。"]
+	quest.69C0D033A9EE9EA7.quest_subtitle: "自“沙”而来"
 	quest.69F5B199CF819FC3.title: "Sulfur Dioxide"
 	quest.69F8EE1B298EE5B3.title: "Tier 5, 1:5"
 	quest.6A382549A4C55A5E.quest_desc: ["&c高级控制电路&r是下一级的&6电路&r，能够用于制作更多高级机器。"]
@@ -5102,8 +5102,8 @@
 	]
 	quest.6B5431B3A107C9D5.quest_subtitle: "The interface of all operations."
 	quest.6B5431B3A107C9D5.title: "Replication Terminal"
-	quest.6B61D20396D57CB8.quest_desc: ["When a &bDiamond&r is &6thrown&r into &5Spiritfire&r, it becomes a Spirit Attuned Gem. You may need several."]
-	quest.6B61D20396D57CB8.quest_subtitle: "A thousand spirits in its facets"
+	quest.6B61D20396D57CB8.quest_desc: ["&b钻石&r被&6投入&r&5灵火&r中后，它就变成了一颗魔灵同调宝石。你可能会需要几颗的。"]
+	quest.6B61D20396D57CB8.quest_subtitle: "千面万灵"
 	quest.6BD625E5CA469914.quest_desc: [
 		"  The last step before total overclock, the most tame but beneficial upgrade, the one and only &bHighly Advanced Upgrade&r!"
 		""
@@ -5187,8 +5187,8 @@
 	]
 	quest.6EBFFFB567687A1E.title: "不锈钢"
 	quest.6EC57118E3771D72.quest_subtitle: "-5% 初始生命值"
-	quest.6EDBFB47B2F8E6BA.quest_desc: ["The most powerful controlled spirit of all, &bMarid&r offer many benefits to master summoners."]
-	quest.6EDBFB47B2F8E6BA.quest_subtitle: "Masterful"
+	quest.6EDBFB47B2F8E6BA.quest_desc: ["&b魔王&r是所有绑定魔灵中最强大的，可以为其主人提供许多好处。"]
+	quest.6EDBFB47B2F8E6BA.quest_subtitle: "精通"
 	quest.6EDFD510DC096B12.quest_desc: [
 		"The &bModification Station&r allows you to &ainstall&r and &cremove&r upgrades from all of your modular components; armor or not. "
 		""
@@ -5240,8 +5240,8 @@
 	quest.6F760612E07E3CBA.title: "大豆"
 	quest.6F7A998802C99AD4.quest_desc: ["These are pylons designed to outline the volume you wish to store into spatial drives. You must use these to outline 3 edges to an imaginary box surrounding the build. Each line of them uses 1 channel and each line needs to be at at least 2 pylons long. Try experimenting with the number of lines and how much power it uses! You might be able to optimize your digitizing."]
 	quest.6F7A998802C99AD4.title: "Spatial Pylon"
-	quest.6F9513334361D44E.quest_desc: ["&6Consuming&r this fruit will open your &bThird Eye&r, allowing you to see things you otherwise could not."]
-	quest.6F9513334361D44E.quest_subtitle: "Hallucinogens"
+	quest.6F9513334361D44E.quest_desc: ["&6食用&r这种水果将开启你的&b第三只眼&r，让你看到原本无法看到的事物。"]
+	quest.6F9513334361D44E.quest_subtitle: "灵视剂"
 	quest.6FA1BD39E9BB9392.quest_desc: ["&b终极融合工厂&r能够同时处理&a九个&r融合配方。"]
 	quest.6FA1BD39E9BB9392.title: "终极融合工厂"
 	quest.6FD3C9B4EF558332.quest_desc: ["Brassy on the edges, but classy-not-brassy all over."]
@@ -5753,22 +5753,22 @@
 	quest.7B88129FF5C9145F.quest_desc: ["刷怪笼激活时玩家必须所处的范围。"]
 	quest.7B88129FF5C9145F.quest_subtitle: "+4 激活范围"
 	quest.7B95981B60CD11BE.quest_desc: [
-		"This sword will add &5Touch glyph&r at the start, so you don't need to include &5Form glyph&r in the spell"
+		"此剑会自动添加形态：&5触摸之魔符&r，所以法术中无需包含&5形态魔符&r"
 		""
-		"- Early game you can do:"
-		"&8Harm -> Amplify -> Amplify"
+		"- 游戏前期推荐法术："
+		"&8伤害 -> 强化 -> 强化"
 		""
-		"- Later you can add &5Wither&r and &5Hex&r"
+		"- 之后可以加上&5凋零&r和&5脆弱诅咒&r"
 		""
 		""
-		"&8Check &bPage 2 &8for some explanations."
+		"&8在&b第2页&8可查看分析。"
 		""
 		"{@pagebreak}"
-		"- The spell will add &99 extra damage&r to the existing damage (&5Harm&r is 5, each extra &5Amplify&r is 2) "
-		"- The sword also adds a flat &94 extra damage&r? (if someone knows what &5Spell Power&r is, I will be very grateful)"
+		"- 以此法配置法术，可在原有伤害基础上再造成&99点额外伤害&r（&5伤害&r5点，每次&5强化&r都加2点）"
+		"- 此剑的基础伤害似乎也能有&94点额外伤害&r？（貌似与&5法术强度&r有关，不过我无法确定）"
 	]
 	quest.7B95981B60CD11BE.quest_subtitle: "示例法术"
-	quest.7B95981B60CD11BE.title: "Enchanter's Sword"
+	quest.7B95981B60CD11BE.title: "巫师之剑"
 	quest.7BB4CE27736F4C08.quest_desc: [
 		"The final part of the tank is the &bDynamic Valve&r. "
 		""
@@ -6004,9 +6004,9 @@
 	task.0FA270C84C6558F4.title: "纯净浆液"
 	task.0FF55D7FA5CEAD32.title: "任意#c:seeds/flax"
 	task.11CC52C63FF1FDE8.title: "召唤河狸使魔"
-	task.12C4C946FBE466AD.title: "Summon a Devil Familiar"
+	task.12C4C946FBE466AD.title: "召唤恶魔使魔"
 	task.13B903DFDCAB1CD3.title: "技能"
-	task.141B9E891675C4BB.title: "Summon a Chimera Familiar"
+	task.141B9E891675C4BB.title: "召唤奇美拉使魔"
 	task.1531CE8CE061AFC3.title: "任意#handcrafted:chests"
 	task.15E07774D19A4B1A.title: "探索世界？组装机械？研习魔法？"
 	task.160306663D203B48.title: "团队与区块声明"
@@ -6039,15 +6039,15 @@
 	task.33DEB184944AC7D0.title: "Water"
 	task.3404171FB712C24D.title: "Tier 5 Ores, 1:5"
 	task.3716986BD12061AA.title: "Any #c:raw_materials/gold"
-	task.37DECFA02129E0B8.title: "Summon a Deer Familiar"
+	task.37DECFA02129E0B8.title: "召唤小鹿使魔"
 	task.3BC634992A1E9BAD.title: "Observe: &2Any Entro Budding&r"
 	task.3C8E0C3D705AB65F.title: "Any #c:raw_materials/iron"
 	task.3ED23CC07C23FD76.title: "&b欢迎游玩神秘学"
 	task.4046229AF35778A3.title: "季节"
-	task.4137D2B088325C60.title: "Summon a Foliot Transporter"
+	task.4137D2B088325C60.title: "召唤魔精搬运工"
 	task.41BA785802B6F35E.title: "任务"
 	task.41EC40C5739AA13D.title: "你将发现的群系作物！"
-	task.42634C57B87C09DB.title: "Summon a Fairy Familiar"
+	task.42634C57B87C09DB.title: "召唤妖精使魔"
 	task.429785464C6CD059.title: "任意#minecraft:axes"
 	task.443D8F4CD01CC0C9.title: "Summon a Parrot \"Familiar\""
 	task.4552085BF5330776.title: "OK, Let Me Cook"
@@ -6057,12 +6057,12 @@
 	task.4E775BAB4EB29C69.title: "任意#c:crops/garlic"
 	task.4F4699F9117BC270.title: "Pre-Programmed Drones"
 	task.4F7787C0557CF5CC.title: "Apo The Carist"
-	task.52C834FDFA57A474.title: "Summon a Beholder Familiar"
+	task.52C834FDFA57A474.title: "召唤眼魔使魔"
 	task.5327B3CEDA60D4BE.title: "Any #c:raw_materials/silver"
 	task.5397C5FA8788480F.title: "任意#c:seeds/rice"
 	task.54E5D81FEE18AF83.title: "炽焰术士"
 	task.570D439C4AC9F64C.title: "世界层级"
-	task.58AC1E8BBD7EAB5B.title: "Summon a Mummy Familiar"
+	task.58AC1E8BBD7EAB5B.title: "召唤木乃伊使魔"
 	task.5CB700830F80DFD8.title: "Water for Chemical Washing"
 	task.5D5634634E3879E5.title: "召唤蝙蝠使魔"
 	task.5DAF1EE0903D876A.title: "组装机械？"
@@ -6084,5 +6084,5 @@
 	task.7A0371393E813129.title: "Observe: &2Any Certus Budding&r"
 	task.7AB3BAEAA2E50F06.title: "高位唤魔者"
 	task.7C14A87514F74DF9.title: "Make VoidShimmer Soil"
-	task.7E36340AFD8F91C6.title: "Summon a Greedy Familiar"
+	task.7E36340AFD8F91C6.title: "召唤贪婪使魔"
 }
