@@ -68,7 +68,7 @@
 		""
 		"同时，&b终极灌注工厂&r能够容纳最多&18,960 mb&r灌注材料。"
 	]
-	quest.0145A878C472548C.quest_desc: ["这个魔灵会帮你 &6种植和收获&r&b树木&r，并还会重新种植它们！"]
+	quest.0145A878C472548C.quest_desc: ["这个魔灵会帮你&6种植和收获&b树木&r，并还会重新种植它们！"]
 	quest.0145A878C472548C.quest_subtitle: "有木头吗？"
 	quest.0145A878C472548C.title: "仪式：召唤魔精伐木工"
 	quest.017309CDB87F2A1E.quest_desc: [
@@ -286,7 +286,7 @@
 	quest.077658D04D0D4AB3.title: "Sal Ammoniac Accumulator"
 	quest.07821D28021BB440.quest_desc: ["&6Breaks&r &bblocks,&r 'nuff said."]
 	quest.07821D28021BB440.quest_subtitle: "Drill, Baby. Drill!"
-	quest.07D88A0ABF82A39A.quest_desc: ["使用 &b刀&f 从 &6动物&f 上获取。"]
+	quest.07D88A0ABF82A39A.quest_desc: ["使用&b刀&f从&6动物&f身上获取。"]
 	quest.07D88A0ABF82A39A.quest_subtitle: "完美的蜡烛材料"
 	quest.07F1FA5EF3E6A7F3.quest_desc: [
 		"This &3substance&r can be &6processed&r in a &bThermopneumatic Processing Plant&r to &6produce&r &bKerosene&r or, by adding &4Redstone, Lubricant&r. "
@@ -418,7 +418,7 @@
 	]
 	quest.0B94435972292812.title: "空间IO端口"
 	quest.0B98E8AC5CFB0FC2.quest_desc: ["破坏&a生长&f至&a最高阶段&f的&b恩特罗簇&f以获得。"]
-	quest.0BDF41399223A10A.quest_desc: ["使用卷轴撰写台和末影珍珠制作末影法术卷轴。"]
+	quest.0BDF41399223A10A.quest_desc: ["使用卷轴撰写台和末影珍珠来制作末影法术卷轴。"]
 	quest.0BF3E2C6D60A58BB.quest_desc: [
 		"可以通过&6快捷菜单&r查看&a表情动作&r。"
 		""
@@ -574,8 +574,8 @@
 		"&8- Player can also right-click items on the jar to process them."
 		"&8- And more..."
 	]
-	quest.0EB8636489EB02DE.quest_subtitle: "Occultism"
-	quest.0EB8636489EB02DE.title: "Ars Ocultas Addon"
+	quest.0EB8636489EB02DE.quest_subtitle: "神秘学"
+	quest.0EB8636489EB02DE.title: "Ars Ocultas附属模组"
 	quest.0ECDE9598DABBD3A.quest_desc: [
 		"• &cOre Miner&r, &cOre Scanner&r"
 		"• &cLawn Mower&r, &cSky Sweeper&r"
@@ -1026,7 +1026,7 @@
 		""
 		"  Just keep working, soon enough you'll be able to extract many fluids at once."
 	]
-	quest.176524D0E4475298.title: "Distillery"
+	quest.176524D0E4475298.title: "蒸馏室"
 	quest.1794E588334CB478.quest_desc: [
 		"This machine uses &6advanced technology&r to &7compress&r &bitems&r down to &datomic size&r, allowing it to &6access&r and &6manipulate&r a player’s &9inventory&r directly. "
 		""
@@ -1346,7 +1346,7 @@
 		""
 		"同时，&6黑暗高塔&r中有很多怪异可怕的实验场。"
 	]
-	quest.1D2EF18DBF02F6EB.quest_subtitle: "只有完成了征服&2黑暗森林&r的冒险，你才能踏入&6黑暗高塔&r并在塔顶找到boss"
+	quest.1D2EF18DBF02F6EB.quest_subtitle: "只有完成了征服&2黑暗森林&r的冒险，你才能踏入&6黑暗高塔&r并在塔顶找到Boss。"
 	quest.1D2EF18DBF02F6EB.title: "&8暮初&f恶魂"
 	quest.1D482F0D9AF8D17E.quest_desc: [
 		"&d原子合金&r是你可以做出的最强大、传导性最强的合金。"
@@ -1381,9 +1381,9 @@
 		"只要给反应堆提供合适的&8燃料&r和&9冷却剂&r，反应堆就能&a稳定&r运行。"
 	]
 	quest.1DE9A85C2E5348D1.title: "聚变反应堆控制器"
-	quest.1DF80E9D2A1732BC.quest_desc: ["Use a &5Dispel&r spell or &4kill&r the mob to get the charm back."]
-	quest.1DF80E9D2A1732BC.quest_subtitle: "Dispel / Kill"
-	quest.1DF80E9D2A1732BC.title: "Accidental summon?"
+	quest.1DF80E9D2A1732BC.quest_desc: ["使用&5解除魔法&r的法术或&4杀死&r对应生物即可回收护符。"]
+	quest.1DF80E9D2A1732BC.quest_subtitle: "解除魔法 / 杀死使魔"
+	quest.1DF80E9D2A1732BC.title: "不小心召唤了使魔？"
 	quest.1E6ADDD42C99274D.quest_desc: ["矿脉领主魔王终究不是最好的！这个……魔灵？比魔王矿工多挖掘&b几乎十倍&r 的资源 。"]
 	quest.1E6ADDD42C99274D.quest_subtitle: "稀世珍宝都是我的"
 	quest.1E7FD1EBAE4891FA.quest_desc: [
@@ -1672,7 +1672,7 @@
 	quest.2209DC294580BF3D.quest_desc: [
 		"巢穴有四个天然开放的入口。"
 		""
-		"其中有大量的雪怪，它们由体型庞大的&b雪怪首领&r所带领。"
+		"其中有大量的&7雪怪&r，它们由体型庞大的&b雪怪首领&r所带领。"
 		""
 		"击败&b雪怪首领&r并拿到它的一些毛皮后，你就能够进入&3极光冰川&r了。"
 	]
@@ -2360,11 +2360,11 @@
 	quest.3189264EB89A2A5A.quest_subtitle: "&o行业诀窍"
 	quest.3189264EB89A2A5A.title: "&a实用提示与技巧"
 	quest.320C2F44DD138054.quest_desc: [
-		"和其他boss不同，我们并不需要杀死这种动物。"
+		"和其他Boss不同，我们并不需要杀死这种动物。"
 		""
 		"相反，玩家应当完成它的&6谜题&r：将原版每一种颜色的&b羊毛&r交给它。"
 		""
-		"可以直接将&b羊毛&r丢给&c谜题羊&r，也可以手持羊毛&b右键&r给它。"
+		"可以直接将&b羊毛&r丢给&c谜题羊&r，也可以手持&b羊毛&r给它。"
 		""
 		"每交给它一种颜色的&b羊毛&r，它的身体就会变长并且多一条对应颜色的条纹。"
 		""
@@ -2738,11 +2738,11 @@
 	]
 	quest.3973F425BD96668A.title: "Pattern Encoding Terminal"
 	quest.398180C630A384CA.quest_desc: [
-		"The &bEnchanter's Tools&r can be applied with &dSpells&r at the &bScribe's Table&r."
+		"&b巫师工具&r可在&b抄写台&r附上&d法术&r。"
 		""
-		"- &bEnchanter's Bow&r: damage (&6Endless Quiver&r enchantment)"
+		"- &b巫师之弓&r：用于攻击（最好搭配&6无尽箭袋&r魔咒）"
 		""
-		"- &bEnchanter's Crossbow&r: great for mining (paring with &bSplit arrow&r)"
+		"- &b巫师之弩&r：适合用来挖矿（最好搭配&b增强箭：分裂&r）"
 	]
 	quest.3995CC829C7B015A.quest_desc: [
 		"可用&d法师之花&r&6合成&r。"
@@ -2783,7 +2783,7 @@
 	quest.3A5A59C7AEA670C7.quest_subtitle: "首个仪式"
 	quest.3A5A59C7AEA670C7.title: "阿维亚之环"
 	quest.3AA43F4E91E31E82.title: "丝兰果实"
-	quest.3AAE23B6BE07E5DC.quest_desc: ["使用卷轴撰写台和神圣珍珠来制作神圣法术卷轴，这些卷轴能施放治疗和增益。"]
+	quest.3AAE23B6BE07E5DC.quest_desc: ["使用卷轴撰写台和神圣珍珠来制作神圣法术卷轴，这些卷轴能治疗并施放效果。"]
 	quest.3AE00D06232E0175.quest_desc: [
 		"  &bThe Portal Gun&r:"
 		"    • L/R clicks, &6open&r paired &5portals&r"
@@ -2800,7 +2800,7 @@
 	quest.3B0AB80C9FAD48F2.title: "反质子核合成器"
 	quest.3B117FA99DD7558F.quest_desc: ["You may wish to &6automate&r the production of this."]
 	quest.3B117FA99DD7558F.title: "Solvent"
-	quest.3B3FDF02E891DD39.quest_desc: ["学徒法术书是一本更好的书，不过需要你去一趟下界。"]
+	quest.3B3FDF02E891DD39.quest_desc: ["学徒法术书是一种更好的书，不过需要你去一趟下界。"]
 	quest.3B6674B3B91BD8B4.quest_desc: [
 		"&bMechanical Belts&r-cheap to make, essential for early contraptions (and still usefull for high speed ones), and dye-able too."
 		""
@@ -2917,25 +2917,24 @@
 		"Do check out the cascaded gantries, explained in the ponder."
 	]
 	quest.3E1B0CBA0889C0AE.quest_subtitle: "For the well-heeled landed Gantry"
-	quest.3E212B5DE277B73A.quest_subtitle: "哼 哼(猪叫声)"
+	quest.3E212B5DE277B73A.quest_subtitle: "哼 哼"
 	quest.3E41681892FA2E44.quest_desc: ["Used in &bPattern Providers&r or &bInterfaces&r, which allows them to provide power to touching blocks/cables."]
 	quest.3E62028A2B03EEA4.quest_desc: ["&b精英热导线缆&r拥有&a1.0&r点&4热容&r，&e5.0&r点热导，但热阻为&c8000.0&r。"]
 	quest.3E62028A2B03EEA4.title: "精英热导线缆"
 	quest.3E8C6BD8557C6F08.quest_desc: [
 		"在你使用手稿解锁了邪术法术卷轴之后，你可以在卷轴撰写台中使用回响碎片来制作邪术法术。这些卷轴只能用传说墨水来制作。"
 		""
+		"深渊庇佑——你是否曾希望可以躲避攻击？苦力怕爆炸了你却只是说“哈哈，没炸到我”？使用这个法术，你将像末影人一样，在受到攻击时传送离开，几乎在法术持续期间无敌。"
 		""
-		"深渊庇佑——你是否曾希望可以躲避攻击？苦力怕爆炸了你却只是说“哈哈，没炸到我”？使用这个法术，你将像末影人一样，在受到攻击时传送离开，几乎在咒语持续期间无敌。"
-		""
-		"邪术冲击波——激活后，你可以发射多达7次纯能量冲击波。每次射击可以射程高达30个方块，只要确保不要射爆自己的头。"
+		"邪术冲击波——激活后，你可以发射多达7次纯能量冲击波。每次射击可以射程高达30格，只要确保不要射爆自己的头。"
 		""
 		"位面视觉——就像黑客一样……你可以看到可渲染距离内的任何实体。它适用于隐形和可见实体，并使它们隔墙发光。"
 		""
-		"幽匿之触——这是一个非常令人不安的咒语，从地面释放出大量潜渊触手，非常适合戏弄新手玩家或消灭一群怪物，并造成可观的伤害。"
+		"幽匿之触——这是一个非常令人不安的法术，从地面释放出大量潜渊触手，非常适合戏弄新手玩家或消灭一群怪物，并造成可观的伤害。"
 		""
-		"音爆——像监守者一样，释放出对20-30（取决于等级）方块范围内的实体造成大量伤害的冲击波。"
+		"音爆——像监守者一样释放出冲击波，对20-30（取决于等级）格范围内的实体造成大量伤害。"
 		""
-		"念力——是否有过想要将怪物或朋友扔到虚无中，使用这个咒语，你可以举起一个实体并将它们扔来扔去，直到咒语结束。不过要小心，如果让他们撞到墙上，他们会受到动能伤害。"
+		"念力——是否有过想要将烦人的生物或朋友扔到虚无中，使用这个法术，你可以举起一个实体并将它们扔来扔去，直到法术结束。不过要小心，如果让他们撞到墙上，他们会受到动能伤害。"
 	]
 	quest.3E903D71F66D3DB4.quest_subtitle: "N2O Turbo-Charged!"
 	quest.3E903D71F66D3DB4.title: "&6Replicator (MK II)"
@@ -2968,10 +2967,10 @@
 	quest.3F73EC8E087E2920.quest_subtitle: "+1 回响属性"
 	quest.3F8B9421E85C047D.title: "Water for Chemical Washing"
 	quest.3FB60EC2EE4D0435.quest_desc: [
-		"The &bEnchanter's Tools&r can be applied with &dSpells&r at the &bScribe's Table&r."
+		"&b巫师工具&r可在&b抄写台&r附上&d法术&r。"
 		""
-		"- &bEnchanter's Mirror&r:"
-		"&8Applies a self spell to the user. Spells cast with this mirror are &2discounted&r &8and gain &6additional bonus&r &8duration to all glyphs (don't need a &5Form&r &8as per Enchanter tool)"
+		"- &b巫师之镜&r:"
+		"&8可为施法者施加“自身”法术。用巫师之镜施放的法术&2消耗魔力更少&r&8且&6持续时间更长&r（对法术中的所有魔符均起效）&8。（巫师工具均不需要&5形态&r&8魔符）"
 	]
 	quest.3FB60EC2EE4D0435.title: "巫师工具"
 	quest.400274581B9BD5FC.quest_desc: ["&b激光聚焦矩阵&r用来给&b聚变反应堆&r点火，它能够将&c激光&r发出的激光束直接聚焦到反应堆的核心。"]
@@ -3063,7 +3062,7 @@
 	quest.41183734EB2C28FF.quest_desc: ["&6Fills&r vanilla &bfluid containers&r and &6applies&r &9fluids&r to &bitems&r in sequenced recipes."]
 	quest.41183734EB2C28FF.quest_subtitle: "Where’d the itsy bitsy spider go?"
 	quest.413557ECF489FD2C.quest_subtitle: "在末地浮岛的稀有结构中出现。"
-	quest.413557ECF489FD2C.title: "&5黑曜巨石柱"
+	quest.413557ECF489FD2C.title: "&5黑曜石柱"
 	quest.41604B0C59094F5E.quest_desc: [
 		"Your heart is your engine. "
 		""
@@ -3106,7 +3105,7 @@
 	quest.423B29BD8DAC8C3D.quest_desc: ["如果可能，生成的生物将为幼年形态。"]
 	quest.423B29BD8DAC8C3D.quest_subtitle: "+ 幼年"
 	quest.427B70B9D14A1A51.title: "移动升级"
-	quest.42AC14C7D41F0CAB.quest_desc: ["使用卷轴撰写台和烈焰棒制作炽焰法术卷轴，它们非常适合灼烧你的敌人……有时甚至是你的朋友……只是确保不要不小心把火球术施放在他们的宠物身上，这样你就安全了！"]
+	quest.42AC14C7D41F0CAB.quest_desc: ["使用卷轴撰写台和烈焰棒制作炽焰法术卷轴，它们非常适合灼烧你的敌人……有时甚至灼烧你的朋友……只是确保不要不小心把火球术施放在他们的宠物身上，这样你就安全了！"]
 	quest.42D6CC67AB29D7DA.quest_desc: [
 		"  You've finally reached &bDigital Circuits&r!"
 		""
@@ -3207,7 +3206,7 @@
 		"  Bronze machines can only process recipes up to 2 energy unit per tick. You might see it as \"2 EU/t\" when using the machines. 1 millibucket of steam is the same as 1 EU; I for one am really glad it's a very simple conversion cause I'm not a fan of math. Once your &bBoiler&r is at maximum temperature, it can supply 4 machines with &bSteam&r simultaneously! Now &othat's&r hot."
 	]
 	quest.439D48E9647FC8C2.title: "青铜锅炉"
-	quest.43ACFDB5CD949C74.quest_desc: ["使用卷轴撰写台和毒马铃薯制作自然法术卷轴，这些卷轴能够造成毒伤或定身敌人。"]
+	quest.43ACFDB5CD949C74.quest_desc: ["使用卷轴撰写台和毒马铃薯来制作自然法术卷轴，这些卷轴能造成中毒伤害或定身敌人。"]
 	quest.43CC79E605DA3F6E.title: "茄子"
 	quest.43DB398322EF99BD.quest_desc: [
 		"&b钢合金熔炉&r可将两种不同的锭直接制成&9合金&r，而&o不&r需要先在&b搅拌机&r中&6混合&r两种粉末。你可以查看&dEMI&r了解哪些合金可以通过这种方法制成。"
@@ -3529,16 +3528,16 @@
 		"{image:justdirethings:block/fluidcollectort2_side width:100 height:100 align:center}"
 	]
 	quest.499C20A6A0D7952F.quest_desc: [
-		"I add on each armor piece:"
-		"&8Self -> Heal -> Amplify "
+		"我给每件盔甲都添加了如下法术："
+		"&8自身 -> 治疗 -> 强化 "
 		""
-		"- Enchantment: &6Reactive I&r"
+		"- 所需魔咒：&6反应 I&r"
 		""
 		""
-		"&4NOTE&r: be mindful of &5source&r (too often OR too much per activation can drain your &5source bar&r)"
+		"&4提示&r：务必留意&5魔源&r（太过频繁或过度使用法术会很快榨干你的&5魔源条&r）"
 	]
 	quest.499C20A6A0D7952F.quest_subtitle: "示例法术"
-	quest.499C20A6A0D7952F.title: "Armor"
+	quest.499C20A6A0D7952F.title: "盔甲"
 	quest.49C508DCB4AAC3CB.quest_desc: ["&b终极锯木工厂&r能够同时进行最多&a九个&r锯木任务，同样包含\"&e自动分类&r\"功能。"]
 	quest.49C508DCB4AAC3CB.title: "终极锯木工厂"
 	quest.49D4F55F8A20DB22.quest_desc: ["Comes in several colors to match any decor."]
@@ -4622,7 +4621,7 @@
 		""
 		"如果你幸存下来，可以收下并使用其&6炽热的血液&r，这片&a沼泽&r中的冒险也就此完结。"
 	]
-	quest.6531DF5573672E9E.quest_subtitle: "可以在&6火焰沼泽&r中的空心山丘找到。"
+	quest.6531DF5573672E9E.quest_subtitle: "可以在&6火焰沼泽&r中的空心矿山找到。"
 	quest.6531DF5573672E9E.title: "&1九头蛇"
 	quest.656CBEFEE317E2E7.quest_desc: [
 		"默认情况下，促动器的存储空间不是最大的。"
@@ -4714,7 +4713,7 @@
 	]
 	quest.67785FD77E880DDB.quest_subtitle: "深居于主世界底部的稀有洞穴，虚空百合会指引方向。"
 	quest.67785FD77E880DDB.title: "&d虚空之花"
-	quest.67792A4DE6EDBC37.quest_desc: ["邪术手稿由八个远古知识碎片和一个回声碎片制成。这些碎片都可以在远古城市里找到。使用后，它将赋予你选择的一个邪术法术卷轴的力量。你可以解锁更多，但每解锁一个卷轴就需要一个新的手稿。"]
+	quest.67792A4DE6EDBC37.quest_desc: ["邪术手稿由八个远古知识碎片和一个回响碎片制成。这些碎片都可以在远古城市里找到。使用后，它将赋予你选择的一个邪术法术卷轴的力量。你可以解锁更多，但每解锁一个卷轴就需要一个新的手稿。"]
 	quest.6794A40DE2A79575.quest_desc: [
 		"本模组添加了一种新的&2村民&r。 "
 		"&8（以防你不知道，AE2也加了一种）"
@@ -4948,7 +4947,7 @@
 	quest.692E56A188B8D3FC.title: "欢迎游玩新生魔艺"
 	quest.693C902E4E926BB4.quest_desc: ["The &bChemical Oxidizer&r can take &3solids&r and &6oxidize&r them into a &egaseous state&r."]
 	quest.693C902E4E926BB4.title: "化学氧化机"
-	quest.69400E62D67A21FC.quest_desc: ["使用卷轴撰写台和一颗绿宝石制作唤魔卷轴。"]
+	quest.69400E62D67A21FC.quest_desc: ["使用卷轴撰写台和一颗绿宝石来制作唤魔卷轴。"]
 	quest.69403313B37E8219.quest_desc: [
 		" &bSimple&r:"
 		"    • &6Clicks&r the facing &3target&r"
@@ -5149,7 +5148,7 @@
 	quest.6CA941AE132445D9.title: "机器框架"
 	quest.6CF338A73F212B79.quest_desc: ["Essentially an I/O port, like the &bAndesite Funnel&r, but with &6filtering&r!"]
 	quest.6D0926D173AA5D06.title: "蔓越莓"
-	quest.6D092A4BC4A22314.quest_desc: ["远古知识碎片在书架的战利品中很少见，更常见于远古城市或通过与流浪商人交易获得。这些碎片被用来制作邪术手稿，这是解锁很久以前就遗失的古代知识的关键，现在只有监守者和少数敢于寻找这种古老魔法的人才会使用。"]
+	quest.6D092A4BC4A22314.quest_desc: ["远古知识碎片在书架的战利品中很少见，更多出现在远古城市或流浪商人的交易。这些碎片被用来制作邪术手稿，这是解锁很久以前就遗失的古代知识的关键，现在只有监守者和少数敢于寻找这种古老魔法的人才会使用。"]
 	quest.6D18BFC48A82E53E.quest_desc: ["Through the power of gravity, &6throwing&b 1 Gold Ingot, 1 Lapis Lazuli, and 1 Entro dust&f you will obtain&b 1 Entro Infused Ingot&f."]
 	quest.6D702C00A519AD12.quest_desc: ["&b精英提纯工厂&r能够同时处理&a七个&r提纯配方。"]
 	quest.6D702C00A519AD12.title: "精英提纯工厂"
@@ -5282,7 +5281,7 @@
 	quest.704C0B04EFF5024C.quest_desc: [
 		"法术抄写台用于整理你找到并放到&b法术书&f里的&b卷轴&f。"
 		""
-		"要移除一个&b卷轴，&6点击&f你想&6移除&f的法术，然后&6点击&f&6右侧的&f&b卷轴&f。"
+		"要移除一个&b卷轴，&6点击&f你想&6移除&f的法术，然后&6点击&f&6右侧&f的&b卷轴&f。"
 	]
 	quest.707EBB99AA8F4C57.quest_desc: [
 		"  是时候造点用导电性良好的金属制成的用于输送电能的长线——电线了。&6你可以将这些裸露的线和&b橡胶布&r合成，&6制成&b电缆&r。"
@@ -5321,7 +5320,7 @@
 		"- &b增强药水烧瓶：延长时效&r"
 		"&8（此物与&b薇克精之纤维&8均可&5延长药水时效&8）"
 	]
-	quest.71A219DF9715D153.quest_desc: ["使用卷轴撰写台和冰封骨头制作冰霜法术卷轴。"]
+	quest.71A219DF9715D153.quest_desc: ["使用卷轴撰写台和冰封骨头来制作冰霜法术卷轴。"]
 	quest.71B6DA56399050E1.quest_desc: ["&b个人缩小装置&f通过消耗&4能量&f来将你&a缩小&f。"]
 	quest.71DD555551705B17.quest_desc: [
 		"One of the first uses of &8steel&r is to make a &bDynamic Tank&r. "
@@ -5512,7 +5511,7 @@
 		"Keep in mind, you can't loop the &aenergy&r back around, it's a &cone-way&r process."
 	]
 	quest.74C5FDC3B1E74586.title: "Flux Transformer"
-	quest.74D9B681E8EFE064.quest_desc: ["末影珍珠由末影人掉落，并用于制作末影法术卷轴。"]
+	quest.74D9B681E8EFE064.quest_desc: ["末影珍珠由末影人掉落，用于制作末影法术卷轴。"]
 	quest.7529F840525E5BDF.quest_desc: ["每个&b终极感应元件&r可以为你的感应矩阵增加&e1.6 TFE&r的能量存储上限。"]
 	quest.7529F840525E5BDF.title: "终极感应元件"
 	quest.7533E0212EFE326D.quest_subtitle: "面向&e蜂箱&r放置时，可将&6蜂蜜&r以&b流体形式&r抽取出来。"
@@ -5822,9 +5821,9 @@
 	quest.7CB7BF24437115A4.quest_subtitle: "I have a crush"
 	quest.7CB7BF24437115A4.title: "Ritual: Summon Foliot Crusher"
 	quest.7CF09238E123231F.quest_desc: [
-		"&b雷霆之杖&r能为你提供 &a+15%&r的&9法术冷却缩减&r和&e雷霆法术能效&r，它还为非雷霆法术卷轴提供&a5%&r的法术能效。"
+		"&b雷霆之杖&r能为你提供 &a+15%&r的&9法术冷却缩减&r和&e雷霆法术强度&r，它还为非雷霆法术卷轴提供&a5%&r的法术强度。"
 		""
-		"使用这个来更有效地施放法术。"
+		"使用这个来更高效地施放法术。"
 	]
 	quest.7D0CF81F7E703B71.quest_desc: [
 		"{image:modern_industrialization:block/machines/water_pump/overlay_front_active width:32 height:32 align:center}"
@@ -5879,7 +5878,7 @@
 	quest.7DA49A7F33A82D1C.quest_desc: [
 		"在&6娜迦庭院&r中有不少障碍物，而&a娜迦&r却可以轻松破坏这些方块。"
 		""
-		"击败&a娜迦&r并拿到它那带有魔力的鳞片后你便能够进入下一个boss区域了。"
+		"击败&a娜迦&r并拿到它那带有魔力的鳞片后你便能够进入下一个Boss区域了。"
 	]
 	quest.7DA49A7F33A82D1C.quest_subtitle: "可以在用蛇形图案装饰的娜迦庭院找到。"
 	quest.7DA49A7F33A82D1C.title: "&a娜迦"
