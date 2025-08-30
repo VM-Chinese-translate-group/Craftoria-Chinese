@@ -17,7 +17,7 @@
 	chapter.3B4FADE31FB88E9F.title: "Iron的法术"
 	chapter.40CEA39FE5F5225D.title: "通用机械"
 	chapter.5158EB105DEA1F80.title: "沉浸式飞机"
-	chapter.51BB74521F2334FA.title: "Cooking"
+	chapter.51BB74521F2334FA.title: "烹饪"
 	chapter.5A3894BACC5E8994.title: "Theurgy"
 	chapter.5BF964A2F3CAA6E8.title: "物流系统"
 	chapter.679ED31B5B1D91DA.title: "Replication"
@@ -2104,7 +2104,7 @@
 		""
 		"但是现在你不需要&6一块一块的挖矿&r了（&c除非你有一点不清醒&r）。"
 		""
-		"在你&6挖矿&r的时候，你可以按下数字键&61&r旁边的&a波浪号键&r（&a默认键位&r），"
+		"在你&6挖矿&r的时候，你可以按下数字键&61&r旁边的&a波浪号键&r（&a默认&r），"
 		""
 		"这样，它会自动挖掘矿物邻近的其他&b同类矿物&r，一次最多可挖&664&r块矿物。"
 		""
@@ -2114,7 +2114,7 @@
 		""
 		"我强烈建议试验一遍每一种&a模式&r，&c以免正式使用时破坏其他东西&r。"
 	]
-	quest.2BF835F8F73E8F06.quest_subtitle: "挖个大洞！"
+	quest.2BF835F8F73E8F06.quest_subtitle: "挖呀挖呀挖！"
 	quest.2BF835F8F73E8F06.title: "&cVein Be Gone!"
 	quest.2C4CA092A557205E.quest_desc: [
 		"  1985 called from 2015, it wants it's anti-gravity technology back!"
@@ -3012,19 +3012,19 @@
 	quest.407FD46B5C5A1EC0.quest_desc: [
 		"&b超级棒&f是&9五&f种建筑棒中最基础的一种，能让你以更快的速度和更高的精度进行建造。它支持多种不同的模式，且一次最多&6建造&f&9三&f个方块。"
 		""
-		"&6按住&f单引号键（'）时，你可以打开&9配置界面&f。在这里你可以做很多事情："
-		"- &b替换&f用于决定是否要&6替换&f某些方块，例如流体、雪和高草。"
+		"&6按下&f单引号键（'），你可以打开&9配置界面&f。（默认不启用）在这里你可以做很多事情："
+		"- &b替换&f用于决定是否要&6替换&f某些方块，例如流体、雪和高草丛。"
 		"- &b方向锁定&f用于决定要向何处&6延伸&f已放置的方块。点击切换它们以查看可用的选项。"
 		"- &b匹配&f用于决定是否要&6匹配&f相似的方块（泥土/草方块类）、完全相同的方块或是任意方块。"
 		"- &b方块朝向&f用于根据&9目标方块&f或&9玩家&f的方向来&6放置&f方块。"
 		"- &b随机&f用于从你的快捷栏中&6随机&f选择并放置方块。"
 		""
-		"在键位绑定中&6检查&f“&b建筑之棒&f”一节，可以为&b切换方向锁定&f、&b切换方块朝向&f和&b切换升级&f配置键位。你也可以为&b显示上一操作&f和&b撤销操作&f&6配置&f键位。"
+		"在按键控制中&6检查&f“&b建筑之棒&f”类别（category），可以为&b切换方向锁定&f、&b切换方块朝向&f和&b切换升级&f配置键位。你也可以为&b显示上一操作&f和&b撤销操作&f&6配置&f键位。"
 		""
-		"当&6按住&f“&b显示上一操作&f”的键位时，它会以&a绿色&f&6高亮&f你上一次操作的方块。按下“&b撤销操作&f”的键位并&6右键点击&f，将会&6撤销&f你上一次放置的方块。"
+		"当&6按住&f“&b显示上一操作&f”的键位时，它会以&a绿色&f&6高亮&f你上一次操作的方块。按下“&b撤销操作&f”的键位并&6右击&f，将会&6撤销&f你上一次放置的方块。"
 		""
 		"副手持有方块时，将会&6放置&f副手的方块，而不依据你所注视的方块来放置。"
-		"持有&b潜影盒&f、&b收纳袋&f以及许多其他容器时，可以为建筑棍提供建筑方块。"
+		"持有&b潜影盒&f、&b收纳袋&f以及许多其他容器时，可以为建筑棒提供建筑方块。"
 	]
 	quest.40915337B7E427F8.quest_desc: ["  A cable capable of transferring enough energy for your entire factory, &b10 times over&r, within a single cable. This is &bpeak&r power transfer."]
 	quest.40915337B7E427F8.quest_subtitle: "I'm a Real Live Wire"
@@ -3219,7 +3219,7 @@
 	quest.43EFE64785AE50B4.title: "Tier 4, 1:4"
 	quest.442CDC27ADFA34E4.quest_desc: ["To&6 remove &fany modifications, &6place &bQuartz&f in your &6off-hand&f, and the same modifier u want to remove in your hand. It will &aconsume&f the modifier, not the &bQuartz&f."]
 	quest.443DFD3FB9E0BA2F.quest_desc: ["先弄明白自己需要种什么，再去找种子就好办多了！试试打几棵草，或者到处走走，就能找到几种有趣的植物！"]
-	quest.44507ED3F8A6DEC1.quest_subtitle: "有多种方法可以暂时阻止怪物在您附近生成，让您能够安心地进行采矿。"
+	quest.44507ED3F8A6DEC1.quest_subtitle: "有多种方法可以暂时阻止生物在你附近生成，让你能够安心地进行采矿。"
 	quest.448D7A215A175817.quest_desc: [
 		"神秘学是一种围绕召唤魔灵为你工作而展开的技艺。"
 		""
@@ -4200,7 +4200,7 @@
 	quest.58ED87D90B7F7168.quest_desc: [
 		"&b天使升级&f让你能够在你所面向的方块（或一排方块）的对面&6放置&f方块。"
 		""
-		"你也可以&6右键点击&f空气，在&9半空中&f放置方块。这么做的时候，请确保你的副手持有一个&6方块&f。"
+		"你也可以&6右击&f空气，在&9半空中&f放置方块。这么做的时候，请确保你的副手持有一个&6方块&f。"
 		""
 		"使用&b锻造台&f来对你的建筑棒进行升级，这需要消耗&7羽毛&f。"
 	]
@@ -4689,7 +4689,7 @@
 	]
 	quest.66F756E370750359.title: "MekaSuit护腿"
 	quest.670CE9B293296FEB.quest_desc: [
-		"只是在开玩笑！"
+		"开个玩笑！"
 		""
 		"你需要制作一个&b256M能源存储组件&r来完成这个。"
 		""
@@ -4799,7 +4799,7 @@
 		"  Speaking of sandwiches, it looks a bit &btasty&r, doesn't it?"
 	]
 	quest.67F2212453B81446.title: "Mixed Iridium Ingot"
-	quest.68107A111627BD77.quest_desc: ["&b采掘小帮手&f模组的物品消耗&4能源&f而非&a耐久度&f。"]
+	quest.68107A111627BD77.quest_desc: ["&b采掘小帮手&f消耗&4能量&f而非&a耐久度&f。"]
 	quest.68107A111627BD77.title: "采掘小帮手"
 	quest.681A718388A97FFC.quest_desc: [
 		"&b降噪升级&r能够完全静音机器。"
@@ -5165,7 +5165,7 @@
 	quest.6DED76B2F4AFD02F.quest_desc: ["&b干冰&f在地下极为罕见，但如果你有足够的&b电力和冰&f，你可以制作它。"]
 	quest.6DED76B2F4AFD02F.quest_subtitle: "摸起来有点冷"
 	quest.6DED76B2F4AFD02F.title: "干冰"
-	quest.6DEFCC013F7A6069.quest_subtitle: "随时随地更改您的物品名称，而无需消耗大量经验值。"
+	quest.6DEFCC013F7A6069.quest_subtitle: "随时随地更改你的物品名称，而无需消耗大量经验值。"
 	quest.6DFA92E319E7DA77.quest_desc: ["To start &6Autocrafting&6 you must first make a &bPattern&f with a &bPattern Encoding Terminal&f, then &6place&f that &bpattern&f in the &bPattern Provider&f."]
 	quest.6DFA92E319E7DA77.title: "Pattern Provider"
 	quest.6E2932D7D8228910.title: "&7Pressure &cGauge"
@@ -5382,9 +5382,9 @@
 		"Test out &bupgrades&f to see if any can make your &bMatter Cannon better&f!"
 	]
 	quest.72DD0017AC3B1326.title: "Matter Cannon"
-	quest.72E69FF9753D3CEA.quest_desc: ["The Otherstone trader will make acquiring &bOtherstone&r a lot more convenient - and more efficient."]
-	quest.72E69FF9753D3CEA.quest_subtitle: "This rocks"
-	quest.72E69FF9753D3CEA.title: "Ritual: Summon Otherstone Trader"
+	quest.72E69FF9753D3CEA.quest_desc: ["从异界石交易者处获取&b异界石&r更加方便——并且更有效率。"]
+	quest.72E69FF9753D3CEA.quest_subtitle: "这就是石粒"
+	quest.72E69FF9753D3CEA.title: "仪式：召唤异界石交易者"
 	quest.72FF205D1C9A9178.quest_subtitle: "可使用巨兽之眼找到"
 	quest.72FF205D1C9A9178.title: "&c下界合金巨兽"
 	quest.7342ABDAD6467123.quest_desc: [
@@ -5478,11 +5478,11 @@
 	quest.740B34D7D1AF3FF0.quest_desc: ["&b粉碎机&r是一台用来将物品和方块&6粉碎&r成&7粉&r和其他&9材料&r的机器。"]
 	quest.740B34D7D1AF3FF0.title: "粉碎机"
 	quest.741485F43A560FF3.quest_desc: [
-		"It's a &bParrot&r."
+		"它是一只&b鹦鹉&r。"
 		""
-		"Did you expect something else?"
+		"你期待什么？"
 	]
-	quest.741485F43A560FF3.quest_subtitle: "*Chirp*"
+	quest.741485F43A560FF3.quest_subtitle: "*啾啾声*"
 	quest.7422BD3C0F060AC5.quest_desc: ["这些是经验丰富的法师能够获得的最高等级的法术书"]
 	quest.7422BD3C0F060AC5.title: "秘法魔典"
 	quest.742A5BB44F257D8E.quest_desc: [
@@ -5572,8 +5572,8 @@
 	quest.768973710C811CB1.title: "&aQuantum Nano Set"
 	quest.76BA847F28ACE170.title: "Tier 2, 1:2"
 	quest.76C83F5BB91BA6A4.title: "白色马勃菌"
-	quest.7723EF8CE359646F.quest_desc: ["This spirit will bring back &brandom ores&r - including &bdeepslate ores&r."]
-	quest.7723EF8CE359646F.quest_subtitle: "Do you think the mining dimension is like the overworld?"
+	quest.7723EF8CE359646F.quest_desc: ["这种魔灵会带回&b随机矿石&r——包括&b深层矿石&r。"]
+	quest.7723EF8CE359646F.quest_subtitle: "你觉得挖矿维度和主世界一样吗？"
 	quest.77719A9FBDFE49A7.quest_desc: ["获得了一块空白符文后，你就可以制作一块注入了不同类型魔力的符文。这些符文用于升级你的装备或更优质的装备。"]
 	quest.77897C0A26941E97.quest_desc: [
 		"- &3Freezes&r targets."
@@ -5583,7 +5583,7 @@
 		"&6Fire-resistant&r mobs are especially &cvulnerable&r to this ammo."
 	]
 	quest.7790ABA120E4EBA9.quest_desc: ["Once you have mastered the basics, you can move on to working with &bDjinn&r, intermediate-level spirits."]
-	quest.7790ABA120E4EBA9.quest_subtitle: "Practiced"
+	quest.7790ABA120E4EBA9.quest_subtitle: "熟练"
 	quest.77968A26B3D90399.quest_desc: [""]
 	quest.77968A26B3D90399.quest_subtitle: "Best wrench in the game, I say."
 	quest.77978ED3AC1DFA26.quest_desc: ["&aExtendedAE &fis a mod that can be used to &aspeed up, and expand &aae2 &fso its faster and bigger."]
@@ -5606,8 +5606,8 @@
 		"{image:justdirethings:block/fluid_flowing width:100 height:100 align:center}"
 	]
 	quest.7806DD85D325C01C.quest_subtitle: "Better Fuels and Portals Begin Here"
-	quest.786E95EB4ED8C14E.quest_desc: ["The most basic miner spirit. It will bring back &brandom blocks&r, some of which may be ore."]
-	quest.786E95EB4ED8C14E.quest_subtitle: "Heave ho"
+	quest.786E95EB4ED8C14E.quest_desc: ["最基础的矿工魔灵。它会带回一些&b随机方块&r，其中一些可能是矿石。"]
+	quest.786E95EB4ED8C14E.quest_subtitle: "嘿哟"
 	quest.78756CC2F8821E41.quest_desc: [
 		"&b化学品升级&r能够&6安装&r在使用&e化学品&r的机器上，增加化学品的&a效能&r。"
 		""
@@ -5679,8 +5679,8 @@
 		"- Deploying on top of an &3inventory&r containing a &bHoe&r will tell the drone to &6replant&r any &acrops&r it harvests within its area."
 	]
 	quest.79F451F9C8D02A69.quest_desc: ["Now that you have a &bConcurrent Processor &fyou can now craft some more items to help you through &aExtenedAE&f."]
-	quest.7A5466B9F5C79793.quest_desc: ["&bFoliot&r are the first type of spirit you will work with, and the least dangerous."]
-	quest.7A5466B9F5C79793.quest_subtitle: "Learning"
+	quest.7A5466B9F5C79793.quest_desc: ["你将最先与&b魔精&r这种魔灵打交道，它们也是最安全的类型。"]
+	quest.7A5466B9F5C79793.quest_subtitle: "初学"
 	quest.7A6C1605F32F695F.quest_desc: [
 		"This oven makes it possible to &6calcinate&r a variety of materials into &bAlchemical Salt&r."
 		""
@@ -5701,8 +5701,8 @@
 		""
 		"This trade spirit fixes that little problem, by &6exchanging&r your &bunstable saplings&r with ones that need no &bThird Eye&r to interact with."
 	]
-	quest.7A7F75393420DB4C.quest_subtitle: "Occult arboretum"
-	quest.7A7F75393420DB4C.title: "Ritual: Summon Otherworld Sapling Trader"
+	quest.7A7F75393420DB4C.quest_subtitle: "神秘植物园"
+	quest.7A7F75393420DB4C.title: "仪式：召唤异界树苗交易者"
 	quest.7A9CDE804E04BE57.quest_desc: [
 		"若你找不到&5紫水晶&r，这个工具也许能帮上忙。"
 		""
@@ -5812,14 +5812,14 @@
 	quest.7C834204DEE1813C.title: "高级富集工厂"
 	quest.7C8EF2A739AAC1D7.title: "ME Cell Housing"
 	quest.7CB7BF24437115A4.quest_desc: [
-		"Crusher spirits... &6crush&r things."
+		"碎矿魔灵……可以&6粉碎&b物品。"
 		""
-		"Their main use is to crush &bOre&r, which will be &6doubled&r (or more, depending on the spirit's tier)."
+		"它们的主要用途是粉碎&b矿石&r，能使矿石产量&6翻倍&r（或更多，取决于魔灵的等级）。"
 		""
-		"However, Crushers also have several more &6unique&r recipes, necessary for gaining the &bChalks&r required to contact stronger spirits."
+		"然而，碎矿魔灵还有几个更&6独特&r的配方，对于获得&b粉笔&r，以接触更强大的魔灵是必不可少的。"
 	]
 	quest.7CB7BF24437115A4.quest_subtitle: "I have a crush"
-	quest.7CB7BF24437115A4.title: "Ritual: Summon Foliot Crusher"
+	quest.7CB7BF24437115A4.title: "仪式：召唤魔精碎矿者"
 	quest.7CF09238E123231F.quest_desc: [
 		"&b雷霆之杖&r能为你提供 &a+15%&r的&9法术冷却缩减&r和&e雷霆法术强度&r，它还为非雷霆法术卷轴提供&a5%&r的法术强度。"
 		""
@@ -5843,11 +5843,11 @@
 		"The &ethermally connected&r sides will try to equalize their &btemperatures&r, so it's important to maintain a &csignificant&r temperature differential for &aeffective&r operation."
 	]
 	quest.7D36F35D54BD7812.quest_desc: [
-		"You can occasionally find &bDemon's Dream seeds&r by breaking short grass."
+		"你可以通过破坏矮草偶尔找到&b魔鬼之梦种子&r。"
 		""
-		"When grown, it can be &6harvested&r for &bDemon's Dream fruit&r, which has many uses for occult matters."
+		"它长成后，可以&6收获&r&b魔鬼之梦果&r，其在神秘学研究中有许多用途。"
 	]
-	quest.7D36F35D54BD7812.quest_subtitle: "Demonology begins with a farm"
+	quest.7D36F35D54BD7812.quest_subtitle: "恶魔学始于一个农场"
 	quest.7D57C6962950AA98.quest_desc: ["&bCrafting Co-processor&f are used to speed up and to allow for more then one item to craft while crafting more complex recipe."]
 	quest.7D57C6962950AA98.title: "Crafting Processors"
 	quest.7D58D814C99CB2F6.quest_desc: [
@@ -5938,10 +5938,10 @@
 	quest.7F4BFF2C6E887FCC.quest_subtitle: "A Better Coal"
 	quest.7F7AB9192CD7FC70.quest_desc: ["&b高级锯木工厂&r能够同时进行最多&a七个&r锯木任务，同样包含\"&e自动分类&r\"功能。"]
 	quest.7F7AB9192CD7FC70.title: "精英锯木工厂"
-	quest.7FA5112E27A0D70C.quest_desc: ["This pickaxe may be more useful for making &bminer spirits&r than it is for you, but it is far better than its brittle predecessor."]
-	quest.7FA5112E27A0D70C.quest_subtitle: "Spirit pick"
-	quest.7FBC6EFE948A0CD2.quest_desc: ["The Dragon &6bolsters&r your &bexperience gain&r."]
-	quest.7FBC6EFE948A0CD2.quest_subtitle: "This one hoards knowledge, not gold"
+	quest.7FA5112E27A0D70C.quest_desc: ["这把镐比起你来用，可能更适合制作&b矿工魔灵&r，但比它脆弱的“前辈”要好得多。"]
+	quest.7FA5112E27A0D70C.quest_subtitle: "魔灵之选"
+	quest.7FBC6EFE948A0CD2.quest_desc: ["龙使魔可以&6增加&r你的&b经验获取&r。"]
+	quest.7FBC6EFE948A0CD2.quest_subtitle: "这条龙囤积知识，而不是黄金"
 	quest.7FC6AE9DB7C1DA52.quest_desc: [
 		"&b生物能发电机&r消耗&2生物燃料&r以产生&e能量&r。"
 		""
@@ -5963,11 +5963,11 @@
 	quest.7FD0A63CDC267251.quest_desc: ["每次生成的最大实体数量。"]
 	quest.7FD0A63CDC267251.quest_subtitle: "+1 生成数量"
 	quest.7FD2368444636E93.quest_desc: [
-		"The Blacksmith can &6upgrade&r other &boccult familiars&r."
+		"铁匠使魔可以为其他&b使魔&r&6升级&r。"
 		""
-		"It can also &6repair&r your &bequipment&r as you mine stone."
+		"在你采矿时，它还可以&6修理&r你的&b装备&r。"
 	]
-	quest.7FD2368444636E93.quest_subtitle: "Enhance"
+	quest.7FD2368444636E93.quest_subtitle: "强化"
 	quest.7FD5FCEFE3697A7C.quest_desc: [
 		"&b蒸汽农耕机&r只需要&o微不足道的&r&e8EU/t&r，就可以实现："
 		"-&6耕地&r：启用时，可将泥土变为耕地。需要提供水才能工作。"
@@ -6017,7 +6017,7 @@
 	task.1D870ED2303FAE8A.title: "研习魔法？！"
 	task.1F5A29E07CD58234.title: "帽子"
 	task.203841AC95941F00.title: "欢迎来到机械动力！"
-	task.2103677DA5F292DE.title: "Summon a Dragon Familiar"
+	task.2103677DA5F292DE.title: "召唤龙使魔"
 	task.21895164503139CA.title: "气液转换机用水"
 	task.22E777BE43621489.title: "任意#handcrafted:chests"
 	task.253E536043DBF3EA.title: "Quantum Computer Storage"
@@ -6025,22 +6025,22 @@
 	task.268DC896793A48C7.title: "觅食时间到！"
 	task.2772306CF31750FD.title: "任意#minecraft:coals"
 	task.2836DAFB8BAF8D7B.title: "召唤无头鼠骑士使魔"
-	task.296A456AF1F00270.title: "Summon an Otherstone Trader"
+	task.296A456AF1F00270.title: "召唤异界石交易者"
 	task.2A1C946A44A39D6F.title: "Make Primogel Soil"
 	task.2DCC056348E9BB4B.title: "召唤恶魔妻子"
 	task.2FA7F24545E1C37E.title: "Start Here"
 	task.3033BCAB98641150.title: "Advanced Pattern Provider"
 	task.310C3BFD53972F70.title: "寿司狗GoGo！"
-	task.318C7D190267976F.title: "Summon a Blacksmith Familiar"
+	task.318C7D190267976F.title: "召唤铁匠使魔"
 	task.32CCFEEA0A624C11.title: "Make Blazebloom Soil"
-	task.336881A8652FA9A0.title: "Summon a Foliot Crusher (there's no advancement, sorry!)"
+	task.336881A8652FA9A0.title: "召唤魔精碎矿者（很抱歉，没有成就！）"
 	task.339C2D373170BE2F.title: "来让图标变得更时尚！"
 	task.33DEB184944AC7D0.title: "Water"
 	task.3404171FB712C24D.title: "Tier 5 Ores, 1:5"
-	task.3716986BD12061AA.title: "Any #c:raw_materials/gold"
+	task.3716986BD12061AA.title: "任意#c:raw_materials/gold"
 	task.37DECFA02129E0B8.title: "召唤小鹿使魔"
 	task.3BC634992A1E9BAD.title: "Observe: &2Any Entro Budding&r"
-	task.3C8E0C3D705AB65F.title: "Any #c:raw_materials/iron"
+	task.3C8E0C3D705AB65F.title: "任意#c:raw_materials/iron"
 	task.3ED23CC07C23FD76.title: "&b欢迎游玩神秘学"
 	task.4046229AF35778A3.title: "季节"
 	task.4137D2B088325C60.title: "召唤魔精搬运工"
@@ -6048,7 +6048,7 @@
 	task.41EC40C5739AA13D.title: "你将发现的群系作物！"
 	task.42634C57B87C09DB.title: "召唤妖精使魔"
 	task.429785464C6CD059.title: "任意#minecraft:axes"
-	task.443D8F4CD01CC0C9.title: "Summon a Parrot \"Familiar\""
+	task.443D8F4CD01CC0C9.title: "召唤鹦鹉“使魔”"
 	task.4552085BF5330776.title: "OK, Let Me Cook"
 	task.4CE3EEAAF41AE050.title: "召唤魔精清洁工"
 	task.4D5812F798FB8C8C.title: "&dTheurgy &9100%"
@@ -6057,7 +6057,7 @@
 	task.4F4699F9117BC270.title: "Pre-Programmed Drones"
 	task.4F7787C0557CF5CC.title: "Apo The Carist"
 	task.52C834FDFA57A474.title: "召唤眼魔使魔"
-	task.5327B3CEDA60D4BE.title: "Any #c:raw_materials/silver"
+	task.5327B3CEDA60D4BE.title: "任意#c:raw_materials/silver"
 	task.5397C5FA8788480F.title: "任意#c:seeds/rice"
 	task.54E5D81FEE18AF83.title: "炽焰术士"
 	task.570D439C4AC9F64C.title: "世界层级"
@@ -6066,14 +6066,14 @@
 	task.5D5634634E3879E5.title: "召唤蝙蝠使魔"
 	task.5DAF1EE0903D876A.title: "组装机械？"
 	task.601F7C69458E7589.title: "Welcome to Theurgy"
-	task.61ADF1E6345BC7E1.title: "Any #c:raw_materials/copper"
+	task.61ADF1E6345BC7E1.title: "任意#c:raw_materials/copper"
 	task.63DAD8D3277DA248.title: "进化生产目录"
 	task.64433571E92D5E65.title: "表情动作"
 	task.6544A3FD1B532809.title: "召唤恶魔丈夫"
 	task.65A43DD683FB39E4.title: "召唤魔精伐木工"
 	task.65B2D0E35B083E82.title: "适者生存"
 	task.66BF2FED6B091A68.title: "探索世界！"
-	task.6C6C366D034AF5C7.title: "Summon an Otherworld Sapling Trader"
+	task.6C6C366D034AF5C7.title: "召唤异界树苗交易者"
 	task.708EE345AEBB270B.title: "Make ShadowPulse Soil"
 	task.7206B162C5B4E0B8.title: "Ores at Tier 1"
 	task.73B852C41DE1F864.title: "任意#c:crops/rice"

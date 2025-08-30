@@ -14,8 +14,8 @@
   "text.industrialization_overdrive.multi_processing_array_recipe": "可以批量运行提供给它的任何电动合成多方块的配方。",
   "text.industrialization_overdrive.multi_processing_array_size": "机器：%d",
   "text.industrialization_overdrive.terminal_help_1": "- 在MI多方块上按%s+%s自动搭建。",
-  "text.industrialization_overdrive.terminal_help_2": "- 要求零件在您的物品栏中",
-  "text.industrialization_overdrive.terminal_help_2_alt": "- 要求零件位于您的物品栏或链接的ME系统中。",
+  "text.industrialization_overdrive.terminal_help_2": "- 要求零件在你的物品栏中",
+  "text.industrialization_overdrive.terminal_help_2_alt": "- 要求零件位于你的物品栏或链接的ME系统中。",
   "text.industrialization_overdrive.terminal_link_info": "链接到%s处的ME系统。",
   "text.industrialization_overdrive.terminal_link_not_linked": "未连接到ME系统。"
 }
