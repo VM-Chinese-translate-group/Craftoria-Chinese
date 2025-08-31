@@ -18,7 +18,7 @@
 	chapter.40CEA39FE5F5225D.title: "通用机械"
 	chapter.5158EB105DEA1F80.title: "沉浸式飞机"
 	chapter.51BB74521F2334FA.title: "烹饪"
-	chapter.5A3894BACC5E8994.title: "Theurgy"
+	chapter.5A3894BACC5E8994.title: "神通术"
 	chapter.5BF964A2F3CAA6E8.title: "物流系统"
 	chapter.679ED31B5B1D91DA.title: "Replication"
 	chapter.6A5B4531418CC297.title: "现代工业化"
@@ -95,7 +95,7 @@
 	quest.026C88446512DDB8.quest_subtitle: "可批量执行&e焦炉&r配方。"
 	quest.02AE5771A57BC6BE.quest_subtitle: "完成对应任务章节。"
 	quest.02AE5771A57BC6BE.title: "&3应用能源"
-	quest.02D3AFC713077502.quest_desc: ["Makes fermentation processes more &6efficient&r. &aYou may wish to automate this&r."]
+	quest.02D3AFC713077502.quest_desc: ["使发酵过程更加&6高效&r。&a你可能会想要自动化这个过程&r。"]
 	quest.030E566682A89105.quest_desc: [
 		"   The &bfuel canister&r holds a large amount of fuel."
 		""
@@ -278,12 +278,12 @@
 	]
 	quest.0729CB454B970201.title: "青铜钻"
 	quest.077658D04D0D4AB3.quest_desc: [
-		"The &bSal Ammoniac Tank&r must be &6placed below&r the &bSal Ammoniac Accumulator&r. In tandem, these two devices will create &dSal Ammoniac solvent&r from &9Water&r."
+		"&b硇砂储罐&r必须放置在硇砂蓄积器&6下方&r。这两个设备协同工作，可以从&9水&r中制造出&d硇砂溶剂&r。"
 		""
-		"If you wish for solvent &afaster&r, you can &6provide&r the Accumulator with &bSal Ammoniac crystals&r to greatly expedite the process."
+		"如果你想要溶剂制备得&a更快&r，可以向蓄积器&6提供&r&b硇砂晶体&r以大大加快这个过程。"
 	]
-	quest.077658D04D0D4AB3.quest_subtitle: "Is it poisonous?"
-	quest.077658D04D0D4AB3.title: "Sal Ammoniac Accumulator"
+	quest.077658D04D0D4AB3.quest_subtitle: "它有毒吗？"
+	quest.077658D04D0D4AB3.title: "硇砂蓄积器"
 	quest.07821D28021BB440.quest_desc: ["&6Breaks&r &bblocks,&r 'nuff said."]
 	quest.07821D28021BB440.quest_subtitle: "Drill, Baby. Drill!"
 	quest.07D88A0ABF82A39A.quest_desc: ["使用&b刀&f从&6动物&f身上获取。"]
@@ -495,7 +495,7 @@
 	]
 	quest.0C91DF887A33A8E6.quest_subtitle: "这不是虚空采矿；这是在口袋维度中采矿"
 	quest.0C9D9AFD7C5C9F97.quest_desc: ["&b下界合金棒&f也有同样的功能，但其&6放置&f的最大数量限制为1024个方块。"]
-	quest.0D1AFCAD90FAA4F9.quest_desc: ["This Rod is pre-attuned to find a &aCommon&r material."]
+	quest.0D1AFCAD90FAA4F9.quest_desc: ["预先调整好这根探测杖，以寻找一种&a常见&r的材料。"]
 	quest.0D44F37BE787CA30.quest_desc: ["This &3substance&r can be &6processed&r in a &bThermopneumatic Processing Plant&r to produce &eLPG&r, which is an &aexcellent&r &7liquid fuel&r comparable in quality to &3Thermal Expansion’s&r &7Refined Fuel&r. "]
 	quest.0D44F37BE787CA30.title: "&6Gasoline"
 	quest.0D8988AF02D890EA.quest_subtitle: "找到远古战场"
@@ -530,7 +530,7 @@
 		"Additionally, &bTube Modules&r can be &6attached&r to these &bTubes&r to provide &aextra features&r or &efunctionality&r."
 	]
 	quest.0E30CFA6C5B58BEA.quest_desc: ["This &bVat&r allows you to convert your &bAlchemical Niter&r from one tier to another."]
-	quest.0E30CFA6C5B58BEA.quest_subtitle: "Upgrades?"
+	quest.0E30CFA6C5B58BEA.quest_subtitle: "升级？"
 	quest.0E352E2B17084DAE.quest_desc: ["&b高级锯木工厂&r能够同时进行最多&a五个&r锯木任务，同样包含\"&e自动分类&r\"功能。"]
 	quest.0E352E2B17084DAE.title: "高级锯木工厂"
 	quest.0E3A8954B2AAF9F7.quest_desc: [
@@ -565,14 +565,14 @@
 	quest.0EA9EF2362AE52A2.quest_desc: ["&b基础提纯工厂&r能够同时处理&a三个&r提纯配方。"]
 	quest.0EA9EF2362AE52A2.title: "基础提纯工厂"
 	quest.0EB8636489EB02DE.quest_desc: [
-		"Ars Nouveau + Occultism addon."
+		"新生魔艺 + 神秘学的联动附属模组。"
 		""
-		"&8For more info, please check the &5Ars Nouveau &8book."
-		"&8- Spirits can now be used from Containment Jars!"
-		"&8- Spirits automatically pull items around them in a 7x7 area and process them."
-		"&8- Janitor Spirits will try pushing its contents into storage on top of the jar."
-		"&8- Player can also right-click items on the jar to process them."
-		"&8- And more..."
+		"&8若要查看详情，请查阅&5新生魔艺&8的帕秋莉书。"
+		"&8- 魔灵可在收容罐中工作！"
+		"&8- 魔灵可自动吸引并处理7x7范围内的物品。"
+		"&8- 清洁工魔灵会将物品放进罐顶的容器内。"
+		"&8- 玩家右击收容罐即可处理物品。"
+		"&8- 等等等等……"
 	]
 	quest.0EB8636489EB02DE.quest_subtitle: "神秘学"
 	quest.0EB8636489EB02DE.title: "Ars Ocultas附属模组"
@@ -700,7 +700,7 @@
 		"&8作者的话： 对我来说这套看着最帅，打扮成秘术师也不错。"
 		"&8提示：如果嫌这套数值低，但又想保留外观，可以把战法师套装&6幻化&r&8成秘术师套装。"
 	]
-	quest.12094D44D2E3DB16.title: "Arcanist's Cloak"
+	quest.12094D44D2E3DB16.title: "秘术师套装"
 	quest.120AAA5FECD27573.quest_subtitle: "Go fluid, go! Stop fluid, stop!"
 	quest.123F10122DCC72F9.quest_desc: [
 		"给你的&b大宗存储元件&r塞上一张&b压缩卡&r，它就能自动将物品/方块压缩至更高的压缩程度。"
@@ -1186,9 +1186,9 @@
 	quest.19B550F54950E253.title: "&b暗夜巫妖"
 	quest.19C33613F2811BAA.quest_desc: ["The &bBasic Terminal&f allows you to access your &bstorage&f, but it can be upgraded."]
 	quest.19C33613F2811BAA.title: "Terminal"
-	quest.19F7B6A670D4A707.quest_desc: ["Obtained from the &bDistiller&r, this is &bMercury&r in its rawest form."]
-	quest.19F7B6A670D4A707.quest_subtitle: "Raw Mercury"
-	quest.19F7B6A670D4A707.title: "Crystallized Mercury"
+	quest.19F7B6A670D4A707.quest_desc: ["从&b蒸馏器&r中获取的，这是最原始形态的&b汞&r。"]
+	quest.19F7B6A670D4A707.quest_subtitle: "生汞"
+	quest.19F7B6A670D4A707.title: "晶化汞"
 	quest.1A1C915A4A1F7741.quest_desc: [
 		"   &bBlazebloom goo&r will &6transform&r blocks of &bprimal coal&r into &braw blaze ember&r "
 		""
@@ -1317,11 +1317,11 @@
 	]
 	quest.1CC910880728D896.title: "Fusion Reactor"
 	quest.1CD1F5A08AE6E557.quest_desc: [
-		"Obtained from &3ore&r found commonly around &6sea level&r, &bSal Ammoniac&r is a crystal brimming with useful properties."
+		"从&6海平面&r附近常见的&3矿石&r中提取，&b硇砂&r是一种满是有用特性的晶体。"
 		""
-		"You will want a decent supply of it."
+		"你会想要有足够的供应的。"
 	]
-	quest.1CD1F5A08AE6E557.quest_subtitle: "Sparkling in the depths"
+	quest.1CD1F5A08AE6E557.quest_subtitle: "在深处闪耀"
 	quest.1CD404EA948FF868.quest_desc: [
 		"Using this &bmachine&r you will &6transform&r any item with matter values into &dMatter."
 		""
@@ -1424,13 +1424,13 @@
 	quest.1E7FD1EBAE4891FA.quest_subtitle: "玩家的魔力值（魔源）"
 	quest.1E7FD1EBAE4891FA.title: "法术小指南 - 2"
 	quest.1EBE2B9A6CCE5A69.quest_desc: [
-		"&3Divining Rods&r allow an alchemist to &6locate&r valuable blocks from afar."
+		"炼金术士可以用&3探测杖&r从远处&6定位&r有价值的方块。"
 		""
-		"&6Sneak-using&r your Rod on a block will &6attune&r it to that block. When you &6charge&r the Rod up, it will send off a particle to the nearest target block it found - &cthis will consume durability&r. &6Use&r it normally to \"ping\" that location again. The gem becomes more purple the closer you are to the block."
+		"&6在潜行状态下&r对一个方块使用探测杖，会将它&6调整&r到那个方块。当你给探测杖&6充能&r时，它会向最近的目标方块发射一个粒子——&c会消耗耐久度&r。再次正常&6使用&r它来“ping”那个位置。宝石的颜色越紫，你就越接近那个方块。"
 		""
-		"The Glass Rod, being the cheapest, can locate only &8Abundant&r and &aCommon&r blocks."
+		"玻璃探测杖是最廉价的，只能定位到&8大量&和&普通&方块。"
 	]
-	quest.1EBE2B9A6CCE5A69.quest_subtitle: "Finding my way"
+	quest.1EBE2B9A6CCE5A69.quest_subtitle: "寻找自己的路"
 	quest.1EC75DB7FA07D06B.quest_desc: [
 		"This &9Module&r vents &8high-pressure&r &bair&r when the &7tube pressure&r reaches &c4.9&r bar (&c19.9&r for &bAdvanced Pressure Tubes&r). "
 		""
@@ -4139,7 +4139,7 @@
 		"- 可用&b附魔装置&r进行升级"
 		"- 可用&b改衣台&r加装或移除&b魔法纤维&r"
 	]
-	quest.56079AB13D721BC7.title: "Sorcerer's Cloak"
+	quest.56079AB13D721BC7.title: "术士套装"
 	quest.5619683321410B74.quest_desc: ["Screw a house, take your entire lair with you! But be warned, it won't be cheap!"]
 	quest.5619683321410B74.title: "Large Spatial Component"
 	quest.5663A6C559490A29.quest_desc: ["&6右击&f对&b僵尸&f或&b尸壳&f使用&b天线珍珠&f，即可完成。"]
@@ -4334,7 +4334,7 @@
 	quest.5D584858B61E534B.quest_subtitle: "Mercury = Flux"
 	quest.5D5FC5420738FDE8.quest_desc: ["Plain ol' &bCardboard.&r So basic, and yet... the gateway to &oCreate's&r latest set of capabilities, represented in the &c\"Factory Smarts\"&r wing of this gallery."]
 	quest.5D852AA1930E1019.quest_desc: ["Captured blazes &6enjoy&r &beggs&r, like their distant forbear, Calcifer"]
-	quest.5D92326B02E9DC0F.title: "Belts"
+	quest.5D92326B02E9DC0F.title: "腰带"
 	quest.5DBFD3F917C4E49C.quest_subtitle: "可使用机械之眼找到"
 	quest.5DBFD3F917C4E49C.title: "&4先驱者"
 	quest.5DD99224F29419C1.quest_desc: [
@@ -4353,30 +4353,30 @@
 	quest.5E9F30ADD242C764.quest_subtitle: "当前只要$19.99！"
 	quest.5E9F30ADD242C764.title: "&4下界水晶"
 	quest.5EC2714894E2CB13.quest_desc: [
-		"Add mods' recipes support for &5Crush, Cut, Flatten Glyphs&r."
+		"&5粉碎、剪切、压扁三种魔符&r现在可用于其他模组的合成配方。"
 		""
-		"- &bCrush&r: "
-		"&8+ Actually Additions: Crusher"
-		"&8+ Integrated Dynamics: Squeer"
-		"&8+ Mekanism: Crusher, Sawmill"
-		"&8+ Modern Industrialization: Macerator"
-		"&8+ Occultism: crushing spirits (lowest tier)"
+		"- &b粉碎&r："
+		"&8+ 实用拓展：磨粉机"
+		"&8+ 动态联合：挤压机"
+		"&8+ 通用机械：粉碎机，锯木机"
+		"&8+ 现代工业化：研磨机"
+		"&8+ 神秘学：碎矿者魔灵（最低等级）"
 		""
-		"- &bCut&r:"
-		"&8+ Farmers Delight: Cutting Board"
-		"&8+ Cutting Machine from Modern Industrialization is disabled"
+		"- &b剪切&r："
+		"&8+ 农夫乐事：砧板"
+		"&8+ “现代工业化”模组的切割机已被禁用，故不适用"
 		""
-		"- &bFlatten&r:"
-		"&8+ Modern Industrialization: Compressor"
+		"- &b压扁&r："
+		"&8+ 现代工业化：压缩机"
 		""
 		""
-		"&4NOTE&r: list of mods above is from pack ver 1.12.0."
-		"&4NOTE 2&r: for automation, use &bRunes&r and/or &bTurrets&r."
-		"&4NOTE 3&r: in case of same recipe across mods, higher priority will overwrite lower."
-		"&8(check the config for priority value)"
+		"&4提示&r：上述模组列表适用于整合包版本1.12.0及以上。"
+		"&4提示②&r：可用&b符文&r和/或&b法术炮塔&r实现自动化。"
+		"&4提示③&r：若不同模组间的合成配方冲突，会执行优先级高的配方。"
+		"&8（可在配置文件中查阅优先级值）"
 	]
-	quest.5EC2714894E2CB13.quest_subtitle: "Crush, Cut, Flatten"
-	quest.5EC2714894E2CB13.title: "Ars Unification Addon"
+	quest.5EC2714894E2CB13.quest_subtitle: "粉碎，剪切，压扁"
+	quest.5EC2714894E2CB13.title: "Ars Unification附属模组"
 	quest.5ECC7F4F5D2591D9.quest_desc: ["The &bAdvanced Card &fis a crafting component used to craft &bUpgrades&f."]
 	quest.5ECC7F4F5D2591D9.title: "Advanced Upgrades"
 	quest.5EEF6110DDBEB146.quest_desc: [
@@ -4390,12 +4390,12 @@
 	]
 	quest.5F2801445E518E49.quest_desc: ["通过站在炼金锅中或站在下面有火燃烧的普通炼药锅中，可以获得猩红精华。一旦里面装满了一些血液，你可以用空玻璃瓶右击来收集血液。"]
 	quest.5F46E1D3938F5F2A.quest_desc: [
-		"- &bEnchanter Tools&r: apply spell at the &bScribe Table&r."
+		"- &b巫师工具&r：可在&b抄写台&r附上法术。"
 		""
-		"- &5Armor set&r: need &6Reactive enchantment&r to trigger spell."
-		"&8apply spell by using Spell Parchment in the &bEnchanting Apparatus&r&8."
+		"- &5盔甲套装&r：需要附魔&6反应魔咒&r才能触发法术。"
+		"&8需要在&b附魔装置&r&8用法术羊皮纸为装备附上法术。"
 	]
-	quest.5F46E1D3938F5F2A.title: "Ars Armory"
+	quest.5F46E1D3938F5F2A.title: "魔法装备"
 	quest.5F8E418D6A0AD158.quest_desc: ["神圣珍珠是通过在工作台上使用一块金锭和一块紫水晶碎片来制作的。它们用于制作神圣法术卷轴。"]
 	quest.5F95D00149FB24FD.quest_desc: ["The &bChemical Dissolution Chamber&r takes an &9ore&r and chemically &6dissolves&r all of the impurities resulting in an unprocessed &dslurry of ore&r."]
 	quest.5F95D00149FB24FD.title: "化学溶解室"
@@ -4403,17 +4403,17 @@
 	quest.5FB18A0E7827D203.quest_subtitle: "举手之劳"
 	quest.5FB18A0E7827D203.title: "召唤魔精搬运工"
 	quest.5FB2FD0ABDF3C475.quest_desc: [
-		"Combines 2 potions into 1."
+		"可将2种药水合为1种。"
 		""
-		"- Use &bDominion Wand&r to bind the &bPotion Jars&r."
+		"- 使用&b支配之杖&r可将其绑定到&b药水罐&r。"
 		""
-		"- Range: &93 blocks&r."
+		"- 可用范围：&93格&r。"
 		""
 		""
-		"&8Tip: the combined potion will &6generate &9more &8source than each indidividual one in &bAlchemical Sourcelink&8"
-		"&8Tip 2: &6sneak + right click &8with &bDominion Wand &8to reset."
+		"&8小提示：混合药水在&b炼金魔源通道&8中&6产生&8的魔源比每种药水单独产生的魔源之和要&9更多&8。"
+		"&8小提示②：手持&b支配之杖&8对着药水混合器&6潜行 + 右击&8可将其重置。"
 		""
-		"&4NOTE&r: needs &92 charges&r from each input to create &41 output&r."
+		"&4提示&r：需要消耗每种药水各&92份&r，才能制作出&41份&r混合药水。"
 	]
 	quest.5FBAD421F88943B6.quest_desc: ["The &bDiversion Transporter&r allows you to &6control&r which direction the pipe will &6send&r &3items&r using a &4redstone signal&r. Each side of a &bDiversion Transporter&r is configurable using the &bConfigurator&r."]
 	quest.5FBAD421F88943B6.title: "转运管道"
