@@ -41,8 +41,8 @@
 	quest.0012F8780D9172DE.title: "&5利维坦"
 	quest.00237AB9C48C8A9B.quest_desc: ["&b物质聚合器&f能够消耗物品或流体&6生产&b物质炮&f的弹药&b物质球&f，除此之外&6生产&b奇点&f。"]
 	quest.002410CF49E1E14E.quest_desc: ["将外壳与&bME能源存储组件&f合成就可以在网络中存储&4能量&f。"]
-	quest.0035439F73199781.quest_desc: ["我想&b钢&f由&b铁和碳&f组成，而它只是通电而已，甚至都没有锻造。"]
-	quest.0035439F73199781.quest_subtitle: "他们都把这个叫作“钢”"
+	quest.0035439F73199781.quest_desc: ["在我的认知中，&b钢&f由&b铁和碳&f组成，但这个“充能钢”只是给铁充能而已，甚至都没有经过锻造。"]
+	quest.0035439F73199781.quest_subtitle: "他们却把这个叫作“钢”"
 	quest.0035439F73199781.title: "&e充能钢"
 	quest.003C38C78609709B.quest_desc: ["&b累积压印模板&f需要在&b压印器&f中制作，用于在压印器中将&b陨钢锭&f加工成&b累积电路板&f。"]
 	quest.0075009DEEA010B7.quest_desc: [
@@ -316,7 +316,7 @@
 	quest.0888176AF1BEA68D.quest_subtitle: "Let them Make Cake!"
 	quest.088E87F861406342.quest_desc: ["Use it to &6fill&r your moat, &6drain&r a swamp, &6pump&r &9water&r or &blava&r without limit."]
 	quest.0897CCAC72E82C5B.quest_desc: [
-		"&oPowah！都是关于发电、存储和传输电力的模组"
+		"&oPowah！是关于发电、存储和传输电力的模组"
 		"&8*但不适用于现代工业化"
 	]
 	quest.0897CCAC72E82C5B.quest_subtitle: "你想要更多的电力了吗？"
@@ -381,7 +381,7 @@
 	quest.09336DBAFB15EF52.title: "高级机械管道"
 	quest.097ACA8114CD8DA8.quest_desc: ["&b高级粉碎工厂&r能够同时进行最多&a七个&r粉碎任务，同样包含\"&e自动分类&r\"功能。"]
 	quest.097ACA8114CD8DA8.title: "精英粉碎工厂"
-	quest.098C3858B4FFCE78.quest_desc: ["使用&b热力发电机&f时，如果在其下方放置一个&b烈焰晶体块&f，它将以&b280%的效率发电。"]
+	quest.098C3858B4FFCE78.quest_desc: ["使用&b热力发电机&f时，可在其下方放置一个&b烈焰晶体块&f，它将以&b280%的效率发电。"]
 	quest.098C3858B4FFCE78.quest_subtitle: "功率增加280%"
 	quest.09B10C121C7E9023.quest_desc: ["用于制作&bME能源存储组件&f与通量访问点。"]
 	quest.0A67575BAF8596B0.quest_desc: ["Better than you model train tracks: straights, curves (two kinds), and slopes—works across Nether portals and unloaded chunks too!"]
@@ -1733,9 +1733,9 @@
 	quest.2476BE69FBC0681D.quest_desc: [
 		"&b反应堆&f是一种非常高效的&b能源&f来源，能够产生数千至数十万&bFE&f的能量。它们需要&b红石&f来减缓燃料消耗，用&b煤炭&f提升效率，通过&b冰和水&f进行冷却，当然还需要&b晶质铀&f为&b反应堆&f供能。"
 		""
-		"制作需要&b36个反应堆方块&f，且它们会自动搭建。没错，正如你听到的那样——只要你&6物品栏&f中拥有全部&b36个方块&f并&6放置&f其中一个，这个多方块结构就会以其为中心自动构建成&b3x3x4&f的结构。"
+		"搭建需要&b36个反应堆方块&f，且它们会自动搭建。没错，正如你听到的那样——只要你&6物品栏&f中拥有&b36个方块&f并&6放置&f其中一个，这个多方块结构就会以其为中心自动构建成&b3x3x4&f的结构。"
 	]
-	quest.2476BE69FBC0681D.quest_subtitle: "此结构可能需要危险品"
+	quest.2476BE69FBC0681D.quest_subtitle: "此结构可能需要防化服"
 	quest.2476BE69FBC0681D.title: "反应堆"
 	quest.247E497BC6DE25CE.quest_desc: [
 		"&b机器人&r是一个小型机器人，内置&9工作台&r、&8熔炉&r、&7铁砧&r、&6箱子&r，也可以单纯作为一个小跟班。"
@@ -1910,7 +1910,7 @@
 		"&8小提示：3级符典条目节选&4不会&8自然生成。"
 	]
 	quest.2909AE63FA355344.title: "3级魔符"
-	quest.292875386D7B9981.quest_desc: ["&b晶质铀&f是一种可通过&6采矿&f获得的矿石。你也可以通过&bMI量子采矿机&f获取。&b晶质铀&f是 Powah 模组中的核心资源，被用于大量合成配方，并为&b反应堆&f供能。"]
+	quest.292875386D7B9981.quest_desc: ["&b晶质铀&f是一种可通过&6采矿&f获得的矿石。你也可以通过&bMI量子采矿机&f获取。&b晶质铀&f是Powah模组中的核心资源，被用于大量合成配方，并为&b反应堆&f供能。"]
 	quest.292875386D7B9981.quest_subtitle: "可能想戴上手套"
 	quest.292875386D7B9981.title: "&a晶质铀"
 	quest.293C22FC12999302.title: "月辉浆果"
@@ -3460,7 +3460,7 @@
 	quest.48212961977655E7.quest_desc: [
 		"哈哈，不过我觉得它味道可能不会太好。"
 		""
-		"&b绝缘覆层&f用于制作&b电容&f和&b能量核心&f。你将需要这些组件来建造机器并创造&bPOWAH！！！&f"
+		"&b绝缘覆层&f用于制作&b电容&f和&b能量核心&f。你将需要这些组件来建造机器并生产&bPOWAH！！！&f"
 	]
 	quest.48212961977655E7.quest_subtitle: "你不能使用它刷你的牙"
 	quest.48212961977655E7.title: "绝缘覆层"
@@ -4236,7 +4236,7 @@
 	quest.59EE97EF70F6F962.quest_subtitle: "纯素……纤维？"
 	quest.59EE97EF70F6F962.title: "亚麻"
 	quest.59FD22A238BC0378.quest_subtitle: "Crafting ingredient for the Replicator."
-	quest.5A2B3D4660D8D741.quest_desc: ["该资源使用&b绿宝石&f，并且是&6富生升级&f所必需的"]
+	quest.5A2B3D4660D8D741.quest_desc: ["其消耗&b绿宝石&f，并且是&6富生升级&f所必需的"]
 	quest.5A2B3D4660D8D741.quest_subtitle: "我以为富生水晶是蓝色的"
 	quest.5A2B3D4660D8D741.title: "&a富生水晶"
 	quest.5A49CB40AC643E67.quest_desc: [
@@ -4347,7 +4347,7 @@
 	quest.5DD99224F29419C1.title: "LV Steam Turbine"
 	quest.5DF4A4E6D5E448D0.title: "Water for Electrolytic Separator"
 	quest.5E9F30ADD242C764.quest_desc: [
-		"&4立刻拨打热线，即可享受同价得二超值优惠！！！ "
+		"&4立刻拨打热线，即可享受买一送一超值优惠！！！ "
 		"&b下界水晶&f是制作最高等级机械（即&b下界等级&f）所必需的材料，由&b下界之星、红石&f以及少量&b烈焰晶体&f合成。"
 	]
 	quest.5E9F30ADD242C764.quest_subtitle: "当前只要$19.99！"
