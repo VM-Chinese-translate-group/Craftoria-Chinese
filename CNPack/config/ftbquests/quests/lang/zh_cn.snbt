@@ -195,9 +195,9 @@
 	quest.04C07CE4F7258BF5.quest_desc: [""]
 	quest.04C07CE4F7258BF5.quest_subtitle: "Move Stuff 'Round"
 	quest.04C21F7B2F034772.quest_desc: [
-		"Use &bSupercharged Coils&r on the inner center of each face pointing at the center. "
+		"将&b增压线圈&r放置在内侧的中间位置，对准超临界移相器的中心。"
 		""
-		"This will &6concentrate the energy&r on a &7pressurized source&r of &apolonium gas&r, ripping apart the heavy atoms and transforming it into a &dGas of Antimatter&r."
+		"它会&6聚集能量&r，对&a气态钋&r进行&7加压&r，摧毁其中的重原子并将其转化成&d气态反物质&r。"
 	]
 	quest.04C21F7B2F034772.title: "增压线圈"
 	quest.04E6DF90BA2FCACB.quest_desc: [
@@ -1879,7 +1879,7 @@
 	quest.272E31F15A39517B.title: "聚变反应堆框架"
 	quest.27A396E8628B269E.quest_desc: ["  &b金钻&r可产出下界的建筑方块和矿物。"]
 	quest.27A396E8628B269E.title: "金钻"
-	quest.27B6C6079B5FE918.quest_desc: ["The &bRotary Condensentrator&r allows you to either &6condense&r a &egas&r into it's &7liquid&r form and vis-versa by pressing the button in the top left of the GUI."]
+	quest.27B6C6079B5FE918.quest_desc: ["&b回旋式气液转换机&r能够将&e气体&r&6冷凝&r成&7液体&r，也可以反过来，按GUI左上角的按钮就可以切换。"]
 	quest.27B6C6079B5FE918.title: "回旋式气液转换机"
 	quest.2805DA3A1F411588.quest_desc: ["Used to &astore &f&4power&f, you will need to get yourself a &bFE Cell Housing&f."]
 	quest.2821236A1E8FEF73.quest_desc: [
@@ -2033,7 +2033,7 @@
 	]
 	quest.2B1717F5D6E20B79.title: "UU Matter Bucket"
 	quest.2B2D3B338662F02C.quest_desc: ["可以用纯化金来&6改变&r&b硫&r的&a品级&r。"]
-	quest.2B3B96DDFE5D3ACA.quest_desc: ["Using &bBoiler Casings&r you can create a &bTheroelectric Boiler&r to &6generate&r extra &7steam&r from &cexternal heat&r, including &9Superheated Liquid Sodium&r from an active &bFission reactor&r."]
+	quest.2B3B96DDFE5D3ACA.quest_desc: ["你可以用&b锅炉外壳&r搭建&b热力锅炉&r，依靠&c外部热源&r&6产出&r更多&7蒸汽&r，比如&b裂变反应堆&r产生的&9液态过热钠&r。"]
 	quest.2B3B96DDFE5D3ACA.title: "锅炉外壳"
 	quest.2B41DC5E4D733C9C.quest_subtitle: "Dropped within the Trials of Awaken gateway. "
 	quest.2B482168EC0C6EB8.quest_subtitle: "Stealth, fun style."
@@ -2237,13 +2237,13 @@
 	quest.2E883FCCA2FB281B.quest_subtitle: "A piece of art"
 	quest.2E883FCCA2FB281B.title: "Quantum Ring"
 	quest.2E97456B0ED0AB1A.quest_desc: [
-		"The &bElectric Pump&r is the &ego-to&r method to gather &7liquids&r en-mass from the world."
+		"用&b电动泵&r从世界中收集大量&7流体&r是最&e直接&r的方法。"
 		""
-		"Placing it down one block above the &7liquid&r you want to pump, provide it &eenergy&r, and &9pipe&r or &9tank&r above it to start &6pumping&r liquid. "
+		"将其放置在&7流体&r上方一格的位置，提供&e能量&r，并在电动泵上方连接&9管道&r或&9储罐&r，就可以开始&6抽取&r流体了。"
 		""
-		"&bUpgrades&r can drastically increase the speed of its pumping rate. "
+		"使用&b升级&r可以极大提高抽取的速度。"
 		""
-		"A tip for you: it doesn’t consume &9water source blocks&r."
+		"一个小提示：它不会消耗&9水源方块&r。"
 	]
 	quest.2E97456B0ED0AB1A.title: "电动泵"
 	quest.2F53567C34E86536.quest_desc: ["这是最基础的法术书，它只能容纳五个法术"]
@@ -2327,9 +2327,9 @@
 	quest.308640ACCC096431.title: "The Center of Storage"
 	quest.30BD7370506EBC6C.title: "氧气"
 	quest.30D584EAD9243548.quest_desc: [
-		"The &bFluidic Plenisher&r allows you to &6feed&r it a &7liquid&r and it will fill up open spaces under it with &7that liquid&r. "
+		"向&b流体填充机&r&6注入&r&7流体&r，它就可以用&7其中的流体&r填满下方的空间。"
 		""
-		"This allows you to make entire lakes of any &7fluid&r you’d like."
+		"这让你能够使用任何喜欢的&7流体&r造出一整片湖。"
 	]
 	quest.30D584EAD9243548.title: "流体填充机"
 	quest.30ED8D5374012D92.quest_desc: ["用玻璃瓶右击闪电苦力怕，可以获得一个雷电瓶。"]
@@ -2410,7 +2410,7 @@
 	quest.32677D1F144A1184.quest_desc: ["恶魔夫妇可以帮助你并提供陪伴。它们有两种类别——为什么不都召唤呢？"]
 	quest.32677D1F144A1184.quest_subtitle: "……"
 	quest.32677D1F144A1184.title: "召唤恶魔夫妇"
-	quest.327EDC1D4C50D185.quest_desc: ["The &dQIO Exporter&r is specially made to &aextract&r items from your system into the block the node is placed on."]
+	quest.327EDC1D4C50D185.quest_desc: ["&dQIO输出端口&r专门用来从系统中&a提取&r物品，输入到端口指向的方块中。"]
 	quest.327EDC1D4C50D185.title: "QIO输出端口"
 	quest.3288EB24E412AF9A.quest_subtitle: "完成对应任务章节。"
 	quest.3288EB24E412AF9A.title: "&d现代&b工业化"
@@ -2606,10 +2606,10 @@
 	quest.367A013744D689E4.quest_desc: [
 		"这台仪器可以将物质&6加热&r，&6提纯&r&b炼金汞&r。"
 		""
-		"此刻，你必须把一个&b御炎火盆&r放在蒸馏器下方，并为它&6添加燃料&r提供热量。&a燃料的持续时间是原版熔炉里的两倍&r。"
+		"使用时，你须要把&b御炎火盆&r放在蒸馏器下方，并为它&6添加燃料&r提供热量。&a燃料的持续时间是原版熔炉里的两倍&r。"
 	]
 	quest.367A013744D689E4.quest_subtitle: "炼金汞？"
-	quest.3689AAE9D0DB96FB.quest_desc: ["The &bThermal Evaporation Valve&r is how you can &6input&r and &6extract&r your &7fluids&r from the tower. You'll need at least &9two&r for input and output. You can also &6use&r a valve to input &cheat&r from &bThermodynamic Conductors&r."]
+	quest.3689AAE9D0DB96FB.quest_desc: ["&b热力蒸馏阀门&r是从蒸馏塔&6输入&r以及&6提取&r&7流体&r的媒介，你需要最少&9两个&r阀门，用来输入和输出。阀门还可以&6用来&r从&b热导线缆&r输入&c热量&r。"]
 	quest.3689AAE9D0DB96FB.title: "热力蒸馏阀门"
 	quest.3696D20B77DF1B24.quest_desc: [
 		"The &3core component&r of a &bSpawner&r. "
@@ -2619,11 +2619,11 @@
 		"&bSpawner Cores&r taken from a &bVanilla Spawner&r contain the &apure essence&r of one specific &7creature&r. "
 	]
 	quest.36D6DCA2535410E0.quest_desc: [
-		"The largest drive imaginable. "
+		"你能想象的最大的驱动器。"
 		""
-		"Storing a whopping &a16,000,000&r items between &38,192&r different item types. "
+		"能够存储整整&a16,000,000&r个物品，&38,192&r种不同的类型。"
 		""
-		"Almost everything you could ever think of will fit in a single one of these."
+		"几乎你能想到的一切都可以存进这样一张驱动器里。"
 	]
 	quest.36D6DCA2535410E0.title: "超质量 QIO 驱动器"
 	quest.36F22AA68C1841F6.quest_desc: [""]
@@ -2796,7 +2796,7 @@
 		"{image:justdirethings:block/portal_shader width:100 height:100 align:center}"
 	]
 	quest.3AE00D06232E0175.quest_subtitle: "To the Moon!"
-	quest.3B0AB80C9FAD48F2.quest_desc: ["The &bAntiprotonic Nucleosynthesizer&r takes gaseous &dAntimatter&r and allows you to alter the molecular structure of some items and transform them into another, more powerful variant."]
+	quest.3B0AB80C9FAD48F2.quest_desc: ["&b反质子核合成器&r能够消耗气态&d反物质&r，改变某些物品的分子结构，从而将其转化成更强力的变体。"]
 	quest.3B0AB80C9FAD48F2.title: "反质子核合成器"
 	quest.3B117FA99DD7558F.quest_desc: ["你可能会希望&6自动化&r这项生产过程。"]
 	quest.3B117FA99DD7558F.title: "溶剂"
@@ -3064,21 +3064,21 @@
 	quest.413557ECF489FD2C.quest_subtitle: "在末地浮岛的稀有结构中出现。"
 	quest.413557ECF489FD2C.title: "&5黑曜石柱"
 	quest.41604B0C59094F5E.quest_desc: [
-		"Your heart is your engine. "
+		"心就是你的引擎。"
 		""
-		"If it goes, you go. "
+		"要是心没了，那你也就没了。"
 		""
-		"So &6block&r all incoming &cattacks&r with the &bMekaSuit Chestplate&r! "
+		"所以，使用&bMekaSuit护甲&r来&6阻挡&r所有即将到来的&c攻击&r吧！"
 		""
-		"Rock solid or your money back guaranteed!"
+		"坚如磐石，否则保证退款！"
 	]
 	quest.41604B0C59094F5E.title: "MekaSuit护甲"
 	quest.4163F176763D3C2B.quest_desc: [
-		"This is the second tier of &dQIO drive&r. "
+		"二级 QIO 驱动器。"
 		""
-		"A whopping &a128,000&r total items and &3256&r different types of items. "
+		"能够存储&a128,000&r个物品，&3256&r种不同类型。"
 		""
-		"The storage must grow!"
+		"存储必须增长！"
 	]
 	quest.4163F176763D3C2B.title: "超密集 QIO 驱动器"
 	quest.4184B4182CFEF694.quest_desc: [
@@ -3100,7 +3100,7 @@
 		"  Easy, right?"
 	]
 	quest.41D1344A31FEA6DF.title: "Kanthal Coils"
-	quest.4207ADF2CB254C6B.quest_desc: ["The &bPainting Machine&r allows you to &6automatically paint&r certain &3blocks and items&r using pigments."]
+	quest.4207ADF2CB254C6B.quest_desc: ["&b上色机&r能够&6自动&r用颜料为相应&3方块和物品&r&6上色&r。"]
 	quest.4207ADF2CB254C6B.title: "上色机"
 	quest.423B29BD8DAC8C3D.quest_desc: ["如果可能，生成的生物将为幼年形态。"]
 	quest.423B29BD8DAC8C3D.quest_subtitle: "+ 幼年"
@@ -3667,24 +3667,24 @@
 	quest.4D7F6656A6A38EE0.quest_desc: ["Used to pull &4energy&f from the&5 Network"]
 	quest.4DAFFFDC31A78665.quest_desc: ["Crafted with a &bIron Block &fin a &bCharger &fused to make the &bEnergy Processor&f."]
 	quest.4DBDCEA0761F1D3B.quest_desc: [
-		"&bWarp Scrolls&r are used for teleporting or for creating a &5permanent portal&r. "
-		"&8+ Teleport yourself: if you use the scroll on &6main hand"
-		"&8+ Teleport a mob: cast spell with &5Blink glyph &8when the scroll is in &6offhand"
+		"&b折跃卷轴&r可用于传送，或是创造出一个&5永久传送门&r。 "
+		"&8+ 如何传送自己： 将折跃卷轴拿在&6主手&8使用"
+		"&8+ 如何传送其他生物：将卷轴拿在&6副手&8，对着生物用&5闪现之魔符&8施法"
 		""
-		"- &bWarp Scroll&r: teleport yourself to the set position."
-		"&8Usage: 1 time"
-		"&8Cross-dimension: NO"
+		"- &b折跃卷轴&r：将你传送到设定好的位置。"
+		"&8使用：一次性"
+		"&8能否跨维度传送：否"
 		""
-		"- &bStabilized Warp Scroll&r: create a &5temporary portal&r that will be gone shortly after."
-		"&8Usage: unlimited"
-		"&8Cross-dimension: YES"
-		""
-		""
-		"&8Tip 1: to &6set &8the location, right click (only works for &bblank Warp Scroll&8)."
-		"&8Tip 2: to &6reset &8the location, shapeless craft the scroll. (you can use the 2x2 grid inside your inventory :P )"
+		"- &b稳定化折跃卷轴&r：创造出一个&5临时传送门&r，一段时间后传送门消失。"
+		"&8使用：无次数限制"
+		"&8能否跨维度传送：是"
 		""
 		""
-		"&4NOTE&r: for creating &5permanent&r portal, check the &bnext quest&r."
+		"&8小提示①：手持卷轴潜行右击，即可&6设置&8位置（前提是传送卷轴&b尚未设置位置&8）。"
+		"&8小提示②：若想&6重置&8卷轴位置，可直接将其合成为一张全新卷轴（直接用物品栏里的2x2合成栏就行:P）"
+		""
+		""
+		"&4提示&r：至于&5永久&r的折跃传送门，请查阅&b下一个任务&r。"
 	]
 	quest.4DBDCEA0761F1D3B.title: "Warp Scrolls"
 	quest.4DC59BCF8833CC3C.title: "牛油果"
@@ -4273,8 +4273,8 @@
 		"🎉🎉🎉🎉🎉🎉"
 	]
 	quest.5B578B176E3E3280.title: "🎉🎉🎉"
-	quest.5B9BFD4F72E79F5B.quest_desc: ["The rarest of them all, &dPrecious&r resources are often of exceptional value."]
-	quest.5B9BFD4F72E79F5B.title: "Precious Sulfurs"
+	quest.5B9BFD4F72E79F5B.quest_desc: ["&d珍贵&r材料是其中最稀有的，通常具有非凡的价值。"]
+	quest.5B9BFD4F72E79F5B.title: "珍贵硫"
 	quest.5BB4989DC6C5DB7A.quest_desc: ["Use a &bPowered Charger&f to charge &bCertus Quartz Crystal&f."]
 	quest.5BB4989DC6C5DB7A.title: "Charged Certus"
 	quest.5BBB0BDD45F6FFC0.quest_desc: ["恶魔使魔可为其主人提供&b抗火&r效果。"]
@@ -4318,20 +4318,20 @@
 	quest.5C8D7BD3DA61109F.quest_subtitle: "Resources Go BRRR!"
 	quest.5C8D7BD3DA61109F.title: "电动采石机"
 	quest.5C98D9127F4CEB74.quest_desc: [
-		"Several types of &bSalt&r exist, each used to create &6different resources&r in the end."
+		"有几种不同类型的&b盐&r，每种最终都用于制作&6不同类型的资源&r。"
 		""
-		"Some Salts can be &6calcinated&r again into other kinds."
+		"一些盐可以再次&6煅烧&r成其他种类。"
 	]
 	quest.5C98D9127F4CEB74.quest_subtitle: "Not the table kind"
-	quest.5C98D9127F4CEB74.title: "Alchemical Salts"
+	quest.5C98D9127F4CEB74.title: "炼金盐"
 	quest.5CD12382792FA310.quest_desc: [
 		" "
 		"{image:justdirethings:item/machine_settings_copier width:100 height:100 align:center}"
 	]
 	quest.5CD12382792FA310.quest_subtitle: "Guess What This Does"
 	quest.5CEFB3C551971327.quest_desc: [""]
-	quest.5D584858B61E534B.quest_desc: ["This &bCatalyst &fslowly turns &bMercury &finto &dMercury Flux&r, a source of &6Energy&r for alchemical devices."]
-	quest.5D584858B61E534B.quest_subtitle: "Mercury = Flux"
+	quest.5D584858B61E534B.quest_desc: ["这个&b催化器&f可以缓慢地将&d汞&r&f转化&r为&d汞流&r，它是炼金仪器的能量来源。"]
+	quest.5D584858B61E534B.quest_subtitle: "汞=汞流"
 	quest.5D5FC5420738FDE8.quest_desc: ["Plain ol' &bCardboard.&r So basic, and yet... the gateway to &oCreate's&r latest set of capabilities, represented in the &c\"Factory Smarts\"&r wing of this gallery."]
 	quest.5D852AA1930E1019.quest_desc: ["Captured blazes &6enjoy&r &beggs&r, like their distant forbear, Calcifer"]
 	quest.5D92326B02E9DC0F.title: "腰带"
@@ -5152,8 +5152,8 @@
 	quest.6D18BFC48A82E53E.quest_desc: ["Through the power of gravity, &6throwing&b 1 Gold Ingot, 1 Lapis Lazuli, and 1 Entro dust&f you will obtain&b 1 Entro Infused Ingot&f."]
 	quest.6D702C00A519AD12.quest_desc: ["&b精英提纯工厂&r能够同时处理&a七个&r提纯配方。"]
 	quest.6D702C00A519AD12.title: "精英提纯工厂"
-	quest.6DA3C5DEE0F6438D.quest_desc: ["This Rod is pre-attuned to locate a &dPrecious&r material."]
-	quest.6DA3C5DEE0F6438D.quest_subtitle: "Diamond-Seeker"
+	quest.6DA3C5DEE0F6438D.quest_desc: ["这根探测杖已经预同调，可以定位&d珍贵&r材料。"]
+	quest.6DA3C5DEE0F6438D.quest_subtitle: "钻石猎人"
 	quest.6DDA86A3B4C0ACC1.title: "采掘小帮手"
 	quest.6DDD8661181840F1.quest_desc: [
 		"The shipping container for international shipping."
@@ -5667,8 +5667,8 @@
 	quest.79515634992D02A3.title: "反物质"
 	quest.7992491EE3E2BED3.quest_desc: ["&b高级热导线缆&r拥有&a1.0&r点&4热容&r，&e5.0&r点热导，但热阻为&c400.0&r。"]
 	quest.7992491EE3E2BED3.title: "高级热导线缆"
-	quest.79A693466BF51105.quest_desc: ["This Rod can locate &dPrecious&r materials, and has far superior durability."]
-	quest.79A693466BF51105.quest_subtitle: "I can see it all"
+	quest.79A693466BF51105.quest_desc: ["这根探测杖可以定位&d珍贵&r材料，并且有极高的耐久度。"]
+	quest.79A693466BF51105.quest_subtitle: "我能看到一切"
 	quest.79C075FFF796FE16.quest_desc: [
 		"A pre-programmed &bDrone&r that &2harvests&r fully-grown &acrops&r within a &e17x17x17&r area centered on the position it's deployed from. "
 		""
@@ -5682,11 +5682,11 @@
 	quest.7A5466B9F5C79793.quest_desc: ["你将最先与&b魔精&r这种魔灵打交道，它们也是最安全的类型。"]
 	quest.7A5466B9F5C79793.quest_subtitle: "初学"
 	quest.7A6C1605F32F695F.quest_desc: [
-		"This oven makes it possible to &6calcinate&r a variety of materials into &bAlchemical Salt&r."
+		"这个火炉可以将各种材料&6煅烧&r为&b炼金盐&r。"
 		""
-		"At this moment, you must place a &bPyromantic Brazier&r below the Oven and &6fuel&r it with furnace fuel to provide heat. &aFuels last twice as long as in a Furnace&r."
+		"使用时，你须要将&b御炎火盆&r放在煅烧炉下方，并为它&6添加燃料&r提供热量。&a燃料的持续时间是原版熔炉里的两倍&r。"
 	]
-	quest.7A6C1605F32F695F.quest_subtitle: "It's just an oven?"
+	quest.7A6C1605F32F695F.quest_subtitle: "这只是一个烤箱？"
 	quest.7A73A6CC630BAA3F.quest_subtitle: "Endless Boss Fights!"
 	quest.7A73A6CC630BAA3F.title: "&dBoss Rush"
 	quest.7A79DC2CE5CC9DEE.quest_subtitle: "完成对应任务章节。"
@@ -5805,8 +5805,8 @@
 		""
 		"Avoid using it at close range!"
 	]
-	quest.7C38A9BA01CA3772.quest_desc: ["&9Rare&r resources take more effort to find or to create, and are in some cases not found in nature."]
-	quest.7C38A9BA01CA3772.title: "Rare Sulfurs"
+	quest.7C38A9BA01CA3772.quest_desc: ["&9稀有&r材料需要花费更多力气去寻找或制作。在某些情况下，它们在自然环境中找不到。"]
+	quest.7C38A9BA01CA3772.title: "稀有硫"
 	quest.7C57D76FDBD784F8.quest_desc: ["You can &6connect&r &bTanks&r above and below using a &bWrench&r, provided that either &bTank&r is &cempty&r or both tanks contain the same &7fluid&r."]
 	quest.7C834204DEE1813C.quest_desc: ["&b高级富集工厂&r能够同时处理最多&a五个&r配方，同样包含\"&e自动分类&r\"功能。"]
 	quest.7C834204DEE1813C.title: "高级富集工厂"
@@ -5885,7 +5885,7 @@
 	quest.7DB4E20D476B5786.quest_desc: ["击败&c米诺菇&r并吃下&b牛头人沙拉酱肉&r，你将能够进入&6火焰沼泽&r而不再被燃烧。"]
 	quest.7DB4E20D476B5786.quest_subtitle: "你可能会在在峡谷或洞穴中发现天然的迷宫入口，或者在小山丘里找到入口。"
 	quest.7DB4E20D476B5786.title: "&c米诺菇"
-	quest.7DD81584380EE8F7.quest_desc: ["This &bwand&r is used to interface with &6Mercurial Logistics&r."]
+	quest.7DD81584380EE8F7.quest_desc: ["这个&b魔杖&r用于与&6汞驱物流系统&r进行接口连接。"]
 	quest.7E49DB806DD04701.quest_desc: [""]
 	quest.7ED9955750255A69.quest_subtitle: "完成对应任务章节。"
 	quest.7ED9955750255A69.title: "&d新生魔艺"
