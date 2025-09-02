@@ -495,7 +495,7 @@
 	]
 	quest.0C91DF887A33A8E6.quest_subtitle: "这不是虚空采矿；这是在口袋维度中采矿"
 	quest.0C9D9AFD7C5C9F97.quest_desc: ["&b下界合金棒&f也有同样的功能，但其&6放置&f的最大数量限制为1024个方块。"]
-	quest.0D1AFCAD90FAA4F9.quest_desc: ["预先调整好这根探测杖，寻找&a常见&r材料。"]
+	quest.0D1AFCAD90FAA4F9.quest_desc: ["这根探测杖已经预同调，可以寻找&a常见&r材料。"]
 	quest.0D44F37BE787CA30.quest_desc: ["This &3substance&r can be &6processed&r in a &bThermopneumatic Processing Plant&r to produce &eLPG&r, which is an &aexcellent&r &7liquid fuel&r comparable in quality to &3Thermal Expansion’s&r &7Refined Fuel&r. "]
 	quest.0D44F37BE787CA30.title: "&6Gasoline"
 	quest.0D8988AF02D890EA.quest_subtitle: "找到远古战场"
@@ -2262,19 +2262,19 @@
 		"请注意，一些材料，如矿石， &a可以产出多种硫&r。"
 	]
 	quest.2F9560A5281DCDFD.quest_desc: [
-		"想要那些&c捣蛋鬼&r离&b你的东西&r远点？没问题，只需声明区块即可！"
+		"想要那些&c熊孩子&r离&b你的东西&r远点？没问题，只需声明区块即可！"
 		""
-		"你可以创建一个&9团队&r，也可以直接为自己一个人&a声明&r区块。"
+		"你可以创建一个&9团队&r，也可以直接自己一个人&a声明&r区块。"
 		""
-		"要为自己&a声明&r区块，只需打开你的&b物品栏&r，然后看屏幕的&6左上角&r，"
+		"要自己&a声明&r区块，只需打开你的&b物品栏&r，然后看你屏幕的&6左上角&r，"
 		""
-		"找到一个叫“&6声明区块&r”的&a地图图标按钮&r。你可以使用它来声明被称之为&a区块&r的&b格子&r。"
+		"找到一个叫“&6Claim Manager&r”的&a地图图标按钮&r。你可以使用它来声明&a区块&r，也就是地图上的那些&b格子&r。"
 		""
 		"每一个&a区块&r包含&b16x16的方块&r，从&5虚空&r到&b天空&r都包括在其中。"
 		""
-		"每个人可声明的区块数目&6有限制&r，所以你不能把全世界都给声明了。"
+		"每个人可声明的区块数目&6有限&r，所以你不能把全世界都给声明了。"
 		""
-		"如果你要先创建一个&9团队&r，你要找到一个“&6我的团队&r”的按钮，点击后，会显示&a队员列表&r和&3队内聊天&r。"
+		"如果你要先创建一个&9团队&r，你要找到一个“&6我的队伍&r”的按钮，点击后，会显示&a队员列表&r和&3队内聊天&r。"
 		""
 		"然后你就可以创建你的&9团队&r。创建后，可以通过&6点击&r&b齿轮图标按钮&r来更改你的&e团队&r的名称和其他方面的设置。"
 		""
@@ -2542,7 +2542,7 @@
 		""
 		"不同&3季节&r的&e作物&r的&6种类&r也有所区别。"
 		""
-		"&6播种时&r记得留意&a种子&r的&6工具提示&r，这样可以知道最适合播种这种作物的&3季节&r。"
+		"&6播种时&r记得留意&a种子&r的&6提示框&r，这样可以知道最适合播种这种作物的&3季节&r。"
 		""
 		"一些&a热带生物群系&r，像&e沙漠&r、&2丛林&r以及&e热带草原&r，会经历&9湿&r和&e干&r两种季节。"
 		""
@@ -3241,7 +3241,7 @@
 		"它的&6处理能力&r能够满足&c更高等级&r的计算需求。"
 	]
 	quest.44D8D30BCD48C4C9.title: "精英控制电路"
-	quest.45013F74F5B4A93E.quest_desc: ["这根探测杖可以定位&9稀有的&r材料。"]
+	quest.45013F74F5B4A93E.quest_desc: ["这根探测杖可以定位&9稀有&r材料。"]
 	quest.4513758183EFECE7.quest_desc: [
 		"&aReplication&r is a tech mod that allows you to &6replicate&r resources of similar types. "
 		""
@@ -3417,7 +3417,7 @@
 		""
 		"除此之外，还有&d宝石&r这类强大的物品，可以用来强化你的&6词缀物品&r。"
 	]
-	quest.473F20C25AAAF017.quest_subtitle: "随着你在世界中不断探索，你将解锁更高的世界层级，这将让你获得更好的战利品（以及更强大的怪物！）"
+	quest.473F20C25AAAF017.quest_subtitle: "随着你在世界中不断探索，你将解锁更高的世界层级，这将让你获得更好的战利品（以及更强大的敌人！）"
 	quest.473F20C25AAAF017.title: "&c世界层级"
 	quest.475DC864A0BC0F1F.quest_desc: [
 		"之前提到过，你可以将你的青铜机器升级为钢制机器。"
@@ -3711,7 +3711,7 @@
 	quest.4E3578FC24ACF39B.quest_subtitle: "Items... Hold Still!"
 	quest.4E56C9A5F225A883.quest_subtitle: "用于加速某个方块。"
 	quest.4E56C9A5F225A883.title: "&6Gadgets Against Grind"
-	quest.4E6BB4279E8E793A.quest_desc: ["&8丰足的&r材料往往无处不在且数量庞大。"]
+	quest.4E6BB4279E8E793A.quest_desc: ["&8丰足&r材料往往无处不在且数量庞大。"]
 	quest.4E6BB4279E8E793A.title: "丰足硫"
 	quest.4E7439769A073494.title: "护腿"
 	quest.4E8963E1C18ADBAB.quest_desc: [
@@ -3825,7 +3825,7 @@
 	quest.4F076E5D6F0BED74.title: "法术小指南 - 1"
 	quest.4F0F24F222AA434A.quest_desc: ["&e黄色&r粉笔的力量比白色的略强。它主要用于降灵仪式。"]
 	quest.4F0F24F222AA434A.quest_subtitle: "降灵"
-	quest.4F2C4595C25E23E1.quest_desc: ["预先调整好这根探测杖，寻找&9稀有&r材料。"]
+	quest.4F2C4595C25E23E1.quest_desc: ["这根探测杖已经预同调，可以定位&9稀有&r材料。"]
 	quest.4F6FD689E65509BF.quest_desc: ["The &bBasic Card &fis a crafting component used to craft &bUpgrades&f."]
 	quest.4F6FD689E65509BF.title: "Basic Card"
 	quest.4F987C54768D8E3D.quest_desc: [
@@ -3894,7 +3894,7 @@
 		""
 		"否则，它的功能与玻璃探测杖完全相同。这个探测杖已经同调来寻找&8丰足&r的材料。"
 	]
-	quest.5143D5FD55C819CA.quest_subtitle: "Target acquired"
+	quest.5143D5FD55C819CA.quest_subtitle: "目标已锁定"
 	quest.51542DCB5C8E5C3A.quest_desc: ["更高一级的法术书也只能容纳6个法术"]
 	quest.51649293068FE93D.quest_desc: ["&bRotational Chasis&r and &bLinear Chassis&r &6help&r build contraptions without superglue."]
 	quest.516F2A1A1270D9DC.quest_desc: [
@@ -3911,8 +3911,8 @@
 		"{image:justdirethings:block/blockbreakert2_side width:100 height:100 align:center}"
 	]
 	quest.51A8026A0F8A83B1.quest_desc: ["绿宝石可以在采矿、探索或与村民交易时获取，并用于制作唤魔法术卷轴。"]
-	quest.51E386BC7692D06C.quest_desc: ["To &6establish&r a &6Mercurial Logistics network&r, these &bWires&r must be used to &6link&r between in- and outputs. &bConnection Nodes&r allow for multiple wires to converge to one point, if needed."]
-	quest.51E386BC7692D06C.title: "Mercurial Connections"
+	quest.51E386BC7692D06C.quest_desc: ["为了&6建立&r&6汞驱物流系统&r，必须使用这些&b线缆&r来&6连接&r输入和输出。如果需要，&b连接节点&r允许多条线缆汇聚到一个点。"]
+	quest.51E386BC7692D06C.title: "汞驱连接"
 	quest.51ECF72F223BDB3A.title: "咖啡豆"
 	quest.51F5C6D60D719DC4.quest_desc: [
 		"&bBrass&r—a simple alloy of &bCopper&r and &bZinc,&r but you will need to &6visit&r the Nether to &6equip&r yourself to make it."
@@ -4002,8 +4002,8 @@
 	quest.53A07420D75804AB.quest_subtitle: "Just Charge It!!!"
 	quest.53A66CA8EFE820D1.quest_desc: ["贪婪使魔会为你&6收集&r&b物品&r。当它被放入使魔之戒中时，可以增强你的物品拾取范围。"]
 	quest.53A66CA8EFE820D1.quest_subtitle: "为了宝藏！"
-	quest.53DEE3EF1297B630.quest_desc: ["This &bEmitter&r uses &dMercury Flux&r to generate &6heat&r that can be used in place of the &bPyromantic Brazier&r."]
-	quest.53DEE3EF1297B630.quest_subtitle: "A new source of heat"
+	quest.53DEE3EF1297B630.quest_desc: ["这个&b发射器&r使用&d汞流&r来产生&6热量&r，可以用来替代&b御炎火盆&r。"]
+	quest.53DEE3EF1297B630.quest_subtitle: "新热源"
 	quest.53EC4A657655A7D5.title: "Brine"
 	quest.53ECE17FBD95392C.quest_desc: [
 		"Ah, the &bWindmill Bearing&r."
@@ -4042,7 +4042,7 @@
 	quest.54EDB1B00E985AD4.quest_desc: [
 		"&6打开&r你的&b物品栏&r.。"
 		""
-		"在&6阅读&r这段文字之前，你&a很可能&r已经打开过至少一次了。"
+		"在&6阅读&r这段文字之前，你&a很可能&r已经打开过很多次了。"
 		""
 		"所以你注意到你的&b物品栏&r的&6左侧&r和&a右侧&r的这些&6面板&r了吗？ "
 		""
@@ -4070,12 +4070,12 @@
 	quest.550B874D9F2D0D5A.title: "数字型采矿机"
 	quest.55359056540E1A96.quest_desc: ["Demand-side drivers at the heart of the modern smart Create factory."]
 	quest.55391FF509DA53A5.quest_desc: [
-		"The alchemical art of &3Theurgy&r can provide means of increasing ore yield, transmuting one material into another, and generating endless amounts of a plethora of resources."
+		"&3神通术&r的炼金技艺可以提供增加矿石产量的方法，将一种材料转化为另一种，以及生成无尽的各类资源。"
 		""
-		"This &bbook&r, The Hermetica, shall be your guide, along with what I will teach you."
+		"这本&b书&r——《秘义集成》，将作为你的指南，包括我将教给你的内容。"
 	]
-	quest.55391FF509DA53A5.quest_subtitle: "The easiest way to alchemy"
-	quest.55391FF509DA53A5.title: "&dWelcome to Theurgy"
+	quest.55391FF509DA53A5.quest_subtitle: "炼金术最简单的方法"
+	quest.55391FF509DA53A5.title: "&d欢迎游玩神通术"
 	quest.553EB688C3FFD7E4.quest_desc: ["&b基础融合工厂&r能够同时处理&a三个&r融合配方。"]
 	quest.553EB688C3FFD7E4.title: "基础融合工厂"
 	quest.55542D5D7CDA77A5.quest_desc: [
@@ -4196,7 +4196,7 @@
 		""
 		"每个升级可将&e能量&f上限提高&62EU/t&f。"
 	]
-	quest.58E5ADE9A50BDF29.quest_desc: ["This Rod is pre-attuned to find &bBudding Amethyst&r. &bAmethyst&r is used rather a lot in alchemy, and is &6needed&r for better Divining Rods."]
+	quest.58E5ADE9A50BDF29.quest_desc: ["这根探测杖已经预同调，可以寻找&b紫水晶母岩&r。&b紫水晶&r在炼金术中使用得相当多，并对于更好的探测杖是&6必需的&r材料。"]
 	quest.58ED87D90B7F7168.quest_desc: [
 		"&b天使升级&f让你能够在你所面向的方块（或一排方块）的对面&6放置&f方块。"
 		""
