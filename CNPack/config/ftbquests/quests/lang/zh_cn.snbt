@@ -41,8 +41,8 @@
 	quest.0012F8780D9172DE.title: "&5利维坦"
 	quest.00237AB9C48C8A9B.quest_desc: ["&b物质聚合器&f能够消耗物品或流体&6生产&b物质炮&f的弹药&b物质球&f，除此之外&6生产&b奇点&f。"]
 	quest.002410CF49E1E14E.quest_desc: ["将外壳与&bME能源存储组件&f合成就可以在网络中存储&4能量&f。"]
-	quest.0035439F73199781.quest_desc: ["在我的认知中，&b钢&f由&b铁和碳&f组成，但这个“充能钢”只是给铁充能而已，甚至都没有经过锻造。"]
-	quest.0035439F73199781.quest_subtitle: "他们却把这个叫作“钢”"
+	quest.0035439F73199781.quest_desc: ["我以为&b钢&r都是由&b铁和碳&f炼成，但这个只要充能就能制作，连锻造都不用。"]
+	quest.0035439F73199781.quest_subtitle: "他们把这个叫作“钢”"
 	quest.0035439F73199781.title: "&e充能钢"
 	quest.003C38C78609709B.quest_desc: ["&b累积压印模板&f需要在&b压印器&f中制作，用于在压印器中将&b陨钢锭&f加工成&b累积电路板&f。"]
 	quest.0075009DEEA010B7.quest_desc: [
@@ -203,7 +203,7 @@
 	quest.04E6DF90BA2FCACB.quest_desc: [
 		"此设备可以将&7压缩空气&r&6转换&r为&bFE能量&r（&9与RF和许多其他模组的能量兼容&r）。"
 		""
-		"它的&3基础效率&r为&a40%&r，意味着&7100毫升空气&r可以产生&b40FE&r。"
+		"它的&3基础效率&r为&a40%&r，意味着&7100mL空气&r可以产生&b40FE&r。"
 		""
 		"&b速度升级&r会略微&c降低&r这一&a效率&r。"
 		""
@@ -317,9 +317,9 @@
 	quest.088E87F861406342.quest_desc: ["Use it to &6fill&r your moat, &6drain&r a swamp, &6pump&r &9water&r or &blava&r without limit."]
 	quest.0897CCAC72E82C5B.quest_desc: [
 		"&oPowah！是关于发电、存储和传输电力的模组"
-		"&8*但不适用于现代工业化"
+		"&8*但不适用于现代工业化模组"
 	]
-	quest.0897CCAC72E82C5B.quest_subtitle: "你想要更多的电力了吗？"
+	quest.0897CCAC72E82C5B.quest_subtitle: "需要更多POWAH！不是吗？"
 	quest.0897CCAC72E82C5B.title: "&4欢迎游玩Powah！！！"
 	quest.08A2F489A73BE55B.quest_desc: ["&b终极富集工厂&r能够同时处理最多&a九个&r配方，同样包含\"&e自动分类&r\"功能。"]
 	quest.08A2F489A73BE55B.title: "终极富集工厂"
@@ -689,7 +689,7 @@
 	]
 	quest.1184EBAC0DADDB5F.title: "至高木原木"
 	quest.119752DA7C1B29B6.quest_desc: [""]
-	quest.11FC8E533E897B8F.quest_desc: ["只需&b500,000FE&f，就可以在充能器中充能&b雪球&f来召唤和&b闪电&f!!"]
+	quest.11FC8E533E897B8F.quest_desc: ["只需&b500,000FE&f，就可以在充能器中充能&b雪球&f，召唤&b闪电&f！！！"]
 	quest.11FC8E533E897B8F.quest_subtitle: "雪球中的闪电？"
 	quest.12094D44D2E3DB16.quest_desc: [
 		"这套&b盔甲&r可被&6升级&r，且提供的护甲值与&7铁套&r相当。"
@@ -712,7 +712,7 @@
 		"注意：&b解压缩模块&r需要处于执行自动合成的网络，否则自动合成将无法调用物品。"
 	]
 	quest.123F10122DCC72F9.title: "大宗元件的自动压缩"
-	quest.1246838BA3EEE910.quest_desc: ["This &3substance&r can be &6processed&r in a &bRefinery&r to create various &7fuels&r, which can eventually be used to produce &bPlastic&r. "]
+	quest.1246838BA3EEE910.quest_desc: ["这种&3物质&r可以在&b精炼厂&r中&6加工&r，以制造各种&7燃料&r，这些燃料最后可以用来生产&b塑料&r。"]
 	quest.124D18DDDDC4D102.quest_desc: [
 		"每个&b基础通用线缆&r能够容纳&e3.2 kFE/t&r，意思是说，每个线缆都会给网络增加&e3.2 kFE&r的&3内部&r缓存总量，&o同时&r也会增加同等FE/t的网络总传输速率。"
 		""
@@ -720,13 +720,13 @@
 	]
 	quest.124D18DDDDC4D102.title: "基础通用线缆"
 	quest.12A7971658135C90.quest_desc: [
-		"A &bSentry Turret&r is an autonomous defensive weapon that &cfires&r at any &2living entity&r within a 16-block range when &6equipped&r with &bGun Ammo&r. "
+		"&b哨戒炮&r是一种自主防御武器，当&6装备&r了&b枪械弹药&r时，会对16格范围内的任何&2生物实体&r&c进行射击&r。"
 		""
-		"The range can be &eextended&r with &bRange Upgrades&r. "
+		"范围可以通过安装&b范围升级&r来&e扩展&r。"
 		""
-		"You can specify which &2entities&r to attack by setting &3filters&r in the ‘&7Target Filter&r’ field. "
+		"你可以在“&7目标过滤&r”文本框中设置&3过滤器&r来指定要攻击的&2实体&r。"
 		""
-		"Additionally, if the &bSentry Turret&r is covered by a &bSecurity Station&r, players &6permitted&r by the &bSecurity Station&r will not be &ctargeted&r."
+		"此外，如果&b哨戒炮&r被&b安全站&r的范围覆盖，那么安全站&6受信&r的玩家将不会&c被攻击&r。"
 	]
 	quest.12C0AD9539DE96F2.quest_desc: ["&b精英烧炼工厂&r能够同时进行最多&a七个&r烧炼任务，同样包含\"&e自动分类&r\"功能。"]
 	quest.12C0AD9539DE96F2.title: "精英烧炼工厂"
@@ -829,9 +829,9 @@
 		"&8public void tick()"
 	]
 	quest.15B6718AFA5E6959.quest_desc: [
-		"&6Extracts&r &bSpawner Cores&r from &bVanilla Spawners&r. "
+		"从&b原版刷怪笼&r中&6提取&r&b刷怪笼核心&r。"
 		""
-		"&cBe ready for a challenge…"
+		"&c准备好迎接挑战……"
 	]
 	quest.15C38E0D2B205FB4.title: "气液转换机用水"
 	quest.15CB4C73B630D833.quest_desc: [
@@ -915,9 +915,9 @@
 	]
 	quest.164F4710E109F7F2.title: "你的第一块青铜"
 	quest.166CEF9F03DA14F6.quest_desc: [
-		"- Deals &4significantly&r more &cdamage&r than &bStandard Ammo&r."
+		"——它的&c伤害&r比&b普通弹药&r&4高得多&r。"
 		""
-		"Its large mass results in a very short range and causes the &bMinigun&r to use &7air&r at an &6increased rate&r."
+		"它的质量更大导致射程非常短，并&6增加&r&b机枪&r的&7空气&r消耗率。"
 	]
 	quest.1687FEFDB90272B0.quest_desc: ["无论是农夫乐事、乡村乐事、饺子乐事还是果园乐事模组，都为我们心爱的游戏添加了不少作物。"]
 	quest.168AB4DADB1CA2D9.quest_desc: [
@@ -934,11 +934,11 @@
 	]
 	quest.16AAEB122CDC1A46.title: "青铜搅拌机"
 	quest.16B74C92EB86AD0C.quest_desc: [
-		"&6Pour&r the &7liquid&r into the world or &bchill&r it in an &3inventory&r with a &cHeat Frame&r to &6solidify&r it into &bPlastic Sheets&r. "
+		"将&7液体&r&6倒在&r世界中，或者在装有&c导热框架&r的&3物品容器&r中&b冷却&r它，以将其&6固化&r成&b塑料板&r。"
 		""
-		"Using a &cHeat Frame&r may yield &abetter results&r."
+		"使用&c导热框架&r可能会得到&a更好的结果&r。"
 	]
-	quest.16B74C92EB86AD0C.title: "&7Molten Plastic"
+	quest.16B74C92EB86AD0C.title: "&7熔融塑料"
 	quest.16C84031D0CE45AE.quest_desc: [
 		"&l如何使用？&r"
 		"1. 手持&b仪式之板&r并&6右击&r&b仪式火盆&r。"
@@ -1028,11 +1028,11 @@
 	]
 	quest.176524D0E4475298.title: "蒸馏室"
 	quest.1794E588334CB478.quest_desc: [
-		"This machine uses &6advanced technology&r to &7compress&r &bitems&r down to &datomic size&r, allowing it to &6access&r and &6manipulate&r a player’s &9inventory&r directly. "
+		"这台机器使用&6先进的技术&r将&b物品&r&7压缩&r到&d原子大小&r，使其能够直接&6访问&r和&6操作&r玩家的&9物品栏&r。"
 		""
-		"&bItems&r can be &ainput&r and &coutput&r via &bhoppers&r, and they will be added to or removed from the &9inventory&r of the player who placed the machine. "
+		"&b物品&r可以通过&c漏斗&r&a输入&r和&c输出&r，并将添加到放置机器的玩家的&9物品栏&r中或从中移除。"
 		""
-		"You can also use smarter insertion methods, such as &bDrones&r or &bLogistics Frames&r, or other mods, to automatically manage the player's &9inventory&r—like keeping it stocked with &e64 torches&r, for instance."
+		"你还可以使用更智能的输入方法，例如&b无人机&r或&b物流框架&r，或其他模组，来自动管理玩家的&9物品栏&r——例如，保持其物品栏有&e64个火炬&r。"
 	]
 	quest.17C1F2791A6E0676.quest_desc: [
 		"&b速度升级&r的作用和字面意思一样。"
@@ -1045,7 +1045,7 @@
 	quest.17E7640F55666577.quest_desc: ["&b颜料提取器&r能够从几乎&a所有染色物体&r中&6提取出染料&r，剩下的物体会被摧毁。"]
 	quest.17E8751018E9E0F6.quest_desc: ["致密能源元件与能源元件其实是一种东西，不过它拥有后者八倍的容量。别给它弄没电了，那可能导致你陷入窘境。"]
 	quest.17E8751018E9E0F6.title: "致密能源元件"
-	quest.17FCD3ECDC775E69.quest_desc: ["- &cArmor Penetration"]
+	quest.17FCD3ECDC775E69.quest_desc: ["——&c护甲穿透"]
 	quest.183E523C25CC6C3F.quest_desc: [
 		"&b基础物流管道&r可以点对点&6传输物品&r。"
 		""
@@ -1151,9 +1151,9 @@
 	]
 	quest.18DED87B3E23350F.quest_subtitle: "Can run recipes of any electric multiblock machine provided to it in batches."
 	quest.18E944F145FEBB8C.quest_desc: [
-		"- &4Ignites&r its &ctarget&r "
+		"——可以&4点燃&r它的&c目标&r"
 		""
-		"Be cautious—it can also set &6fire&r to the &asurrounding environment&r!"
+		"小心——它也可能&6点燃&r&a周围环境&r！"
 	]
 	quest.1910E0D1BB24E94D.quest_desc: [
 		"你需要在&b太阳能板&r的&6物品栏&r中放入对应等级的&b光伏电池&r，它才能开始发&e电&r。"
@@ -1199,15 +1199,15 @@
 		"{image:justdirethings:block/coalblock_t2 width:100 height:100 align:center fit:true}"
 	]
 	quest.1A368E5AD57C10E1.quest_desc: [
-		"This is an &6advanced version&r of the &bLiquid Compressor&r. "
+		"这是&b液体压缩机&r的&6高级版本&r。"
 		""
-		"It offers a &emuch faster&r generation rate of &750 mL/tick&r but also produces &4heat&r. "
+		"它有&e更高&r的生产速率，即&750mL/tick&r，但也会产生&4热量&r。"
 		""
-		"As the &ctemperature rises&r, &4efficiency decreases&r. "
+		"随着&c温度升高&r，&4工作效率会降低&r。"
 		""
-		"The bottom arrow on the &etemperature gauge&r shows where &aefficiency&r will begin to decline, while the top arrow indicates the point of &e0% efficiency&r. "
+		"&e温度表&r底部的箭头指示&a效率&r开始下降的位置，而顶部的箭头则指示&e0%效率&r的位置。"
 		""
-		"Contrary to expectations, this machine &cwill not explode&r even if the temperature becomes &4excessively high&r."
+		"与你的预期可能不同，即使温度&4过高&r，这台机器&c也不会爆炸&r。"
 	]
 	quest.1A6929801D08F2C5.quest_desc: ["There may be other ways to &6make more power&r in modded, but it is hard to top the satisfaction of a boiler driving many &bSteam Engines&r… as many as you can setup &6fed&r with enough &cheat&r and &9water.&r"]
 	quest.1A6929801D08F2C5.quest_subtitle: " Chuga Chuga Chuga."
@@ -1331,13 +1331,13 @@
 	]
 	quest.1CD404EA948FF868.quest_subtitle: "将物品转换成&d物质"
 	quest.1D249BAAD819E83F.quest_desc: [
-		"This machine &6converts&r &bForge Energy&r (&9compatible with RF and many other mods’ energy&r) into &7compressed air&r. "
+		"这台机器可以将&bFE能量&r（&9与RF和许多其他模组的能量兼容&r）&6转换&r为&7压缩空气&r。"
 		""
-		"It operates with a &ebase efficiency&r of &a40%&r, meaning &b100 FE&r generates &740 mL of compressed air&r. "
+		"它的&e基础效率&r为&a40%&r，这意味着&b100FE&r可以产生&740mL压缩空气&r。"
 		""
-		"Using &bSpeed Upgrades&r will slightly &cdecrease&r this &aefficiency&r. "
+		"使用&b速度升级&r将略微&c降低&r这一&a效率&r。"
 		""
-		"Additionally, the &bCompressor&r produces &4heat&r, which needs to be managed to prevent a &creduction&r in &aefficiency&r."
+		"此外，&b压缩机&r会产生&4热量&r，需要处理产生的热量以防止&a效率&r&c降低&r。"
 	]
 	quest.1D2EF18DBF02F6EB.quest_desc: [
 		"&6黑暗高塔&r矗立于&2黑暗森林&r的中心。"
@@ -1731,9 +1731,9 @@
 	]
 	quest.2472B23BC0C28C6C.title: "Quantum Upgrade"
 	quest.2476BE69FBC0681D.quest_desc: [
-		"&b反应堆&f是一种非常高效的&b能源&f来源，能够产生数千至数十万&bFE&f的能量。它们需要&b红石&f来减缓燃料消耗，用&b煤炭&f提升效率，通过&b冰和水&f进行冷却，当然还需要&b晶质铀&f为&b反应堆&f供能。"
+		"&bReactors&f are a very good source of&b power&f. They can generate thousands to hundreds of thousands of &bFE&f. They require &bredstone&f to slow the fuel consumption, &bcoal&f to boost the efficiency, &bice and water&f to cool the the reactor and of course &buraninite&f to power this &breactor&f."
 		""
-		"搭建需要&b36个反应堆方块&f，且它们会自动搭建。没错，正如你听到的那样——只要你&6物品栏&f中拥有&b36个方块&f并&6放置&f其中一个，这个多方块结构就会以其为中心自动构建成&b3x3x4&f的结构。"
+		"It take &b36 reactor blocks&f to make it, and they build themselves. Yah you heard me right, they will automatically build themselves if you have all &b36 blocks&b in your &6inventory &fand u &6place&f one of them the multiblock will form around it as a &b3x3x4&f."
 	]
 	quest.2476BE69FBC0681D.quest_subtitle: "此结构可能需要防化服"
 	quest.2476BE69FBC0681D.title: "反应堆"
@@ -1782,33 +1782,33 @@
 	]
 	quest.24B44DAA8C43CF11.title: "配置器"
 	quest.24D4796E0026F9F7.quest_desc: [
-		"&l1. Description&r"
-		"&bTurrets&r will shoot &bspell&r when applied a &4redstone pulse&r."
-		"It needs &5source&r to operate."
+		"&l1. 介绍&r"
+		"&b炮塔&r在接收&4红石脉冲&r时会发射&b法术&r。"
+		"需要&5魔源&r才能运作。"
 		""
-		"&l2. How to use:&r"
-		"To apply the spell to turret: can use &bSpell Book&r or &bSpell Parchment&r."
-		"&8(you need to have a &5Form glyph &8at the start)"
+		"&l2. 如何使用：&r"
+		"可用&b法术书&r或&b法术羊皮纸&r为炮塔设置法术子弹。"
+		"&8（与巫师工具不同，此处需要在法术开头设置&5形态魔符&8）"
 		""
-		"&l3. Info&r"
-		"- &bBasic Spell Turret&r: &6consume&r twice the &5source&r needed for the &bspell&r."
+		"&l3. 简介&r"
+		"- &b基础法术炮塔&r：与直接施放&b法术&r相比，需要&6消耗&r两倍的&5魔源&r。"
 		""
-		"- &bEnhanced Spell Turret&r: &6consume&r the same amount of &5source&r as the &bspell&r."
+		"- &b附魔法术炮塔&r：&6消耗&r的&5魔源&r量与直接施放&b法术&r相同。"
 		""
 		""
 		""
-		"&8Tip: if there &5Pickup glyph&8, items will be deposited to the &bstorage block &6touching &8the turret."
+		"&8小提示：如果法术中有&5拾取之魔符&8，物品会被存放至&6紧挨着&8炮塔&b的容器内。"
 		""
-		"&8Check &bPage 2 &8if you want to verify these claims about spell cost."
+		"&8在&b第2页&8可了解如何确认法术消耗。"
 		""
 		"{@pagebreak}"
-		"- Use &9Integrated Dynamics&r to view the &bSource Jar&r current value (&bBlock Reader&r)"
-		"- Create a spell, apply to turret."
-		"- Calculate the spell cost yourself by getting the cost of each glyph using the file from your &8/config/ars_nouveau&r folder. (it is additive)"
-		"- Fire turret, see the number."
+		"- 使用&9动态联合&r模组可查看&b魔源罐&r的剩余魔源量（&b方块读取器&r）"
+		"- 制作一个法术，应用到炮塔上"
+		"- 手动计算法术消耗，消耗值可查阅&8/config/ars_nouveau&r文件夹内的文件。（将所有魔符消耗相加）"
+		"- 发射炮塔，查看剩余魔源量。"
 	]
-	quest.24D4796E0026F9F7.quest_subtitle: "Automation"
-	quest.24D4796E0026F9F7.title: "Spell Turrets"
+	quest.24D4796E0026F9F7.quest_subtitle: "自动化"
+	quest.24D4796E0026F9F7.title: "法术炮塔"
 	quest.24E5FA9129987168.quest_desc: ["与&b无线终端&f作用相同，但无线合成终端有一个&b合成界面&f！"]
 	quest.24E5FA9129987168.title: "无线合成终端"
 	quest.250D1E2BFE6E0D50.quest_desc: [
@@ -1910,7 +1910,7 @@
 		"&8小提示：3级符典条目节选&4不会&8自然生成。"
 	]
 	quest.2909AE63FA355344.title: "3级魔符"
-	quest.292875386D7B9981.quest_desc: ["&b晶质铀&f是一种可通过&6采矿&f获得的矿石。你也可以通过&bMI量子采矿机&f获取。&b晶质铀&f是Powah模组中的核心资源，被用于大量合成配方，并为&b反应堆&f供能。"]
+	quest.292875386D7B9981.quest_desc: ["&b晶质铀&f是一种可通过&6采矿&f获得的矿石。你也可以通过&bMI的采石机&f获取。&b晶质铀&f是Powah模组中的核心资源，被用于大量合成配方，还可以用作&b反应堆&f燃料。"]
 	quest.292875386D7B9981.quest_subtitle: "可能想戴上手套"
 	quest.292875386D7B9981.title: "&a晶质铀"
 	quest.293C22FC12999302.title: "月辉浆果"
@@ -2049,41 +2049,41 @@
 	]
 	quest.2BB266022C8BFC8C.quest_desc: ["用于&bMEGA存储元件&f的外壳。"]
 	quest.2BBC228E24D5EF05.quest_desc: [
-		"&bWarp Portal&r is another solution for getting from A to B. "
-		"After setting it up, it is there to be used forever."
+		"&b折跃门&r是另一种实现传送的手段。"
+		"建成后可以永久使用。"
 		""
-		"&l1. Info&r"
-		"- &bWarp Scroll&r"
-		"&8Same-dimension permanent portal"
+		"&l1. 简介&r"
+		"- &b折跃卷轴&r"
+		"&8可实现同维度永久折跃门"
 		""
-		"- &bStabilized Warp Scroll&r"
-		"&8Cross-dimension permanent portal"
+		"- &b稳定化折跃卷轴&r"
+		"&8可实现跨维度永久折跃门"
 		""
-		"- &lThe portal is one way&r"
-		"&8it won't create another portal at the position you have set in the scroll"
+		"- &l折跃门只能单向传送&r"
+		"&8传送目的地不会生成新的折跃门。"
 		""
-		"- &9Size&r \\& &6Orientation&r"
-		"&8+ Frame material: &bSourcestone &8(or variants)"
+		"- &9尺寸&r与&6朝向&r"
+		"&8+ 折跃门框架方块：&b魔源石&8（或其变种方块）"
 		""
-		"&8+ Min of &91x1 &8area inside the &bframe &8(corner blocks can be any)"
-		"&8(min of frame will be &93x3 &8(middle hollow))"
+		"&8+ &b折跃门框架&8中至少要有&91x1&8的空洞（门角处可为任意方块）"
+		"&8（也就是说，整个折跃门至少要有&93x3&8的大小（中空））"
 		""
-		"&8+ Can be &6horizontally &8(end portal) or &6vertically &8(nether portal)"
+		"&8+ 折跃门可以是&6水平&8的（参考末地传送门摆法），也可以是&6竖直&8的（参考下界传送门的摆法）"
 		""
-		"&l2. How to create?&r"
-		"- Build a &bframe&r. (check end portal, nether portal)"
-		"- Have a &9FULL&r source jar nearby."
-		"- Throw the &bWarp Scroll&r / &bStabilized Warp Scroll&r inside."
+		"&l2. 如何建造折跃门？&r"
+		"- 搭建出&b折跃门框架&r。（参考末地传送门或下界传送门的摆法）"
+		"- 在附近放一个&9满的&r魔源罐。"
+		"- 将&b折跃卷轴&r或&b稳定化折跃卷轴&r丢入门框中。"
 		""
-		"&l3. How to break?&r"
-		"- &6Break&r a frame block."
+		"&l3. 如何拆掉折跃门&r"
+		"- &6破坏&r其中任意一个框架方块即可。"
 		""
 		""
-		"&4NOTE&r: after creation, it won't need &5source&r to operate."
-		"&4NOTE 2&r: to say again, blocks at frame corners aren't needed."
+		"&4提示&r：传送门创造完成后，不再需要&5魔源&r维持运作。"
+		"&4提示②&r：再说一次，传送门框架的四个角不需要放方块。"
 	]
-	quest.2BBC228E24D5EF05.quest_subtitle: "Multiple Base?"
-	quest.2BBC228E24D5EF05.title: "Warp Portal"
+	quest.2BBC228E24D5EF05.quest_subtitle: "多建几个基地？"
+	quest.2BBC228E24D5EF05.title: "折跃门"
 	quest.2BC64E1EB1BCE14D.quest_desc: [
 		"  &b不锈钢钻&r&o既&6可用于&b采石场&r&o又&6可用于&b石油钻机&r。"
 		""
@@ -3267,15 +3267,15 @@
 	]
 	quest.45138985A0F5164C.title: "喷气背包"
 	quest.4526B82A151F72AC.quest_desc: [
-		"Main block to be used for &5the mod&r storage system."
+		"&5本模组&r存储系统的核心方块。"
 		""
-		"- &6Right click&r with &bBookwyrm Charms&r to summon &2Bookwyrms&r."
-		"&8(each&2 Bookwyrm&r &8will increase the number of storages you can bind)"
+		"- 手持&b书龙护符&r并&6右击&r存储讲台可召唤&2书龙&r。"
+		"&8（每多一只&2书龙&r&8，可绑定的存储上限就会增加）"
 		""
-		"- Use &bDominion Wand&r to bind storage to the Lectern block."
-		"&8(from storage to lectern)"
+		"- 使用&b支配之杖&r可以将存储绑定到存储讲台。"
+		"&8（先指定存储，再指定讲台）"
 		""
-		"- Source needed: NO."
+		"- 是否需要魔源：否。"
 	]
 	quest.45402DE880D9EF58.quest_desc: [
 		"一张能够扭曲时间的 &dQIO 驱动器&r，只为存储你的物品，天知道这意味着什么。"
@@ -3458,11 +3458,11 @@
 	]
 	quest.480F170F7028C337.quest_desc: ["小型法术槽"]
 	quest.48212961977655E7.quest_desc: [
-		"哈哈，不过我觉得它味道可能不会太好。"
+		"Well i guess you could, But I don't think it would taste that great. "
 		""
-		"&b绝缘覆层&f用于制作&b电容&f和&b能量核心&f。你将需要这些组件来建造机器并生产&bPOWAH！！！&f"
+		"&bDielectric paste &fis used for &bCapacitors&f and &bMatrix&f. You will need these components to construct machines and create &bPOWAH!!!"
 	]
-	quest.48212961977655E7.quest_subtitle: "你不能使用它刷你的牙"
+	quest.48212961977655E7.quest_subtitle: "不能用它刷牙"
 	quest.48212961977655E7.title: "绝缘覆层"
 	quest.4861D856CE0B5C93.quest_desc: [
 		"为周围的生物施加药水效果（包括玩家）。"
@@ -3686,11 +3686,11 @@
 		""
 		"&4提示&r：至于&5永久&r的折跃传送门，请查阅&b下一个任务&r。"
 	]
-	quest.4DBDCEA0761F1D3B.title: "Warp Scrolls"
+	quest.4DBDCEA0761F1D3B.title: "折跃卷轴"
 	quest.4DC59BCF8833CC3C.title: "牛油果"
 	quest.4DCA027828C2921C.quest_desc: ["Portable, stored power for some Create stuff."]
 	quest.4E026831A66E0A42.quest_desc: ["&1蓝色&r粉笔可以召唤并绑定魔王。"]
-	quest.4E026831A66E0A42.quest_subtitle: "七洋"
+	quest.4E026831A66E0A42.quest_subtitle: "七大洋"
 	quest.4E062B9B4960632D.quest_desc: [
 		"性能优良、消耗燃料的交通工具……而且可以同时搭载两人！"
 		""
@@ -4130,8 +4130,8 @@
 	quest.55B4497680B48819.title: "水蜜桃"
 	quest.55DBF04C81688194.quest_subtitle: "The Un-Spout"
 	quest.560634C7982F2FDC.quest_desc: [
-		"&bSpell projectile&r redirection."
-		"&8(to know when a spell hits the prism, use an &bObserver&r&8)"
+		"可改变&b弹射物法术&r的飞行方向。"
+		"&8（法术击中棱镜时，可被&b侦测器&r&8检测到)"
 	]
 	quest.56079AB13D721BC7.quest_desc: [
 		"这套&b盔甲&r可被&6升级&r，且提供的护甲值与&e金套&r相当。"
@@ -4142,7 +4142,7 @@
 	quest.56079AB13D721BC7.title: "术士套装"
 	quest.5619683321410B74.quest_desc: ["去他丫的房子，直接把你的老巢都打包带走吧！不过注意了，这东西可不便宜喔！"]
 	quest.5619683321410B74.title: "大型空间组件"
-	quest.5663A6C559490A29.quest_desc: ["&6右击&f对&b僵尸&f或&b尸壳&f使用&b天线珍珠&f，即可完成。"]
+	quest.5663A6C559490A29.quest_desc: ["&6右击&f对&b僵尸&f或&b尸壳&f使用&b天线珍珠&f，可以获得玩家天线珍珠。"]
 	quest.5663A6C559490A29.quest_subtitle: "别以为你能把那个僵尸找回来"
 	quest.566D039774A4DB9D.quest_desc: ["离心&2核废水&r，将产生的钚与&9氟石粉&r结合就能形成&b钚球&r。"]
 	quest.566D039774A4DB9D.title: "钚球"
@@ -4236,8 +4236,8 @@
 	quest.59EE97EF70F6F962.quest_subtitle: "纯素……纤维？"
 	quest.59EE97EF70F6F962.title: "亚麻"
 	quest.59FD22A238BC0378.quest_subtitle: "Crafting ingredient for the Replicator."
-	quest.5A2B3D4660D8D741.quest_desc: ["其消耗&b绿宝石&f，并且是&6富生升级&f所必需的"]
-	quest.5A2B3D4660D8D741.quest_subtitle: "我以为富生水晶是蓝色的"
+	quest.5A2B3D4660D8D741.quest_desc: ["消耗&b绿宝石&f，&6富生升级&f的必需物品"]
+	quest.5A2B3D4660D8D741.quest_subtitle: "我以为蓝色的才叫富生"
 	quest.5A2B3D4660D8D741.title: "&a富生水晶"
 	quest.5A49CB40AC643E67.quest_desc: [
 		"&b电池升级&f将会消耗&e能量&f而非耐久度。这根建筑棒将能够储存&e能量&f并用它来放置方块。"
@@ -4348,7 +4348,7 @@
 	quest.5DF4A4E6D5E448D0.title: "电解分离器用水"
 	quest.5E9F30ADD242C764.quest_desc: [
 		"&4立刻拨打热线，即可享受买一送一超值优惠！！！ "
-		"&b下界水晶&f是制作最高等级机械（即&b下界等级&f）所必需的材料，由&b下界之星、红石&f以及少量&b烈焰晶体&f合成。"
+		"&b下界水晶&f是制作最高级机械（&b下界等级&f）的必需材料，由&b下界之星、红石&f以及少量&b烈焰晶体&f制成。"
 	]
 	quest.5E9F30ADD242C764.quest_subtitle: "当前只要$19.99！"
 	quest.5E9F30ADD242C764.title: "&4下界水晶"
@@ -5011,8 +5011,8 @@
 		"{image:justdirethings:block/sensort2_side width:100 height:100 align:center}"
 	]
 	quest.69BD8400AAA37066.quest_subtitle: "So Sensitive"
-	quest.69C0D033A9EE9EA7.quest_desc: ["木乃伊使魔只能与你的&b敌人&r&6肉搏&r。"]
-	quest.69C0D033A9EE9EA7.quest_subtitle: "自“沙”而来"
+	quest.69C0D033A9EE9EA7.quest_desc: ["木乃伊使魔只会与你的&b敌人&r&6肉搏&r。"]
+	quest.69C0D033A9EE9EA7.quest_subtitle: "自沙而来"
 	quest.69F5B199CF819FC3.title: "二氧化硫"
 	quest.69F8EE1B298EE5B3.title: "五阶 1:5"
 	quest.6A382549A4C55A5E.quest_desc: ["&c高级控制电路&r是下一级的&6电路&r，能够用于制作更多高级机器。"]
@@ -5499,9 +5499,9 @@
 		"- Toggle &6Creative Flight&r by pressing &eN&r."
 	]
 	quest.7436F6599E2D79C1.quest_subtitle: "Gravi-chestplate but in black!"
-	quest.745ECCC690C1AD23.quest_desc: ["&b烈焰晶体&f由你永远猜不到的材料制成。是的，没错，&b烈焰棒。"]
-	quest.745ECCC690C1AD23.quest_subtitle: "直接从烈焰中走出来"
-	quest.745ECCC690C1AD23.title: "&6烈焰晶体"
+	quest.745ECCC690C1AD23.quest_desc: ["&b烈焰水晶&f由你永远猜不到的材料制成。没错，&b烈焰棒&r。"]
+	quest.745ECCC690C1AD23.quest_subtitle: "从烈焰中来"
+	quest.745ECCC690C1AD23.title: "&6烈焰水晶"
 	quest.746C3046F10DDD71.quest_desc: ["无法连接&6ME总线&r，你只能让&b致密线缆&r与&b小型线缆&r（例如&b玻璃线缆&r或&b智能线缆&r）连接再放置&6总线&r或&b面板&r。网络负载显示类似于&bME智能线缆&r，每条发光线代表使用了4个&6频道&r。"]
 	quest.746C3046F10DDD71.quest_subtitle: "大容量线缆，能够传输32个频道"
 	quest.746C3046F10DDD71.title: "福鲁伊克斯色致密线缆"
@@ -5891,7 +5891,7 @@
 	quest.7ED9955750255A69.title: "&d新生魔艺"
 	quest.7EDF633DDB5DA2A1.quest_desc: ["冰封骨头由流浪者掉落，用于制作冰霜法术卷轴"]
 	quest.7EF829BFBBB4009B.quest_desc: [
-		"在充能台周围放置充能棒并为其供能后，便可在台内为不同材料充能。充能对象既可以是单一物品，也可以是多种物品的组合。"
+		"在充能台周围放置充能棒并为其供能后，便可为充能台内的各种材料充能。充能对象既可以是单一物品，也可以是多种物品的组合。"
 		""
 		"若想更快速地完成这一过程，你可以进行批量充能！只要拥有充足的&b能量&r，即可加速&b充能&r进程。若以&b块状&r材料替代&b锭状&r材料进行充能，速度更可&b提升9倍&r。"
 	]
