@@ -4696,7 +4696,7 @@
 		"它可以存储&a无限&r量的FE。"
 	]
 	quest.6711E72048BBDB08.quest_desc: ["&6Holds&r plenty of up to eight different things, color-able, and all nearby &bToolboxes&r can be &6accessed&r with one keybind—handy for keeping your eyes on your work, not your tools."]
-	quest.6716C1CE7B7FFA94.quest_desc: ["The &bCapacity Card &fincreases the amount of filter slots in &bBuses&f."]
+	quest.6716C1CE7B7FFA94.quest_desc: ["&b容量卡&f能够增加总线中过滤器的数量。"]
 	quest.6716C1CE7B7FFA94.title: "基础升级"
 	quest.67284079A941EF4B.quest_desc: [
 		"&b潜水罐&r能够提供&7氧气&r，让你在&6水下呼吸&r，探索更长时间。"
@@ -4704,7 +4704,7 @@
 		"用潜水罐探索&9海洋&r深处，或者给自己&6建造&r一个水下基地。"
 	]
 	quest.67284079A941EF4B.title: "潜水装备"
-	quest.6750F4584257BA75.quest_desc: ["The &bExtended Buses&f have &aincreased&f upgrade slots, and are 8x &afaster&f."]
+	quest.6750F4584257BA75.quest_desc: ["&b扩展总线&f拥有&a更多的&f升级卡槽，并且相较于普通的总线&a快&f8倍。"]
 	quest.6750F4584257BA75.title: "扩展总线"
 	quest.6762C357EEDE8D10.quest_desc: [
 		"An advanced compressor that utilizes &esunlight&r to &7pressurize air&r. "
@@ -4787,11 +4787,11 @@
 	quest.67E949C75CEFA446.quest_subtitle: "示例法术"
 	quest.67E949C75CEFA446.title: "巫师之弩（2级）"
 	quest.67F060243167F8BF.quest_desc: [
-		"The &bSky Steel Ingot&f can be used to craft &bMEGA Item Storage&f cells. It is made by &6dropping&f &bCharged Certus Quartz, Iron, and Sky Stone&f into water."
+		"&b陨钢锭&f用于制作&bMEGA物品存储元件&f，由浸入水中的&6掉落物形式&f的&b充能赛特斯石英水晶，铁以及陨石&f制作而成。"
 		""
-		"The &bSky Osmium Ingot&f can be used to craft &bMEGA Chemical Storage&f cells. It is made by &6dropping&f &bCharged Certus Quartz, Osmium, and Sky Stone&f into water."
+		"&b陨锇锭&f用于制作&bMEGA化学品存储元件&f，由浸入水中的&6掉落物形式&f的&b充能赛特斯石英水晶，锇锭以及陨石&f制作而成。"
 		""
-		"The &bSky Bronze Ingot&f can be used to craft &bMEGA Fluid Storage&f cells. It is made by &6dropping&f &bCharged Certus Quartz, Copper, and Sky Stone&f into water."
+		"&b陨青铜锭&f用于制作&bMEGA流体存储元件&f，由浸入水中的&6掉落物形式&f的&b充能赛特斯石英水晶，铜锭以及陨石&f制作而成。"
 	]
 	quest.67F2212453B81446.quest_desc: [
 		"  A mixed ingot containing an ingot of &bIridium&r sandwiched between two ingots of &bBlast-proof Alloy Ingots&r, ready to produce an extremely strong &bIridium Plate&r."
@@ -4965,7 +4965,7 @@
 		"{image:justdirethings:block/clickert2_side width:100 height:100 align:center}"
 	]
 	quest.69403313B37E8219.quest_subtitle: "Player Impersonator"
-	quest.6976592A2FB069AD.quest_desc: ["Crafted with &b4 Fluix Crystals&f in a 2x2 pattern you will obtain a &bFluix Block&f."]
+	quest.6976592A2FB069AD.quest_desc: ["将&b4个福鲁伊克斯水晶&f以2x2的形式合成就能得到&b福鲁伊克斯块&f。"]
 	quest.69767F69C84AC701.quest_desc: [
 		"&l1. How to acquire the bound script? &r"
 		"Perform the &bRitual of Binding&r near them. (check &bRitual Brazier&r)"
@@ -5035,9 +5035,9 @@
 	quest.6A9DAB624949191E.title: "精英富集工厂"
 	quest.6AB303BEA478C0F3.quest_desc: ["&6Programmable&r Rotation Control!"]
 	quest.6ADBF1DFBDF45D7C.quest_desc: [
-		"Made with a &bLogic Processor &fsome &bRedstone&f and some &bQuartz Glass&f. "
+		"使用&b逻辑处理器&f与&b红石&f以及&b石英玻璃&f制作而成。"
 		""
-		"The &bME Storage Component&f is the first step to hold all of your items."
+		"制作&bME存储组件&f是用ME网络存储你所有物品的第一步。"
 	]
 	quest.6ADBF1DFBDF45D7C.title: "1k 存储组件"
 	quest.6B022CC9A87E6329.quest_desc: [
@@ -5112,9 +5112,9 @@
 	]
 	quest.6BD625E5CA469914.title: "Highly Advanced Upgrade"
 	quest.6BE08185BB44CEF8.quest_desc: [
-		"Same amount of slots as the &bExtended Interface&f, but holds &a16x the amount per slot (1048)&f."
+		"超大接口与&b扩展接口&f拥有相同的槽位，但是&a每个槽位能够容纳常规版本a16倍的量（1024）&f。"
 		""
-		"&bME Extended Interface&f hold 64 items per slot, with quadruple the slots the normal Interface has."
+		"&bME扩展接口&f每个槽位能够容纳64个物品，同时槽位是普通接口的4倍。"
 	]
 	quest.6BE74683BED141EF.quest_desc: ["Not just a craft component and decorative… can be slapped on &bFluid Pipes&r, both to &6hold&r them in their orientation and prevent them from &6joining&r later adjacently placed pipes."]
 	quest.6C012E0F8B3922DC.quest_desc: ["&b精英压射工厂&r能够同时处理&a七个&r压射配方。"]
@@ -5364,8 +5364,8 @@
 	quest.72481CA0AC8AFD6A.quest_subtitle: "包层线缆的智能兄弟"
 	quest.72481CA0AC8AFD6A.title: "福鲁伊克斯色智能线缆"
 	quest.72539873C7201A47.quest_desc: ["毒马铃薯用于制作自然法术卷轴。"]
-	quest.7277A0413086D71A.quest_desc: ["&6Right-click&f a &bFluix Block &fwith an &bEntro Seed&f to turn it into a &bEntroized Fluix Budding&f."]
-	quest.7290F8670BBBF12E.quest_desc: ["The &bME Active Formation Plane&f works like the regular &bFormation Plane&r, except it pulls the blocks/items from the system without you having to push to it, pretty handy, isn't it?"]
+	quest.7277A0413086D71A.quest_desc: ["用&b恩特罗种子&f&6右击&f&b福鲁伊克斯块&f来将它转变为&b恩特罗化的福鲁伊克斯母岩&f。"]
+	quest.7290F8670BBBF12E.quest_desc: ["&bME主动成型面板&f与普通的&b成型面板&r作用相同，不过它不需要网络中有物品进出就能够放置，这真的方便到爆不是吗？"]
 	quest.72CBC6171104037F.quest_desc: [
 		"Seriously, one of the cooler doors in modded MC, imho."
 		""
@@ -5377,9 +5377,9 @@
 		"{image:justdirethings:item/raw_eclipsealloy width:100 height:100 align:center fit:true}"
 	]
 	quest.72DD0017AC3B1326.quest_desc: [
-		"The &bMatter Cannon&f uses &bMatter Balls &fand different &bMetal Nuggets&f to &6deal damage &fby shooting them at opponents. It can be charged in the &bCharger &fand refilled in an &bME Chest&f, just as you would a &bStorage Drive&f."
+		"&b物质炮&f使用&b物质球&f与&b金属粒&f作为弹药能够&f射击敌人&6造成伤害&f。可以使用AE的&b充能器&f为它充电，像&bME驱动器那样&f用&bME箱子&f进行装填。"
 		""
-		"Test out &bupgrades&f to see if any can make your &bMatter Cannon better&f!"
+		"试试给你的物质炮加上&b升级&f看看它能不能变得更强！"
 	]
 	quest.72DD0017AC3B1326.title: "物质炮"
 	quest.72E69FF9753D3CEA.quest_desc: ["从异界石交易者处获取&b异界石&r更加方便——并且更有效率。"]
@@ -5533,13 +5533,13 @@
 	]
 	quest.754EC4FE62F454E8.quest_subtitle: "It's all your Vault!"
 	quest.75810CDFB362E0CB.quest_desc: [
-		"They are &6crafted&r by causing a &6reaction&r between &bEnder Pearl&r or &bEnder Dust&r and a &bSingularity&r. Any &6explosive force&r should be enough to trigger the reaction."
+		"量子缠绕态奇点由&b末影珍珠&r或&b末影粉&r与一个&a奇点&r进行的反应所产生。任何&6爆炸&r产生的冲击力都足以引发反应。"
 		""
-		"Nearly any &6explosion&r - even &acreepers&r - will work."
+		"几乎是所有的&6爆炸&r——甚至是&a苦力怕&r爆炸&r也能起效。"
 		""
-		"They are always produced in &6matching pairs&r, to create a connection place 1 of the pairs of &bQuantum Entangled Singularity&r into the &bME Quantum Link Chamber&r of the bridge on each side."
+		"量子缠绕态奇点总是以&6成对&r的形式出现，你需要将一对&b量子缠绕态奇点&r分别放入两端量子桥的&bME量子链接仓&r才能将网络两端连接起来。"
 		""
-		"It might be a &6good idea&r to label these with &bnames&r when you create them using the vanilla &bAnvil&r."
+		"使用原版的&b铁砧&r为它们&b命名&r来添加可辨别的标签也许是个&6好想法&r。"
 	]
 	quest.75810CDFB362E0CB.quest_subtitle: "连接！"
 	quest.75810CDFB362E0CB.title: "奇点"
