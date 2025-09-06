@@ -187,11 +187,11 @@
 	]
 	quest.04A69DE982F47E64.title: "HV Steam Turbine"
 	quest.04BCA6A8AE60D817.quest_desc: [
-		"Place an &bItem Frame&r on the storage block next to the turret. Then place the &bitem&r you want inside it."
-		"&8The turret will now only place that item. (works for drawer too) "
+		"紧挨着炮塔放置一个容器，然后在容器上放置一个&b物品展示框&r，最后将所需的&b方块&r放进展示框与容器内。"
+		"&8如此一来，炮塔的“放置方块”法术就只会放置展示框内的方块了。（对抽屉也生效）"
 	]
-	quest.04BCA6A8AE60D817.quest_subtitle: "Turret Automation Help"
-	quest.04BCA6A8AE60D817.title: "Place Selected Item"
+	quest.04BCA6A8AE60D817.quest_subtitle: "炮塔自动化小贴示"
+	quest.04BCA6A8AE60D817.title: "放置指定方块"
 	quest.04C07CE4F7258BF5.quest_desc: [""]
 	quest.04C07CE4F7258BF5.quest_subtitle: "Move Stuff 'Round"
 	quest.04C21F7B2F034772.quest_desc: [
@@ -1803,7 +1803,7 @@
 		""
 		"{@pagebreak}"
 		"- 使用&9动态联合&r模组可查看&b魔源罐&r的剩余魔源量（&b方块读取器&r）"
-		"- 制作一个法术，应用到炮塔上"
+		"- 制作一个法术，应用到炮塔上。"
 		"- 手动计算法术消耗，消耗值可查阅&8/config/ars_nouveau&r文件夹内的文件。（将所有魔符消耗相加）"
 		"- 发射炮塔，查看剩余魔源量。"
 	]
@@ -5622,8 +5622,8 @@
 		""
 		"- 放在&b薇克精炼药锅&r旁：基座可用作&4产物输出&r过滤器。（用于告诉薇克精要合成什么）"
 	]
-	quest.78B4459314C86937.quest_subtitle: "Display / Input / Filter"
-	quest.78B4459314C86937.title: "Arcane Pedestal"
+	quest.78B4459314C86937.quest_subtitle: "展示/输入/过滤"
+	quest.78B4459314C86937.title: "奥术基座"
 	quest.78C746829110FC35.quest_desc: ["&b激光&r是&e能量传输&r的高级形式，能够&6发射&r极强的光子射线，用来&4伤害&r&2实体&r，&c点燃TNT&r，&7破坏方块&r，甚至&e辅助启动&r你未来的&9反应堆&r。"]
 	quest.78C746829110FC35.title: "激光"
 	quest.78D8E2EB66607AAA.quest_desc: ["Take a little &bnether quartz,&r combine with &bredstone,&r then &6sand&r it all nicely, and bam!... you're about to make you first &bElectron Tubes&r and are nearer to all the fun goodies in the &c\"Specials\"&r wing."]
