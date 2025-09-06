@@ -1432,11 +1432,11 @@
 	]
 	quest.1EBE2B9A6CCE5A69.quest_subtitle: "寻找自己的路"
 	quest.1EC75DB7FA07D06B.quest_desc: [
-		"This &9Module&r vents &8high-pressure&r &bair&r when the &7tube pressure&r reaches &c4.9&r bar (&c19.9&r for &bAdvanced Pressure Tubes&r). "
+		"当&7管道压力&r达到&c4.9&rbar（&b高级压力管道&r为&c19.9&rbar）时，该&9模块&r会释放&8高压&r&b空气&r。"
 		""
-		"While it helps prevent &cexplosions&r, it results in &cenergy loss&r and &cwasted fuel&r. "
+		"虽然这可以防止&c爆炸&r，但它会导致&c能量损失&r和&c浪费燃料&r。"
 		""
-		"With a &bModule Expansion Card&r, you can precisely &6adjust&r the pressure threshold through the &3GUI&r."
+		"使用&b模块扩展卡&r升级后，你可以在&3配置界面&r中精确&6调整&r压力阈值。"
 	]
 	quest.1EEBC04FABD3B3F2.quest_desc: ["&b石英纤维&f能够&6传输&b能量&f，但无法传输&b频道&f。"]
 	quest.1EEBC04FABD3B3F2.title: "石英纤维"
@@ -1704,9 +1704,9 @@
 	quest.231404F75545A149.quest_desc: [""]
 	quest.231404F75545A149.quest_subtitle: "Elevate your self, friends, and builds."
 	quest.23313676FB186028.quest_desc: [
-		"To &6rotate&r blocks, &6right-click&r them. "
+		"&6右击&r要&6旋转&r方块，可以旋转它们。"
 		""
-		"To &6toggle&r the corresponding side of a &bPressure Tube&r between &aopen&r and &cclosed&r, &6right-click&r the tube. "
+		"&6右击&r管道，可以&6切换&r&b压力管道&r一侧的&a开启&r和&c关闭&r。"
 	]
 	quest.237468FAB20906A8.quest_desc: [""]
 	quest.237468FAB20906A8.quest_subtitle: "2倍容量"
@@ -1731,9 +1731,9 @@
 	]
 	quest.2472B23BC0C28C6C.title: "Quantum Upgrade"
 	quest.2476BE69FBC0681D.quest_desc: [
-		"&bReactors&f are a very good source of&b power&f. They can generate thousands to hundreds of thousands of &bFE&f. They require &bredstone&f to slow the fuel consumption, &bcoal&f to boost the efficiency, &bice and water&f to cool the the reactor and of course &buraninite&f to power this &breactor&f."
+		"&b反应堆&f是一种非常高效的&b能源&f来源，能够产生成千上万的&bFE&f。它们需要&b红石&f来减缓燃料消耗，用&b煤炭&f提升效率，通过&b冰和水&f进行冷却，当然还需要&b晶质铀&f作为&b反应堆&f的燃料。"
 		""
-		"It take &b36 reactor blocks&f to make it, and they build themselves. Yah you heard me right, they will automatically build themselves if you have all &b36 blocks&b in your &6inventory &fand u &6place&f one of them the multiblock will form around it as a &b3x3x4&f."
+		"搭建它需要&b36个反应堆方块&f，它能自动搭建——没错，正如你听到的那样——只要你&6物品栏&f中拥有&b36个反应堆方块&f并&6放置&f其中一个，这个多方块结构就会以其为中心自动构搭建为&b3x3x4&f的结构。"
 	]
 	quest.2476BE69FBC0681D.quest_subtitle: "此结构可能需要防化服"
 	quest.2476BE69FBC0681D.title: "反应堆"
@@ -1851,11 +1851,11 @@
 	]
 	quest.2675A4EA019B383F.title: "涡轮时间"
 	quest.2689A56675E12245.quest_desc: [
-		"This &3substance&r is used in a &bThermopneumatic Processing Plant&r with &8Coal&r to &6produce&r &7Plastic&r. "
+		"在&b热气动加工机&r中，这种&3物质&r用于与&8煤炭&r一起处理以&6生产&r&7塑料&r。"
 		""
-		"It is a &esuperior &7liquid fuel&r and can also be &6placed&r in a &8Furnace&r."
+		"它是一种&e更好的&7液体燃料&r，也可以&6放入&r&8熔炉&r中。"
 	]
-	quest.2689A56675E12245.title: "&eLPG"
+	quest.2689A56675E12245.title: "&e液化石油"
 	quest.268B0F87CC431A51.quest_desc: ["-需要放入用于转换的电缆等级的&b外壳&r（默认为&e低压&r）。"]
 	quest.268B0F87CC431A51.quest_subtitle: "变压更方便！"
 	quest.2697B8077174B870.quest_desc: ["[ Be sure to check out the netherite versions of these and the &bBacktank&r too. ]"]
@@ -1869,7 +1869,7 @@
 		""
 		"Note: By holding &6SHIFT&r over any &aPNC&r item will give a description of the item."
 	]
-	quest.26A44EDA4AABFF6F.title: "&cWelcome &eto &aPNC"
+	quest.26A44EDA4AABFF6F.title: "&c欢迎&e游玩&a气动工艺"
 	quest.26AC949F1C3C6214.quest_desc: ["Brassy, black sided, and very stylish."]
 	quest.272E31F15A39517B.quest_desc: [
 		"终极&e发电&r设备的第一步——&b聚变反应堆框架&r。"
@@ -1924,20 +1924,20 @@
 	]
 	quest.29A942B4C3E9A502.quest_subtitle: "Not Stock, Aitken, and Waterman"
 	quest.29AC06B27D6A53C5.quest_desc: [
-		"A pre-programmed &bDrone&r that collects &bitems&r within a &e17x17x17&r area &7(before range upgrades)&r centered on the position it's deployed from. "
+		"一个预编程的 &b无人机&r，它能在其部署位置的&e17x17x17&r区域内收集&b物品&r&7（在范围升级之前）&r。"
 		""
-		"This &bDrone&r has two basic &3modes&r depending on where it is deployed in relation to its deposit inventory:"
+		"这种&b无人机&r有两种基础&3模式&r，取决于它相对于其存储容器的部署位置："
 		""
-		"- Deploying on top of an &9inventory&r will &6filter&r what the &bDrone&r collects to only match &bitems&r inside the &9inventory&r at the time of deployment."
+		"——在&9容器&r顶部部署将&6筛选&r&b无人机&r收集的&b物品&r，使其仅匹配部署时&9容器&r中的&b物品&r。"
 		""
-		"- Deploying on the ground next to an &9inventory&r will tell the &bDrone&r to &6collect&r any &bitems&r within its area."
+		"——在&9容器&r旁边的地上部署将指示&b无人机&r&6收集&r其区域内的任意&b物品&r。"
 	]
 	quest.29B59876D04A3772.quest_desc: [
-		"This device &6spawns&r &2mobs&r using &7pressure&r, bypassing &elight-level&r restrictions and enabling &4redstone control&r. "
+		"这个设备通过&7压力&r&6生成&r&2怪物&r，忽视&e光照强度&r限制，并可通过&4红石控制&r。"
 		""
-		"It requires a &bSpawner Core&r to function. "
+		"它需要&b刷怪笼核心&r才能工作。"
 		""
-		"Be aware that a &7partially empty&r &bSpawner Core&r will result in &creduced efficiency&r."
+		"请注意，&7未满的&r&b刷怪笼核心&r会导致&c效率降低&r。"
 	]
 	quest.29CFD0E01542A93D.quest_desc: [
 		"有了&b量子桥卡&f，你可以在世界各处随意访问你的&bME网络&f。你需要先搭建一个&b量子环&f，将一对&b纠缠奇点&f的其中一个放在量子环内，另一个在你给&b无线终端&f加装&b量子桥卡&f后放入无线终端。"
@@ -2041,11 +2041,11 @@
 	quest.2B4BFD88DF1A934D.quest_subtitle: "It's Gonna be Al, Right?"
 	quest.2B4BFD88DF1A934D.title: "铝"
 	quest.2B8DFC9987083AF7.quest_desc: [
-		"This machine &6produces&r &7Compressed Air&r. "
+		"这台机器可以&6生产&r&7压缩空气&r。"
 		""
-		"To operate it, &6place&r any &8solid-fuel&r item that can &cburn&r in a &8Furnace&r into the fuel slot. "
+		"将任意可以在&8熔炉&r中&c燃烧&r的&8固体燃料&r&6放入&r燃料格中来运行它。"
 		""
-		"Please note that &7fuel buckets&r are not compatible; for &7liquid fuels&r, use a &bLiquid Compressor&r instead."
+		"请注意，&7桶装液体燃料&r不兼容；对于&7液体燃料&r，需要&b液体压缩机&r才能实现。"
 	]
 	quest.2BB266022C8BFC8C.quest_desc: ["用于&bMEGA存储元件&f的外壳。"]
 	quest.2BBC228E24D5EF05.quest_desc: [
@@ -2220,9 +2220,9 @@
 	quest.2E50F969D8AE49B2.quest_desc: ["每个&b精英感应元件&r可以为你的感应矩阵增加&e204.8 GFE&r的能量存储上限。"]
 	quest.2E50F969D8AE49B2.title: "精英感应元件"
 	quest.2E5D9CB5D821E96A.quest_desc: [
-		"The most &8robust&r type of &bPressure Tube&r. "
+		"这是一类最&8坚固的&r&b压力管道&r。"
 		""
-		"These &bTubes&r can be &2camouflaged&r and have the capability to accommodate &bTube Modules&r, allowing for &eadditional functionality&r."
+		"这些&b管道&r可由伪装涂敷器给予&2伪装&r，并且能够容纳&b管道模块&r，从而实现&e额外功能&r。"
 	]
 	quest.2E7A46639993CCDE.quest_desc: [
 		"任何世界，都&6隐藏有&r无数你未发掘的秘密，它们可能在&6地表之下&r，又或是在另一个完全陌生的&6维度&r中。"
@@ -2393,13 +2393,13 @@
 	]
 	quest.3254374A45D0D708.quest_subtitle: "A blank slate… what will you write on yours?"
 	quest.325A0651CB2D1279.quest_desc: [
-		"This machine exposes &cEmpty PCBs&r to &eUV Light&r, preparing them for &6processing&r in an &bEtching Tank&r."
+		"这台机器将&c空印刷电路板&r暴露在&e紫外线&r下，为它们在&b蚀刻器&r中的&6加工&r做准备。"
 		""
-		"A longer &eexposure time&r improves the likelihood of &asuccessful etching&r, though the process &7slows down&r over time. "
+		"较长的&e曝光时间&r可以提高&a蚀刻成功&r的可能性，但随着时间的推移，进度会&7变慢&r。"
 		""
-		"You can set a &3threshold&r to determine when a &bPCB&r is considered &afinished&r; a &elower threshold&r speeds up &6processing&r but increases the risk of &cfailed etching&r. "
+		"你可以设置一个&3阈值&r来确定何时视为&b印刷电路板&r已经&a完成加工&r；&e较低的阈值&r可以加快&6加工&r速度，但会增加&c蚀刻失败&r的风险。"
 		""
-		"&cFailed PCBs&r can be &2recycled&r in a &8Blast Furnace&r for another attempt."
+		"&c失败的印刷电路板&r可以在&8高炉&r中&2回收&r，以便再次尝试。"
 	]
 	quest.325D7C592E2FB05A.quest_desc: [
 		"  The &bultimate&r state of solid matter, compressed so tightly until it is a point of infinite density and gravity."
@@ -2582,7 +2582,7 @@
 		"{image:justdirethings:block/goofarmland_tier4_moist width:100 height:100 align:center fit:true}"
 	]
 	quest.35F6CAD5BE56A32A.quest_subtitle: "Faster Still"
-	quest.3618C8F2EE6E308F.quest_desc: ["The &bVaccum Pump&r is used to create a &7vaccum seal&r, used for the &bVaccum Trap&r. "]
+	quest.3618C8F2EE6E308F.quest_desc: ["&b真空泵&r可以制造&7真空&r并用于&b真空陷阱&r。"]
 	quest.3635F4608F1ED244.quest_desc: [
 		"&bThreads&r are upgrade that can be &6put&r in your &5Ars armor&r."
 		""
@@ -3458,9 +3458,9 @@
 	]
 	quest.480F170F7028C337.quest_desc: ["小型法术槽"]
 	quest.48212961977655E7.quest_desc: [
-		"Well i guess you could, But I don't think it would taste that great. "
+		"哈哈，也许确实可以，不过我觉得味道可能不会太好。"
 		""
-		"&bDielectric paste &fis used for &bCapacitors&f and &bMatrix&f. You will need these components to construct machines and create &bPOWAH!!!"
+		"&b绝缘覆层&f用于制作&b电容&f和&b矩阵&f。你将需要这些组件来建造机器并生产&bPOWAH！！！&f"
 	]
 	quest.48212961977655E7.quest_subtitle: "不能用它刷牙"
 	quest.48212961977655E7.title: "绝缘覆层"
