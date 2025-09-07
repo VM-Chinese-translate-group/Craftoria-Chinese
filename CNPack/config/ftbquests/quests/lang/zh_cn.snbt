@@ -7,7 +7,7 @@
 	chapter.1CFBA632673ABBFD.title: "井井有条的存储"
 	chapter.216D532684E20496.title: "Boss"
 	chapter.26E59C8DBA7F6FE3.title: "Monster Mayhem"
-	chapter.2A4C06811555B5D0.title: "Relics \\& Artifacts"
+	chapter.2A4C06811555B5D0.title: "遗物与饰品"
 	chapter.2B64DA0213E9FC7B.title: "私人存储"
 	chapter.2E72024B18414A17.title: "&dEternal"
 	chapter.3188AC6C440F7520.title: "&a新手上路"
@@ -3217,7 +3217,7 @@
 	]
 	quest.43DB398322EF99BD.quest_subtitle: "混合&e两种&r材料，制成&6合金&r。"
 	quest.43EFE64785AE50B4.title: "四阶 1:4"
-	quest.442CDC27ADFA34E4.quest_desc: ["To&6 remove &fany modifications, &6place &bQuartz&f in your &6off-hand&f, and the same modifier u want to remove in your hand. It will &aconsume&f the modifier, not the &bQuartz&f."]
+	quest.442CDC27ADFA34E4.quest_desc: ["如果想要&6撤回&f某项修改，可以将&b下界石英&6放于副手&f，再将原本用于增加那项修改的物品放于主手对刷怪笼使用即可。这将&a消耗&f用于增加那项修改的物品，而非&6下界石英&f。"]
 	quest.443DFD3FB9E0BA2F.quest_desc: ["先弄明白自己需要种什么，再去找种子就好办多了！试试打几棵草，或者到处走走，就能找到几种有趣的植物！"]
 	quest.44507ED3F8A6DEC1.quest_subtitle: "有多种方法可以暂时阻止生物在你附近生成，让你能够安心地进行采矿。"
 	quest.448D7A215A175817.quest_desc: [
@@ -3844,7 +3844,7 @@
 		"将它们竖直放置，并在顶部安装&b控制棒组件&r。"
 	]
 	quest.4FBA0ECAC8AEBCD8.title: "核裂变"
-	quest.4FDD66D88C90C951.quest_desc: ["To obtain the &bSpawner &fyou must &6break &fa &bvanilla spawner &fwith&a Silk Touch&f. Every &bSpawner&f will have the same stats and can be modified to be better."]
+	quest.4FDD66D88C90C951.quest_desc: ["想要获得&b刷怪笼&f，你需要使用&a精准采集&f挖掘&b刷怪笼&f。每一个&b刷怪笼&f的基础数值都是一样的且可以被修改。"]
 	quest.4FDD66D88C90C951.title: "&c神话刷怪笼"
 	quest.5021D7D55A0B3533.quest_desc: ["欢迎来到&b化学&r的世界，某些&e化学品&r一般情况下是&c危险&r的，但幸运的是，你的身体能够&7抵抗&r那些危险化学品。"]
 	quest.5021D7D55A0B3533.title: "化学时间！"
