@@ -3470,13 +3470,13 @@
 		"- 似乎会将药水时效&5延长&r1.5倍？"
 	]
 	quest.486620B859CE9D1F.quest_desc: [
-		"This &bdevice&r separates &aincoming&r &7air&r into &chot&r and &bcold&r components, with one side becoming &chot&r and the other &bcold&r. "
+		"这个&b设备&r将&a进入的&r&7空气&r分离成&c热&r和&b冷&r两部分，一边变&c热&r，另一边变&b冷&r。"
 		""
-		"The amount of &7air&r used depends on the &7pressure&r. "
+		"使用的&7空气&r量取决于&7压力&r。"
 		""
-		"For &aoptimal efficiency&r, be &caware&r that there is a minor thermal connection between the &chot&r and &bcold&r sides. "
+		"考虑&a最佳效率&r时，&c要注意&r&c热&r端和&b冷&r端间存在弱的热传导。"
 		""
-		"To make the most of the &4heat&r, &6vent&r the &bcold side&r with a &cHeat Sink&r, and do the opposite if you want to &6maximize&r the &bcold&r."
+		"如果要最大限度地利用&4热&r端，就用&c散热器&r对&b冷&r端&6散热&r，如果想要&6最大化&r&b冷&r，则相反操作。"
 	]
 	quest.488424BE711AE0F1.quest_desc: [
 		"Fairly flexible in &6placement&r—on the sides, top, or bottom."
@@ -3950,9 +3950,9 @@
 	quest.5253D3AA5B45369E.quest_subtitle: "弹射物之魔符"
 	quest.5253D3AA5B45369E.title: "法术小指南 - 3"
 	quest.525658A19130AF37.quest_desc: [
-		"Generates &7Compressed Air&r using various &7fuel fluids&r. "
+		"使用各种&7液体燃料&r生产&7压缩空气&r。"
 		""
-		"To view all available &8fuels&r, open the ‘&9Available Fuels&r’ tab, which is sorted from &amost&r to &cleast&r effective. "
+		"如果要查看所有可用的&8燃料&r，请打开“&9可用燃料&r”标签页，该标签页按&a最高&r到&c最低&r效率排序。"
 	]
 	quest.52575C93CD6DD5D5.quest_desc: ["For &6packing&r and &6unpacking&r packages."]
 	quest.525D3BBD78692516.title: "灵魂果实"
