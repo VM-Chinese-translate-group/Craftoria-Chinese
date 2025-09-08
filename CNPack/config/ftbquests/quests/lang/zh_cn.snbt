@@ -1118,8 +1118,8 @@
 		"{image:justdirethings:block/goofarmland_tier2_moist width:100 height:100 align:center fit:true}"
 	]
 	quest.18680FEE2B6FF16F.quest_subtitle: "AutoCrop"
-	quest.186F257352F2E844.quest_desc: ["  This machine calls for a whole 'nother level of strength. Time to put that new &bTitanium&r you've made to use. The &bPressurizer&r allows you to pressurize &bWater&r &6into &bHP&r&6, or &bhigh pressure, water&6 and &r&bSteam&r &6into &bHP Steam&r. It also works the other way around to depressurize the fluids. The &bPressurizer&r also &6allows you to collect &bLiquid Air&r &6via the &bAir Intake&r, plus it's much more efficient than the &bVacuum Freezer&r."]
-	quest.186F257352F2E844.title: "Pressurizer"
+	quest.186F257352F2E844.quest_desc: ["  这个机器需要一种全新的力量……你刚获得的&b钛&r就挺适合的。&b增压器&r可将&b水&r&6加压为&bHP&r，&6或者说&b高压水&r，将&b蒸汽&r&6加压为&bHP蒸汽&r。它也可以逆向运行，将流体减压。&6加装了&b进气口&r的&b增压器&r还&6可以制取&b液态空气&r，这可比&b真空冷却机&r高效多了。"]
+	quest.186F257352F2E844.title: "增压器"
 	quest.188CF922D562E21A.quest_desc: [
 		"&l1. 记录&r"
 		"&6主手&r持有此书时&6右击&r，此书就会记录所有&5你已学习的魔符。&r"
@@ -1149,7 +1149,7 @@
 		""
 		"如果你想要&a压缩&f&b存储元件&f的类或是将&b存储元件&f中的东西清理到更大的存储元件中，这个端口会派上用场。"
 	]
-	quest.18DED87B3E23350F.quest_subtitle: "Can run recipes of any electric multiblock machine provided to it in batches."
+	quest.18DED87B3E23350F.quest_subtitle: "可批量执行任何提供给它的电动多方块机器的配方。"
 	quest.18E944F145FEBB8C.quest_desc: [
 		"——可以&4点燃&r它的&c目标&r"
 		""
@@ -1242,11 +1242,11 @@
 	]
 	quest.1AD1C99F9C383632.quest_subtitle: "Octo-Bucket"
 	quest.1AE719655A757BF1.quest_desc: [
-		"  The drill that will push you into the far bounds of technology."
+		"  这个钻头将带你前往科技的边界……"
 		""
-		"  Made of that super light yet strong &bTitanium&r from before, you'll be able to power your reactors and enter the quantum age."
+		"  它由轻而坚固的&b钛&r制成，为你点亮反应堆，推开量子时代的大门。"
 	]
-	quest.1AE719655A757BF1.title: "Titanium Drill"
+	quest.1AE719655A757BF1.title: "钛钻"
 	quest.1AEF6E844F39155D.quest_desc: [
 		"  &6Transforms&b:"
 		""
@@ -1269,11 +1269,11 @@
 		"&b基础灌注工厂&r能够容纳最多&92,960 mb&r灌注材料。"
 	]
 	quest.1C25114D2AF71C35.quest_desc: [
-		"  Using &bIndustrial TNT&r, the &bImplosion Compressor&r is able to compress the dusts and ingots of the most resistant materials. This includes &bTungsten&r, &bBlast-proof Alloy&r, &bBeryllium&r and finally &bDiamonds&r! Some of those materials will be very important for your journey into nuclear fission."
+		"  利用&b工业TNT&r，&b内爆压缩机&r可压缩极高抗性材料的粉和锭，包括&b钨&r、&b防爆合金&r、&b铍&r甚至&b钻石&r！这其中有些材料对于发展核裂变而言是极其重要的。"
 		""
-		"  Now, you've probably noticed that in your journey, you've been able to make &bBlast-proof Alloy Plates&b and &rTungsten Nuggets&r within your everyday compressor, despite it being a pretty inefficient process. Well now, using the &bImplosion Compressor&r, you'll be able to do it faster and even more efficient!"
+		"  你可能已经发现了，&b防爆合金板&b和&r钨粒&r在普通的压缩机里也能造，就是效率低得抠脚。现在你有了&b内爆压缩机&r，制造起它们来速度和效率都高多了！"
 	]
-	quest.1C25114D2AF71C35.title: "Implosion Compressor"
+	quest.1C25114D2AF71C35.title: "内爆压缩机"
 	quest.1C4ADA8B75FBBED1.quest_subtitle: "可以将你传送到个人出生点或世界出生点。"
 	quest.1C699E7F615D68A7.quest_desc: [
 		"The terminal in Create’s new build-your-own-storage-system kit."
@@ -1664,8 +1664,8 @@
 		"将&8炭&r&6灌注&r进&7铁&r中&6两次&r，&6烧炼&r最终的产物，就能得到钢。"
 	]
 	quest.21E51BEA3B8E3EDC.title: "钢锭"
-	quest.21EDEEE1A1B82B53.quest_desc: ["  Processing the &bIridium Ore&r from your &bTitanium Drills&r, you can begin to produce &bIridium Dust&r which will be needed for &bSuperconductor Dust&r, a material capable of extraordinary power transfer and storage."]
-	quest.21EDEEE1A1B82B53.title: "Raw Iridium"
+	quest.21EDEEE1A1B82B53.quest_desc: ["  加工&b钛钻&r采集的&b铱矿石&r获得，可用于生产&b铱粉&r，再制成&b超导体粉&r——一种超级强大的能量传输与存储材料。"]
+	quest.21EDEEE1A1B82B53.title: "粗铱"
 	quest.21EE3862F6DA8E09.quest_desc: ["&b精密锯木机&r能够以&e极高的效率&r处理&9原木&r及其他木质材料，同时会产生副产物&9锯末&r。"]
 	quest.21EE3862F6DA8E09.title: "精密锯木机"
 	quest.220163965130D8C7.quest_desc: ["&6Breaks&r &bblocks without solid colision boxes&r... like &btracks&r, &blevers&r, &bbuttons&r, etc."]
@@ -2125,7 +2125,7 @@
 		""
 		"  &6It uses EU (and a lot of it) to function&r, so it can be charged by right clicking a block that can output energy."
 	]
-	quest.2C4CA092A557205E.title: "Gravi-chestplate"
+	quest.2C4CA092A557205E.title: "重力胸甲"
 	quest.2C4E81B5F427DECD.quest_desc: ["巧制寿司模组添加了几种作物和食材，专门用来制作……没错，寿司！"]
 	quest.2C67C22D74F097A3.quest_desc: [
 		"有些&b仪式&r值得一提："
@@ -3026,9 +3026,9 @@
 		"副手持有方块时，将会&6放置&f副手的方块，而不依据你所注视的方块来放置。"
 		"持有&b潜影盒&f、&b收纳袋&f以及许多其他容器时，可以为建筑棒提供建筑方块。"
 	]
-	quest.40915337B7E427F8.quest_desc: ["  A cable capable of transferring enough energy for your entire factory, &b10 times over&r, within a single cable. This is &bpeak&r power transfer."]
-	quest.40915337B7E427F8.quest_subtitle: "I'm a Real Live Wire"
-	quest.40915337B7E427F8.title: "Superconductor Cable"
+	quest.40915337B7E427F8.quest_desc: ["仅此一条电缆，就可以承担&b10个&r你的工厂的供电需求。这就是能量传输的&b巅峰&r。"]
+	quest.40915337B7E427F8.quest_subtitle: "一条真正的火线"
+	quest.40915337B7E427F8.title: "超导体电缆"
 	quest.40EB78C0AF30096E.quest_desc: [
 		"&b冶金灌注机&r是你要制作并使用的第一台机器，你可以将各种&7物质&r&6灌注&r进&b金属&r中，也可以将&b其他金属&r灌注进去。"
 		""
@@ -4380,13 +4380,13 @@
 	quest.5ECC7F4F5D2591D9.quest_desc: ["&b高级卡&f是用于制作&b升级卡&f的组件。"]
 	quest.5ECC7F4F5D2591D9.title: "高级升级"
 	quest.5EEF6110DDBEB146.quest_desc: [
-		"A pre-programmed &bDrone&r that defends a &e31x31x31&r area centered on the position the it's deployed from. "
+		"一种预编程的&b无人机&r，它可以保护以它部署位置为中心的&e31x31x31&r区域。 "
 		""
-		"This &bDrone&r has two basic &3modes&r depending on how it is deployed:"
+		"这种&b无人机&r有两种基础&3模式&r，取决于它的部署方式："
 		""
-		"- Deploying on the ground will tell the &bDrone&r to &cattack&r any &2mobs&r which enter its area using whatever it already has on-board."
+		"——在地面上部署将指示&b无人机&r使用任何它已装载的装备&c攻击&r进入其保护区域的&2怪物&r。"
 		""
-		"- Deploying on top of an &9inventory&r containing a &cWeapon&r or &7Minigun Ammo&r (assuming the drone is carrying a minigun upgrade) will tell the &bDrone&r to arm itself using &bitems&r inside the &9inventory&r before &edefending&r its area ."
+		"——在存有&c武器&r或&7机枪弹药&r（如果无人机已经携带了机枪升级）的&9容器&r上部署，将指示&b无人机&r在&e保护&r其区域之前，使用&9容器&r中的&b物品&r来武装自己。"
 	]
 	quest.5F2801445E518E49.quest_desc: ["通过站在炼金锅中或站在下面有火燃烧的普通炼药锅中，可以获得猩红精华。一旦里面装满了一些血液，你可以用空玻璃瓶右击来收集血液。"]
 	quest.5F46E1D3938F5F2A.quest_desc: [
@@ -4423,15 +4423,15 @@
 	quest.5FFDA262D7693860.title: "钋球"
 	quest.60225C11880C3534.title: "蓝莓"
 	quest.6070283AEA8DFA7E.quest_desc: [
-		"The &bRefinery&r is a &3multiblock&r in which you &6place&r the &bRefinery Controller&r on the bottom and and &bRefineries&r on top of it, &atwo&r to begin with. "
+		"&b精炼厂&r是一个&3多方块结构&r，你需要在底部&6放置&r&b精炼厂控制器&r，在其上方可叠加放置若干&b精炼厂输出端&r，一开始是&a两个&r。"
 		""
-		"You can &6place&r up to &a4&r but this &cwill not increase&r the &espeed&r of the &bRefinery&r, but allow it to &6produce&r other &7fluids&r from &8Crude Oil&r. "
+		"你可以&6放置&r最多&a四个&r精炼厂输出端，但这&c不会增加&r&b精炼厂&r的&e速度&r，但可以从&8原油&r中&6生产&r其他&7液体&r。"
 		""
-		"With just the two &bRefineries&r on top of it you will start &6outputting&r &8Diesel&r and &eLPG&r , as you gather the &bresources&r, adding another &bRefinery&r will get you &bKerosene&r and another, you will get &8Gasoline&r."
+		"只在上面放置两个&b精炼厂输出端&r，可以&6输出&r&8柴油&r和&e液化石油气&r，随着你收集&b资源&r，添加另一个&b炼油输出端&r将得到&b煤油&r，再添加一个，可以得到&8汽油&r。"
 		""
-		"To use the &bRefinery&r you will need &4heat&r, &4heat&r can be sourced from &bTorches&r around the &bmachine&r for &alow efficiency&r, &4lava&r for &emid efficiency&r, and &cproduced heat&r from a &bVortex Tube&r using &7pressure&r."
+		"你需要&4热量&r来使用&b精炼厂&r，&4热量&r可以从&b机器&r周围的&b火把&r中获得，但&a效率较低&r，也可以从&4熔岩&r中获得，&e效率中等&r，以及通过&b涡流管&r使用&7压力&r来&c产生热量&r。"
 	]
-	quest.6070283AEA8DFA7E.title: "Refinery"
+	quest.6070283AEA8DFA7E.title: "精炼厂"
 	quest.607FFC2B7A0F972A.quest_desc: [""]
 	quest.607FFC2B7A0F972A.quest_subtitle: "Push and Pull"
 	quest.60868DF852E6028B.quest_desc: [
@@ -4451,19 +4451,19 @@
 	]
 	quest.60F4F5FE0C3748C3.title: "化学清洗机"
 	quest.6127E7FBC4ABF307.quest_desc: [
-		"A &bThermopneumatic Processing Plant&r is used to &6convert&r &7liquids&r into other &7liquids&r. "
+		"&b热气动力加工机&r用于将&7液体&r&6转化&r为其他&7液体&r。"
 		""
-		"For example, combining &eLPG&r and &8Coal&r in this machine can &6produce&r &7Liquid Plastic&r. "
+		"例如，在这台机器中将&e液化石油气&r和&8煤炭&r结合，可以&6生产&r&7塑料液体&r。"
 		""
-		"Additionally, the &bTPP&r can &6perform&r &7fuel cracking&r, where &cheavier fuels&r are &6transformed&r into &alighter ones&r. "
+		"此外，&b热气动力加工机&r还可以&6进行&r&7燃料裂解&r，将&c较重的燃料&r&6转化&r为&a较轻的燃料&r。"
 		""
-		"This means:"
-		" "
-		"&cDiesel&r -> &3Kerosene&r "
+		"也就是说："
 		""
-		"&3Kerosene&r -> &6Gasoline&r"
+		"&c柴油&r->&3煤油&r "
 		""
-		"&6Gasoline&r -> &eLPG&r."
+		"&3煤油&r->&6汽油&r"
+		""
+		"&6汽油&r->&e液化石油气&r。"
 	]
 	quest.61340C2A12FEAA26.quest_desc: ["&bME驱动器&f用于存放&b存储元件&f。"]
 	quest.61340C2A12FEAA26.title: "ME驱动器"
@@ -4598,13 +4598,13 @@
 	quest.63F26CC561D0B80D.quest_subtitle: "可在森林中的&6巫妖塔&r中找到，其主塔还延伸出了许多小塔。"
 	quest.63F26CC561D0B80D.title: "&e巫妖"
 	quest.640DB4139DF8AFA4.quest_desc: [
-		"  The &bQuantum Circuit&r. The pinnacle of computing technology."
+		"  &b量子电路&r。计算技术的巅峰。"
 		""
-		"  The beginning to the most advanced machines you could possibly imagine."
+		"  你能想象的最先进的机器就要来了。"
 		""
-		"  From here on out, &athere are no limits to your imagination&r."
+		"  从这里开始，&a尽情解放你的想象力吧&r。"
 	]
-	quest.640DB4139DF8AFA4.title: "&dThe Endgame"
+	quest.640DB4139DF8AFA4.title: "&d游戏终期"
 	quest.64287B360B07BEBB.quest_desc: ["-可将&c至多&r&a64&r个机器&6链接&r起来。"]
 	quest.64287B360B07BEBB.quest_subtitle: "连起来！"
 	quest.6441C36C63A59445.title: "&ePipeZ"
@@ -4665,13 +4665,13 @@
 	quest.66683CAE8F6FB81E.quest_subtitle: "让你的背包自带磁力，或者为什么不让它自动为你喂食？"
 	quest.66683CAE8F6FB81E.title: "升级"
 	quest.668453E081A6C57B.quest_desc: [
-		"  Forged in the heart of supernovas, &bTitanium&r has the highest strength to weight ratio. It's as strong as steel for 45% less mass, making it extremely powerful for its weight."
+		"  诞生于超新星之中的&b钛&r，有着最高的比强度。它能与钢达到一样的强度，而质量却比后者小45%，对于其质量而言，这无疑是一种极其强大的材料。"
 		""
-		"  It isn't magnetic, corrosive, nor does it conduct electricity so using it for parts of a machine can be extremely beneficial."
+		"  它没有磁性、不会被腐蚀，也不导电，作为某些机器部件太好不过了。"
 		""
-		"  Its pink color comes from something?"
+		"  它为什么粉嫩嫩的？"
 	]
-	quest.668453E081A6C57B.title: "Titanium"
+	quest.668453E081A6C57B.title: "钛"
 	quest.66855DBE37DB5CD1.quest_desc: ["&6Relays&r rotating motion along a straight path: job done."]
 	quest.66855DBE37DB5CD1.quest_subtitle: "You Spin Me Right Round"
 	quest.66A4DD110F0E66D1.quest_desc: ["Time to &6plumb&r the depths of Create's... plumbing."]
@@ -4707,9 +4707,9 @@
 	quest.6750F4584257BA75.quest_desc: ["&b扩展总线&f拥有&a更多的&f升级卡槽，并且相较于普通的总线&a快&f8倍。"]
 	quest.6750F4584257BA75.title: "扩展总线"
 	quest.6762C357EEDE8D10.quest_desc: [
-		"An advanced compressor that utilizes &esunlight&r to &7pressurize air&r. "
+		"一种利用&e阳光&r来&7压缩空气&r的高级压缩机。"
 		""
-		"Its &aefficiency&r improves as it gets &chotter&r, but excessive &4heat&r buildup will cause the compressor to &8shut down&r, necessitating &6manual repair&r."
+		"随着&c温度的升高&r，其&a效率&r也会提高，但过度的&4热量&r积累将导致压缩机&8强制停机&r，必须&6手动维修&r。"
 	]
 	quest.67785FD77E880DDB.quest_subtitle: "深居于主世界底部的稀有洞穴，虚空百合会指引方向。"
 	quest.67785FD77E880DDB.title: "&d虚空之花"
@@ -4759,7 +4759,7 @@
 		""
 		"The &7pressure&r required for the &bElevator&r maxes out at &c5.0&r and doesnt increase based on &bElevator Bases&r."
 	]
-	quest.67B17617F57B247F.title: "Elevator"
+	quest.67B17617F57B247F.title: "电梯"
 	quest.67D5ED5703F35A2D.quest_desc: [
 		"&b太阳能中子活化器&r能够将来自&6太阳&r的&c中子辐射&r汇聚到机器内，制造出相应的&9同位素&r。"
 		""
@@ -4794,11 +4794,11 @@
 		"&b陨青铜锭&f用于制作&bMEGA流体存储元件&f，由浸入水中的&6掉落物形式&f的&b充能赛特斯石英水晶，铜锭以及陨石&f制作而成。"
 	]
 	quest.67F2212453B81446.quest_desc: [
-		"  A mixed ingot containing an ingot of &bIridium&r sandwiched between two ingots of &bBlast-proof Alloy Ingots&r, ready to produce an extremely strong &bIridium Plate&r."
+		"  将一块&b铱&r锭向三明治一样夹在两块&b防爆合金&r锭之间制成的混合锭，是极其坚固的&b铱板&r的前体。"
 		""
-		"  Speaking of sandwiches, it looks a bit &btasty&r, doesn't it?"
+		"  说到三明治，这个锭看起来好像也有点&b好吃&r了……不是吗？"
 	]
-	quest.67F2212453B81446.title: "Mixed Iridium Ingot"
+	quest.67F2212453B81446.title: "混合铱锭"
 	quest.68107A111627BD77.quest_desc: ["&b采掘小帮手&f消耗&4能量&f而非&a耐久度&f。"]
 	quest.68107A111627BD77.title: "采掘小帮手"
 	quest.681A718388A97FFC.quest_desc: [
@@ -4823,9 +4823,9 @@
 	quest.687A9332533A26E8.quest_desc: ["小鹿使魔可以&6增强&r你的&b跳跃&r 能力。"]
 	quest.687A9332533A26E8.quest_subtitle: "逐鹿天穹"
 	quest.688DEE1D1C4F9BDA.quest_desc: [
-		"This &9module&r emits a &4redstone signal&r with strength proportional to the &7pressure&r within the &btubes&r. "
+		"这个&9模块&r可以发射&4红石信号&r，其强度与&b管道&r内的&7压力&r成正比。"
 		""
-		"When &6equipped&r with a &bModule Expansion Card&r, you can precisely &6adjust&r the threshold through the &3GUI&r."
+		"当&6配备&6了&b模块扩展卡&r时，你可以通过&3GUI&r精确&6调整&r阈值。"
 	]
 	quest.68A8995F4A13381A.quest_desc: [
 		"  Accepts top-level &bupgrades&r:"
@@ -5132,13 +5132,13 @@
 	quest.6C8AB8E9A547D1C9.quest_desc: [""]
 	quest.6C8AB8E9A547D1C9.title: "ME总线"
 	quest.6C96992416059AC4.quest_desc: [
-		"For the &bUltimate Laser Drill&r:"
-		"- It can be &6dyed&r!"
-		"- Press &6Left Shift&r + &6Right Button&r to swap between &5Fortune/Looting&r and &5Silk Touch&r."
-		"- Use &6Alt&r + &6Mouse Scroll&r to change mining speed."
-		"- Press &6Y&r while held or &6Right Button&r while hovered to toggle &53x3 mining&r."
+		"这是&b终极激光钻&r："
+		"-可以&6染色&r！"
+		"-&6左Shift&r+&6右击&r可切换&5时运/抢夺&r和&5精准采集&r。"
+		"-使用&6Alt&r+&6鼠标滚轮&r改变挖掘速度。"
+		"-手持时按&6Y&r，或在物品栏中&6右击&r，可开关&53x3挖掘&r。"
 	]
-	quest.6C96992416059AC4.quest_subtitle: "The \"Do It All\" Tool!"
+	quest.6C96992416059AC4.quest_subtitle: "什么都能干的工具！"
 	quest.6CA941AE132445D9.quest_desc: [
 		"  &b机器框架&r含有运行机器所需的主要电子设备。机器框架有不同的等级，相应的，机器也可以升级。&b基础机器框架&r是所有LV机器的基础。"
 		""
@@ -5168,7 +5168,7 @@
 	quest.6DEFCC013F7A6069.quest_subtitle: "随时随地更改你的物品名称，而无需消耗大量经验值。"
 	quest.6DFA92E319E7DA77.quest_desc: ["想起步&6自动合成&f，你需要用&b样板编码终端&f制作一个&b编码样板&f，然后将&b编码样板&f&6放进&f&b样板供应器&f中。"]
 	quest.6DFA92E319E7DA77.title: "样板供应器"
-	quest.6E2932D7D8228910.title: "&7Pressure &cGauge"
+	quest.6E2932D7D8228910.title: "&7压力&c表"
 	quest.6E3F0C072B55467B.quest_desc: ["Simple: &6harvests&r and &6resets&r &bmature crops&r."]
 	quest.6E60988E8F8C4FF2.title: "三氧化硫"
 	quest.6EA29403BF85B19C.quest_desc: [
@@ -5205,11 +5205,11 @@
 	quest.6F07EDE7A819467B.title: "&cPowah"
 	quest.6F1F240CD3A5CB1F.title: "柠檬"
 	quest.6F5731A4490A537F.quest_desc: [
-		"Add &2Etching Acid&r to an &bEtching Tank&r to convert: "
+		"将&2蚀刻酸&r添加到&b蚀刻器&r中，以转换："
 		""
-		"&7Empty PCBs&r -> &bUnassembled PCBs&r."
+		"空印刷电路板 -> 未组装的印刷电路板。"
 	]
-	quest.6F5731A4490A537F.title: "&2Etching Acid"
+	quest.6F5731A4490A537F.title: "&2蚀刻酸"
 	quest.6F57A2A5AA6E3F49.quest_desc: [
 		"  石油是一种黑色的可燃液体，它的形成需要在地底埋上很久&o很久&r。&6你可以用&b钻机&r&6钻开岩层，采集这些石油&r。"
 		""
@@ -5576,11 +5576,11 @@
 	quest.7723EF8CE359646F.quest_subtitle: "你觉得挖矿维度和主世界一样吗？"
 	quest.77719A9FBDFE49A7.quest_desc: ["获得了一块空白符文后，你就可以制作一块注入了不同类型魔力的符文。这些符文用于升级你的装备或更优质的装备。"]
 	quest.77897C0A26941E97.quest_desc: [
-		"- &3Freezes&r targets."
+		"——能将目标&3冻结&r。"
 		""
-		"- &7Slows&r them down and potentially &8encasing&r them in ice temporarily. "
+		"——&7减慢&r它们的速度，并可能暂时将它们&8包裹&r在冰中。"
 		""
-		"&6Fire-resistant&r mobs are especially &cvulnerable&r to this ammo."
+		"对具有&6火焰抗性&r的生物&c效果极佳&r。"
 	]
 	quest.7790ABA120E4EBA9.quest_desc: ["Once you have mastered the basics, you can move on to working with &bDjinn&r, intermediate-level spirits."]
 	quest.7790ABA120E4EBA9.quest_subtitle: "熟练"
@@ -5670,13 +5670,13 @@
 	quest.79A693466BF51105.quest_desc: ["这根探测杖可以定位&d珍贵&r材料，并且有极高的耐久度。"]
 	quest.79A693466BF51105.quest_subtitle: "我能看到一切"
 	quest.79C075FFF796FE16.quest_desc: [
-		"A pre-programmed &bDrone&r that &2harvests&r fully-grown &acrops&r within a &e17x17x17&r area centered on the position it's deployed from. "
+		"一种预编程的&b无人机&r，可以在以部署位置为中心的&e17x17x17&r区域内&2收获&r成熟的&a作物&r。"
 		""
-		"This &bDrone&r has two basic &3modes&r depending on how it is deployed:"
+		"这种&b无人机&r根据部署方式有两种基础&3模式&r："
 		""
-		"- Deploying on the ground will tell the &bdrone&r to &2harvest&r any fully-grown &acrops&r within its area."
+		"——在地面上部署将指示&b无人机&r在其区域内&2收获&r任何成熟的&a作物&r。"
 		""
-		"- Deploying on top of an &3inventory&r containing a &bHoe&r will tell the drone to &6replant&r any &acrops&r it harvests within its area."
+		"——在存有&b锄头&r的&3容器&r上部署，将指示无人机在其区域内收获的任何&a作物&r并&6重新种植&r。"
 	]
 	quest.79F451F9C8D02A69.quest_desc: ["你已经造出了&b并发处理器&f，现在制作一些更高级的AE设备来帮你玩转&aExtendedAE&f吧。"]
 	quest.7A5466B9F5C79793.quest_desc: ["你将最先与&b魔精&r这种魔灵打交道，它们也是最安全的类型。"]
@@ -5723,17 +5723,17 @@
 	]
 	quest.7AC17F66BB030623.title: "母岩方块"
 	quest.7AF270EF635B11CF.quest_desc: [
-		"  Created by &6compressing&r three of the strongest materials you've used in your journey up until now."
+		"  由你目前拥有的最坚固的三种材料&6压缩&r而来。"
 		""
-		"- &bTungsten&r, a metal with an &6extremely high melting point and a density&r that cannot be beaten."
+		"-&b钨&r，一种&6熔点极高、密度极高&r的金属。"
 		""
-		"- &bTitanium&r, a &6corrosion resistant&r, &6strong yet light weight&6 material."
+		"-&b钛&r，一种&6耐腐蚀&r、&6坚固而轻巧&6的材料。"
 		""
-		"- &bStainless Steel&r, &6rust resistant&r to the extreme."
+		"-&b不锈钢&r，非常&6耐锈&r。"
 		""
-		"  This is the strongest plate you will ever forge. "
+		"  这便是你能制造的最坚固的板子了。 "
 	]
-	quest.7AF270EF635B11CF.title: "Blast-proof Alloy Plate"
+	quest.7AF270EF635B11CF.title: "防爆合金板"
 	quest.7AFED4254BA881B2.title: "杨梅"
 	quest.7B81E0A800E42F1F.quest_subtitle: "To Infinity and Beyond!"
 	quest.7B81E0A800E42F1F.title: "&dInfinity Cells"
