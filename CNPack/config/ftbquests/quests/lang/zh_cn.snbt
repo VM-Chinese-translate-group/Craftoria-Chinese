@@ -743,11 +743,11 @@
 		"你可以用这个来&6复活&r它，如果你想的话。"
 	]
 	quest.135FBE79D4415F15.quest_desc: [
-		"  Before you even ask, the answer is no. These &bnukes&r do &onot&r explode. These are nukes without it's detonator. "
+		"  不用问了，它不能。这些&b核弹&r&o不&r会爆炸，因为没有起爆装置。 "
 		""
-		"  These are used explicitly for use in the &bImplosion Compressor&r."
+		"  它们是专用于&b内爆压缩机&r的。"
 	]
-	quest.135FBE79D4415F15.title: "Legalized Nuclear Bomb"
+	quest.135FBE79D4415F15.title: "合法的核弹"
 	quest.13600E981D85B79D.quest_desc: ["自动合成需要合成存储器才能执行，它们负责储存自动合成中使用的物品和流体。"]
 	quest.13600E981D85B79D.title: "合成存储器"
 	quest.138DC280BDD0622B.title: "氢"
@@ -1723,13 +1723,13 @@
 	quest.23CC2667A1269C9C.quest_desc: ["目前为止，你使用了以0和1的形式保存&6二维数据&f的&b存储组件&f。现在，让我们以原物质的形式保存&6三维数据&f。这是一种比以往复杂得多的&b存储组件&f，因此造价有些许昂贵，你没法起步就大量地存储空间。"]
 	quest.23CC2667A1269C9C.title: "小型空间组件"
 	quest.2472B23BC0C28C6C.quest_desc: [
-		"  Remember those \"ticks\" we talked about? How each one is a twentieth of a second?"
+		"  还记得我们之前讲的“tick”吗？为什么1tick是二十分之一秒？"
 		""
-		"  Well you've reached &othat&r level of machine processing. Given enough power input, each machine recipe, no matter the machine, as long as it's electric, will only take a single tick."
+		"  嗯，你的机器已经达到了&o这样的&r时间尺度。只要提供配方和足够多的能量，任何机器——只要是电动的——都只需要1tick，就能完成进程。"
 		""
-		"  Do be aware that the amount of power these machines can use will be immense, so use them wisely."
+		"  请谨记，这样的话机器会消耗巨量的能量，还请你明智使用。"
 	]
-	quest.2472B23BC0C28C6C.title: "Quantum Upgrade"
+	quest.2472B23BC0C28C6C.title: "量子升级"
 	quest.2476BE69FBC0681D.quest_desc: [
 		"&b反应堆&f是一种非常高效的&b能源&f来源，能够产生成千上万的&bFE&f。它们需要&b红石&f来减缓燃料消耗，用&b煤炭&f提升效率，通过&b冰和水&f进行冷却，当然还需要&b晶质铀&f作为&b反应堆&f的燃料。"
 		""
@@ -2027,11 +2027,11 @@
 	quest.2ACF8F5EFD3C4AF7.title: "靴子"
 	quest.2ADDD30536A7FF68.quest_desc: ["&b强化玻璃&r是是一种&3超强透明材料&r，能够用于&b聚变反应堆&r的中心位置。人人都喜欢&6看到&r漂亮的颜色（虽然它们可能会&4抹杀&r你，也可能不会）。"]
 	quest.2B1717F5D6E20B79.quest_desc: [
-		"  With an &bElectrolyzer&r, enough time and power, and your freshly made &bSingularity&r, you can extract large amounts of energy through &bQuantum Hawking Radiation&r in the form of &bUniversally Usable Matter&r, also known simply as &dUU Matter&r."
+		"  消耗大量能量，用&b电解机&r长时间电解刚刚制得的&b奇点&r，你就可以通过&b量子霍金辐射&r以&b通用物质&r——即&dUU物质&r的形式，提取大量能量。"
 		""
-		"  This is, the very &ofabric&r of the &9universe&r."
+		"  这，便是&9宇宙&r的底层&o结构&r。"
 	]
-	quest.2B1717F5D6E20B79.title: "UU Matter Bucket"
+	quest.2B1717F5D6E20B79.title: "UU物质桶"
 	quest.2B2D3B338662F02C.quest_desc: ["可以用纯化金来&6改变&r&b硫&r的&a品级&r。"]
 	quest.2B3B96DDFE5D3ACA.quest_desc: ["你可以用&b锅炉外壳&r搭建&b热力锅炉&r，依靠&c外部热源&r&6产出&r更多&7蒸汽&r，比如&b裂变反应堆&r产生的&9液态过热钠&r。"]
 	quest.2B3B96DDFE5D3ACA.title: "锅炉外壳"
@@ -2117,13 +2117,13 @@
 	quest.2BF835F8F73E8F06.quest_subtitle: "挖呀挖呀挖！"
 	quest.2BF835F8F73E8F06.title: "&cVein Be Gone!"
 	quest.2C4CA092A557205E.quest_desc: [
-		"  1985 called from 2015, it wants it's anti-gravity technology back!"
+		"  1985年从2015年打来电话，它想要回它的反重力技术！"
 		""
-		"  The &bGravi-chestplate&r uses a superconductor cable coiled around a platinum core to produce a space altering field around the player, inverting the gravitational pull, enough so to lift a player off the floor."
+		"  &b重力胸甲&r利用铂芯超导体线圈，在玩家周围制造一个扭曲空间的场，反转重力，将玩家抬离地面。"
 		""
-		"  It's controlled by regulating the power to the coils facing in multiple directions. Since it affects the gravitational field, you wont take any fall damage, though due to the components that make up the &bGravi-chestplate&r being fragile and complex, it won't protect against other types of damage."
+		"  它是通过调节不同方向线圈的功率来实现操控的。它会影响引力场，所以你不会受到摔落伤害，但是制造&b重力胸甲&r的材料十分脆弱而复杂，无法为你抵挡其他类型的伤害。"
 		""
-		"  &6It uses EU (and a lot of it) to function&r, so it can be charged by right clicking a block that can output energy."
+		"  &6它消耗EU（大量）来工作&r，右击可输出能量的方块即可给它充能。"
 	]
 	quest.2C4CA092A557205E.title: "重力胸甲"
 	quest.2C4E81B5F427DECD.quest_desc: ["巧制寿司模组添加了几种作物和食材，专门用来制作……没错，寿司！"]
@@ -2402,11 +2402,11 @@
 		"&c失败的印刷电路板&r可以在&8高炉&r中&2回收&r，以便再次尝试。"
 	]
 	quest.325D7C592E2FB05A.quest_desc: [
-		"  The &bultimate&r state of solid matter, compressed so tightly until it is a point of infinite density and gravity."
+		"  固体物质的&b终极&r形态，它被压缩得如此紧密，以至于成为了一个密度与引力都无穷大的点。"
 		""
-		"  Although, you can contain this to use it for various applications. You are holding... &bInfinity&r."
+		"  尽管如此，你还是可以掌控它，开发它的各种应用。&b无限&r……此刻就在你的手中。"
 	]
-	quest.325D7C592E2FB05A.title: "Singularity"
+	quest.325D7C592E2FB05A.title: "奇点"
 	quest.32677D1F144A1184.quest_desc: ["恶魔配偶可以帮助你并提供陪伴。它们有两种类别——为什么不都召唤呢？"]
 	quest.32677D1F144A1184.quest_subtitle: "……"
 	quest.32677D1F144A1184.title: "召唤恶魔配偶"
@@ -2651,16 +2651,16 @@
 	quest.375B2C2D89889153.quest_subtitle: "完成对应任务章节。"
 	quest.375B2C2D89889153.title: "&e气动工艺"
 	quest.3761B64135EA94C0.quest_desc: [
-		"  You'll finally be able to construct a &bNuclear Reactor&r that uses different types of &bFluid&r and &bFuel Rods&r to produce various gaseous fuels, &bSteam&r in massive quantities, and radioactive materials."
+		"  你终于可以搭建&b核反应堆&r了。核反应堆可使用不同种类的&b流体&r和&b燃料棒&r，产出多种气体燃料、很多很多&b蒸汽&r，以及一些放射性物质。"
 		""
-		"  The &bNuclear Reactor&r is not for the faint of heart. You'll need to keep watch on the gauges for thermal and neutron interaction when constructing one of four different sized reactors."
+		"  &b核反应堆&r可不是胆小鬼的玩具。在搭建反应堆时（共有四种规格），你必须时刻密切关注热量和中子相互作用。"
 		""
-		"  If you give up with developing your knowledge and patterns on the reactor, come back to me and I'll explain all about how it works."
+		"  如果你不想自己研究自己搓反应堆了，回来找我，我会给你讲解它的工作原理的。"
 		""
-		"  For now, I wish you luck!"
+		"  那么现在，祝你好运吧！"
 	]
 	quest.3761B64135EA94C0.quest_subtitle: "That's Mr. Fusion to You!"
-	quest.3761B64135EA94C0.title: "Nuclear Reactor"
+	quest.3761B64135EA94C0.title: "核反应堆"
 	quest.376DD70A2C14F9A9.quest_desc: ["&a常见&r材料相对于同类的&8丰足&r材料来说稍微稀缺一些，但仍然容易找到。"]
 	quest.376DD70A2C14F9A9.title: "常见硫"
 	quest.377DAEFC2CA2C122.title: "山楂"
@@ -5418,24 +5418,24 @@
 	]
 	quest.7342ABDAD6467123.title: "Logistics Frames"
 	quest.7342F6461382E839.quest_desc: [
-		"You have &areached&r the final step to &binvincibility&r. "
+		"你&a马上&r就要&b无敌&r了。 "
 		""
-		"&bArmor&r infused with &dQuantum Technology&r to &6repel&r all &cphysical&r and &5magical&r attacks. "
+		"这是注入了&d量子技术&r的&b盔甲&r，可以&6抵挡&r一切&c物理&r和&5魔法&r攻击。 "
 		""
-		"You cannot die, not even by a &6God's Smite&r. "
+		"你永远不会死掉，即使&6老天爷让你死&r也不行。"
 		""
-		"You can now &6fly freely&r without the need of &eelectricity&r. "
+		"你可以&6自由地飞行&r，不再依赖&e电能&r。 "
 		""
-		"This &bset of armor&r interacts directly with the &dquantum realm&r to alter space and time surrounding you. "
+		"&b这套盔甲&r可直接与&d量子领域&r相互作用，扭曲你周围的空间和时间。 "
 		""
-		"Theoretically, you sitll be &6stationary&r, and space will just be &6moving&r relative to you. --This-- is the &6power&r you wield."
+		"理论上来说，你是保持&6静止&r的，是空间相对于你在&6移动&r。——这——就是你所掌握的&6力量&r。"
 		""
-		" This &bsword&r can and will slice through &banything&r in it's path. "
+		" 这把&b剑&r&b神挡杀神，佛挡杀佛&r。 "
 		""
-		"The edge of it's blade has the &aability&r to cleave through time and erase any &eentity&r you choose from existence. Use this &6power&r responsibly."
+		"它的剑刃&a能够&r撕裂时间，抹去任何被你选中的&e实体&r。还请承担起这份&6力量&r的责任。"
 	]
-	quest.7342F6461382E839.quest_subtitle: "True Power!"
-	quest.7342F6461382E839.title: "&dQuantum Armory"
+	quest.7342F6461382E839.quest_subtitle: "真正的力量！"
+	quest.7342F6461382E839.title: "&d量子盔甲"
 	quest.734DD2AA16A5FBEC.quest_desc: [
 		"   &bRaw ferricore&r &6drops&b from broken &braw ferricore ore&r."
 		""
@@ -5494,11 +5494,11 @@
 	]
 	quest.742A5BB44F257D8E.title: "物品运输"
 	quest.7436F6599E2D79C1.quest_desc: [
-		"- Can by &6Dyed&r and &6Trimmed&r!"
+		"-可&6染色&r，可&6添加纹饰&r！"
 		""
-		"- Toggle &6Creative Flight&r by pressing &eN&r."
+		"-按&eN&r键开关&6创造模式飞行&r。"
 	]
-	quest.7436F6599E2D79C1.quest_subtitle: "Gravi-chestplate but in black!"
+	quest.7436F6599E2D79C1.quest_subtitle: "重力胸甲，但是黑色的！"
 	quest.745ECCC690C1AD23.quest_desc: ["&b烈焰水晶&f由你永远猜不到的材料制成。没错，&b烈焰棒&r。"]
 	quest.745ECCC690C1AD23.quest_subtitle: "从烈焰中来"
 	quest.745ECCC690C1AD23.title: "&6烈焰水晶"
