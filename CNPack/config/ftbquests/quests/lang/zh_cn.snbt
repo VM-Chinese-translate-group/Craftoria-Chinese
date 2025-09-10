@@ -396,11 +396,11 @@
 	]
 	quest.0AC7D844C55119E1.title: "扳手"
 	quest.0B2FF8169FD3812D.quest_desc: [
-		"  &b钢仓&r的&6容量是青铜仓的两倍&r，即里面的格子从1个变成了2个。而且，它可将多方块结构的最大能耗从2 EU/t提升至4 EU/t。也就是说，只是单独把提供蒸汽的流体输入仓升级成钢制的，就相当于把整个多方块结构升级到“钢制级别”了。"
+		"  &b钢仓&r的&6容量是青铜仓的两倍&r，即里面的格子从1个变成了2个。而且，它可将多方块结构的最大能耗从2EU/t提升至4EU/t。也就是说，只是单独把提供蒸汽的流体输入仓升级成钢制的，就相当于把整个多方块结构升级到“钢制级别”了。"
 		""
-		"  让多方块结构可以以4 EU/t的能耗运行，这意味着进程的最大速度翻倍了。"
+		"  让多方块结构可以以4EU/t的能耗运行，这意味着进程的最大速度翻倍了。"
 		""
-		"  &b钢锅炉&r可以产生两倍于青铜锅炉的蒸汽，其最大速率从8 EU/t提高到了&o16 EU/t&r。&b钢水泵&r也一样，可以产生两倍于青铜水泵的&b水&r，即最大输出速率为每个相邻水源250mb&b水&r，总计为每5秒2000mb&b水&r。"
+		"  &b钢锅炉&r可以产生两倍于青铜锅炉的蒸汽，其最大速率从8EU/t提高到了&o16EU/t&r。&b钢水泵&r也一样，可以产生两倍于青铜水泵的&b水&r，即最大输出速率为每个相邻水源250mb&b水&r，总计为每5秒2000mb&b水&r。"
 	]
 	quest.0B2FF8169FD3812D.quest_subtitle: "Waiting for Something to Hatch?"
 	quest.0B2FF8169FD3812D.title: "钢仓"
@@ -647,7 +647,7 @@
 	quest.103CFBF5C4599A7B.title: "挖矿"
 	quest.10534DA1BD464834.quest_subtitle: "Dropped within the Trials of Awaken gateway. "
 	quest.1081BFCAB3F07FFF.quest_desc: [
-		"  需要蒸汽升级吗？是的我需要！&b大型蒸汽锅炉&r是小青铜/钢锅炉的升级版。&6它消耗燃料的速度是熔炉的8倍&r，达到最高温度时可产生&6256 mb/t的蒸汽&r。还有，要记得给它供&b水&r！"
+		"  需要蒸汽升级吗？是的我需要！&b大型蒸汽锅炉&r是小青铜/钢锅炉的升级版。&6它消耗燃料的速度是熔炉的8倍&r，达到最高温度时可产生&6256mb/t的蒸汽&r。还有，要记得给它供&b水&r！"
 		""
 		"  你主要会用到很多&b镀青铜砖块&r，以及一些其他的方块，EMI里有写。&b大型蒸汽锅炉&r由一层&b耐热机器外壳&r和几层&6镀青铜砖块&r以及&6管道机器外壳&r组层。"
 		""
@@ -859,27 +859,27 @@
 		""
 		"  电缆网络的最大能量输入速率受到其等级的严格限制。部分数据如下……"
 		""
-		"    最大传输速率：256 EU/t"
+		"    最大传输速率：256EU/t"
 		"    材质：锡"
 		""
 		""
-		"    最大传输速率：1024 EU/t"
+		"    最大传输速率：1024EU/t"
 		"    材质：琥珀金"
 		""
 		""
-		"    最大传输速率：8192 EU/t"
+		"    最大传输速率：8192EU/t"
 		"    材质：铝"
 		""
 		""
-		"    最大传输速率：65536 EU/t"
+		"    最大传输速率：65536EU/t"
 		"    材质：退火铜"
 		""
 		""
-		"  虽然输入速率被限制死了，但是输出速率可没有。也就是说，举个例子，LV电缆其实是可以在短时间内提供超过256 EU/t 的能量的。电缆网络越大，其内部可缓存的能量就越多。如果给它们一个去处，这些“储存”的能量就会瞬间被释放。"
+		"  虽然输入速率被限制死了，但是输出速率可没有。也就是说，举个例子，低压电缆其实是可以在短时间内提供超过256EU/t 的能量的。电缆网络越大，其内部可缓存的能量就越多。如果给它们一个去处，这些“储存”的能量就会瞬间被释放。"
 		""
-		"  请记住，&6不同等级的电缆&o只能&r&6与相应等级的机器相连&r。LV电缆不会连上蒸汽机器、MV机器或者HV机器。每个机器工作和使用电能的方式都依其接受的能量强度而有所不同。"
+		"  请记住，&6不同等级的电缆&o只能&r&6与相应等级的机器相连&r。低压电缆不会连上蒸汽机器、中压机器或者高压机器。每个机器工作和使用电能的方式都依其接受的能量强度而有所不同。"
 		""
-		"  如果你想突破当前等级电缆的传输速率限制，你可以多造几个电缆网络，或者使用&b变压器&r。&b变压器&r可以升高或降低能量的电压。也就是说，举个例子，&6你可以将LV能量变为HV能量，反之亦然&r。"
+		"  如果你想突破当前等级电缆的传输速率限制，你可以多造几个电缆网络，或者使用&b变压器&r。&b变压器&r可以升高或降低能量的电压。也就是说，举个例子，&6你可以将低压能量变为高压能量，反之亦然&r。"
 		""
 		"  &oX&r至&oY&r变压器的输出面可连接&oY&r电缆，其余5个输入面可连接&oX&r电缆。&6用&b扳手&r&6可更改输出面位置&r。"
 		""
@@ -1747,11 +1747,11 @@
 	quest.248175A1E0825C2F.quest_desc: ["这根探测杖可以定位&d珍贵&r材料。"]
 	quest.248CD41AE2A92573.quest_desc: ["What it says on the tin: the way to &6link&r inventories to other specific Create compontents."]
 	quest.24A4F1AA0BFFE867.quest_desc: [
-		"  这是&b蒸汽高炉&r的电动版。&b电力高炉（简称EBF）&r利用感应加热产生极端高温。它解锁了许多新配方，&6默认情况下超频限制为128 EU/t&r，就像其他的多方块电力机器一样。"
+		"  这是&b蒸汽高炉&r的电动版。&b电力高炉（简称EBF）&r利用感应加热产生极端高温。它解锁了许多新配方，&6默认情况下超频限制为128EU/t&r，就像其他的多方块电力机器一样。"
 		""
 		"  &b电力高炉&r或者说&bEBF&r完全由&b耐热机器外壳&r和&b白铜线圈&r构成。&6你可以用&b扳手&r&6查看该多方块结构的形状和各方块的位置&r。控制器需要装在最底层，仓装在最底层或最顶层。"
 		""
-		" &6别忘了装上能量输入仓&r，不然它没有能量怎么工作呀！你可以先装最基础的&bLV能量输入仓&r，随着你电力系统的升级，再换成更高级的&b能量输入仓&r。记住了，&bLV能量输入仓&r只能连接&bLV电缆&r。"
+		" &6别忘了装上能量输入仓&r，不然它没有能量怎么工作呀！你可以先装最基础的&b低压能量输入仓&r，随着你电力系统的升级，再换成更高级的&b能量输入仓&r。记住了，&b低压能量输入仓&r只能连接&b低压电缆&r。"
 		""
 		" 你还需要物品或流体输入仓，和物品或流体输出仓，取决于你打算用这个&bEBF&r做什么。你可以用EMI查看可用的新配方，按照配方来选择合适的仓吧。"
 	]
@@ -1815,7 +1815,7 @@
 	quest.250D1E2BFE6E0D50.quest_desc: [
 		"  升级！&b大型蒸汽锅炉&r！ "
 		""
-		"  这个升级版的锅炉&6达到最高温度时，&b蒸汽&6产量可以翻四倍，达到1024 mb/t&r。"
+		"  这个升级版的锅炉&6达到最高温度时，&b蒸汽&6产量可以翻四倍，达到1024mb/t&r。"
 		""
 		"  它比原来的稍微高一点儿，记得用&b扳手&r看看它的结构。"
 	]
@@ -3196,15 +3196,15 @@
 	]
 	quest.43985FE38B0EBCB5.title: "基础机械管道"
 	quest.439D48E9647FC8C2.quest_desc: [
-		"  Steam machines need, well, &bSteam&r! The way to get it is to make a &bSteam Boiler&r! The &bSteam Boiler&r will gradually consume almost any &6fuel&r you give it to heat up. When it's at a high enough temperature, it will begin to produce &bSteam&r so long as there is &bWater&r in it's &6internal tank&r; if not, you'd be wasting fuel."
+		"  蒸汽机嘛肯定需要——&b蒸汽&r！获得蒸汽的方法就是造一个&b蒸汽锅炉&r！&b蒸汽锅炉&r会缓慢消耗你提供的各种&6燃料&r来加热，当它的温度足够高时，就会产生&b蒸汽&r，前提是它的&6内部储罐&r里有&b水&r。如果没有的话，那就是浪费燃料咯。"
 		""
-		"  Or you can put a &bWater Bucket&r into a &bFurnace&r to obtain a &bSteam Bucket&r. In this world is seems that fluid containers keep any fluid inside of them, having a persistent temperature and bound to the confined container; so don't worry about it condensing down into water or escaping. With &bSteam&r pre-boiler, you can make a &bCompressor&r to save on &bBronze Plates&r."
+		"  或者呢，你也可以把&b水桶&r放进&b熔炉&r烧炼，得到&b蒸汽桶&r。在这个世界里，流体容器可以将任何流体保存起来，维持恒定的温度，并且是密闭的。所以你不用担心蒸汽会跑掉或者液化变回水。有了制造&b蒸汽&r的锅炉，你就可以造出&b压缩机&r，它可以节省你的&b青铜板&r。"
 		""
-		"  It might seem a bit expensive at this current moment, but remember that you can practically triple your ores using the &bForge Hammer&r. Not to mention that in due time, when you have your first two machines, it will become more than twice less expensive than before!"
+		"  这玩意也许现在看来有点小贵，不过别忘了你有&b锻压台&r，可以让你的矿产翻三倍。而且，当你有了前两台机器之后，它的造价还会便宜两倍不止！"
 		""
-		"  The &bBoiler&r will automatically begin to produce and send the &bSteam&r to adjacent machines or connected pipes, &6up to 8 millibuckets per tick.&r"
+		"  &b锅炉&r会自动开始产生&b蒸汽&r，并把它输送到相邻的机器或者相连的管道中，产量&6至多能达到8毫桶/tick。&r"
 		""
-		"  Bronze machines can only process recipes up to 2 energy unit per tick. You might see it as \"2 EU/t\" when using the machines. 1 millibucket of steam is the same as 1 EU; I for one am really glad it's a very simple conversion cause I'm not a fan of math. Once your &bBoiler&r is at maximum temperature, it can supply 4 machines with &bSteam&r simultaneously! Now &othat's&r hot."
+		"  青铜机器只能执行耗能速率小于等于2EU/tick的配方。使用机器的时候，你会看到“2EU/t”的字样。1毫桶蒸汽相当于1EU——这么简单的换算对我太友好了，毕竟我不喜欢数学。&b锅炉&r达到最高温度时，可以同时给4个机器提供&b蒸汽&r！"
 	]
 	quest.439D48E9647FC8C2.title: "青铜锅炉"
 	quest.43ACFDB5CD949C74.quest_desc: ["使用卷轴撰写台和毒马铃薯来制作自然法术卷轴，这些卷轴能造成中毒伤害或定身敌人。"]
@@ -3285,35 +3285,35 @@
 	]
 	quest.45402DE880D9EF58.title: "时间膨胀 QIO 驱动器"
 	quest.454FF6E2926163F7.quest_desc: [
-		"  Honestly, I cant blame you. Though if you've come here after you've made your super awesome reactor out of curiosity, I commend you. But for those of you that needed the help, why don't we begin? Pay attention!"
+		"  好吧，这也怪不得你。不过，如果你是在靠自己的好奇心搓出了超酷的反应堆之后才来这儿的，那我得表扬表扬你了。但是对于那些真的需要帮助的人，我们开始吧。注意听！"
 		""
-		"  The &bNuclear Reactor&r can produce 100s of times more EU/t than diesel can. It comes in several sizes from &bsmall&r to &bextreme&r."
+		"  &核反应堆&r的发电速率是柴油机的100倍。它有几种不同的规格，从&b小型&r到&b超大型&r都有。"
 		""
-		"  How it works under the hood can be a bit overwhelming, nevertheless, you don't need to understand the details to be able to design a powerful reactor."
+		"  这玩意内部的工作原理可能有点烧脑了，不过没关系，设计反应堆并不需要你知道这么多细节。"
 		""
-		"  &6Note that in this world, the &bNuclear Reactor&r &6&ocannot&r &6explode, emit radiation, or otherwise damage the surrounding area&r. The only thing that it can damage is the items you put in it if the temperature gets too high, which I'll elaborate on more later. You should feel free to experiment, and enjoy your new life as a nuclear scientist!"
+		"  &6请记住，在这个世界里，&b核反应堆&r&6&o不会&r&6爆炸、释放辐射，或者以任何形式破坏周围的环境&r。它只会因为温度过高而摧毁你放进去的物品，这点我等会会讲。所以你可以尽情搞实验，享受作为核科学家的生活！"
 		""
-		"  The main component is the &bNuclear Casing&r which is made with &bNuclear Alloy&r; a mix of &bcadmium&r, &bberyllium&r and &bblast-proof alloy&r."
+		"  核反应堆的主要部分是&b核外壳&r，由&b核合金&r——一种&b镉&r、&b铍&r和&b防爆合金&r的混合物——制成。"
 		""
-		"  The upper part of the structure accepts &bNuclear Item&r or &bFluid Hatches&r or just simple casings. &6Those are the inputs and outputs of the reactor&r."
+		"  它的上部可安装&b核物品仓&r、&b核流体仓&r或者只用核外壳搭建也行。&6这是反应堆的输入与输出端口&r。"
 		""
-		"  Each hatch has one input, whether that be either item or fluid, and two outputs. The input slots will form a grid, displayed in the reactor's control panel (accessible by right-clicking on the controller)."
+		"  每个仓都有一个输入槽位和两个输出槽位。输入槽位会在反应堆的控制面板（右击控制器打开）上显示为一个网格。"
 		""
-		"  &6Each hatch has a temperature&r and stores heat which can be dissipated in several ways. The heat will naturally move to an adjacent hatch or to the outside if the hatch is on the edge, though this  will cause the heat to be lost. The speed of this process is equal to the hatch's content's heat transfer coefficient, which can be found in your EMI, multiplied by the temperature difference. The heat can also be extracted in a fluid hatch by &bproducing steam&r. &6A temperature above an item's maximum temperature will destroy it&r."
+		"  &6每个仓都有自己的温度&r，也都会存储热量。这些热量有几种散失方式：热量会自发地传导至相邻的仓，或者进入外部环境（如果该仓位于反应堆边缘），不过这样的话那些热量就流失了。热量传导的速度等于该仓内容物的热传导系数（可在EMI中查看）乘以温差。热量也可以在流体仓中以&b产生蒸汽&r的方式离开。&6如果某物品的温度大于其最高温度，该物品就会被摧毁&r。"
 		""
-		"  The core nuclear reactor elements are &bneutrons&r. Those are produced by the &bnuclear fuel&r. There are two type of neutrons, &bfast&r and &bthermal&r: the fast carry energy while the thermal do not. Neutrons move in a straight line until they encounter an element or exit the reactor, though for fast neutrons, their energy is then lost. The flow of neutrons is shown in the reactor control panel."
+		"  反应堆的核心元素是&b中子&r，它们由&b核燃料&r产生。中子有两种，&b快中子&r 和&b热中子&r：快中子具有较高的能量，而热中子没有。中子一直保持直线运动，直到与其他元素碰撞或者逸出反应堆，这会使快中子失去它的能量。中子流会显示在反应堆的控制面板上。"
 		""
-		"  When a neutron encounters a non-empty hatch, two things can happen, being either the neutron is &babsorbed&r or &bscattered&r. &6A scattered neutron will randomly change direction&r. If the scattered neutron is fast, it has a chance of slowing down, becoming a thermal one. This transfers the energy from the neutron to the hatch in the form of heat. An &6absorbed neutron stops its course and also transfers its energy if it was a fast neutron&r."
+		"  当中子碰见非空的仓时，可能出现两种情况：该中子可能会被&b吸收&r或&b散射&r。&6被散射的中子会随机改变运动方向&r。如果被散射的中子为快中子，则它有一定概率会慢下来，变为热中子。这个过程会将中子的能量以热量的形式传递给仓。&6被吸收的中子会停止运动，如果该中子为快中子，则同样会发生能量传递&r。"
 		""
-		"  The number of absorbed neutrons in a single hatch can be seen in the control panel. The probability for each processes is shown in your EMI. Those will strongly depend on the hatch's content and the neutron type, either fast or thermal.&6 Nuclear fuels absorb thermal neutrons far better&r."
+		"  控制面板上会显示单个仓吸收的中子数。这些过程发生的概率可在EMI中查看。它们很大程度上取决于仓内容物和中子类型，是快中子还是热中子。&6核燃料吸收热中子的能力要强得多&r。"
 		""
-		"  When a neutron, either fast or thermal, is absorbed in nuclear fuel, more neutrons are generated. Those are always fast neutrons and have random direction. &6Their generation is accompanied by the direct release of energy in the form of additional heat in the hatch&r."
+		"  当一个中子，无论是快的还是热的，被核燃料吸收时，会产生更多的中子。这些新的中子基本都是快中子，而且运动方向随机。&6它们的产生会伴随着能量的直接释放，这些能量会转变为仓中额外的热量&r。"
 		""
-		"  Above a certain threshold, the number of generated neutrons will decrease with the temperature until reaching zero. &6This process wastes some energy, but guarantees the stability of the reactor&r. The number of generated neutrons, effective efficiency, the direct energy and temperature threshold are all shown in your EMI."
+		"  在一定的温度阈值以上，中子的产量会随温度的升高而下降，直到降为0。&6这会导致部分能量被浪费，但是提升了反应堆的稳定性&r。中子产量、有效效率、直接能量和温度阈值都可在EMI中查看。"
 		""
-		"  Each nuclear component has maximum number of absorptions. &6When reached, the item is either destroyed or transformed into a depleted variant&r. This is particularly useful for nuclear fuel because some part of &6the &bU238&r &6is transformed into &bPlutonium&r &6in its depleted variant&r, meaning some of it can be transformed back into fuel."
+		"  每种核组件都有最大吸收数。&6达到最大吸收数时，该物品会被摧毁，或者变为枯竭形式&r。这一点对于核燃料而言十分有用，因为&6其枯竭形式中&r有部分&bU238&r&6会转化为&b钚&r，也就是说其中有一部分还可以再当燃料用。"
 		""
-		"  The same thing happens for fluids, where a bit of fluid is transformed after each neutron absorption. This can be used to mass produce useful isotopes like &bdeuterium&r and &btritium&r. In both cases, the outcome is shown in your EMI."
+		"  流体也是一样，每次吸收中子后，都会有一点儿流体发生转变。这可用于大规模生产有用的同位素，例如&b氘&r和&b氚&r。两种情况的产物EMI中都可以查看。"
 	]
 	quest.454FF6E2926163F7.title: "放弃了？"
 	quest.4554EE3CC1F80F7D.quest_desc: ["Let your favorite mob &6drive&r your trains!"]
@@ -3447,7 +3447,7 @@
 		""
 		"  另外，&b锻压台&r也可以用来从&b矿石&r中获得更多的&b粗矿&r。同样的，使用&b锤子&r也可以&6提升产率&r。"
 	]
-	quest.47A8E5DC11E846C5.title: "穷光蛋的压缩机"
+	quest.47A8E5DC11E846C5.title: "丐版压缩机"
 	quest.47C1108CF46C81FC.quest_desc: ["  &b铝钻&r&6可采集&b原油&r。它会自动勘探地下的油田，把原油抽上来。"]
 	quest.47C1108CF46C81FC.title: "铝钻"
 	quest.47E6E91E526B6D34.quest_desc: [
@@ -3554,7 +3554,7 @@
 		""
 		"  好钢还需烈火炼，所以我们需要&6蒸汽高炉&r提供极端的高温，来熔合这些混合物粉末。"
 		""
-		"  既然你已经有钢了，那快去用&b钢材升级&r升级你的青铜机器吧。钢机器可以执行能耗小于等于4 EU/t的配方，而且&6运行速度是原来的两倍&r，只要能耗不超过4 EU/t。现在你可以承受更高的能耗了，应该有些新东西可以做了。"
+		"  既然你已经有钢了，那快去用&b钢材升级&r升级你的青铜机器吧。钢机器可以执行能耗小于等于4EU/t的配方，而且&6运行速度是原来的两倍&r，只要能耗不超过4EU/t。现在你可以承受更高的能耗了，应该有些新东西可以做了。"
 	]
 	quest.4A5466E364B85AEF.title: "&7第一块钢！"
 	quest.4A559B47D164D1BB.quest_subtitle: "可使用诅咒之眼找到"
@@ -4646,7 +4646,7 @@
 	quest.65AA8B8D22954941.title: "&5Boss终结者"
 	quest.65F98AFE7EC4CE62.title: "猴面包果实"
 	quest.660EFAF144F70749.quest_desc: [
-		"  来吧，大升级！之前你只能用&b低压蒸汽涡轮机&r以32 EU/t的速率发电，但现在，用这个全新的&b中压蒸汽涡轮机&r，你&6可以达到最高128 EU/t&r了！除了产能翻四倍之外，它跟&b低压蒸汽涡轮机&r就没有太大区别了。"
+		"  来吧，大升级！之前你只能用&b低压蒸汽涡轮机&r以32EU/t的速率发电，但现在，用这个全新的&b中压蒸汽涡轮机&r，你&6可以达到最高128EU/t&r了！除了产能翻四倍之外，它跟&b低压蒸汽涡轮机&r就没有太大区别了。"
 		""
 		"  还有啊，&6你的之前的电缆都需要换一换了&r。这种新的中压能量需要用&b白铜&r或者&b琥珀金&r电缆传输。"
 	]
@@ -5141,9 +5141,9 @@
 	]
 	quest.6C96992416059AC4.quest_subtitle: "什么都能干的工具！"
 	quest.6CA941AE132445D9.quest_desc: [
-		"  &b机器框架&r含有运行机器所需的主要电子设备。机器框架有不同的等级，相应的，机器也可以升级。&b基础机器框架&r是所有LV机器的基础。"
+		"  &b机器框架&r含有运行机器所需的主要电子设备。机器框架有不同的等级，相应的，机器也可以升级。&b基础机器框架&r是所有低压机器的基础。"
 		""
-		"  如果你想让你的机器直接使用MV能源，你就必须用&b进阶机器框架&r升级它。只需要手持&6更高级的机器框架右击机器&r，或将它放入机器GUI右上角画有小立方体图案的槽位即可升级。你可以继续用更高级的框架升级机器，这样就可以使用更高级的能源了。"
+		"  如果你想让你的机器直接使用中压能源，你就必须用&b进阶机器框架&r升级它。只需要手持&6更高级的机器框架右击机器&r，或将它放入机器GUI右上角画有小立方体图案的槽位即可升级。你可以继续用更高级的框架升级机器，这样就可以使用更高级的能源了。"
 	]
 	quest.6CA941AE132445D9.quest_subtitle: "电子之心"
 	quest.6CA941AE132445D9.title: "机器框架"
@@ -5589,11 +5589,11 @@
 	quest.77968A26B3D90399.quest_subtitle: "Best wrench in the game, I say."
 	quest.77978ED3AC1DFA26.quest_desc: ["&aExtendedAE&f是一个能够给你的&aAE2&f&a加速扩产的附属模组&f。"]
 	quest.779C3C6B89AD2526.quest_desc: [
-		"  电力机器的工作方式和蒸汽机器大差不差，只是&6它们消耗电能来工作，而不是蒸汽&r，而且可以将配方超频到32 EU/t（目前如此）。"
+		"  电力机器的工作方式和蒸汽机器大差不差，只是&6它们消耗电能来工作，而不是蒸汽&r，而且可以将配方超频到32EU/t（目前如此）。"
 		""
 		" 你可以使用EMI查看你熟悉的机器的电动版本的配方。它们制作起来更复杂，需要许多奇奇怪怪的零件。"
 		""
-		" 你的第一个核心零件就是这个&b模拟电路&r。它是LV机器的主电路，也是更高级机器和电路的基础材料。&6你最好尽快把它的生产自动化了&r。"
+		" 你的第一个核心零件就是这个&b模拟电路&r。它是低压机器的主电路，也是更高级机器和电路的基础材料。&6你最好尽快把它的生产自动化了&r。"
 		""
 		"  我强烈建议你尽快开始自动化这些零件的生产。我会在任务中告诉你哪些零件需要自动化生产的。搞好了自动化，制造这些电力机器就跟免费的似的了，因为所有的零件都不需要你自己动手制造了！"
 	]
@@ -5829,7 +5829,7 @@
 	quest.7D0CF81F7E703B71.quest_desc: [
 		"{image:modern_industrialization:block/machines/water_pump/overlay_front_active width:32 height:32 align:center}"
 		""
-		"  你想要自动泵&b水&r吗？现在就可以实现哦！&b水泵&r会自动吸取&b水&r，并&6泵送到相邻的方块中&r。在水泵水平方向的旁边放上水源，再给它提供&b蒸汽&r，它就会开始以1 EU/t的能耗产&b水&r了。"
+		"  你想要自动泵&b水&r吗？现在就可以实现哦！&b水泵&r会自动吸取&b水&r，并&6泵送到相邻的方块中&r。在水泵水平方向的旁边放上水源，再给它提供&b蒸汽&r，它就会开始以1EU/t的能耗产&b水&r了。"
 		""
 		"  每有一个相邻的水源，&b青铜水泵&r每5秒就会生产&6125mb的&b水&r，最大输出速率为每5秒1000mb。"
 	]
