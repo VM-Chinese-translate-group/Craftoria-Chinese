@@ -146,12 +146,12 @@
 	quest.03E0ADE2191CC3FB.quest_desc: ["每个&b高级感应元件&r可以为你的感应矩阵增加&e25.6 GFE&r的能量存储上限。"]
 	quest.03E0ADE2191CC3FB.title: "高级感应元件"
 	quest.03F624101CDF5291.quest_desc: [
-		"&b简单模式&r："
+		"&b初级方块放置器&r："
 		"    • &6放置&r&b方块&r"
 		"    • &e速度&r和&e方向&r控制"
 		"    • 可选&4红石&r感应"
 		""
-		"&b高级模式&r："
+		"&b高级方块放置器&r："
 		"    • 添加&6过滤&r和&3偏移范围&r"
 		"    • 需要&c能量&r"
 		""
@@ -326,7 +326,7 @@
 	quest.08B17C05B2111477.quest_desc: [
 		"恭喜！"
 		""
-		"你现在已经&6解锁&r了&lJust Dire Things（JDT）&r&o第4级&r和&o最终级&r的&b物品&r和&b方块&r。"
+		"你现在已经&6解锁&r了&lJDT&r&o四阶&r和&o最终阶&r的&b物品&r和&b方块&r。"
 		""
 		"&b工具&r&6能瞬间完成工作&r，&b盔甲&r赋予你像&o超人&r一样的&6力量&r，而&b手杖&r可以在世界中&6临时制造空洞&r。"
 		""
@@ -334,7 +334,7 @@
 		""
 		"{image:justdirethings:item/eclipsealloy_ingot width:100 height:100 align:center fit:true}"
 	]
-	quest.08B17C05B2111477.quest_subtitle: "第4级：解锁"
+	quest.08B17C05B2111477.quest_subtitle: "四阶：解锁"
 	quest.08BE35FB8E58C4B5.quest_desc: [
 		"&b基础锯木工厂&r能够同时进行最多&a三个&r锯木任务。"
 		""
@@ -388,9 +388,9 @@
 	quest.0AC7D844C55119E1.quest_desc: [
 		"  这个不是&b活动扳手&r，但是你可以期待未来能有差不多的。"
 		""
-		"  &b扳手&r可以&6旋转&r&o几乎&r&b所有的机器&r（&6右击&r即可），&r拆卸&r&o几乎&r所有的&b管道&r。"
+		"  &b扳手&r可以&6旋转&r&o几乎&r&b所有的机器&r（&6右击&r即可），还能&r拆卸&r&o几乎&r所有的&b管道&r。"
 		""
-		"  手持扳手&6shift右击&o&b机器&r可&6调整&r其&b输出面&r。&6手持&r&b扳手&r&6对准&r&b机器&r的任意面，你会看到一个类似&b网格&r的东西。&6shift右击&o&b中心的方块&r即可将&b输出面&r设置为&b网格&r所在的面。如果点击周围的那些长方形，就会&6将输出面&r设为与该长方形&690&r度相邻的那个面，这样就可以&6配置&r那些难以够到的面了。最后是角落上的&b方块&r，点击它们可将输出面设为网格&b对面&r的那个面。"
+		"  手持扳手&6潜行右击&o&b机器&r可&6调整&r其&b输出面&r。&6手持&r&b扳手&r&6对准&r&b机器&r的任意面，你会看到一个类似&b网格&r的东西。&6潜行右击&o&b中心的方块&r即可将&b输出面&r设置为&b网格&r所在的面。如果点击周围的那些长方形，就会&6将输出面&r设为与该长方形&690&r度相邻的那个面，这样就可以&6配置&r那些难以够到的面了。最后是角落上的&b方块&r，点击它们可将输出面设为网格&b对面&r的那个面。"
 		""
 		"  请谨记，你不能用&b扳手&r&6破坏&r机器，因为这样做会把机器&6毁坏&r掉，然后你就&6可以&r跟你的机器说拜拜了。还是用你值得信赖的&b镐子&r拆吧。"
 	]
@@ -843,9 +843,9 @@
 	quest.15D18F5637F6382E.title: "&a通用机械"
 	quest.16052CFE597B57F7.title: "化学灌注为H2SO4"
 	quest.160740771654F4E6.quest_desc: [
-		"&b虚炎煤碳&r可以被&6转化&c为&b粗蚀空烬质&r，"
+		"&b虚炎煤碳块&r可以被&6转化&c为&b粗蚀空烬质&r，"
 		""
-		"从中会&6掉落&r3-4个&b蚀空烬质&r。"
+		"从中可&6掉落&r3-4个&b蚀空烬质&r。"
 		""
 		"它能&6燃烧&r的物品数量比&b煤&r多81倍。"
 		""
@@ -901,17 +901,17 @@
 		"在&6配置&r过滤器时非常有用。"
 	]
 	quest.164F4710E109F7F2.quest_desc: [
-		"  现在该做这些美丽闪亮的&b橙色金属锭&r啦。你需要弄一点&b锻压台&r上得到的&b铜&r粉和&b锡&r粉，然后把它们在工作台中按照&b铜&r：&b锡&r=&63：1&r的比例混合即可。随着游戏进程的&6推进&r，还会有更&6高效&r的生产这种混合物的方法，毕竟用手工的话，难免会有些&b粉&r沾到手上而损耗掉。"
+		"  Time for that beautifully shining &bOrange Ingot&r? You'll need to grab some of the &bCopper&r and &bTin&r dust you get from the &bForge Hammer&r to make it. It's a simple mixture of &63:1&r &bCopper&r to &bTin&r in your crafting grid. Once you &6progress&r, you'll find a way to produce this mixture more &6efficiently&r since you're spilling some &bdust&r making it on hand."
 		""
-		"  有了&b青铜&r，你就踏入&a蒸汽时代&r了。我来给你一些有关你接下来会用到的&b机器&r的&6提示&r。&b物品、蒸汽或者其他流体&r可以从&b蒸汽机&r的&6任意面&r输入。你可以&6点击&r蒸汽机&bGUI&r中的&b锁头&r按钮来&6锁定&r它的槽位。 "
+		"  Now that you're entering the &aSteam Age&r with this &bBronze&r, I'll give you some &6tips&r on the &bmachines&r you'll be making. Remember that &bSteam Machines&r will accept inputs from &6any side&r, be it&b items, steam or another fluid&r. You can &6lock&r their slots by &6clicking&r on the &bpadlock&r looking button in the &binterface&r. "
 		""
-		"槽位&6锁定&r后，机器的每个槽位就&6只能&r接受一种&b物品&r或者&b流体&r。"
+		"&6Locked&r slots will make sure the machine &6only&r accepts one type of &bitem&r or &bfluid&r per slot."
 		""
-		"  每个&b机器&r也都有一个&b输出面&r，你可以在机器的&rGUI&r中&6开启&b自动推出&b。你可以用你可靠的&b扳手&r来轻松地&6调整&r输出面！"
+		"  Every &bmachine&r has an &boutput side&r as well, and you can &6enable&r &bauto-output&b from inside the &rinterface&r. Using your trusty &bWrench&r you can &6adjust&r the output side with ease!"
 		""
-		"  如果你不希望槽位里堆叠的&b物品太多&r的话，可以&6用&b鼠标滚轮&r来&6调整&b物品&r的最大堆叠数量。"
+		"  If you don't want so &bmany items&r in the slots at a time, &6use&r that &bScroll Wheel&r of yours to &6adjust&r the maximum number of &bitems&r stored at a time."
 		""
-		"  &cP.S.&r 用&7火药&r右击&b蒸汽机&r可以让它的&6运行速度&r翻倍，同时&6蒸汽的消耗量&r也会翻倍。看配方的时候请牢记这一点，这个&7火药&r可能会帮大忙！"
+		"  &cP.S.&r Right clicking on a &bsteam machine&r with &7gunpowder&r will double it's &6speed&r and &6steam consumption&r. Keep that in mind when looking at recipes. That &7gunpowder&r may just save you a trip to hell."
 	]
 	quest.164F4710E109F7F2.title: "你的第一块青铜"
 	quest.166CEF9F03DA14F6.quest_desc: [
@@ -1135,15 +1135,15 @@
 	quest.18956DB32D96ED2B.quest_desc: ["准备好升级了？想把你的房子打包带走？不错的想法，露营对史蒂夫的老腰可不太好。"]
 	quest.18956DB32D96ED2B.title: "中型空间组件"
 	quest.18CEE2F64F6E53E6.quest_desc: [
-		"  Congrats!"
+		"恭喜！"
 		""
-		"  You've now &6unlocked&r the &othird&r tier of &lJDT&r &bitems&r and &bblocks&r."
+		"你现在已经&6解锁&r了&o三阶&r的&lJDT&r&b物品&r和&b方块&r。"
 		""
-		"  &6Teleportation&r—of &bdrops,&r and yourself—is this tier's signature ability."
+		"&6传送&r——包括&b掉落物&r和自身——是这个等级的标志性能力。"
 		""
 		"{image:justdirethings:item/celestigem width:100 height:100 align:center}"
 	]
-	quest.18CEE2F64F6E53E6.quest_subtitle: "Tier 3: Unlocked"
+	quest.18CEE2F64F6E53E6.quest_subtitle: "三阶：解锁"
 	quest.18D1995FE0140399.title: "电解分离为氯气"
 	quest.18D6860E893D80D2.quest_desc: [
 		"通过ME IO端口，你能将一个&b物品元件&r中的物品&a移动&f到另一个&b物品元件&f中。"
@@ -1191,11 +1191,11 @@
 	quest.19F7B6A670D4A707.quest_subtitle: "生汞"
 	quest.19F7B6A670D4A707.title: "晶化汞"
 	quest.1A1C915A4A1F7741.quest_desc: [
-		"   &bBlazebloom goo&r will &6transform&r blocks of &bprimal coal&r into &braw blaze ember&r "
+		"&b烈焰蕾凝胶&r可以把&b原初煤炭块&r&6转化&r为&b粗烈焰烬质&r，"
 		""
-		"   3–4 &bblaze embers&r will &6drop&r from it."
+		"从中可&6掉落&r3-4个&b烈焰烬质&r。"
 		""
-		"   &6Burns&r 9x more items than &bcoal&r."
+		"它能&6燃烧&r的物品数量比&b煤炭&r多9倍。"
 		""
 		"{image:justdirethings:block/coalblock_t2 width:100 height:100 align:center fit:true}"
 	]
@@ -1235,9 +1235,10 @@
 	]
 	quest.1A9AD40B2F094DCF.title: "造石机升级"
 	quest.1AD1C99F9C383632.quest_desc: [
-		"   The &bfluid canister&r &6holds 8 Buckets&r of whatever &bfluid&r you like."
+		"&b流体罐&r&6可以&6容纳8桶&r任何你想要装的&b流体&r。"
 		""
-		"   It has a unique “fill” mode for automatically &6filling&r &bfluid holding items&r in your inventory."
+		"它有一种独特的“填充”模式，可以自动&6填充&r你物品栏中的其他&b流体容器&r。"
+		""
 		""
 		"{image:justdirethings:item/fluidcanister/fluid_canister width:100 height:100 align:center}"
 	]
@@ -1249,15 +1250,15 @@
 	]
 	quest.1AE719655A757BF1.title: "钛钻"
 	quest.1AEF6E844F39155D.quest_desc: [
-		"  &6Transforms&b:"
+		"&6转换&b："
 		""
-		"• &bDiamond&r blocks into &b&nraw celestigem ore&r"
+		"• &b钻石块&r转换为&b&n粗苍穹晶矿簇&r"
 		""
-		"• &bGold&r blocks into &b&oraw blazegold ore&r"
+		"• &b金块&r转换为&b&o粗烈焰金矿簇&r"
 		""
-		"• &bIron&r blocks into &b&oraw ferricore ore&r"
+		"• &b铁块&r转换为&b&o粗核源铁矿簇&r"
 		""
-		"Works faster than &bblazebloom goo&r."
+		"比&b烈焰蕾凝胶&r快。"
 		""
 		"{image:justdirethings:block/gooblock_tier3 width:100 height:100 align:center fit:true}"
 	]
@@ -1282,17 +1283,17 @@
 		"It can &6link&r to multiple inventories, via &bStock Links&r, and is &boperated&r by the mob of your choice."
 	]
 	quest.1C69AE9775DDC0AD.quest_desc: [
-		"  Simple."
+		"初级的燃液发电机。"
 		""
-		"  &6Generates&r power from &bfluid fuels&r:"
+		"从&b液体燃料&6中&6生产&r电能："
 		""
-		"• &bBlaze Ember Fuel&r"
-		"• &bVoidflame Fuel&r"
-		"• &bEclipse Ember Fuel&r"
+		"• &b烈焰烬质燃料&r"
+		"• &b虚炎燃料&r"
+		"• &b蚀空烬质燃料&r"
 		""
 		"{image:justdirethings:block/generatorfluidt1_top width:100 height:100 align:center}"
 	]
-	quest.1C69AE9775DDC0AD.quest_subtitle: "Fluid Fuels Only"
+	quest.1C69AE9775DDC0AD.quest_subtitle: "仅限液体燃料"
 	quest.1C7918099D5A55E2.quest_desc: ["&b并发压印模板&f用于在压印器中制作&b并发处理器&f。"]
 	quest.1C99FD35D2C4EAF7.title: "橘子"
 	quest.1CA2825FFA775BBE.quest_desc: [
@@ -1356,17 +1357,17 @@
 	]
 	quest.1D482F0D9AF8D17E.title: "原子合金"
 	quest.1D57C823A1F0203C.quest_desc: [
-		"  我这里有&b超好用的工具&r，不过需要你&6花点时间做出来&r。看，&b蒸汽采矿钻头&r！它一次可以&6挖掘&r一片区域，比普通的&b镐子&6大多了&r，准确来说，&63x3&r。除了&6高效采矿&r之外，这玩意还可以用来挖漂亮的&b隧道&r。"
+		"  I've got the &bperfect tool&r for you, it'll just take a bit of &6time to craft&r. It's a &bSteam Mining Drill&r! These can &6mine&r in a &6much larger&r grid than regular ol' &bPickaxes&r can; &63x3&r to be exact. Not only will you be able to &6mine more efficiently&r, but you'll be able to make beautiful &btunnels&r with ease."
 		""
-		"  还有更厉害的，这个&b钻头&r还可以&6&o精准采集&r哦！哼哼，超棒的对吧？这样一来，配合上&b锻压台&r，直接从&b矿石&r，而不是从&b粗矿&r开始&6加工&r，就可以&6&o提高&r产矿量！"
+		"  Want to know something cool? This &bdrill&r &6&osilk touches&r blocks as well! I know right? It's awesome! This way you'll get &6&oway&r more bang for your buck when you pair it with the &bForge Hammer&r since you can &6crush&r &bFull Ores&r instead of starting from &bRaw Ores&r."
 		""
-		"  有个小小的……也许是&6缺点&r吧？就是它需要&6充电&r。这个&b钻头&r本身&6不会&r真的&6损坏&r，但是你需要给它装&b水&r和&b燃料&r，比如&b煤炭&r或者&b褐煤&r。在&b物品栏&r中用&b燃料&6右击&b钻头&r即可&6装填&r！"
+		"  One small... would you call it a &6downside&r? You need to &6power&r it. For some reason, the &bdrill&r itself &6never&r actually &6breaks&r, but you'll need to feed it &bWater&r and some type of &bBurnable Fuel&r; for example &bCoal&r or &bLignite&r. Just &6Right Click&r the &bfuel items&r into your &bdrill&r within your &binventory&r to&6 fill it up&r!"
 		""
-		"  &a提示&r：记得&6随身带个&b水桶&r。它不仅能&6规避摔落伤害&r（但是需要有点操作），还能随时给你的&b钻头&r加&b水&r。由于某些原因，这个世界的&b水资源&r是无限的。好好利用这一点。"
+		"  &aTips&r: &6Carry around&r a &bWater Bucket&r. Not only will this allow you to &6negate fall damage&r if you're skilled enough, but also as a source of &bWater&r to run your &bdrill&r off of. For some reason, depending on the use case, this world's &bWater Sources&r are infinite; use this to your advantage."
 		""
-		"  &a更多提示&r：&6潜行可挖掘&b单个方块&r，如果你想的话！&6精准采集&r此时依然有效，只是不会一次挖掉&63x3&r的方块了而已，这样你就可以更精细地挖掘&b方块&r了。"
+		"  &aMore Tips&r: &6Crouch to mine&r &bsingle blocks&r, if you need! They'll still be in their &6Silktouch&r form, but it wont do the &63x3&r, incase you need to mine &bblocks&r more delicately."
 	]
-	quest.1D57C823A1F0203C.quest_subtitle: "叮铃，当啷，叮铃，当啷"
+	quest.1D57C823A1F0203C.quest_subtitle: "叮铃，当啷，叮铃，当啷！"
 	quest.1D57C823A1F0203C.title: "蒸汽采矿钻头"
 	quest.1DB0824C333DDA8E.quest_desc: [
 		"用&b能量升级&r来对抗&b速度升级&r。"
@@ -1451,20 +1452,20 @@
 		"&6Cannon&r your build plans right into the world, block by block."
 	]
 	quest.1F81CBD8519E244B.quest_desc: [
-		"  Like &bferricore armor&r, but &6repairs when in lava&r—you might want to take it off first though."
+		"就像&b核源铁盔甲&r一样，但&6在熔岩中会自动修复&r——不过你可能需要先脱下来。"
+		"  "
+		"新增的&b升级&r支持："
 		""
-		"  New, additional &bupgrades&r supported:"
-		""
-		"• &bHelment&r: &cStupefy&r"
-		"• &bChestplate&r: &cExtinguish&r"
-		"• &bLeggings&r:  &cSwim Speed&r"
-		"• &bBoots&r: &cGround Stomp&r"
+		"  • &b头盔&r：&c一忘皆空&r"
+		"  • &b胸甲&r：&c灭火&r"
+		"  • &b护腿&r：&c游泳速度&r"
+		"  • &b靴子&r：&c震地&r"
 		""
 		""
 		"{image:justdirethings:item/template_blazegold width:100 height:100 align:center fit:true}"
 	]
-	quest.1F81CBD8519E244B.quest_subtitle: "Lava and Loving It"
-	quest.1F81CBD8519E244B.title: "Blazegold Armor"
+	quest.1F81CBD8519E244B.quest_subtitle: "热爱熔岩"
+	quest.1F81CBD8519E244B.title: "烈焰金盔甲"
 	quest.1F828E56F64FFD15.quest_desc: [
 		"&5灵火&r是一种特殊的火焰，可以将一些物品变成其他物品。"
 		""
@@ -1506,15 +1507,15 @@
 	]
 	quest.1FF9FB01DBE735FC.quest_subtitle: "等价交换？"
 	quest.202149DADCC786EE.quest_desc: [
-		"  Congrats!"
+		"恭喜！"
 		""
-		"  You've now &6unlocked&r the second tier of &lJDT&r &bitems&r and &bblocks&r."
+		"你现在已经&6解锁&r了二阶的&lJDT&r&b物品&r和&b方块&r。"
 		""
-		"  The theme here is, \"&6lava repair&r\"."
+		"这个等级的主题是“熔岩修复”。"
 		""
 		"{image:justdirethings:item/blazegold_ingot width:100 height:100 align:center fit:true}"
 	]
-	quest.202149DADCC786EE.quest_subtitle: "Tier 2: Unlocked"
+	quest.202149DADCC786EE.quest_subtitle: "二阶：解锁"
 	quest.2023CDC95630D9B0.quest_desc: [
 		""
 		""
@@ -1618,7 +1619,7 @@
 	quest.21584ECDBB6907DE.quest_desc: [
 		" &a冷静冷静！&btick&r就是游戏中&6可记录的&6最小&r的时间单位。"
 		""
-		"  它大约是&620分之一&b秒&r。这个世界就是按照这些“&bticks&r”来运行的，你可以&6好好利用&r它！"
+		"  它大约是&6二十分之一&b秒&r。这个世界就是按照这些“&btick&r”来运行的，你可以&6好好利用&r它！"
 	]
 	quest.21584ECDBB6907DE.title: "什么是tick？"
 	quest.21586F8B123BFCC3.quest_desc: ["&b放射性废料桶&r能够以一个固定速率使存储其中的各种&2放射性流体&r缓慢&7衰变&r。"]
@@ -1637,9 +1638,9 @@
 	quest.219AFCECD9D006A2.quest_desc: ["守护者使魔可以通过舍弃自身的一条肢体来&6避免&r其主人&b死亡&r。"]
 	quest.219AFCECD9D006A2.quest_subtitle: "不朽"
 	quest.21AE41FA52DB561D.quest_desc: [
-		"  This handy dandy device &6charges&r all &bitems&r in your inventory that &cneed power&r."
+		"这台便利又美丽的设备可以为你的物品栏中所有&c需要能量&r的&b物品&r&6充电&r。"
 		""
-		"  Pairs well with the &bfuel cannister&r."
+		"搭配&b燃料罐&r使用更佳。"
 		""
 		"{image:justdirethings:item/pocket_generator_active width:100 height:100 align:center}"
 	]
@@ -1950,15 +1951,15 @@
 	quest.29DE74B144E0A85F.quest_desc: ["&6橙色&r粉笔非常适合用来召唤火灵，尽管并不能控制它们。"]
 	quest.29DE74B144E0A85F.quest_subtitle: "芬香"
 	quest.29E3DC274AF5DAFA.quest_desc: [
-		"  The &bferricore wrench&r is... a wrench."
+		"&b核源铁扳手&r是……一个扳手。"
 		""
-		"  For building, it can &6rotate&r blocks—very handy."
+		"建造时，它可以&6旋转&r方块——非常方便。"
 		""
-		"  Try it out with all you favorite tech blocks that have wrench interactions."
+		"用所有你最喜欢的科技方块试一试，有扳手交互功能的就行。"
 		""
 		"{image:justdirethings:item/ferricore_wrench width:100 height:100 align:center fit:true}"
 	]
-	quest.29E3DC274AF5DAFA.quest_subtitle: "Not Monkey Business"
+	quest.29E3DC274AF5DAFA.quest_subtitle: "并非耍猴戏"
 	quest.29E6ED5067027F08.quest_desc: [
 		"-可批量执行任何单方块&e电动&r合成&b机器&r提供给它的&6配方&r。"
 		""
@@ -2167,20 +2168,20 @@
 	quest.2CB005B413D2B889.quest_subtitle: "太酷啦！"
 	quest.2CB005B413D2B889.title: "&c来让&a图标&9变得&e更时尚&8！"
 	quest.2CE7390F7567D9E2.quest_desc: [
-		"  &bSimple&r:"
-		"    • Works in pairs"
-		"    • &6Swaps&r &bblocks&r (incl. &bair)&r"
-		"    • &3Entities&r &6teleport&r (solo)"
-		"    • &4Redstone&r &esensitivity&r options"
+		"&b初级替换器&r："
+		"    • 成对运作"
+		"    • &6替换&r&b方块&r（包括&b空气&r）"
+		"    • &6传送&r&3实体&r（单个）"
+		"    • 可选&4红石&r&e感应&r"
 		""
-		"  &bAdvanced&r:"
-		"    • Adds &6filtering&r and &3offset AOE&r"
-		"    • Needs &cpower&r"
+		"&b高级替换器&r："
+		"    • 添加&6过滤&r和&3偏移范围&r"
+		"    • 需要&c能量&r"
 		""
 		""
 		"{image:justdirethings:block/blockswappert2_side width:100 height:100 align:center}"
 	]
-	quest.2CE7390F7567D9E2.quest_subtitle: "Portals in Machine Form"
+	quest.2CE7390F7567D9E2.quest_subtitle: "机器形态的传送门"
 	quest.2D4170B5AD28DCBF.quest_desc: [
 		"  你能造的最好的单方块&b柴油发电机&r。&6它的最高速率为1024EU/t&r，可用于发电的流体详见EMI。"
 		""
@@ -2760,7 +2761,7 @@
 		""
 		"- &6右击&b链锯&r以添加&8燃料。（译注：在物品栏中用燃料右击链锯即可）"
 		""
-		"- &6左Shift+右击&r可开关&e精准采集&r。"
+		"- &6潜行右击&r可开关&e精准采集&r。"
 	]
 	quest.39CF27CAC4EE33DB.quest_subtitle: "嗡嗡嗡嗡！"
 	quest.39FCE3168C26B863.quest_desc: [
@@ -3439,13 +3440,13 @@
 	quest.478A6A8ADA223AEF.title: "餐壶"
 	quest.47A87F0901355498.quest_subtitle: "用于存储&c芯片"
 	quest.47A8E5DC11E846C5.quest_desc: [
-		"  在你搞出&b青铜&r之前，你就需要用到&b&o锻压台&r了。这玩意长得就像一个大号&b铁砧&r，但是它的顶部是平的，所以并不能当铁砧用。"
+		"  Before you can even make &bBronze&r, you'll need to put together a &b&oForge Hammer&r. It's pretty much a bigger &bAnvil&r, but it's just got a flat top so you won't be able to use it as an anvil."
 		""
-		"  你可以用它制造一些基础的材料，比如&b板&r和&b杆&r什么的。不过呢，直接用&b锭&6锤&b锻压台&r的话，&6材料利用率简直低得抠脚&r，&b一个锭&6造不出多少东西&r，因为这样材料会很容易&6被敲坏&r或者&6裂开&r，加工过程损耗会很大。"
+		"  Use it to make the basics such as &bPlates&r and &bRods&r. Though, &6slamming&r the &bForge Hammer&r with an &bIngot&r can be very &6inefficient&r and you'll get &6less&r out of your &bIngot&r due to &6damaged&r or &6chipped&r metal."
 		""
-		"  如果你&6做把&b锤子&r出来，就可以&6大大提升材料利用率&r，或者说产率。用&b锤子&r可以加工的&b材料&r更多，但是你得规划一下怎么加工才好，因为&b锤子&r会用坏，它的耐久会&6越用越少&r，直到彻底报废。"
+		"  If you &6craft yourself&r one of the various &bHammers&r, you'll &6increase the efficiency&r and your output; AKA the ratio increases. Once you use a &bHammer&r, more formations of that &bIngot&r will open up to you. Be smart with your resources as the &bHammer&r won't last forever as its durability will eventually &6diminish&r till it breaks."
 		""
-		"  另外，&b锻压台&r也可以用来从&b矿石&r中获得更多的&b粗矿&r。同样的，使用&b锤子&r也可以&6提升产率&r。"
+		"  You can also use the &bForge Hammer&r as a way of getting more &bRaw Ore&r out of your &bOres&r. Again, using the &bHammer&r will give you &6more&r at the cost of durability."
 	]
 	quest.47A8E5DC11E846C5.title: "丐版压缩机"
 	quest.47C1108CF46C81FC.quest_desc: ["  &b铝钻&r&6可采集&b原油&r。它会自动勘探地下的油田，把原油抽上来。"]
@@ -4527,17 +4528,17 @@
 	quest.62B0913266F48F45.quest_desc: ["The Fairy heals and &6supports&r other fa&bmiliars&r while draining your enemies' life."]
 	quest.62B0913266F48F45.quest_subtitle: "萨尼铁塔！"
 	quest.62B245A23CA62678.quest_desc: [
-		"  你现在&6合成&r的这些&b管道&6是用于&6运输&r各种&b流体&r和&b气体&r的。它不能同时运输一种以上&r的&b流体&r，而且它&6不会&r自动连接到附近的&6空&b管道&r、&b容器&r或者&b机器&r，所以你需要用&b扳手&r来&6配置&r它。"
+		"  你现在&6合成&r的这些&b管道&r是用于&6运输&r各种&b流体&r和&b气体&r的。它不能同时运输一种以上的&b流体&r，而且它&6不会&r自动连接到附近的&6空&b管道&r、&b容器&r或者&b机器&r，所以你需要用&b扳手&r来&6配置&r它。"
 		""
 		"  手持&b扳手&6右击&b管道&r的中心处，或者&b手持管道&6右击&b方块&r，即可&6强制&r建立连接。这&6不会额外消耗&b管道&r，只是会把它连上而已。"
 		""
 		"  &a每tick&r，"
-		"&b流体管道&r都会&6尝试&r平均地从所有&b相连的方块&r处&6抽取&r流体，然后尝试将流体&6输入&r所有其他&b相连的方块&r中。 "
+		"&b流体管道&r都会&6尝试&r从所有&b相连的方块&r处&6抽取&r均等流体，然后尝试将流体&6输入&r所有其他&b相连的方块&r中。 "
 		""
 		"  &a另外一些你可能想知道的小提示&r："
-		"你可以&6好好利用&r这些机制：你可以把至多&63&r个&b管道&r塞进&b一个方块&r内，构建出超级紧凑的物流网络！而且，&b不同颜色&r的&b管道&6&o不会&6连接在一起&r。还有，手持&b扳手&6右击&b管道&r可&6改变&r连接方式，&6shift右击&r可拆除管道。"
+		"你可以&6好好利用&r这些机制：你可以把至多&63&r个&b管道&r塞进&b一个方块&r内，构建出超级紧凑的物流网络！而且，&b不同颜色&r的&b管道&6&o不会&r&6连接在一起&r。还有，手持&b扳手&6右击&b管道&r可以&6改变&r连接方式，&6潜行右击&r可拆除管道。"
 		""
-		"  &c要吃点意大利面吗？&r"
+		"  &c要来点意大利面吗？&r"
 	]
 	quest.62B245A23CA62678.title: "流体运输"
 	quest.62F43B936E236071.quest_desc: [
@@ -5551,15 +5552,15 @@
 	]
 	quest.7593E582FA928061.title: "铜钻"
 	quest.75C95D894C3B3428.quest_desc: [
-		"  Congrats!"
+		"恭喜！"
 		""
-		"  You've now &6unlocked&r the first tier of &lJDT&r &bitems&r and &bblocks&r."
+		"你现在已经&6解锁&r了一阶的&lJDT&r&b物品&r和&b方块&r。"
 		""
-		"  You'll want to &6make&r more &bferricore ingots&r though."
+		"不过，你还需要&6制作&r更多的&b核源铁锭&r。"
 		""
 		"{image:justdirethings:item/ferricore_ingot width:100 height:100 align:center fit:true}"
 	]
-	quest.75C95D894C3B3428.quest_subtitle: "Tier 1: Unlocked"
+	quest.75C95D894C3B3428.quest_subtitle: "一阶：解锁"
 	quest.75FE996305813D68.quest_desc: ["想找到&6陨石&r，你可以制作一个&b陨石罗盘&r。&b罗盘&f会指向离你最近的&6陨石&f。"]
 	quest.75FE996305813D68.quest_subtitle: "找到陨石"
 	quest.75FE996305813D68.title: "流星是什么？"
