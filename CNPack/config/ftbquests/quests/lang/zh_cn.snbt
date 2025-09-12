@@ -64,7 +64,7 @@
 	quest.011E9553CDCAE218.quest_desc: ["四倍的存储容量？"]
 	quest.011E9553CDCAE218.title: "4k 存储组件"
 	quest.012B064DED21DCD3.quest_desc: [
-		"&b终极灌注工厂&r能够同时处理最多&a九个&r灌注配方，同样包含\"&6自动分类&r\"功能。"
+		"&b终极灌注工厂&r能够同时进行最多&a九个&r物品的灌注，同样有“&6自动分类&r”功能。"
 		""
 		"同时，&b终极灌注工厂&r能够容纳最多&18,960 mb&r灌注材料。"
 	]
@@ -178,7 +178,7 @@
 		"&o需要&r穿戴全套才能发挥作用。"
 	]
 	quest.048328EEBEEC9C94.title: "防辐射服"
-	quest.04A2A00D41A94FEB.quest_desc: ["&b终极热导线缆&r拥有&a1.0&r点&4热容&r，&e5.0&r点热导，但热阻为&c100000.0&r。"]
+	quest.04A2A00D41A94FEB.quest_desc: ["&b终极热导线缆&r拥有&a1.0&r点&4热容&r，&e5.0&r点热导，但热阻为&c100000.0&r点。"]
 	quest.04A2A00D41A94FEB.title: "终极热导线缆"
 	quest.04A69DE982F47E64.quest_desc: [
 		"  又一个重大升级！现在你可以造出&6能达到512EU/t&r的全新&b高压蒸汽涡轮机&r了！除了产能（又）翻了四倍以外，其他的就和低压、&b中压蒸汽涡轮机&r一样了。"
@@ -377,7 +377,7 @@
 		"  &6记得先看看有哪些机器是&o真的&r&6需要升级的&r，以免浪费你的资源。"
 	]
 	quest.091C2772ED417247.title: "框架升级"
-	quest.09336DBAFB15EF52.quest_desc: ["每个&b高级机械管道&r可以提供&98,000mb&r流体容纳量，并为每个“&a抽出&r”管道提供&91,000mb/t&r抽出速度。"]
+	quest.09336DBAFB15EF52.quest_desc: ["每个&b高级机械管道&r可以提供&98,000mb&r流体容纳量，且“&a抽出&r”管道的抽出速率为&91,000mb/t&r。"]
 	quest.09336DBAFB15EF52.title: "高级机械管道"
 	quest.097ACA8114CD8DA8.quest_desc: ["&b高级粉碎工厂&r能够同时进行最多&a七个&r粉碎任务，同样包含\"&e自动分类&r\"功能。"]
 	quest.097ACA8114CD8DA8.title: "精英粉碎工厂"
@@ -503,11 +503,11 @@
 	quest.0DA354D54D288D20.quest_desc: [
 		"&b基础热导线缆&r用于将&4热量&r从一个地方传导到另一个地方。"
 		""
-		"每个线缆都会为&c热导网络&r提供&a1.0&r点总&4热容&r，然而整个网络的热导仍为&e5.0&r，热阻也保持为&c10.0&r不变。"
+		"每个线缆都会为&c热导网络&r提供&a1.0&r点总&4热容&r，而整个网络的热导保持为&e5.0&r不变，热阻也保持为&c10.0&r不变。"
 		""
 		"&b热导线缆&r的热阻值取决于所处的&2生物群系&r。"
 		""
-		"处于&c温暖或炎热&r生物群系时，传输效率会&a更高&r，处于&b寒冷或冰封&r生物群系时，传输速率会&c更低&r."
+		"处于&c温暖或炎热&r的生物群系时，传输效率会&a更高&r；处于&b寒冷或冰封&r的生物群系时，传输速率会&c更低&r。"
 	]
 	quest.0DA354D54D288D20.title: "基础热导线缆"
 	quest.0DC8081D9EA61411.title: "猕猴桃"
@@ -835,7 +835,7 @@
 	]
 	quest.15C38E0D2B205FB4.title: "气液转换机用水"
 	quest.15CB4C73B630D833.quest_desc: [
-		"&b精英灌注工厂&r能够同时处理最多&a七个&r灌注配方，同样包含\"&6自动分类&r\"功能。"
+		"&b精英灌注工厂&r能够同时进行最多&a七个&r物品的灌注，同样有“&6自动分类&r”功能。"
 		""
 		"同时，&b精英灌注工厂&r能够容纳最多&16,960 mb&r灌注材料。"
 	]
@@ -896,7 +896,7 @@
 	]
 	quest.163BCEEEE08F3898.title: "电磁偏振器"
 	quest.1646940008F2A109.quest_desc: [
-		"&b辞典&r能够用来查找&b物品&r和&b方块&r的&9标签&r。"
+		"&b辞典&r用于查找&b物品&r和&b方块&r的&9标签&r。"
 		""
 		"在&6配置&r过滤器时非常有用。"
 	]
@@ -1221,15 +1221,15 @@
 	]
 	quest.1A8D5373290BC1A6.quest_subtitle: "储存魔法"
 	quest.1A9827E5F8B7CF39.quest_desc: [
-		"每个&b高级加压管道&r都会给管道网络增加&916,000mb/t&r的总容量和基本速率。"
+		"&9每个&r&b高级加压管道&r都会给管道网络增加&916,000mb/t&r的总容量和基础传输速率。"
 		""
-		"每个“&a抽出&r”管道的泵速都限制在&92,000mb/t&r。"
+		"“&a抽出&r”管道的泵速限制在&92,000mb/t&r。"
 	]
 	quest.1A9827E5F8B7CF39.title: "高级加压管道"
 	quest.1A9AD40B2F094DCF.quest_desc: [
 		"&b造石机升级&r用于在特定场合生成所需的&7石头&r。"
 		""
-		"这是一种&3特定用途&r的升级，你也许之后会需要。"
+		"这是一种&3特殊用途&r的升级，你也许之后会需要。"
 		""
 		"最好别忘了有这东西。"
 	]
@@ -1264,9 +1264,9 @@
 	]
 	quest.1B1ED97DF0FE2E3C.quest_desc: ["&b存储总线&f可以在不需要&bME驱动器&f的情况下将箱子或者其他容器接入你的&bME系统&f&5网络&f。"]
 	quest.1B65CA6898CC3F9E.quest_desc: [
-		"&b基础灌注工厂&r能够同时处理&a三个&r灌注配方。"
+		"&b基础灌注工厂&r能够同时进行最多&a三个&r物品的灌注。"
 		""
-		"GUI左侧有一个叫作\"&6自动分类&r\"的按钮，该按钮可以使机器自动均分&a三个&r输入槽中的物品。"
+		"GUI左侧有一个叫作“&6自动分类&r”的按钮，该按钮可以使机器自动均分&a三个&r输入槽中的物品。"
 		""
 		"&b基础灌注工厂&r能够容纳最多&92,960 mb&r灌注材料。"
 	]
@@ -1370,9 +1370,9 @@
 	quest.1D57C823A1F0203C.quest_subtitle: "叮铃，当啷，叮铃，当啷！"
 	quest.1D57C823A1F0203C.title: "蒸汽采矿钻头"
 	quest.1DB0824C333DDA8E.quest_desc: [
-		"用&b能量升级&r来对抗&b速度升级&r。"
+		"用&b能量升级&r来对抗&b速度升级&r吧！"
 		""
-		"&b能量升级&r能够增加机器的&e能效&r，大大降低了机器消耗的能量。"
+		"&b能量升级&r能够增加机器的&e能效&r，大大减少机器消耗的能量。"
 	]
 	quest.1DB0824C333DDA8E.title: "能量升级"
 	quest.1DD2C904A7C4E29B.quest_desc: ["&b终极物流管道&r能够以&a每秒128个物品&r的速度将物品抽出到传输网络中，并以&a每秒10.0米&r的速度传输物品。"]
@@ -1624,7 +1624,7 @@
 	quest.21584ECDBB6907DE.title: "什么是tick？"
 	quest.21586F8B123BFCC3.quest_desc: ["&b放射性废料桶&r能够以一个固定速率使存储其中的各种&2放射性流体&r缓慢&7衰变&r。"]
 	quest.21586F8B123BFCC3.title: "真正的能源，真正的痛苦"
-	quest.216C2D79B2481DA3.quest_desc: ["每个网络中的&b高级通用线缆&r都能容纳&e51.2 kFE&r，每增加一个线缆，网络总传输速率就增加&e51.2 kFE/t&r。"]
+	quest.216C2D79B2481DA3.quest_desc: ["网络中&e每个&r&b高级通用线缆&r能够容纳&e51.2 kFE&r。每增加一个线缆，网络总传输速率就增加&e51.2 kFE/t&r。"]
 	quest.216C2D79B2481DA3.title: "高级通用线缆"
 	quest.217C5C65AFC95842.quest_desc: [
 		"小巧且适用于近地工作……比如建筑、采矿、修筑洞穴顶板等等。"
@@ -1661,9 +1661,9 @@
 		""
 		"机器和建筑结构的顶点。"
 		""
-		"几乎&a一切&r都需要这种金属。"
+		"几乎&a一切&r都需要用到这种金属。"
 		""
-		"将&8炭&r&6灌注&r进&7铁&r中&6两次&r，&6烧炼&r最终的产物，就能得到钢。"
+		"将&8碳&r&6灌注&r进&7铁&r中&6两次&r，&6烧炼&r最终的产物，就能得到钢。"
 	]
 	quest.21E51BEA3B8E3EDC.title: "钢锭"
 	quest.21EDEEE1A1B82B53.quest_desc: ["  加工&b钛钻&r采集的&b铱矿石&r获得，可用于生产&b铱粉&r，再制成&b超导体粉&r——一种超级强大的能量传输与存储材料。"]
@@ -1768,19 +1768,19 @@
 	quest.24B44DAA8C43CF11.quest_desc: [
 		"&b配置器&r不止是一个扳手，它还可以用来&6配置&r任意种类的&a输入&r和&c输出&r。"
 		""
-		"按住&6Shift滚动滚轮&r可以选择所需的&3模式&r，模式会显示在屏幕下方。"
+		"按住&6shift滚动鼠标滚轮&r可以选择所需的&3模式&r，模式会显示在屏幕下方。"
 		""
-		"处于&e配置&r模式时，依据不同的配置类型，你可以在不使用GUI的情况下&6配置&r&b机器&r的各个面。"
+		"处于&e配置&r模式时，依据不同的配置类型，你可以在不使用GUI的情况下&6配置&r&b机器&r的侧面。"
 		""
-		"处于&7空&r模式时，&6潜行右击&r可以清空机器内的物品。"
+		"处于&7空&r模式时，&6shift右击&r可以清空机器内的物品。"
 		""
-		"处于&a旋转&r模式时，你可以通过&6右击&r&o和&f&6潜行右击&r来旋转机器，机器旋转的方向与右击的面有关。"
+		"处于&a旋转&r模式时，你可以通过&6右击&r&o和&f&6shift右击&r来旋转机器，机器旋转的方向与右击的面有关。"
 		""
 		"&6右击&r时，&b机器&r的正面会面对你点击的面。"
 		""
-		"&6潜行右击&r时，&b机器&r的正面会背对你点击的面。"
+		"&6shift右击&r时，&b机器&r的正面会背对你点击的面。"
 		""
-		"处于&9扳手&r模式时，&6潜行右击&r可以破坏机器，机器内的&b物品&r、&e能量&r和&d配置&r会保留。"
+		"处于&9扳手&r模式时，&6shift右击&r可以破坏机器，机器内的&b物品&r、&e能量&r和&d配置&r会保留。"
 	]
 	quest.24B44DAA8C43CF11.title: "配置器"
 	quest.24D4796E0026F9F7.quest_desc: [
@@ -1839,11 +1839,11 @@
 	quest.264F371D2A18EAEC.quest_desc: [
 		"&b基础加压管道&r能够&6传输&r各种东西，比如&e气体&r、&a灌注物&r、&d颜料&r和&5浆液&r。"
 		""
-		"每个管道可以给网络增加&94,000mb/t&r的总容量和基本速率。"
+		"每个管道可以给网络增加&94,000mb/t&r的总容量和基础传输速率。"
 		""
-		"如果管道本身&6抽出&r物品，泵速将限制在&9750mb/t&r。"
+		"如果靠管道自身&6抽出&r物品，那么泵速将限制在&9750mb/t&r。"
 		""
-		"如果机器或容器自动将物品输入进管道，那么每个网络中的管道将提供&94000mb/t&r的传输速率。"
+		"如果由机器或容器自动将物品输入进管道，那么网络中的每个管道将提供&94000mb/t&r的传输速率。"
 	]
 	quest.264F371D2A18EAEC.title: "基础加压管道"
 	quest.2675A4EA019B383F.quest_desc: [
@@ -2010,13 +2010,13 @@
 	quest.2A68AB7D1EDD44BD.quest_desc: [
 		"&b结构玻璃&r是一种透明方块，适用于几乎所有&e多方块结构&r。"
 		""
-		"推荐你试一下用结构方块搭建&b动态储罐&r的外壁，但框架部分仍需使用动态储罐方块搭建。"
+		"推荐你试一下用结构玻璃搭建&b动态储罐&r的外壁，但框架部分仍需使用动态储罐方块搭建。"
 	]
 	quest.2A68AB7D1EDD44BD.title: "结构玻璃"
 	quest.2AABAC42E7880AA1.quest_desc: [
-		"每个&b精英加压管道&r都会给管道网络增加&9256,000mb/t&r的总容量和基本速率。"
+		"&9每个&r&b精英加压管道&r都会给管道网络增加&9256,000mb/t&r的总容量和基础传输速率。"
 		""
-		"每个“&a抽出&r”管道的泵速都限制在&964,000mb/t&r。"
+		"“&a抽出&r”管道的泵速限制在&964,000mb/t&r。"
 	]
 	quest.2AABAC42E7880AA1.title: "精英加压管道"
 	quest.2AB5183A0BD8D387.quest_desc: [
@@ -2095,9 +2095,9 @@
 	]
 	quest.2BC64E1EB1BCE14D.title: "不锈钢钻"
 	quest.2BDE797C32E308D3.quest_desc: [
-		"每个&b终极加压管道&r都会给管道网络增加&91,024,000mb/t&r的总容量和基本速率。"
+		"&9每个&r&b终极加压管道&r都会给管道网络增加&91,024,000mb/t&r的总容量和基础传输速率。"
 		""
-		"每个“&a抽出&r”管道的泵速都限制在&9256,000mb/t&r。"
+		"“&a抽出&r”管道的泵速限制在&9256,000mb/t&r。"
 	]
 	quest.2BDE797C32E308D3.title: "终极加压管道"
 	quest.2BF12A2184F8E99D.title: "柿子"
@@ -2286,7 +2286,7 @@
 	quest.2F9560A5281DCDFD.title: "&3团队&7与&2区块声明"
 	quest.2F993B0F106DB883.quest_desc: ["压印器使用b压印模板&f与原材料制作处理器。"]
 	quest.2F993B0F106DB883.title: "压印器"
-	quest.2FA7A5966FEF6701.quest_desc: ["每个&b精英机械管道&r可以提供&9128,000mb&r流体容纳量，并为每个“&a抽出&r”管道提供&932,000mb/t&r抽出速度。"]
+	quest.2FA7A5966FEF6701.quest_desc: ["每个&b终极机械管道&r可以提供&9128,000mb&r流体容纳量，且“&a抽出&r”管道的抽出速率为&932,000mb/t&r。"]
 	quest.2FA7A5966FEF6701.title: "终极机械管道"
 	quest.2FB2FE782B1103D6.quest_desc: [
 		"  你的第二个多方块结构：&b蒸汽高炉&r来喽！它跟焦炉长得差不多，但是比焦炉高一层，而且用的是&b耐火黏土&r而不是普通的&b红砖&r。"
@@ -2755,7 +2755,7 @@
 		"- &b合成盔甲&r。"
 		"- 村民交易 (&2暗影导师&r)"
 	]
-	quest.39A4FF688D140EC2.quest_desc: ["&b物流分类机&r是一台&6基于过滤自动分类的机器&r，不仅可以用&b过滤器&r将&3物品&r&6输送&r到各处，还可以选择你想在网络中过滤（或者不过滤）的物品。用&b辞典&r可以查找物品和方块的标签，帮你更&6轻松&r地编辑特定的过滤器。"]
+	quest.39A4FF688D140EC2.quest_desc: ["&b物流分类机&r是一台&6基于过滤自动分类的机器&r，不仅可以将&3物品&r&b过滤&r后进行点对点&6输送&r，还可以控制经过过滤（或者未经过过滤）的物品被输送到网络的何处。用&b辞典&r可以查找物品和方块的标签，帮你更&6轻松&r地编辑特定的过滤器。"]
 	quest.39A4FF688D140EC2.title: "物流分类机"
 	quest.39CF27CAC4EE33DB.quest_desc: [
 		"- &6右击&9水源&r或者&9流动的水&r来给它装水。"
@@ -2895,9 +2895,9 @@
 	quest.3D5B74D9663AAB5A.quest_desc: [
 		"&b热力发电机&r是一个简易的能量源，依靠周围的&c热源&r来发电。"
 		""
-		"&b热力发电机&r能够从&a七个&r地方吸收&c热量&r，其中&a六个&r是它的六个面。剩下的一个是发电机本身，它可以&4装载熔岩&r。虽然它不会&6产生&r大量能量，但在游戏初期可以算是很多了！"
+		"&b热力发电机&r能够从&a七个&r地方吸收&c热量&r，其中&a六个&r是它的六个面。剩下的一个是发电机本身，它可以&4装载熔岩&r。虽然它能&6产生&r的能量不多，但在游戏初期也算不少了！"
 		""
-		"除了放&c热&r&b方块&r和&7流体&r以外，&b热导线缆&r的热量也能够用来发电。"
+		"除了放&c热&r的&b方块&r和&7流体&r以外，&b热导线缆&r的热量也能够用来发电。"
 	]
 	quest.3D5B74D9663AAB5A.title: "热力发电机"
 	quest.3D7406A517FA591D.quest_desc: ["你可以使用这些&b材料&r来&6建造&r第一个&b压力室&r。"]
@@ -2922,7 +2922,7 @@
 	quest.3E1B0CBA0889C0AE.quest_subtitle: "For the well-heeled landed Gantry"
 	quest.3E212B5DE277B73A.quest_subtitle: "哼 哼"
 	quest.3E41681892FA2E44.quest_desc: ["放置在&b样板供应器&r或&bME接口&r中，就能让它们给接触的方块/线缆提供能量。"]
-	quest.3E62028A2B03EEA4.quest_desc: ["&b精英热导线缆&r拥有&a1.0&r点&4热容&r，&e5.0&r点热导，但热阻为&c8000.0&r。"]
+	quest.3E62028A2B03EEA4.quest_desc: ["&b精英热导线缆&r拥有&a1.0&r点&4热容&r，&e5.0&r点热导，但热阻为&c8000.0&r点。"]
 	quest.3E62028A2B03EEA4.title: "精英热导线缆"
 	quest.3E8C6BD8557C6F08.quest_desc: [
 		"在你使用手稿解锁了邪术法术卷轴之后，你可以在卷轴撰写台中使用回响碎片来制作邪术法术。这些卷轴只能用传说墨水来制作。"
@@ -3194,7 +3194,7 @@
 		""
 		"&9250mb/t&r泵速只应用于“&c抽出&r”端，对“&a输入&r”端没有限制。"
 		""
-		"举个例子：如果你放置了两个“抽出”管道，流体将以&9500mb/t&r的速度抽出到管道网络中，而所有“&a输入&r”管道都可以以&9500mb/t&r的速度输入流体（只有一个管道时同样如此）。"
+		"举个例子：如果你放置了两个“抽出”管道，&7流体&r将以&9500mb/t&r的速度抽入到管道网络中，而所有可用的“&a输入&r”管道会以总速率为&9500mb/t&r的速率将流体输出管道（即使只有一个输入管道时同样如此）。"
 	]
 	quest.43985FE38B0EBCB5.title: "基础机械管道"
 	quest.439D48E9647FC8C2.quest_desc: [
@@ -3345,7 +3345,7 @@
 		""
 		"{image:justdirethings:item/raw_blazegold width:100 height:100 align:center fit:true}"
 	]
-	quest.462944FD21A92AED.quest_desc: ["&4灌注合金&r是你要制作的第一种合金，将&c红石灌注&r进&6铜&r里，就可以制作出一种超导金属，用于组成&a电路&r。"]
+	quest.462944FD21A92AED.quest_desc: ["&4灌注合金&r是你要制作的第一种合金。将&c红石灌注&r进&6铜&r里，就可以制作出一种导电性更好的金属，用于组成&a电路&r。"]
 	quest.462944FD21A92AED.title: "灌注合金"
 	quest.465ECB57BFCF5291.quest_desc: ["生成的生物将为无AI状态。"]
 	quest.465ECB57BFCF5291.quest_subtitle: "+ 无AI"
@@ -3598,21 +3598,21 @@
 	quest.4BDF01E28F247553.quest_subtitle: "示例法术"
 	quest.4BDF01E28F247553.title: "巫师之弩（3级）"
 	quest.4BF483174CC0A0F1.quest_desc: [
-		" When &6powered&r, does not lose durability."
+		"当&6存有能量&r时，不会损耗耐久度。"
 		""
-		"  New, additional &bupgrades&r supported:"
+		"可支持新增的&b升级&r："
 		""
-		"• &bPickaxe&r: &cDrops Teleporter&r"
-		"• &bShovel&r: &cDrops Teleporter&r"
-		"• &bAxe&r: &cDrops Teleporter&r"
-		"• &bHoe&r: &cDrops Teleporter&r"
-		"• &bSword&r: &cDrops Teleporter&r"
-		"• &bBow&r: &cLingering&r, &cHoming Arrow&r"
+		"• &b镐&r：&c掉落物传送&r"
+		"• &b铲&r：&c掉落物传送&r"
+		"• &b斧&r：&c掉落物传送&r"
+		"• &b锄&r：&c掉落物传送&r"
+		"• &b剑&r：&c掉落物传送&r"
+		"• &b弓&r：&c滞留&r，&c追踪箭矢&r"
 		""
 		"{image:justdirethings:item/celestigem_shovel_active width:100 height:100 align:center fit:true}"
 	]
-	quest.4BF483174CC0A0F1.quest_subtitle: "Away with You!"
-	quest.4BF483174CC0A0F1.title: "Celestigem Tools \\& Weapons"
+	quest.4BF483174CC0A0F1.quest_subtitle: "滚开！"
+	quest.4BF483174CC0A0F1.title: "苍穹晶工具\\&武器"
 	quest.4C23B5A6A57A13C0.quest_desc: ["&b安全设置台&r是一个中央安全系统，用来管理你拥有的全部机器。"]
 	quest.4C23B5A6A57A13C0.title: "安全设置台"
 	quest.4C357D8CF72B8F25.quest_subtitle: "在下界的稀有结构中出现。"
@@ -3629,31 +3629,31 @@
 	quest.4CD943F9416FB352.title: "能源元件"
 	quest.4D02897DB2CE4C25.title: "芥末"
 	quest.4D05AA18CF654D70.quest_desc: [
-		"  &bFerricore Tools and Weapons&r are as strong and durable as their &biron equivalents&r."
+		"&b核源铁工具和武器&r与它们的&b铁制等价物品&r一样坚固耐用。"
 		""
-		"  They can also be &6upgraded&r to higher tiers with the appropiate &btemplate&r."
+		"它们也可以使用合适的&b模板&r&6升级&r到更高的等级。"
 		""
-		"  They can accept &bupgrades&r for a variety of &6special abilities&r."
+		"它们可以接受各种&6特殊能力&r的&b升级&r。"
 		""
-		"• &bPickaxe&r: &cOre Miner&r, &cOre Scanner&r"
-		"• &bAxe&r: &cTree Feller&r, &cLeaf Breaker&c"
-		"• &bShovel&r: &cLawn Mower&r, &cSky Sweeper&r"
-		"• &bSword&r: &cMob Scanner&r"
-		"• &bBow&r: &cPotion Arrow&r"
-		"• &bHoe&r: none this tier"
+		" • &b镐&r：&c矿石采掘&r，&c矿石扫描&r"
+		" • &b斧&r：&c伐木&r，&c除叶&r"
+		" • &b铲&r：&c割草&r，&c垂直清扫&r"
+		" • &b剑&r：&c生物扫描&r"
+		" • &b弓&r：&c药箭&r"
+		" • &b锄&r：本等级无特殊能力"
 		""
 		"{image:justdirethings:item/ferricore_axe_active width:100 height:100 align:center fit:true}"
 	]
-	quest.4D05AA18CF654D70.quest_subtitle: "Upgradable Tools \\& Weapons"
-	quest.4D05AA18CF654D70.title: "Ferricore Tools \\& Weapons"
+	quest.4D05AA18CF654D70.quest_subtitle: "可升级的工具\\&武器"
+	quest.4D05AA18CF654D70.title: "核源铁工具\\&武器"
 	quest.4D1B83E147CC16AE.quest_desc: [
-		"  &bVoidShimmer Soil&r not only auto harvests crops, but also &6teleports&r their drops to a designated &bstorage container&r."
-		"  "
-		"  It also retains the &6trample resistance&r of previous soil tiers, with a further &6boost to crop growth speed.&r"
+		"&b虚空辉壤&r不仅可以自动收割作物，还能将它们的掉落物&6传送&r到指定的&b存储容器&r中。"
+		""
+		"它还保留了之前等级土壤的&6践踏抗性&r，并进一步&6提升作物生长速度&r。"
 		""
 		"{image:justdirethings:block/goofarmland_tier3_moist width:100 height:100 align:center fit:true}"
 	]
-	quest.4D1B83E147CC16AE.quest_subtitle: "AutoCrops, Roll Out!"
+	quest.4D1B83E147CC16AE.quest_subtitle: "自动收割，推出！"
 	quest.4D5787F48ECCB000.quest_desc: [
 		"&b钢酿造厂&r可以同时&6自动&r酿造&a4&r瓶药水，而且比普通的酿造台速度快不少。"
 		""
@@ -3661,12 +3661,12 @@
 	]
 	quest.4D5787F48ECCB000.quest_subtitle: "一次酿&e4&r瓶。"
 	quest.4D59020A532C4E92.quest_desc: [
-		"   I bet you can &6figure&r &bthis one&r out. xD"
+		"我打赌你&6认识&r&b这个&r。xD"
 		""
 		""
 		"{image:justdirethings:item/creaturecatcher_top_animation width:100 height:100 align:center}"
 	]
-	quest.4D59020A532C4E92.quest_subtitle: "Here, Kitty Kitty."
+	quest.4D59020A532C4E92.quest_subtitle: "这里，猫咪猫咪。"
 	quest.4D7F6656A6A38EE0.quest_desc: ["用于从&5网络&f中输出&4能量&f"]
 	quest.4DAFFFDC31A78665.quest_desc: ["将&b铁块&f放入&b充能器&f来制作压印模板，用于制作&b能量处理器&f。"]
 	quest.4DBDCEA0761F1D3B.quest_desc: [
@@ -3901,15 +3901,15 @@
 	quest.51542DCB5C8E5C3A.quest_desc: ["更高一级的法术书也只能容纳6个法术"]
 	quest.51649293068FE93D.quest_desc: ["&bRotational Chasis&r and &bLinear Chassis&r &6help&r build contraptions without superglue."]
 	quest.516F2A1A1270D9DC.quest_desc: [
-		"  &bSimple&r:"
-		"    • &bBlocks&r get &6broke&r"
-		"    • &6Uses&r &btool&r if given"
-		"    • &eSpeed&r and &eorientation&r controls"
-		"    • Optional &4redstone&r sensitivity"
+		"&b初级方块破坏器&r："
+		"    • &6破坏&r&b方块&r"
+		"    • 如果提供了&b工具&r，则会&6使用&r"
+		"    • &e速度&r和&e方向&r控制"
+		"    • 可选&4红石&r感应"
 		""
-		"  &bAdvanced&r:"
-		"    • Adds &6filtering&r and &3offset AOE&r"
-		"    • Needs &cpower&r"
+		"&b高级方块破坏器&r："
+		"    • 添加&6过滤&r和&3偏移范围&r"
+		"    • 需要&c能量&r"
 		""
 		"{image:justdirethings:block/blockbreakert2_side width:100 height:100 align:center}"
 	]
@@ -3968,7 +3968,7 @@
 	quest.52AD3D58B644AA30.quest_desc: [
 		"&b风力发电机&r用&7风&r来产生&e能量&r！"
 		""
-		"它是一个“&a放置游戏&r”，就是说你不需要与它交互。"
+		"它是一个“&a放下来就能用&r”的东西，也就是说它不需要玩家的交互。"
 	]
 	quest.52AD3D58B644AA30.title: "风力发电机"
 	quest.52BB8CBB7118C793.quest_desc: [
@@ -3992,9 +3992,9 @@
 	quest.534B63750942C433.quest_desc: [
 		"这条科技线的第一个电路就是&b基础控制电路&r。"
 		""
-		"它的制作简单，只需要将&4红石&r灌注进&9锇&r里。"
+		"它的制作很简单，只需要将&4红石&r灌注进&9锇&r里即可。"
 		""
-		"你会用到很多，多多制作吧。"
+		"它的用量会很大，多多制作吧。"
 	]
 	quest.534B63750942C433.title: "基础控制电路"
 	quest.5358F626FAFBEDD3.quest_desc: ["&6喂养&r奇美拉可使其 &6成长&r，并增强它的力量。长得足够大后，你可以&6骑乘&r它。"]
@@ -4082,13 +4082,13 @@
 	quest.553EB688C3FFD7E4.quest_desc: ["&b基础融合工厂&r能够同时处理&a三个&r融合配方。"]
 	quest.553EB688C3FFD7E4.title: "基础融合工厂"
 	quest.55542D5D7CDA77A5.quest_desc: [
-		"  &6Transforms&b:"
+		"&6转换&b："
 		""
-		"• &bGold&r blocks into &b&nraw blazegold ore&r"
+		"• &b金块&r转换为&b&n粗烈焰金矿簇&r"
 		""
-		"• &bIron&r blocks into &b&oraw ferricore ore&r"
+		"• &b铁块&r转换为&b&o粗核源铁矿簇&r"
 		""
-		"Works faster than &bprimogel goo&r."
+		"比&b原初浆凝胶&r更快。"
 		""
 		"{image:justdirethings:block/gooblock_tier2 width:100 height:100 align:center fit:true}"
 	]
@@ -4247,7 +4247,7 @@
 		""
 		"使用&b锻造台&f来对你的建筑棒进行升级，这需要消耗&6铜块&f。"
 	]
-	quest.5A4E9D4056DA2C67.quest_desc: ["每个网络中的&b精英通用线缆&r都能容纳&e409.6 kFE&r，每增加一个线缆，网络总传输速率就增加&e409.6 kFE/t&r。"]
+	quest.5A4E9D4056DA2C67.quest_desc: ["网络中&e每个&r&b精英通用线缆&r能够容纳&e409.6 kFE&r。每增加一个线缆，网络总传输速率就增加&e409.6 kFE/t&r。"]
 	quest.5A4E9D4056DA2C67.title: "精英通用线缆"
 	quest.5A5583EA02C78372.quest_desc: [
 		"一艘升级版的飞艇，拥有大量的存储空间。"
@@ -4418,7 +4418,7 @@
 		""
 		"&4提示&r：需要消耗每种药水各&92份&r，才能制作出&41份&r混合药水。"
 	]
-	quest.5FBAD421F88943B6.quest_desc: ["&b转运管道&r可以通过&4红石信号&r&6控制&r&6输送&r&3物品&r的方向，&b转运管道&r的每个面都可以用&b配置器&r进行配置。"]
+	quest.5FBAD421F88943B6.quest_desc: ["你可以通过&4红石信号&r&6控制&r&b转运管道&r&6输送&r&3物品&r的方向。&b转运管道&r的每个面都可以用&b配置器&r进行配置。"]
 	quest.5FBAD421F88943B6.title: "转运管道"
 	quest.5FCE0573AA70913A.quest_subtitle: "完成对应任务章节。"
 	quest.5FCE0573AA70913A.title: "&4Just Dire Things"
@@ -4611,7 +4611,7 @@
 	quest.64287B360B07BEBB.quest_desc: ["-可将&c至多&r&a64&r个机器&6链接&r起来。"]
 	quest.64287B360B07BEBB.quest_subtitle: "连起来！"
 	quest.6441C36C63A59445.title: "&ePipeZ"
-	quest.644B280698D65076.quest_desc: ["每个网络中的&b终极通用线缆&r都能容纳&e3.27 MFE&r，每增加一个线缆，网络总传输速率就增加&e3.27 MFE/t&r。"]
+	quest.644B280698D65076.quest_desc: ["网络中&e每个&r&b终极通用线缆&r能够容纳&e3.27 MFE&r。每增加一个线缆，网络总传输速率就增加&e3.27 MFE/t&r。"]
 	quest.644B280698D65076.title: "终极通用线缆"
 	quest.64D625C86F3AB75C.quest_desc: ["眼魔可以使附近的生物&b发光&r，并向&b敌人&r&6发射&r激光。"]
 	quest.64D625C86F3AB75C.quest_subtitle: "电眼逼人！"
@@ -4805,9 +4805,9 @@
 	quest.68107A111627BD77.quest_desc: ["&b采掘小帮手&f消耗&4能量&f而非&a耐久度&f。"]
 	quest.68107A111627BD77.title: "采掘小帮手"
 	quest.681A718388A97FFC.quest_desc: [
-		"&b降噪升级&r能够完全静音机器。"
+		"&b降噪升级&r能够几乎完全静音机器。"
 		""
-		"适合在想要安静氛围的情况下使用。"
+		"适合在想要安静氛围时使用。"
 	]
 	quest.681A718388A97FFC.title: "降噪升级"
 	quest.682D1178AF51998C.quest_desc: ["制作任一符文，用于最适配的魔法盔甲或升级你想要的法球。"]
@@ -5247,7 +5247,7 @@
 	quest.6FA1BD39E9BB9392.quest_desc: ["&b终极融合工厂&r能够同时处理&a九个&r融合配方。"]
 	quest.6FA1BD39E9BB9392.title: "终极融合工厂"
 	quest.6FD3C9B4EF558332.quest_desc: ["Brassy on the edges, but classy-not-brassy all over."]
-	quest.6FDE684299FEC954.quest_desc: ["每个&b精英机械管道&r可以提供&932,000mb&r流体容纳量，并为每个“&a抽出&r”管道提供&98,000mb/t&r抽出速度。"]
+	quest.6FDE684299FEC954.quest_desc: ["每个&b精英机械管道&r可以提供&932,000mb&r流体容纳量，且“&a抽出&r”管道的抽出速率为&98,000mb/t&r。"]
 	quest.6FDE684299FEC954.title: "精英机械管道"
 	quest.6FE07EECD4579FD4.quest_desc: [
 		"  The &bEclipse Gate Wand&r's &6abilities&r are:"
@@ -5519,7 +5519,7 @@
 	quest.7529F840525E5BDF.title: "终极感应元件"
 	quest.7533E0212EFE326D.quest_subtitle: "面向&e蜂箱&r放置时，可将&6蜂蜜&r以&b流体形式&r抽取出来。"
 	quest.754B6893342E703D.quest_desc: [
-		"&b高级灌注工厂&r能够同时处理最多&a五个&r灌注配方，同样包含\"&6自动分类&r\"功能。"
+		"&b高级灌注工厂&r能够同时进行最多&a五个&r物品的灌注，同样有“&6自动分类&r”功能。"
 		""
 		"同时，&b高级灌注工厂&r能够容纳最多&14,960 mb&r灌注材料。"
 	]
@@ -5568,7 +5568,7 @@
 	quest.7610F9A545A15194.quest_desc: [
 		"&b太阳能发电机&r用&6太阳&r来产生&e能量&r。"
 		""
-		"显然，&6太阳&r一落山，&e能量&r就不再产生了。"
+		"显然，&6太阳&r一落山，它就不会产生&e能量&r了。"
 	]
 	quest.7610F9A545A15194.title: "太阳能发电机"
 	quest.768973710C811CB1.quest_subtitle: "二型——更多配件，更加新潮！"
@@ -5668,7 +5668,7 @@
 		"反物质球用来制作你能想到的最&6强力&r的&9升级&r和&9机器&r。"
 	]
 	quest.79515634992D02A3.title: "反物质"
-	quest.7992491EE3E2BED3.quest_desc: ["&b高级热导线缆&r拥有&a1.0&r点&4热容&r，&e5.0&r点热导，但热阻为&c400.0&r。"]
+	quest.7992491EE3E2BED3.quest_desc: ["&b高级热导线缆&r拥有&a1.0&r点&4热容&r，&e5.0&r点热导，但热阻为&c400.0&r点。"]
 	quest.7992491EE3E2BED3.title: "高级热导线缆"
 	quest.79A693466BF51105.quest_desc: ["这根探测杖可以定位&d珍贵&r材料，并且有极高的耐久度。"]
 	quest.79A693466BF51105.quest_subtitle: "我能看到一切"
@@ -5774,7 +5774,7 @@
 	quest.7BB4CE27736F4C08.quest_desc: [
 		"动态储罐的最后一部分就是&b动态储罐阀门&r。"
 		""
-		"阀门可以放置在&e多方块结构&r的任意位置，以便与储罐&6互动&r，将流体&a输入&r储罐或从储罐中&c抽出&r。"
+		"阀门可以放置在&e多方块结构&r的任意位置，以便与储罐&6交互&r，将流体&a输入&r储罐或从储罐中&c抽出&r。"
 	]
 	quest.7BB4CE27736F4C08.title: "动态储罐阀门"
 	quest.7BC09DD0D14DE860.title: "菠萝"
