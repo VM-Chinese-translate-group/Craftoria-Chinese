@@ -136,11 +136,11 @@
 	]
 	quest.038AAFBA1E0DEF7E.quest_subtitle: "机械动力人士必备"
 	quest.03CF6D6277D93A4A.quest_desc: [
-		"&b滴管&r是一种有用的工具，可以用来从&9内部缓存&r中一次性&6转移&r最多&a16&r桶&7流体&r。"
+		"The &bGauge Dropper&r is a useful tool to &6move&r up to &a16&r buckets of &7fluid&r at a time directly from an &9inventory&r. "
 		""
-		"滴管以后可以帮助你精准&6配置&r机器。"
+		"This will help you to &6configure&r machines properly in the future. "
 		""
-		"&6左击&r将&7流体&r吸入，&6右击&r将其挤出。"
+		"&6Right Click&r to deposit the &7fluid&r and &6Left Click&r to pick it up."
 	]
 	quest.03CF6D6277D93A4A.title: "滴管"
 	quest.03E0ADE2191CC3FB.quest_desc: ["每个&b高级感应元件&r可以为你的感应矩阵增加&e25.6 GFE&r的能量存储上限。"]
@@ -295,17 +295,17 @@
 	]
 	quest.07F1FA5EF3E6A7F3.title: "&c柴油"
 	quest.07FE9074247583EE.quest_desc: [
-		"  Now, you might have noticed I said \"usually\" when talking about interacting with the controller. This means items and &6fluids cannot be inputted or outputted from the controller&r, but information can; in the sense of statistics. Looking into the controller you will see a few things: Shape Validity, Status, Progress, Recipe Base, and Recipe Current."
+		"  你可能已经注意到了，我在描述控制器的交互性时用的词是“通常”。也就是说，虽然物品和&6流体不能通过控制器输入/输出&r，但是信息可以——以参数的形式。打开控制器，你会看到这些东西：结构有效性、状态、进度、配方基础和当前配方。"
 		""
-		"  The Shape Validation will let you know if the &6multiblock is built correctly or not&r. It will not tell you if you are missing or have too many hatches on the multiblock, so you need to decide that for yourself. Keep in mind that multiblock structures &omay&r share blocks with one another so long as these overlapping block do NOT contain a hatch."
+		"  结构有效性是指示该&6多方块结构搭建是否正确&r的。但它不会告诉你多方块结构中是否缺少或者有太多的仓，所以这个得靠你自己。还有请记住，多个多方块结构之间&o可以&r共用一些方块，前提是共用部分不包含仓。"
 		""
-		"  Status will let you know the current status of the Multiblock. If it's idle or if it's active."
+		"  状态可以指示该多方块结构现在处于空闲还是工作状态。"
 		""
-		"  Progress will show you the progress, slowly building a percent to 100%. Depending on the speed of the process, the faster the percent will rise."
+		"  进度可指示当前进程的进度，它会慢慢达到100%，百分比上升的速度取决于当前进程的速度。"
 		""
-		"  Recipe Base shows the &6base recipe energy/steam consumption&r. Depending on what you're making, it uses a minimum amount of energy/steam, but it can use more to speed up the process. This doesn't happen on steam machines so I won't got too far into it now."
+		"  配方基础可指示&6当前配方的基础能量/蒸汽消耗量&r。这是当前配方的最低能耗，你可以提高能耗来加速进程。不过这不适用于蒸汽机，所以我就先不展开讲了。"
 		""
-		"  Recipe Current is the&6 current amount of energy/steam being actually consumed&r."
+		"  当前配方可指示&6当前实际的能量/蒸汽消耗量&r。"
 	]
 	quest.07FE9074247583EE.title: "多方块结构控制器"
 	quest.0807F0094282C2D5.quest_desc: [
@@ -667,11 +667,11 @@
 	quest.110B0C8DD2FD5BE7.quest_desc: [
 		"欢迎来到这个由&7固体&r、&b液体&r、&9气体&r和&e电力&r构成的世界！"
 		""
-		"你将在&a游玩&r的过程中&6制造&r并&6升级&r&b各种机器&r，精炼处理各种&b资源&r；&6产出&r大量&e能源&r；武装自己，应对世界中的种种&2敌对生物&r。"
+		"你将在&a游玩&r的过程中&6制造&r并&6升级&r&b各种机器&r，精炼处理各种&b资源&r；&6产出&r大量&e能量&r；&7武装自己&r，应对世界中的种种&2敌对生物&r。"
 		""
 		"务必使用&dEMI&r来了解对应&b材料&r的&7产线&r。"
 		""
-		"&b锇&r是你马上就会用到的几个最重要的&3资源&r之一。"
+		"&b锇&r是你将会用到的几种最重要的&3资源&r之一。"
 		""
 		"你用到的每个&a电路&r，都以锇为核心&7金属&r制作而成。"
 		""
@@ -930,7 +930,7 @@
 		"{image:modern_industrialization:block/machines/mixer/overlay_top_active width:32 height:32 align:center}"
 		"  这是一个外壳光滑的青铜机器，顶部嵌着一个闪闪发光的金属碗，碗里是搅拌机的叶片。它可以&6混合&r各种各样的东西！你可以用它来&6混合粉末&r，产率比手工更高，因为这样就不会把粉撒得到处都是了。"
 		""
-		"  它不只可以混合粉末，还可以混合流体。举例：&e润滑剂&r！"
+		"  它不只可以混合粉末，还可以混合流体。例如：&e润滑剂&r！"
 	]
 	quest.16AAEB122CDC1A46.title: "青铜搅拌机"
 	quest.16B74C92EB86AD0C.quest_desc: [
@@ -3033,27 +3033,27 @@
 	quest.40915337B7E427F8.quest_subtitle: "一条真正的火线"
 	quest.40915337B7E427F8.title: "超导体电缆"
 	quest.40EB78C0AF30096E.quest_desc: [
-		"&b冶金灌注机&r是你要制作并使用的第一台机器，你可以将各种&7物质&r&6灌注&r进&b金属&r中，也可以将&b其他金属&r灌注进去。"
+		"&b冶金灌注机&r是你要制作并使用的第一台机器，你可以将各种&7物质&r，包括&b其他金属&r，&6灌注&r进&b金属&r中。"
 		""
-		"GUI的&3左下角&r有一个&7小标签&r，鼠标指针悬停其上时会显示&e能源统计&r。"
+		"它GUI的&3左下角&r有一个&7小标签&r，鼠标指针悬停其上时会显示其&e能量数据&r。"
 		""
-		"GUI的&3右下角&r应该是一个&6开关&r，用来切换&4红石控制状态&r。"
+		"GUI的&3右下角&r应该有一个&6开关&r，用来切换&4红石控制状态&r。"
 		""
 		"&7默认情况&r下，机器忽略&4红石信号&r。"
 		""
-		"GUI的&3左上角&r是一个用来&6配置&r&b机器&r侧面的按钮，你可以&6控制&r各个面的&a输入&r，&c输出&r，&e输入/输出&r，接受&6能量&r，或者对机器接收的&b资源&r&7不作处理&r。"
+		"GUI的&3左上角&r是&6配置&r&b机器&r侧面的按钮。机器涉及的每种形式的&b资源&r都在其中有自己的配置页面，你可以&6控制&r哪个侧面用于&a输入&r、&c输出&r、&e输入/输出&r、接受&6能量&r，或者&7不进行任何操作&r。"
 		""
 		"&3侧面配置按钮下方&r，是&7传输配置标签&r，与&b物流管道&r一同使用，可以在管道网络中&e过滤&r并&a输送&r物品。"
 		""
-		"GUI的&3右上角&r是一个标有&9箭头&r的按钮，用来给&b机器&r&6安装&r&b升级&r，我们之后会详细介绍&b升级&r，每台机器只能安装最多&a32&r个升级。"
+		"GUI的&3右上角&r有一个标有&9箭头&r的按钮，用来给&b机器&r&6安装&r&b升级&r，我们之后会详细介绍&b升级&r，每台机器最多只能安装&a32&r个升级。"
 		""
 		"&3升级按钮下方&r的按钮可以用来&6锁定机器&r，使其只能由你&a私用&r。"
 		""
 		"GUI&3中部的左侧&r，有一个写着&c“DUMP”&r的按钮，这个按钮可以&6排出&r剩余的&7灌注材料&r，灌注材料显示在&3按钮旁&r的条形栏中。"
 		""
-		"而&3右侧&r有一个&a绿色槽位&r，放置在这个槽位的物品可以给&b机器&r&e供能&r，除了使用&7电池&r等储&e电&r&b设备&r，&b粉状或块状&r的&4红石&r也可以用来供能。依此，你可以使用&8固体“燃料”&r轻松地为&b机器&r&e供电&r，还有一种选择，之后再进行介绍。"
+		"而&3右侧&r有一个&a绿色槽位&r，放置在这个槽位的物品可以给&b机器&r&e供能&r，除了使用&7电池&r等储&e电&r&b设备&r，&b粉状或块状&r的&4红石&r也可以用来供能。依此，你可以使用&8固体“燃料”&r轻松地为&b机器&r&e供电&r。还有一种选择，我之后再介绍。"
 		""
-		"&e能量条&r就显示在能量槽的&3右边&r。"
+		"&e能量条&r就显示在能量槽位的&3右边&r。"
 	]
 	quest.40EB78C0AF30096E.title: "&e基础机械"
 	quest.40F96E2CB2772CB8.quest_desc: [
@@ -3206,7 +3206,7 @@
 		""
 		"  &b锅炉&r会自动开始产生&b蒸汽&r，并把它输送到相邻的机器或者相连的管道中，产量&6至多能达到8毫桶/tick。&r"
 		""
-		"  青铜机器只能执行耗能速率小于等于2EU/tick的配方。使用机器的时候，你会看到“2EU/t”的字样。1毫桶蒸汽相当于1EU——这么简单的换算对我太友好了，毕竟我不喜欢数学。&b锅炉&r达到最高温度时，可以同时给4个机器提供&b蒸汽&r！"
+		"  青铜机器只能执行耗能速率小于等于2EU/tick的配方。使用机器的时候，你会看到“2EU/t”的字样。1毫桶蒸汽相当于1EU——这么简单的换算对我太友好了，毕竟我不喜欢数学。&b锅炉&r达到最高温度时，可以同时给4个机器提供&b蒸汽&r！&o真&r够热的。"
 	]
 	quest.439D48E9647FC8C2.title: "青铜锅炉"
 	quest.43ACFDB5CD949C74.quest_desc: ["使用卷轴撰写台和毒马铃薯来制作自然法术卷轴，这些卷轴能造成中毒伤害或定身敌人。"]
@@ -3383,9 +3383,9 @@
 	quest.470BC1F9873D4852.quest_desc: ["这枚戒指的内部可以&6存储&r一个&b使魔&r，无需它待在你身边也能提供一些它的增益。"]
 	quest.470BC1F9873D4852.quest_subtitle: "形影不离"
 	quest.4722157BC8D3B965.quest_desc: [
-		"  这是一个外壳光滑的青铜机器，里面装着残暴旋转着的刀刃——它可以进一步&6提升切割产率&r，这可比你之前用&b锻压台&r的时候好太多了。&a来多搓点螺栓、齿轮，环和杆之类的东西吧！&r"
+		"  这是一个外壳光滑的青铜机器，里面装有残暴旋转着的刀片——它可以进一步&6提升切割产率&r，这可比你之前用&b锻压台&r的时候好太多了。&a来多搓点螺栓、齿轮，环和杆之类的东西吧！&r"
 		""
-		"  不过呢，这切割也不是完全免费的。这个机器需要&b蒸汽&r才能运行，而且还需要&b润滑剂&r，否则切割的时候就会过热。&b润滑剂&r可用&b搅拌机&r生产，原料是&b红石粉&r加上任意一种烃。去看看&b焦炉&r的产物，那里也许有可以跟&b红石粉&6混合&r的东西！"
+		"  不过呢，这切割也不是完全免费的。这个机器需要&b蒸汽&r才能运行，而且还需要&b润滑剂&r，否则切割的时候就会过热。&b搅拌机&r可以生产&b润滑剂&r，原料是&b红石粉&r加上任意一种烃。去看看&b焦炉&r的产物，那里也许有可以跟&b红石粉&6混合&r的东西！"
 	]
 	quest.4722157BC8D3B965.title: "青铜切割机"
 	quest.473F20C25AAAF017.quest_desc: [
@@ -3868,7 +3868,7 @@
 		""
 		"  手持仓方块时，可以放置它们的位置就会出现绿色框框。多方块结构不会识别放在框外的仓。"
 		""
-		"  &b焦炉&r控制器确认结构有效后，你就可以从&b流体输入仓&r&6输入&b蒸汽&r了。然后将&b煤炭&r或者&b煤粉&r放入&b物品输入仓&r，&b焦炉&r就会点火，开始运行。如果它没有开始工作，你就得回头想想是不是有哪里搞错了。"
+		"  &b焦炉&r控制器确认结构有效后，你就可以向&b流体输入仓&r&6输入&b蒸汽&r了。然后将&b煤炭&r或者&b煤粉&r放入&b物品输入仓&r，&b焦炉&r就会点火，开始运行。如果它没有开始工作，你就得回头想想是不是有哪里搞错了。"
 	]
 	quest.50BFFEAF92B72965.title: "焦炉"
 	quest.50D1398BBF8DBBB2.quest_desc: ["&b电解分离器&r通过一种被称为“&6电解&r”的方式，用&e电&r将分子解离，把各种&7流体&r&6分离&r成构成它们的核心元素。"]
@@ -4607,7 +4607,7 @@
 		""
 		"  从这里开始，&a尽情解放你的想象力吧&r。"
 	]
-	quest.640DB4139DF8AFA4.title: "&d游戏终期"
+	quest.640DB4139DF8AFA4.title: "&d终局"
 	quest.64287B360B07BEBB.quest_desc: ["-可将&c至多&r&a64&r个机器&6链接&r起来。"]
 	quest.64287B360B07BEBB.quest_subtitle: "连起来！"
 	quest.6441C36C63A59445.title: "&ePipeZ"
@@ -5831,9 +5831,9 @@
 	quest.7D0CF81F7E703B71.quest_desc: [
 		"{image:modern_industrialization:block/machines/water_pump/overlay_front_active width:32 height:32 align:center}"
 		""
-		"  你想要自动泵&b水&r吗？现在就可以实现哦！&b水泵&r会自动吸取&b水&r，并&6泵送到相邻的方块中&r。在水泵水平方向的旁边放上水源，再给它提供&b蒸汽&r，它就会开始以1EU/t的能耗产&b水&r了。"
+		"  Wondering about automatic &bWater&r pumping are you? Good thing you can do nearly anything you want! A &bWater Pump&r will automatically collect &bWater&r and &6transfer it to adjacent blocks&r. Make sure to place water sources surrounding the pump horizontally, give it &bSteam&r, and it will start producing &bWater&r for 1 EU/t."
 		""
-		"  每有一个相邻的水源，&b青铜水泵&r每5秒就会生产&6125mb的&b水&r，最大输出速率为每5秒1000mb。"
+		"  The &bBronze Water Pump&r will produce &6125mb of &bWater&r for every adjacent water source every 5 seconds&r, allowing for a maximum output of 1000mb every 5 seconds."
 	]
 	quest.7D0CF81F7E703B71.title: "青铜水泵"
 	quest.7D155344A5A6CEF7.quest_desc: [
