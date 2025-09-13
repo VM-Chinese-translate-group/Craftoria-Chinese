@@ -1766,21 +1766,21 @@
 	quest.24A9E9A5E3B7B041.quest_subtitle: "请出示证件！"
 	quest.24AE78EE11D2AFFD.title: "碎片"
 	quest.24B44DAA8C43CF11.quest_desc: [
-		"&b配置器&r不止是一个扳手，它还可以用来&6配置&r任意种类的&a输入&r和&c输出&r。"
+		"The &bConfigurator&r works as not only a wrench, but a tool to &6configure&r just about any type of &ainput and &coutput&r."
 		""
-		"按住&6shift滚动鼠标滚轮&r可以选择所需的&3模式&r，模式会显示在屏幕下方。"
+		"Holding down &6SHIFT&r and &6scrolling&r will allow you to select which &3mode&r you want to use. The modes show in the bottom left of your screen."
 		""
-		"处于&e配置&r模式时，依据不同的配置类型，你可以在不使用GUI的情况下&6配置&r&b机器&r的侧面。"
+		"When in a &eCONFIGURE&r mode, depending on the type you can &6configure&r the side of a &bmachine&r without needing to use the in-GUI screen for it."
 		""
-		"处于&7空&r模式时，&6shift右击&r可以清空机器内的物品。"
+		"When in &7EMPTY&r mode, you &6SHIFT RIGHT-CLICK&r to empty a machine of items."
 		""
-		"处于&a旋转&r模式时，你可以通过&6右击&r&o和&f&6shift右击&r来旋转机器，机器旋转的方向与右击的面有关。"
+		"When in &aROTATE mode, you can rotate machines by &6RIGHT-CLICK&r &oand&f &6SHIFT RIGHT-CLICK&r depending on the orientation you want relative to the side you click on. "
 		""
-		"&6右击&r时，&b机器&r的正面会面对你点击的面。"
+		"If you &6RIGHT-CLICK&r, the face of the &bmachine&r will face the side you clicked on. "
 		""
-		"&6shift右击&r时，&b机器&r的正面会背对你点击的面。"
+		"If you &6SHIFT RIGHT-CLICK&r, the face of the &bmachine&r will be opposite of the face you clicked on."
 		""
-		"处于&9扳手&r模式时，&6shift右击&r可以破坏机器，机器内的&b物品&r、&e能量&r和&d配置&r会保留。"
+		"When in &9WRENCH&r mode, you can &6SHIFT RIGHT-CLICK&r on a machine to break it, saving it's &bitems&r, &eenergy&r, and &dconfigurations&r."
 	]
 	quest.24B44DAA8C43CF11.title: "配置器"
 	quest.24D4796E0026F9F7.quest_desc: [
@@ -5831,9 +5831,9 @@
 	quest.7D0CF81F7E703B71.quest_desc: [
 		"{image:modern_industrialization:block/machines/water_pump/overlay_front_active width:32 height:32 align:center}"
 		""
-		"  Wondering about automatic &bWater&r pumping are you? Good thing you can do nearly anything you want! A &bWater Pump&r will automatically collect &bWater&r and &6transfer it to adjacent blocks&r. Make sure to place water sources surrounding the pump horizontally, give it &bSteam&r, and it will start producing &bWater&r for 1 EU/t."
+		"  你想要自动泵&b水&r吗？现在就可以实现哦！&b水泵&r会自动吸取&b水&r，并&6泵送到相邻的方块中&r。在水泵水平方向周围放上水源，再给它提供&b蒸汽&r，它就会开始以1EU/t的能耗产&b水&r了。"
 		""
-		"  The &bBronze Water Pump&r will produce &6125mb of &bWater&r for every adjacent water source every 5 seconds&r, allowing for a maximum output of 1000mb every 5 seconds."
+		"  每有一个相邻的水源，&b青铜水泵&r每5秒就会生产&6125mb的&b水&r，最大输出速率为每5秒1000mb。"
 	]
 	quest.7D0CF81F7E703B71.title: "青铜水泵"
 	quest.7D155344A5A6CEF7.quest_desc: [
