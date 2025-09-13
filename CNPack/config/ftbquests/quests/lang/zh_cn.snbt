@@ -321,7 +321,7 @@
 	]
 	quest.0897CCAC72E82C5B.quest_subtitle: "需要更多POWAH！不是吗？"
 	quest.0897CCAC72E82C5B.title: "&4欢迎游玩Powah！！！"
-	quest.08A2F489A73BE55B.quest_desc: ["&b终极富集工厂&r能够同时处理最多&a九个&r配方，同样包含\"&e自动分类&r\"功能。"]
+	quest.08A2F489A73BE55B.quest_desc: ["&b终极富集工厂&r能够同时处理最多&a九个&r配方，同样有“&e自动分类&r”功能。"]
 	quest.08A2F489A73BE55B.title: "终极富集工厂"
 	quest.08B17C05B2111477.quest_desc: [
 		"恭喜！"
@@ -338,7 +338,7 @@
 	quest.08BE35FB8E58C4B5.quest_desc: [
 		"&b基础锯木工厂&r能够同时进行最多&a三个&r锯木任务。"
 		""
-		"GUI左侧有一个叫作\"&e自动分类&r\"的按钮，该按钮可以使机器自动均分&a三个&r输入槽中的物品。"
+		"GUI左侧有一个叫作“&e自动分类&r”的按钮，该按钮可以使机器自动均分&a三个&r输入槽中的物品。"
 	]
 	quest.08BE35FB8E58C4B5.title: "基础锯木工厂"
 	quest.08C3213E848BFD0C.quest_desc: [
@@ -379,7 +379,7 @@
 	quest.091C2772ED417247.title: "框架升级"
 	quest.09336DBAFB15EF52.quest_desc: ["每个&b高级机械管道&r可以提供&98,000mb&r流体容纳量，且“&a抽出&r”管道的抽出速率为&91,000mb/t&r。"]
 	quest.09336DBAFB15EF52.title: "高级机械管道"
-	quest.097ACA8114CD8DA8.quest_desc: ["&b高级粉碎工厂&r能够同时进行最多&a七个&r粉碎任务，同样包含\"&e自动分类&r\"功能。"]
+	quest.097ACA8114CD8DA8.quest_desc: ["&b精英粉碎工厂&r能够同时进行最多&a七个&r粉碎任务，同样有“&e自动分类&r”功能。"]
 	quest.097ACA8114CD8DA8.title: "精英粉碎工厂"
 	quest.098C3858B4FFCE78.quest_desc: ["使用&b热力发电机&f时，可在其下方放置一个&b烈焰晶体块&f，它将以&b280%的效率发电。"]
 	quest.098C3858B4FFCE78.quest_subtitle: "功率增加280%"
@@ -531,7 +531,7 @@
 	]
 	quest.0E30CFA6C5B58BEA.quest_desc: ["This &bVat&r allows you to convert your &bAlchemical Niter&r from one tier to another."]
 	quest.0E30CFA6C5B58BEA.quest_subtitle: "升级？"
-	quest.0E352E2B17084DAE.quest_desc: ["&b高级锯木工厂&r能够同时进行最多&a五个&r锯木任务，同样包含\"&e自动分类&r\"功能。"]
+	quest.0E352E2B17084DAE.quest_desc: ["&b高级锯木工厂&r能够同时进行最多&a五个&r锯木任务，同样有“&e自动分类&r”功能。"]
 	quest.0E352E2B17084DAE.title: "高级锯木工厂"
 	quest.0E3A8954B2AAF9F7.quest_desc: [
 		"Use the &bRitual Brazier&r to summon the &4Wilden Chimera&r then defeat it."
@@ -728,7 +728,7 @@
 		""
 		"此外，如果&b哨戒炮&r被&b安全站&r的范围覆盖，那么安全站&6受信&r的玩家将不会&c被攻击&r。"
 	]
-	quest.12C0AD9539DE96F2.quest_desc: ["&b精英烧炼工厂&r能够同时进行最多&a七个&r烧炼任务，同样包含\"&e自动分类&r\"功能。"]
+	quest.12C0AD9539DE96F2.quest_desc: ["&b精英烧炼工厂&r能够同时进行最多&a七个&r烧炼任务，同样有“&e自动分类&r”功能。"]
 	quest.12C0AD9539DE96F2.title: "精英烧炼工厂"
 	quest.12CFAFA1E247D888.quest_desc: [
 		"&2降低&r施法所需的魔力值。"
@@ -847,7 +847,7 @@
 		""
 		"从中可&6掉落&r3-4个&b蚀空烬质&r。"
 		""
-		"它能&6燃烧&r的物品数量比&b煤&r多81倍。"
+		"它能&6燃烧&r的物品数量是&b煤炭&r的81倍。"
 		""
 		"{image:justdirethings:block/coalblock_t4 width:100 height:100 align:center fit:true}"
 	]
@@ -1042,7 +1042,7 @@
 		"别急，这个问题可以解决！"
 	]
 	quest.17C1F2791A6E0676.title: "速度升级"
-	quest.17E7640F55666577.quest_desc: ["&b颜料提取器&r能够从几乎&a所有染色物体&r中&6提取出染料&r，剩下的物体会被摧毁。"]
+	quest.17E7640F55666577.quest_desc: ["&b颜料提取器&r能够从几乎&a所有的染色物体&r中&6提取出染料&r，提取后的废料会被摧毁。"]
 	quest.17E8751018E9E0F6.quest_desc: ["致密能源元件与能源元件其实是一种东西，不过它拥有后者八倍的容量。别给它弄没电了，那可能导致你陷入窘境。"]
 	quest.17E8751018E9E0F6.title: "致密能源元件"
 	quest.17FCD3ECDC775E69.quest_desc: ["——&c护甲穿透"]
@@ -1195,7 +1195,7 @@
 		""
 		"从中可&6掉落&r3-4个&b烈焰烬质&r。"
 		""
-		"它能&6燃烧&r的物品数量比&b煤炭&r多9倍。"
+		"它能&6燃烧&r的物品数量是&b煤炭&r的9倍。"
 		""
 		"{image:justdirethings:block/coalblock_t2 width:100 height:100 align:center fit:true}"
 	]
@@ -1444,7 +1444,7 @@
 	quest.1EEBC04FABD3B3F2.title: "石英纤维"
 	quest.1F0B8A0EBCBA4399.quest_subtitle: "完成对应任务章节。"
 	quest.1F0B8A0EBCBA4399.title: "&bIron的法术与魔法书"
-	quest.1F33EBCE377EF15D.quest_desc: ["&b高级粉碎工厂&r能够同时进行最多&a五个&r粉碎任务，同样包含\"&e自动分类&r\"功能。"]
+	quest.1F33EBCE377EF15D.quest_desc: ["&b高级粉碎工厂&r能够同时进行最多&a五个&r粉碎任务，同样有“&e自动分类&r”功能。"]
 	quest.1F33EBCE377EF15D.title: "高级粉碎工厂"
 	quest.1F71E19AD3CFCABC.quest_desc: [
 		"Tchaikovsky's &o1812 Overture&r… music to place builds too."
@@ -1552,7 +1552,7 @@
 	quest.20BA7AE12056CF27.quest_desc: [
 		"&b基础富集工厂&r能够同时处理&a三个&r富集配方。"
 		""
-		"GUI左侧有一个叫作\"&e自动分类&r\"的按钮，该按钮可以使机器自动均分&a三个&r输入槽中的物品。"
+		"GUI左侧有一个叫作“&e自动分类&r”的按钮，该按钮可以使机器自动均分&a三个&r输入槽中的物品。"
 	]
 	quest.20BA7AE12056CF27.title: "基础富集工厂"
 	quest.20F0FCFAEBDE57D1.title: "绿色发光甘蔗"
@@ -1668,7 +1668,7 @@
 	quest.21E51BEA3B8E3EDC.title: "钢锭"
 	quest.21EDEEE1A1B82B53.quest_desc: ["  加工&b钛钻&r采集的&b铱矿石&r获得，可用于生产&b铱粉&r，再制成&b超导体粉&r——一种超级强大的能量传输与存储材料。"]
 	quest.21EDEEE1A1B82B53.title: "粗铱"
-	quest.21EE3862F6DA8E09.quest_desc: ["&b精密锯木机&r能够以&e极高的效率&r处理&9原木&r及其他木质材料，同时会产生副产物&9锯末&r。"]
+	quest.21EE3862F6DA8E09.quest_desc: ["&b精密锯木机&r能够以&e极高的效率&r处理&9原木&r及其他木质材料，同时产生副产物&9锯末&r。"]
 	quest.21EE3862F6DA8E09.title: "精密锯木机"
 	quest.220163965130D8C7.quest_desc: ["&6Breaks&r &bblocks without solid colision boxes&r... like &btracks&r, &blevers&r, &bbuttons&r, etc."]
 	quest.2209DC294580BF3D.quest_desc: [
@@ -1685,7 +1685,7 @@
 	quest.22420EF3089DD7F6.quest_desc: ["  从这里开始，你才真正推开了完全&4自&r&a动&r&d化&r的大门！这大概也是第一个你想要大量制造的机器。&b装配机&r可以实现几乎所有使用机器的配方的&6自动化&r。你可以使用&bEMI&r查看&b装配机&r可以自动化的配方。利用&6锁定编辑&r，你可以在&6一个装配机&r中设置多达&63个配方&r。但是记住，它只有在材料耗尽无法继续合成当前配方时，才会进入下一个配方。&6因此，最好不要把几个高需求量的配方塞进一个装配机里&r。"]
 	quest.22420EF3089DD7F6.title: "装配机"
 	quest.22488BFDDB85DB29.quest_desc: ["Some say, the best looking &bfluid pipes&r in the game—they even sport windows to &6show&r &9fluid&r flowing within them."]
-	quest.225C580584927804.quest_desc: ["&b高级烧炼工厂&r能够同时进行最多&a五个&r烧炼任务，同样包含\"&e自动分类&r\"功能。"]
+	quest.225C580584927804.quest_desc: ["&b高级烧炼工厂&r能够同时进行最多&a五个&r烧炼任务，同样有“&e自动分类&r”功能。"]
 	quest.225C580584927804.title: "高级烧炼工厂"
 	quest.22822DD2E10F65EA.quest_desc: ["当这个仪器&6放置&r在&b汞催化器&r上时，可以为&b重塑阵列&r提供动力。"]
 	quest.22A2121A25A010AB.quest_desc: ["每个&b基础感应元件&r可以为你的感应矩阵增加&e3.2 GFE&r的能量存储上限。"]
@@ -2467,7 +2467,7 @@
 	quest.33CD5343AFBF853C.quest_desc: [
 		"可将&5魔源&r从A处输送到B处。"
 		""
-		"- 使用&b支配之杖&r可将魔源罐与中继器绑定。"
+		"- 使用&b支配之杖&r可将魔源罐与中转器绑定。"
 		"&8要清除所有设置，请在手持支配之杖时&6潜行 + 右击&r&8。"
 		""
 		"- 最远传输距离：&930格&r。"
@@ -2631,7 +2631,7 @@
 	quest.36D6DCA2535410E0.title: "超质量 QIO 驱动器"
 	quest.36F22AA68C1841F6.quest_desc: [""]
 	quest.36F22AA68C1841F6.quest_subtitle: "You be gucci, armored, and lava proof!"
-	quest.37001338052E8335.quest_desc: ["&b终极粉碎工厂&r能够同时进行最多&a九个&r粉碎任务，同样包含\"&e自动分类&r\"功能。"]
+	quest.37001338052E8335.quest_desc: ["&b终极粉碎工厂&r能够同时进行最多&a九个&r粉碎任务，同样有“&e自动分类&r”功能。"]
 	quest.37001338052E8335.title: "终极粉碎工厂"
 	quest.3723D86B327384DB.quest_desc: [
 		"Two words: &olava train&r."
@@ -2672,7 +2672,7 @@
 		""
 		"有关详细信息，请参阅&3GUI&r或&dEMI&r信息标签。"
 	]
-	quest.378E30F8E12695A2.quest_desc: ["&b充电台&r可以&6放置在地面&r，为其上的所有东西&6充能&r，也会为站在其上的玩家背包里的&e电动工具或电池&r充能。"]
+	quest.378E30F8E12695A2.quest_desc: ["&b充电台&r可以&6放置在地面上&r。它可为其上的所有东西&6充能&r，包括站在上面的玩家背包里的&e电动工具或电池&r。"]
 	quest.378E30F8E12695A2.title: "充电台"
 	quest.37A5C2FCA8F75BE6.title: "与牧师交易"
 	quest.37AC7F3340783FD3.quest_desc: ["你可以使用&eLaserIO&f模组来&a传输&b物品、流体、能量以及红石信号&f。每一个面最多支持9种传输配置。"]
@@ -2700,7 +2700,7 @@
 	quest.3850B26FC78DD874.quest_desc: [
 		"&b基础烧炼工厂&r能够同时进行最多&a三个&r烧炼任务。"
 		""
-		"GUI左侧有一个叫作\"&e自动分类&r\"的按钮，该按钮可以使机器自动均分&a三个&r输入槽中的物品。"
+		"GUI左侧有一个叫作“&e自动分类&r”的按钮，该按钮可以使机器自动均分&a三个&r输入槽中的物品。"
 	]
 	quest.3850B26FC78DD874.title: "基础烧炼工厂"
 	quest.38D846A79BC43920.quest_desc: [
@@ -2858,10 +2858,10 @@
 		""
 		"在前期，&7氢气&r、&d乙烯&r等气体非常适合用来大量&e产能&r。"
 		""
-		"在&dEMI&r中可以查看哪些是&c可燃&r&7气体&r，以及它们能够产出的&6能量&r。"
+		"在&dEMI&r中可以查看哪些&7气体&r是&c可燃&r的，以及它们能够产出多少&6能量&r。"
 	]
 	quest.3C6E442CEB73191F.title: "燃气发电机"
-	quest.3CABE90D2D99AAD0.quest_desc: ["&b合成配方&r可以用来存储合成配方，以供&b公式装配器&r使用。"]
+	quest.3CABE90D2D99AAD0.quest_desc: ["&b合成配方&r用于存储合成配方，供&b公式装配器&r使用。"]
 	quest.3CABE90D2D99AAD0.title: "合成配方"
 	quest.3CF03758A5C98E5B.quest_desc: [
 		"This bow will add &5Projectile glyph&r at the start, so you don't need to include &5Form glyph&r in the spell."
@@ -3180,9 +3180,9 @@
 	quest.4351715A36CA0DA6.quest_desc: [
 		"&b营养液化器&r能够将几乎所有食物&6打碎&r成&d营养糊剂&r，可以食用，也可以大量储存。"
 		""
-		"它属于一种&7流体&r，所以可以把它存进储罐里。"
+		"它是一种&7流体&r，所以可以存进储罐里。"
 		""
-		"界面中还有一个槽位，用来将&d营养糊剂&r填进&b餐壶&r。"
+		"界面中还有一个槽位，用来将&d营养糊剂&r装进&b餐壶&r。"
 	]
 	quest.4351715A36CA0DA6.title: "营养液化器"
 	quest.436C9C6FF59C4FD5.quest_desc: ["每个&b基础感应供应器&r可以为你的感应矩阵增加&e102.4 kFE/t&r的能量传输速率，同时包括输入和输出速率。"]
@@ -3264,9 +3264,9 @@
 		""
 		"试试这&3四个模式&r，熟悉一下。"
 		""
-		"飞行不仅能够帮助你基地里更快移动，对整个探索也大有裨益。"
+		"飞行不仅能够帮助你基地里更快地移动，对整体的探索也大有裨益。"
 		""
-		"P.S. 你可以在&dEMI&r中查看如何&6升级&r&b喷气背包&r，在战斗中提供额外保护。"
+		"P.S. 你可以在&dEMI&r中查看如何&6升级&r&b喷气背包&r，它可以在战斗中为你提供额外保护。"
 	]
 	quest.45138985A0F5164C.title: "喷气背包"
 	quest.4526B82A151F72AC.quest_desc: [
@@ -3328,7 +3328,7 @@
 		"你需要在&6搭建&r反应堆时，将其放置在&b裂变燃料组件&r上方。"
 	]
 	quest.456D933518B72DA2.title: "控制棒组件"
-	quest.45E16D69D7099581.quest_desc: ["欢迎来到&b钢制机壳&r时代，从此以后，基本所有&b机器&r都需要钢制机壳作为&6支撑框架&r，安装&c电路&r和&7零件&r才能制成。这是&6推动进度&r的核心部分。"]
+	quest.45E16D69D7099581.quest_desc: ["欢迎来到&b钢制机壳&r时代！从此以后，基本所有&b机器&r都需要钢制机壳来&6支撑&r容纳其中的&c电路&r和&7机械结构&r。这是你游戏&6进程&r的核心部分。"]
 	quest.45E16D69D7099581.title: "钢质机壳"
 	quest.45F0194CF3DCA5DD.quest_desc: [
 		"  &b褐煤&r是这个世界中存量非常丰富的一种&b燃料&r。差不多就是&b煤炭&r，只是是褐色的。 "
@@ -3430,13 +3430,13 @@
 	quest.475DC864A0BC0F1F.title: "更高速的机器？"
 	quest.4788E4092A488C9E.quest_desc: ["Simply a must have for the fast factory."]
 	quest.478A6A8ADA223AEF.quest_desc: [
-		"&b餐壶&r用来盛&d营养糊剂&r，你可以用餐壶&6吃掉&r营养糊剂。"
+		"&b餐壶&r是用来盛&d营养糊剂&r的，你可以用餐壶&6吃掉&r营养糊剂。"
 		""
-		"食用&d糊剂&r时，它会填满你的饥饿条。"
+		"食用&d糊剂&r时，它会一次性回满你的饥饿条。"
 		""
 		"&b餐壶&r可以容纳最多&964,000 mb&r&d营养糊剂&r。"
 		""
-		"每次食用，无论填满多少饥饿值，都只会消耗&9128mb&r&d营养糊剂&r。"
+		"每次食用，无论回复多少饥饿值，都只会消耗&9128mb&r&d营养糊剂&r。"
 	]
 	quest.478A6A8ADA223AEF.title: "餐壶"
 	quest.47A87F0901355498.quest_subtitle: "用于存储&c芯片"
@@ -3541,7 +3541,7 @@
 	]
 	quest.499C20A6A0D7952F.quest_subtitle: "示例法术"
 	quest.499C20A6A0D7952F.title: "盔甲"
-	quest.49C508DCB4AAC3CB.quest_desc: ["&b终极锯木工厂&r能够同时进行最多&a九个&r锯木任务，同样包含\"&e自动分类&r\"功能。"]
+	quest.49C508DCB4AAC3CB.quest_desc: ["&b终极锯木工厂&r能够同时进行最多&a九个&r锯木任务，同样有“&e自动分类&r”功能。"]
 	quest.49C508DCB4AAC3CB.title: "终极锯木工厂"
 	quest.49D4F55F8A20DB22.quest_desc: ["Comes in several colors to match any decor."]
 	quest.49D4F55F8A20DB22.quest_subtitle: "Relax. Have a seat."
@@ -3849,8 +3849,8 @@
 	quest.4FBA0ECAC8AEBCD8.title: "核裂变"
 	quest.4FDD66D88C90C951.quest_desc: ["想要获得&b刷怪笼&f，你需要使用&a精准采集&f挖掘&b刷怪笼&f。每一个&b刷怪笼&f的基础数值都是一样的且可以被修改。"]
 	quest.4FDD66D88C90C951.title: "&c神话刷怪笼"
-	quest.5021D7D55A0B3533.quest_desc: ["欢迎来到&b化学&r的世界，某些&e化学品&r一般情况下是&c危险&r的，但幸运的是，你的身体能够&7抵抗&r那些危险化学品。"]
-	quest.5021D7D55A0B3533.title: "化学时间！"
+	quest.5021D7D55A0B3533.quest_desc: ["欢迎来到&b化学&r的世界！有些&e化学品&r实际上很&c危险&r，不过幸运的是，在这里，你的身体对那些危险化学品是有&7抗性&r的。"]
+	quest.5021D7D55A0B3533.title: "化学时间到！"
 	quest.508A650402DC24F5.quest_desc: ["&b超临界移相器&r的外壳，昂贵而坚硬。"]
 	quest.508A650402DC24F5.title: "超临界移相器外壳"
 	quest.508E110FF82365E3.quest_desc: ["在&6汞驱物流系统&r中，&b输入器&r和&b输出器&r可以分别将&6物品存入或取出&r容器。"]
@@ -3871,7 +3871,7 @@
 		"  &b焦炉&r控制器确认结构有效后，你就可以向&b流体输入仓&r&6输入&b蒸汽&r了。然后将&b煤炭&r或者&b煤粉&r放入&b物品输入仓&r，&b焦炉&r就会点火，开始运行。如果它没有开始工作，你就得回头想想是不是有哪里搞错了。"
 	]
 	quest.50BFFEAF92B72965.title: "焦炉"
-	quest.50D1398BBF8DBBB2.quest_desc: ["&b电解分离器&r通过一种被称为“&6电解&r”的方式，用&e电&r将分子解离，把各种&7流体&r&6分离&r成构成它们的核心元素。"]
+	quest.50D1398BBF8DBBB2.quest_desc: ["&b电解分离器&r通过一种被称为“&6电解&r”的方式，用&e电&r将分子解离，把各种&7流体&r&6分解&r成构成它们的核心元素。"]
 	quest.50D1398BBF8DBBB2.title: "电解分离器"
 	quest.510EAAAA3E08FCD5.quest_desc: ["这种矿工魔灵无与伦比，能够获得&b大部分矿石&r。它偶尔还会产出一件&6特殊&r物品……"]
 	quest.510EAAAA3E08FCD5.quest_subtitle: "小矿石，大师作"
@@ -4027,7 +4027,7 @@
 	quest.541C68336E6C7510.quest_desc: [
 		"&b基础粉碎工厂&r能够同时进行最多&a三个&r粉碎任务。"
 		""
-		"GUI左侧有一个叫作\"&e自动分类&r\"的按钮，该按钮可以使机器自动均分&a三个&r输入槽中的物品。"
+		"GUI左侧有一个叫作“&e自动分类&r”的按钮，该按钮可以使机器自动均分&a三个&r输入槽中的物品。"
 	]
 	quest.541C68336E6C7510.title: "基础粉碎工厂"
 	quest.54BCC1A0203B2351.quest_desc: ["如果你希望给&b水晶&f的&6生长&f打点鸡血的话，可以给&b母岩&f的六个面&6放置&b催生器&f，&b催生器&f需要从底部或者顶部输入能量。"]
@@ -4166,11 +4166,11 @@
 	quest.56EF0A864720C7C5.quest_desc: ["物品传输的&b过滤器&r，可用在&6星宝石兽&r上。"]
 	quest.56EF0A864720C7C5.title: "物品卷轴：过滤器"
 	quest.5707678AB1482B68.quest_desc: [
-		"   Blocks of &bblaze ember&r can be &6transformed&r into &braw voidflame coal&r "
+		"&b烈焰烬质块&r可以&6转换&r为&b粗虚炎煤炭&r"
 		""
-		"   3–4 &bvoidflame coals&r will &6drop&r."
+		"可&6掉落&r3-4个&b虚炎煤炭&r。"
 		""
-		"   &6Burns&r 27x more items than &bcoal&r."
+		"它能&6燃烧&r的物品数量是&b煤炭&r的27倍。"
 		""
 		"{image:justdirethings:block/coalblock_t3 width:100 height:100 align:center fit:true}"
 	]
@@ -4309,7 +4309,7 @@
 		"通过&b异界眼镜&r可以看到它的真实形态。你可能还需要带上&b探测杖&b。"
 	]
 	quest.5C56A0938613CBC0.quest_subtitle: "How do you say it?"
-	quest.5C82C92D1F366C04.quest_desc: ["&b终极烧炼工厂&r能够同时进行最多&a九个&r烧炼任务，同样包含\"&e自动分类&r\"功能。"]
+	quest.5C82C92D1F366C04.quest_desc: ["&b终极熔炼工厂&r能够同时进行最多&a九个&r烧炼任务，同样有“&e自动分类&r”功能。"]
 	quest.5C82C92D1F366C04.title: "终极熔炼工厂"
 	quest.5C8D7BD3DA61109F.quest_desc: [
 		"  现在你可以造电动版本的&b采石场&r了！这个产矿速度更快，&o还&r有更多钻头可选。"
@@ -4328,10 +4328,10 @@
 	quest.5C98D9127F4CEB74.quest_subtitle: "Not the table kind"
 	quest.5C98D9127F4CEB74.title: "炼金盐"
 	quest.5CD12382792FA310.quest_desc: [
-		" "
+		""
 		"{image:justdirethings:item/machine_settings_copier width:100 height:100 align:center}"
 	]
-	quest.5CD12382792FA310.quest_subtitle: "Guess What This Does"
+	quest.5CD12382792FA310.quest_subtitle: "猜猜这有什么用"
 	quest.5CEFB3C551971327.quest_desc: [""]
 	quest.5D584858B61E534B.quest_desc: ["这个&b催化器&f可以缓慢地将&d汞&r&f转化&r为&d汞流&r，它是炼金仪器的能量来源。"]
 	quest.5D584858B61E534B.quest_subtitle: "汞=汞流"
@@ -4490,23 +4490,23 @@
 		"Check out&6 bulk-blasting&r (omg!) and &6pushing&r stuff around."
 	]
 	quest.6201E6DF709C29D0.quest_desc: [
-		"  &bFerricore armor&r is as strong and durable as &biron armor&r."
+		"&b核源铁盔甲&r的强度和耐久度与&b铁盔甲&r相当。"
 		""
-		"  It can also be &6upgraded&r to higher tiers with the appropiate &btemplate&r."
+		"它还可以使用合适的&b模板&r&6升级&r到更高的等级。"
 		""
-		"  It can accept &bupgrades&r for a variety of &6special abilities&r."
+		"它可以接受各种&6特殊能力&r的&b升级&r。"
 		""
-		"• &bHelmet: &cMindFog&r"
-		"• &bChestplate: &cInvulnerability&r"
-		"• &bLeggings: &cRun Speed&r, &cWalk Speed&r"
-		"• &bBoots: &cStep Assist&r, &cJump Boost&r"
+		"• &b头盔：&c脑雾&r"
+		"• &b胸甲：&c无懈可击&r"
+		"• &b护腿：&c疾跑速度&r、&c行走速度&r"
+		"• &b靴子：&c步伐辅助&r、&c跳跃提升&r"
 		""
-		"( Upgrading a full set to of ferricore armor to later tiers is less expensive than making a full set at the end. )"
+		"（将一套核源铁盔甲升级到更高等级比最后制作一套更便宜。）"
 		""
 		"{image:justdirethings:item/template_ferricore width:100 height:100 align:center fit:true}"
 	]
-	quest.6201E6DF709C29D0.quest_subtitle: "Upgradable Armor"
-	quest.6201E6DF709C29D0.title: "Ferricore Armor"
+	quest.6201E6DF709C29D0.quest_subtitle: "可升级的盔甲"
+	quest.6201E6DF709C29D0.title: "核源铁盔甲"
 	quest.6227304103E32C74.quest_desc: [
 		"The handy, dandy &bFluid Tank&r works alone or can be &6joined&r up in single-wide, 2-by-2,  3-by-3 wide columns, up to 30 blocks tall!"
 		""
@@ -4543,12 +4543,12 @@
 	]
 	quest.62B245A23CA62678.title: "流体运输"
 	quest.62F43B936E236071.quest_desc: [
-		"   &6Collects&r &bitems&r from an offset AOE, &6placing&r them into &battached storage&r."
+		"从偏移范围中&6收集&r&b物品&r，并将它们&6放入&r&b附属的存储空间&r中。"
 		""
 		"{image:ftblibrary:icons/down width:32 height:32 align:center}"
 		"{image:minecraft:block/barrel_side width:64 height:64 align:center}"
 	]
-	quest.62F43B936E236071.quest_subtitle: "Gimme That!"
+	quest.62F43B936E236071.quest_subtitle: "给我那个！"
 	quest.62FCB2F06126B622.quest_desc: ["&b无线终端&f是一个可以&b无线&f远程操作&bME网络&的&b普通终端&f。使用&bME无线访问点&f来连接你的&b无线终端&f，如果你觉得无线覆盖范围太小了，还可以给&bME无线访问点&f加入&b无线信号增幅器&b来增加范围。在单个网络中到处多放置几个&bME无线访问点&f能够有效地覆盖更多玩家活动范围。"]
 	quest.62FCB2F06126B622.title: "无线终端"
 	quest.6307E15FAAF30712.quest_desc: ["使用高级样板编码器，你能够通过改变&b编码样板&f中不同物品的输入面&6编码&f需要将物品从特殊方向&6输入&f的&b样板&f。"]
@@ -4633,14 +4633,14 @@
 	]
 	quest.656CBEFEE317E2E7.quest_subtitle: "神秘学家到底要多大空间？"
 	quest.65A75D8101BEB05F.quest_desc: [
-		"  &bSimple&r:"
-		"    • &bFluids&r get &6placed&r"
-		"    • &eSpeed&r and &eorientation&r controls"
-		"    • Optional &4redstone&r sensitivity"
+		"&b初级流体放置器&r："
+		"    • &6放置&r&b流体&r"
+		"    • &e速度&r和&e方向&r控制"
+		"    • 可选&4红石&r感应"
 		""
-		"  &bAdvanced&r:"
-		"    • Adds &6filtering&r and &3offset AOE&r"
-		"    • Needs &cpower&r"
+		"&b高级流体放置器&r："
+		"    • 添加&6过滤&r和&3偏移范围&r"
+		"    • 需要&c能量&r"
 		""
 		"{image:justdirethings:block/fluidplacert2_side width:100 height:100 align:center}"
 	]
@@ -4704,7 +4704,7 @@
 	quest.67284079A941EF4B.quest_desc: [
 		"&b潜水罐&r能够提供&7氧气&r，让你在&6水下呼吸&r，探索更长时间。"
 		""
-		"用潜水罐探索&9海洋&r深处，或者给自己&6建造&r一个水下基地。"
+		"带上潜水罐探索&9海洋&r深处，或者给自己&6建造&r一个水下基地吧。"
 	]
 	quest.67284079A941EF4B.title: "潜水装备"
 	quest.6750F4584257BA75.quest_desc: ["&b扩展总线&f拥有&a更多的&f升级卡槽，并且相较于普通的总线&a快&f8倍。"]
@@ -4831,22 +4831,22 @@
 		"当&6配备&6了&b模块扩展卡&r时，你可以通过&3GUI&r精确&6调整&r阈值。"
 	]
 	quest.68A8995F4A13381A.quest_desc: [
-		"  Accepts top-level &bupgrades&r:"
+		"可接受最高级升级："
 		""
-		"• &bHelment&r:"
-		"    &cDebuff Remover&r,"
-		"    &cMental Obliteration&r"
-		"• &bChestplate&r:"
-		"    &cFlight&r, (yes, &ocreative-style&r flight!)"
-		"    &cDeath Protection&r,"
-		"    &cLava Immunity&r"
-		"• &bLeggings&r: &cPhase&r"
-		"• &bBoots&r: &cEarthquake&r"
+		"• &b头盔&r："
+		"    &c减益移除&r，"
+		"    &c意识摧毁&r"
+		"• &b胸甲&r："
+		"    &c飞行&r，（是的，&o创造模式那样的&r飞行！）"
+		"    &c死亡保护&r，"
+		"    &c熔岩免疫&r"
+		"• &b护腿&r：&c穿墙&r"
+		"• &b靴子&r：&c地震&r"
 		""
 		"{image:justdirethings:item/template_eclipsealloy width:100 height:100 align:center fit:true}"
 	]
-	quest.68A8995F4A13381A.quest_subtitle: "Super Powered"
-	quest.68A8995F4A13381A.title: "Eclipse Alloy Armor"
+	quest.68A8995F4A13381A.quest_subtitle: "超能力"
+	quest.68A8995F4A13381A.title: "蚀空合金盔甲"
 	quest.68BF4571620AC8CF.quest_desc: [
 		"在获取&b巫师之弩&r前，还请用此方法挖矿。"
 		""
@@ -4952,22 +4952,22 @@
 	quest.693C902E4E926BB4.title: "化学氧化机"
 	quest.69400E62D67A21FC.quest_desc: ["使用卷轴撰写台和一颗绿宝石来制作唤魔卷轴。"]
 	quest.69403313B37E8219.quest_desc: [
-		" &bSimple&r:"
-		"    • &6Clicks&r the facing &3target&r"
-		"    • &eLeft,&r &eRight,&r and &eHold&r &6clicks&r"
-		"    • &6Sneak clicking&r mode toggle"
-		"    • Selectable &3target&r category"
-		"    • Selectable &eorientation&r of &6action&r"
-		"    • &4Redstone&r sensitivity options"
+		" &b初级点击器&r："
+		"    • 点击面朝的&3目标&r"
+		"    • &e左击&r、&e右击&r和&e长按&r"
+		"    • &6潜行点击&r模式切换"
+		"    • 可选择&3目标&r类别"
+		"    • 可选择&e动作&r的&6方向&r"
+		"    • &4红石&r感应选项"
 		""
-		"  &bAdvanced&r:"
-		"    • Adds &6filtering&r and &3offset AOE&r"
-		"    • Can &6charge&r inserted &bequipment&r"
-		"    • Needs &cpower&r"
+		"  &b高级点击器&r："
+		"    • 添加&6过滤&r和&3偏移范围&r"
+		"    • 可为放入的&b装备&r&6充电&r"
+		"    • 需要&c能量&r"
 		""
 		"{image:justdirethings:block/clickert2_side width:100 height:100 align:center}"
 	]
-	quest.69403313B37E8219.quest_subtitle: "Player Impersonator"
+	quest.69403313B37E8219.quest_subtitle: "玩家模仿者"
 	quest.6976592A2FB069AD.quest_desc: ["将&b4个福鲁伊克斯水晶&f以2x2的形式合成就能得到&b福鲁伊克斯块&f。"]
 	quest.69767F69C84AC701.quest_desc: [
 		"&l1. How to acquire the bound script? &r"
@@ -5025,16 +5025,16 @@
 		""
 		"机器的GUI中有一些按钮和槽位可供使用，在&3左上角&r，有一个用来放置&b合成配方&r的槽位，槽位下方的按钮能够将&3右侧&r的&a3x3合成网格&r内的配方&6编码&r到合成配方里。"
 		""
-		"在&33x3合成网格下面&r左数两个按钮，一个用来&6启用&r或&6禁用&r库存控制，库存控制就是说，当你将物品输入到&b公式装配器&r时，机器总是会为所有合成材料留出空间。"
+		"&33x3合成网格下方左侧&r有两个按钮，一个用来&6启用&r或&6禁用&r库存控制，库存控制就是说，当你将物品输入到&b公式装配器&r时，机器总是会为所有合成材料留出空间。"
 		""
 		"库存控制&3右边&r的按钮是“&e填充网格&r”按钮，能够将下方材料槽的材料填充到&a3x3合成网格&r中。"
 		""
-		"这两个按钮&3右边&r还有&a三个按钮&r，其中左边的按钮可以&6手动合成&r&b单个物品&r，不需要&e消耗能量&r，但是会使用下方槽位内的材料，&3再往右&r的按钮将使用所有可用的材料，制作最大数量的物品。"
+		"这两个按钮&3右边&r还有&a三个按钮&r，其中左边的按钮可以&6手动合成&r&b单个物品&r，不需要&e消耗能量&r，但是会使用下方槽位内的材料。&3再往右&r的那个按钮将使用所有可用的材料，制作尽可能多的物品。"
 		""
-		"&3最右边&r的按钮叫“&e自动模式&r”，可以手动&6开关&r，&6启用&r时，机器能够在材料足够的情况下消耗&e能量&r自动合成。"
+		"&3最右边&r的按钮叫“&e自动模式&r”，可以手动&6开关&r。&6启用&r时，机器会在材料足够的情况下消耗&e能量&r自动合成。"
 	]
 	quest.6A6C19E36893381B.title: "公式装配器"
-	quest.6A9DAB624949191E.quest_desc: ["&b精英富集工厂&r能够同时处理最多&a七个&r配方，同样包含\"&e自动分类&r\"功能。"]
+	quest.6A9DAB624949191E.quest_desc: ["&b精英富集工厂&r能够同时处理最多&a七个&r配方，同样有“&e自动分类&r”功能。"]
 	quest.6A9DAB624949191E.title: "精英富集工厂"
 	quest.6AB303BEA478C0F3.quest_desc: ["&6Programmable&r Rotation Control!"]
 	quest.6ADBF1DFBDF45D7C.quest_desc: [
@@ -5279,7 +5279,7 @@
 		"{image:justdirethings:block/gooblock_tier1 width:100 height:100 align:center fit:true}"
 	]
 	quest.6FF7CECC5DAF516B.quest_subtitle: "&oTransubstantiation with &bGoo&r"
-	quest.703C1F1E9A6F4A9E.quest_desc: ["&b化学灌注器&r能够使两种气体进行反应，生成&9单一产物&r。"]
+	quest.703C1F1E9A6F4A9E.quest_desc: ["&b化学灌注器&r能够将&7两种气体&r进行反应，生成&9单一产物&r。"]
 	quest.703C1F1E9A6F4A9E.title: "化学灌注器"
 	quest.704C0B04EFF5024C.quest_desc: [
 		"法术抄写台用于整理你找到并放到&b法术书&f里的&b卷轴&f。"
@@ -5476,8 +5476,8 @@
 		"- Use &bDominion Wand&r to bind."
 		"&8(to clear settings, &6sneak + right click&r &8with Dominion Wand)"
 	]
-	quest.73DF4B8186890BFE.quest_subtitle: "Advanced Source Transfer"
-	quest.73DF4B8186890BFE.title: "More Source Relays"
+	quest.73DF4B8186890BFE.quest_subtitle: "进阶魔源传输"
+	quest.73DF4B8186890BFE.title: "更多类型的魔源中转器"
 	quest.740B34D7D1AF3FF0.quest_desc: ["&b粉碎机&r是一台用来将物品和方块&6粉碎&r成&7粉&r和其他&9材料&r的机器。"]
 	quest.740B34D7D1AF3FF0.title: "粉碎机"
 	quest.741485F43A560FF3.quest_desc: [
@@ -5811,7 +5811,7 @@
 	quest.7C38A9BA01CA3772.quest_desc: ["&9稀有&r材料需要花费更多力气去寻找或制作。在某些情况下，它们在自然环境中找不到。"]
 	quest.7C38A9BA01CA3772.title: "稀有硫"
 	quest.7C57D76FDBD784F8.quest_desc: ["你可以使用&b扳手&r将上方的&b储罐&r和下方的储罐&6连接&r起来，前提是任一&b储罐&r为&c空&r或者两个储罐都装有相同的&7流体&r。"]
-	quest.7C834204DEE1813C.quest_desc: ["&b高级富集工厂&r能够同时处理最多&a五个&r配方，同样包含\"&e自动分类&r\"功能。"]
+	quest.7C834204DEE1813C.quest_desc: ["&b高级富集工厂&r能够同时处理最多&a五个&r配方，同样有“&e自动分类&r”功能。"]
 	quest.7C834204DEE1813C.title: "高级富集工厂"
 	quest.7C8EF2A739AAC1D7.title: "ME元件外壳"
 	quest.7CB7BF24437115A4.quest_desc: [
@@ -5939,7 +5939,7 @@
 		"{image:justdirethings:block/coalblock_t1 width:100 height:100 align:center fit:true}"
 	]
 	quest.7F4BFF2C6E887FCC.quest_subtitle: "A Better Coal"
-	quest.7F7AB9192CD7FC70.quest_desc: ["&b高级锯木工厂&r能够同时进行最多&a七个&r锯木任务，同样包含\"&e自动分类&r\"功能。"]
+	quest.7F7AB9192CD7FC70.quest_desc: ["&b精英锯木工厂&r能够同时进行最多&a七个&r锯木任务，同样有“&e自动分类&r”功能。"]
 	quest.7F7AB9192CD7FC70.title: "精英锯木工厂"
 	quest.7FA5112E27A0D70C.quest_desc: ["这把镐比起你来用，可能更适合制作&b矿工魔灵&r，但比它脆弱的“前辈”要好得多。"]
 	quest.7FA5112E27A0D70C.quest_subtitle: "魔灵之选"
