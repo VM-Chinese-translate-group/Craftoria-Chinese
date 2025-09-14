@@ -265,7 +265,7 @@
 	]
 	quest.069382B7A2FC7D35.quest_subtitle: "用太阳能代替化石燃料。"
 	quest.0696635896D223CA.quest_desc: ["长者手杖可以把你变成长者……开玩笑的，这个法杖会帮助你恢复魔力，同时增强卷轴的威力。这是比较容易制作的法杖之一。"]
-	quest.06C4D99A90DF7711.quest_desc: ["&b终极压射工厂&r能够同时处理&a九个&r压射配方。"]
+	quest.06C4D99A90DF7711.quest_desc: ["&b终极压射工厂&r能够同时处理&a九个&r物品。"]
 	quest.06C4D99A90DF7711.title: "终极压射工厂"
 	quest.06D66E791A9939DD.quest_desc: ["制作一台&b充能器&r，并用&b谐振仓&r或其他模组的发电机给它供电。"]
 	quest.06D66E791A9939DD.quest_subtitle: "也是一种通过ME网络给其支持的工具充电的方式"
@@ -450,7 +450,7 @@
 	quest.0C1C61B4554B38E5.quest_desc: [
 		"&b融合机&r可以用来&6融合物品&r，例如，将&d宝石&r和&7石头&r融合成&8矿石&r，将&e蜡&r和&c铜&r融合在一起以防止氧化，还可以混合染料，等等。"
 		""
-		"查看&dEMI&r，浏览融合机的其他用途。"
+		"查看&dEMI&r以了解融合机的其他用途。"
 	]
 	quest.0C1C61B4554B38E5.title: "融合机"
 	quest.0C2DFB4A8DF29B1D.quest_desc: [
@@ -734,7 +734,7 @@
 		"&2降低&r施法所需的魔力值。"
 		"同时提供微小的&6最大魔力&r和&6魔力恢复&r加成。"
 	]
-	quest.132511B52E6234EF.quest_desc: ["&b精英融合工厂&r能够同时处理&a七个&r融合配方。"]
+	quest.132511B52E6234EF.quest_desc: ["&b精英融合工厂&r能够同时融合&a七个&r物品。"]
 	quest.132511B52E6234EF.title: "精英融合工厂"
 	quest.132ED1F976F1D0AB.title: "黄色发光甘蔗"
 	quest.134098BE2769F85A.quest_desc: [
@@ -852,7 +852,7 @@
 		"{image:justdirethings:block/coalblock_t4 width:100 height:100 align:center fit:true}"
 	]
 	quest.1607D3C2384B6CFF.quest_desc: ["&b累积处理器&f用于制作所有的&bMEGA存储元件&f。"]
-	quest.1610E88D5231E670.quest_desc: ["&b热力蒸馏控制器&r是热力蒸馏塔的大脑，热力蒸馏塔可以接收&7流体&r，&6蒸发&r其中的&7水分&r，&9浓缩&r&3溶解其中的溶质&r，在&6EMI&r可以查看能够得到的物品。你&o也许&r需要多建几个……"]
+	quest.1610E88D5231E670.quest_desc: ["&b热力蒸馏控制器&r是热力蒸馏塔的大脑。热力蒸馏塔可以接收&7流体&r，&6蒸发&r其中的&7水分&r，&9浓缩&r&3其中的溶质&r。&6EMI&r中可以查看能够得到的物品。你&o也许&r需要多建几个……"]
 	quest.1610E88D5231E670.title: "热力蒸馏控制器"
 	quest.162DD68C3B91FC5E.quest_desc: [
 		"  这里有好多要讲的。"
@@ -1212,7 +1212,7 @@
 	]
 	quest.1A6929801D08F2C5.quest_desc: ["There may be other ways to &6make more power&r in modded, but it is hard to top the satisfaction of a boiler driving many &bSteam Engines&r… as many as you can setup &6fed&r with enough &cheat&r and &9water.&r"]
 	quest.1A6929801D08F2C5.quest_subtitle: " Chuga Chuga Chuga."
-	quest.1A885E0BA312B916.quest_desc: ["&b电阻形加热器&r可以将&a能量&r转化为热量，然后，通过&b热力蒸馏阀门&r，你可以把热量&6输入&r进蒸馏塔，以提高蒸馏塔的温度。"]
+	quest.1A885E0BA312B916.quest_desc: ["&b电阻形加热器&r可以将&a能量&r转化为热量，然后，通过&b热力蒸馏阀门&r，你可以把热量&6输入&r蒸馏塔，以提高蒸馏塔的温度。"]
 	quest.1A885E0BA312B916.title: "电阻型加热器"
 	quest.1A8D5373290BC1A6.quest_desc: [
 		"你可以在魔灵的帮助下，创建通往另一个维度的链接。在那里你可以&6存储&r收集到的所有&b物品&r——说真的，你的收藏真是惊人。"
@@ -1604,7 +1604,7 @@
 		"4. Put result into &bstorage&r next to the drygmy stone. (DrygmyTile)"
 	]
 	quest.21286633DE0F586E.quest_subtitle: "Mob Farm"
-	quest.2133B29DE47BDC25.quest_desc: ["&b高级融合工厂&r能够同时处理&a五个&r融合配方。"]
+	quest.2133B29DE47BDC25.quest_desc: ["&b高级融合工厂&r能够同时融合&a五个&r物品。"]
 	quest.2133B29DE47BDC25.title: "高级融合工厂"
 	quest.215606B3A894512E.quest_desc: [
 		"  你看到采石场产物列表中每种矿物都有的产物概率了吗？"
@@ -2239,9 +2239,9 @@
 	quest.2E883FCCA2FB281B.quest_subtitle: "了得的艺术品"
 	quest.2E883FCCA2FB281B.title: "量子环"
 	quest.2E97456B0ED0AB1A.quest_desc: [
-		"用&b电动泵&r从世界中收集大量&7流体&r是最&e直接&r的方法。"
+		"用&b电动泵&r是从世界中收集大量&7流体&r最&e直接&r的方法。"
 		""
-		"将其放置在&7流体&r上方一格的位置，提供&e能量&r，并在电动泵上方连接&9管道&r或&9储罐&r，就可以开始&6抽取&r流体了。"
+		"将电动泵放置在&7流体&r上方一格的位置，提供&e能量&r，并在其上方连接&9管道&r或&9储罐&r，就可以开始&6抽取&r流体了。"
 		""
 		"使用&b升级&r可以极大提高抽取的速度。"
 		""
@@ -2331,7 +2331,7 @@
 	quest.30D584EAD9243548.quest_desc: [
 		"向&b流体填充机&r&6注入&r&7流体&r，它就可以用&7其中的流体&r填满下方的空间。"
 		""
-		"这让你能够使用任何喜欢的&7流体&r造出一整片湖。"
+		"这样你就可以用任何你喜欢的&7流体&r造出一整片湖。"
 	]
 	quest.30D584EAD9243548.title: "流体填充机"
 	quest.30ED8D5374012D92.quest_desc: ["用玻璃瓶右击闪电苦力怕，可以获得一个雷电瓶。"]
@@ -2526,7 +2526,7 @@
 	]
 	quest.3492CFBA1602D7F2.quest_subtitle: "启动！"
 	quest.3492CFBA1602D7F2.title: "苍穹晶盔甲"
-	quest.34B822EC25F66B54.quest_desc: ["&b锇压缩机&r可以将&3锇&r&6压缩&r进对应的粉里，&6制造&r出相应的锭。"]
+	quest.34B822EC25F66B54.quest_desc: ["&b锇压缩机&r可以将&3锇&r&6压缩&r进特定的几种粉里，&6制造&r出相应的锭。"]
 	quest.34B822EC25F66B54.title: "锇压缩机"
 	quest.3504BCE26041D225.quest_desc: [
 		"&b反应仓&f能够消耗&4能量&f快速&6生产&b水晶&r以及制造&bAE2附属&f的几种&b合金锭&f。"
@@ -2813,7 +2813,7 @@
 	quest.3B82F8F19AF630D5.quest_desc: ["&bME触发总线&f与&bME玻璃线缆&f作用相同，未接收红石信号时能够&6暂时禁用&f与它连接的部分，&6提供红石信号&f将重新允许频道和能量经过。"]
 	quest.3B82F8F19AF630D5.title: "触发总线"
 	quest.3BAA7EC7653A7905.quest_desc: [
-		"&b化学压射室&r能够用&7氯化氢&r&6处理&r各种&9矿石&r和&c粗矿&r，让它们倍增为&e碎片&r。化学压射室是&a四倍&r矿物产线的第一步。"
+		"&b化学压射室&r能够用&7氯化氢&r&6处理&r各种&9矿石&r和&c粗矿&r，将它们加工成许多&e碎片&r。这是&a四倍&r矿产线的第一步。"
 		""
 		"你也可以在化学压射室里用&7氧气&r强行&4氧化&r铜质材料，用水蒸气固化混凝土，把红砖变回黏土，让失活的珊瑚重新焕发活力。"
 	]
@@ -3103,7 +3103,7 @@
 		"  很简单吧？"
 	]
 	quest.41D1344A31FEA6DF.title: "铁铬铝合金线圈"
-	quest.4207ADF2CB254C6B.quest_desc: ["&b上色机&r能够&6自动&r用颜料为相应&3方块和物品&r&6上色&r。"]
+	quest.4207ADF2CB254C6B.quest_desc: ["&b上色机&r能够&6自动&r用颜料为&3方块和物品&r&6上色&r。"]
 	quest.4207ADF2CB254C6B.title: "上色机"
 	quest.423B29BD8DAC8C3D.quest_desc: ["如果可能，生成的生物将为幼年形态。"]
 	quest.423B29BD8DAC8C3D.quest_subtitle: "+ 幼年"
@@ -3239,7 +3239,7 @@
 	quest.44B09234621BDBA6.quest_desc: ["这把&6特殊&r的&b镐子&r虽然非常&6易碎&r，但能更有效地&6采集&r异界材料，例如&b艾瑟金属&r。"]
 	quest.44B09234621BDBA6.quest_subtitle: "魔鬼之梦镐"
 	quest.44D8D30BCD48C4C9.quest_desc: [
-		"包裹着钻石的&b电路板&r，由灌注合金制成的核心从中脉动。"
+		"包裹着钻石的&b电路板&r，灌注合金制成的核心在其中脉动。"
 		""
 		"它的&6处理能力&r能够满足&c更高等级&r的计算需求。"
 	]
@@ -3323,9 +3323,9 @@
 	quest.45692D06641029FD.quest_subtitle: "法术示例"
 	quest.45692D06641029FD.title: "战斗"
 	quest.456D933518B72DA2.quest_desc: [
-		"&b控制棒组件&r用来阻止&c裂变链式反应&r。"
+		"&b控制棒组件&r用于阻止&c裂变链式反应&r。"
 		""
-		"你需要在&6搭建&r反应堆时，将其放置在&b裂变燃料组件&r上方。"
+		"你需要在&6搭建&r反应堆时，将其放置在&b裂变燃料组件&r的上方。"
 	]
 	quest.456D933518B72DA2.title: "控制棒组件"
 	quest.45E16D69D7099581.quest_desc: ["欢迎来到&b钢制机壳&r时代！从此以后，基本所有&b机器&r都需要钢制机壳来&6支撑&r容纳其中的&c电路&r和&7机械结构&r。这是你游戏&6进程&r的核心部分。"]
@@ -3565,7 +3565,7 @@
 	quest.4A85523931A7D539.title: "高级感应供应器"
 	quest.4AAFD7E0D868844A.quest_desc: ["It &6ejects...&r this, that, cows, creepers, sheep, or even players."]
 	quest.4AAFD7E0D868844A.quest_subtitle: "Wheee!"
-	quest.4AC8B9FD75596EEF.quest_desc: ["&b高级压射工厂&r能够同时处理&a五个&r压射配方。"]
+	quest.4AC8B9FD75596EEF.quest_desc: ["&b高级压射工厂&r能够同时处理&a五个&r物品。"]
 	quest.4AC8B9FD75596EEF.title: "高级压射工厂"
 	quest.4ACA16837329BE5D.title: "甜椒"
 	quest.4B0CDF7941199C8E.quest_desc: [
@@ -3613,7 +3613,7 @@
 	]
 	quest.4BF483174CC0A0F1.quest_subtitle: "滚开！"
 	quest.4BF483174CC0A0F1.title: "苍穹晶工具\\&武器"
-	quest.4C23B5A6A57A13C0.quest_desc: ["&b安全设置台&r是一个中央安全系统，用来管理你拥有的全部机器。"]
+	quest.4C23B5A6A57A13C0.quest_desc: ["&b安全设置台&r是一个中央安全系统，用来管理你拥有的所有机器。"]
 	quest.4C23B5A6A57A13C0.title: "安全设置台"
 	quest.4C357D8CF72B8F25.quest_subtitle: "在下界的稀有结构中出现。"
 	quest.4C357D8CF72B8F25.title: "&4下界铁掌"
@@ -4079,7 +4079,7 @@
 	]
 	quest.55391FF509DA53A5.quest_subtitle: "炼金术最简单的方法"
 	quest.55391FF509DA53A5.title: "&d欢迎游玩神通术"
-	quest.553EB688C3FFD7E4.quest_desc: ["&b基础融合工厂&r能够同时处理&a三个&r融合配方。"]
+	quest.553EB688C3FFD7E4.quest_desc: ["&b基础融合工厂&r能够同时融合&a三个&r物品。"]
 	quest.553EB688C3FFD7E4.title: "基础融合工厂"
 	quest.55542D5D7CDA77A5.quest_desc: [
 		"&6转换&b："
@@ -4178,7 +4178,7 @@
 	quest.5773319EE8B3D45C.quest_desc: ["Adds some &6speed control&r to &bChain Drives&r."]
 	quest.578394EC869C10AB.quest_desc: ["Simple point-to-point item transportation, power transmission, or low-key ski lift for players—you decide!"]
 	quest.57852C27FD0C29AA.title: "升级"
-	quest.57A8D67858693F4A.quest_desc: ["&b基础压射工厂&r能够同时处理&a三个&r压射配方。"]
+	quest.57A8D67858693F4A.quest_desc: ["&b基础压射工厂&r能够同时处理&a三个&r物品。"]
 	quest.57A8D67858693F4A.title: "基础压射工厂"
 	quest.57D104FF04B35463.title: "水蒸气"
 	quest.57D9E9C4AEA9DF63.quest_desc: [
@@ -4298,7 +4298,7 @@
 	quest.5BDE55C11519F7F7.quest_desc: [
 		"&b提纯仓&r能够使用&7氧气&r将各种&9粗矿&r和&e碎片&r变成&c碎块&r。"
 		""
-		"该机器是&a三倍&r矿物产线的第一步。"
+		"该机器是&a三倍&r矿产线的第一步。"
 	]
 	quest.5BDE55C11519F7F7.title: "提纯仓"
 	quest.5BDEC0D157A43D9E.quest_desc: ["&5紫色&r粉笔常见于将魔灵束缚于物体的仪式中。"]
@@ -4553,9 +4553,9 @@
 	quest.62FCB2F06126B622.title: "无线终端"
 	quest.6307E15FAAF30712.quest_desc: ["使用高级样板编码器，你能够通过改变&b编码样板&f中不同物品的输入面&6编码&f需要将物品从特殊方向&6输入&f的&b样板&f。"]
 	quest.632BE5724D2120EB.quest_desc: [
-		"&b强化合金&r是一种精英金属，由钻石&6灌注&r进灌注合金制作而来。"
+		"&b强化合金&r是一种精英材料，通过将钻石&6灌注&r进灌注合金制作而成。"
 		""
-		"制作下一阶机器时会需要这些合金。"
+		"制作下一阶机器时会用到它。"
 	]
 	quest.632BE5724D2120EB.title: "强化合金"
 	quest.63327FF2199F01A3.quest_desc: [
@@ -4764,7 +4764,7 @@
 	]
 	quest.67B17617F57B247F.title: "电梯"
 	quest.67D5ED5703F35A2D.quest_desc: [
-		"&b太阳能中子活化器&r能够将来自&6太阳&r的&c中子辐射&r汇聚到机器内，制造出相应的&9同位素&r。"
+		"&b太阳能中子活化器&r能够将来自&6太阳&r的&c中子辐射&r汇聚到机器内，制造出某些&9同位素&r。"
 		""
 		"你可以用这个机器将&2核废料&r&6再处理&r为&3有用的放射性同位素&r。"
 	]
@@ -5018,7 +5018,7 @@
 	quest.69C0D033A9EE9EA7.quest_subtitle: "自沙而来"
 	quest.69F5B199CF819FC3.title: "二氧化硫"
 	quest.69F8EE1B298EE5B3.title: "五阶 1:5"
-	quest.6A382549A4C55A5E.quest_desc: ["&c高级控制电路&r是下一级的&6电路&r，能够用于制作更多高级机器。"]
+	quest.6A382549A4C55A5E.quest_desc: ["&c高级控制电路&r是下一等级的&6电路&r，可用于制作更高级的机器。"]
 	quest.6A382549A4C55A5E.title: "高级控制电路"
 	quest.6A6C19E36893381B.quest_desc: [
 		"&b公式装配器&r是一台消耗&e能量&r合成物品的机器，甚至能充当一个&b高级合成台&r。"
@@ -5120,7 +5120,7 @@
 		"&bME扩展接口&f每个槽位能够容纳64个物品，同时槽位是普通接口的4倍。"
 	]
 	quest.6BE74683BED141EF.quest_desc: ["Not just a craft component and decorative… can be slapped on &bFluid Pipes&r, both to &6hold&r them in their orientation and prevent them from &6joining&r later adjacently placed pipes."]
-	quest.6C012E0F8B3922DC.quest_desc: ["&b精英压射工厂&r能够同时处理&a七个&r压射配方。"]
+	quest.6C012E0F8B3922DC.quest_desc: ["&b精英压射工厂&r能够同时处理&a七个&r物品。"]
 	quest.6C012E0F8B3922DC.title: "精英压射工厂"
 	quest.6C7789B56E50B6F1.quest_desc: [
 		"这套&b盔甲&r可被&6升级&r，且提供的护甲值与&b钻石套&r相当。"
@@ -5244,7 +5244,7 @@
 	quest.6F7A998802C99AD4.title: "空间塔"
 	quest.6F9513334361D44E.quest_desc: ["&6食用&r这种水果将开启你的&b第三只眼&r，让你看到原本无法看到的事物。"]
 	quest.6F9513334361D44E.quest_subtitle: "灵视剂"
-	quest.6FA1BD39E9BB9392.quest_desc: ["&b终极融合工厂&r能够同时处理&a九个&r融合配方。"]
+	quest.6FA1BD39E9BB9392.quest_desc: ["&b终极融合工厂&r能够同时融合&a九个&r物品。"]
 	quest.6FA1BD39E9BB9392.title: "终极融合工厂"
 	quest.6FD3C9B4EF558332.quest_desc: ["Brassy on the edges, but classy-not-brassy all over."]
 	quest.6FDE684299FEC954.quest_desc: ["每个&b精英机械管道&r可以提供&932,000mb&r流体容纳量，且“&a抽出&r”管道的抽出速率为&98,000mb/t&r。"]
@@ -5627,7 +5627,7 @@
 	]
 	quest.78B4459314C86937.quest_subtitle: "展示/输入/过滤"
 	quest.78B4459314C86937.title: "奥术基座"
-	quest.78C746829110FC35.quest_desc: ["&b激光&r是&e能量传输&r的高级形式，能够&6发射&r极强的光子射线，用来&4伤害&r&2实体&r，&c点燃TNT&r，&7破坏方块&r，甚至&e辅助启动&r你未来的&9反应堆&r。"]
+	quest.78C746829110FC35.quest_desc: ["&b激光&r是&e能量传输&r的高级形式。它&6发射&r的极强的光子射线可&4伤害&r&2实体&r、&c点燃TNT&r、&7破坏方块&r，甚至&e辅助启动&r你未来的&9反应堆&r。"]
 	quest.78C746829110FC35.title: "激光"
 	quest.78D8E2EB66607AAA.quest_desc: ["Take a little &bnether quartz,&r combine with &bredstone,&r then &6sand&r it all nicely, and bam!... you're about to make you first &bElectron Tubes&r and are nearer to all the fun goodies in the &c\"Specials\"&r wing."]
 	quest.78D8E2EB66607AAA.quest_subtitle: "Smooth and Shiny!"
@@ -5789,7 +5789,7 @@
 	quest.7BEA5B1D1B410E82.quest_desc: [
 		"&b高级太阳能发电机&r是小型&3太阳能发电机&r的升级版，能够提供更多的&a能量&r。"
 		""
-		"你可以将其&6放置&r在&b热力蒸馏塔&r的顶角，将绿色的&a能量输出口&r对准&b热力蒸馏方块&r，这样它就可以在白天为蒸馏塔&6提供&r&c热量&r。"
+		"你可以将其&6放置&r在&b热力蒸馏塔&r的顶角，将绿色的&a能量输出口&r对准&b热力蒸馏方块&r，这样白天它就可以为蒸馏塔&6提供&r&c热量&r。"
 	]
 	quest.7BEA5B1D1B410E82.title: "高级太阳能发电机"
 	quest.7C0FA555C5FE00D1.quest_desc: [
@@ -5865,7 +5865,7 @@
 	quest.7DA234839458B333.quest_desc: [
 		"&c火焰喷射器&r能够消耗&7氢气&r，对&b方块&r和&2实体&r喷射&4火焰&r。"
 		""
-		"其有不同的&3模式&r可供&6切换&r，按下“&3物品模式切换&r”按键即可在以下几种不同模式下切换："
+		"它有不同的&3模式&r可供&6切换&r，按下“&3物品模式切换&r”所绑定的键位即可在以下几种不同模式中切换："
 		""
 		"- 加热"
 		"- 战斗"
@@ -5875,7 +5875,7 @@
 		""
 		"&c战斗模式&r只会&4伤害&r&2实体&r。"
 		""
-		"&6点燃模式&r不仅会伤害&2实体&r，也能&6点燃&r世界中的方块。"
+		"&6点燃模式&r能够伤害&2实体&r，也可以&6点燃&r世界中的方块。"
 	]
 	quest.7DA234839458B333.title: "火焰喷射器"
 	quest.7DA49A7F33A82D1C.quest_desc: [
