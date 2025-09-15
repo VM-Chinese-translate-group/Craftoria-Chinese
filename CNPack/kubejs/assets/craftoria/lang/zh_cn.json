@@ -685,7 +685,7 @@
   "chemical.craftoria.plutonium_oxide": "Plutonium Oxide",
   "chemical.craftoria.quantum_infusion": "Quantum Infusion (Chemical)",
 
-  "comment_info": "tooltip and info in emi",
+  "comment_info": "emi中的提示和信息",
   "tooltip.craftoria.hold_shift": "Hold [Shift] for more information",
   "tooltip.craftoria.ice_essence": "Dropped by the Apothic Lich in the Trial of Awaken gateway.",
   "tooltip.craftoria.fire_essence": "Dropped by the Apothic Gauntlet in the Trial of Awaken gateway.",
