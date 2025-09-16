@@ -80,7 +80,7 @@
   "jade.tempad.closing": "Closing...",
   "jade.tempad.pos": "Teleporting to %s at %s",
   "misc.tempad.return": "Returning to %s",
-  "tempad.tooltip.player_pos": "Targetting: %s",
+  "tempad.tooltip.player_pos": "目标：%s",
 
   "misc.tempad.upgrades": "Installed Upgrades:",
   "misc.tempad.wandering": "Wandering in",
