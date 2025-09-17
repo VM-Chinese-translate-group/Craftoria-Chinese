@@ -143,7 +143,7 @@
 		"&6Right Click&r to deposit the &7fluid&r and &6Left Click&r to pick it up."
 	]
 	quest.03CF6D6277D93A4A.title: "滴管"
-	quest.03E0ADE2191CC3FB.quest_desc: ["每个&b高级感应元件&r可以为你的感应矩阵增加&e25.6 GFE&r的能量存储上限。"]
+	quest.03E0ADE2191CC3FB.quest_desc: ["每个&b高级感应元件&r可以为你的感应矩阵增加&e25.6 GFE&r的存储容量。"]
 	quest.03E0ADE2191CC3FB.title: "高级感应元件"
 	quest.03F624101CDF5291.quest_desc: [
 		"&b初级方块放置器&r："
@@ -195,9 +195,9 @@
 	quest.04C07CE4F7258BF5.quest_desc: [""]
 	quest.04C07CE4F7258BF5.quest_subtitle: "Move Stuff 'Round"
 	quest.04C21F7B2F034772.quest_desc: [
-		"将&b增压线圈&r放置在内侧的中间位置，对准超临界移相器的中心。"
+		"将&b增压线圈&r放置在每个面的内侧的中间位置，对准超临界移相器的中心。"
 		""
-		"它会&6聚集能量&r，对&a气态钋&r进行&7加压&r，摧毁其中的重原子并将其转化成&d气态反物质&r。"
+		"它会将&6能量聚集&r在&7加压&r的&a气态钋&r中，撕裂其中的重原子，将其转化为&d气态反物质&r。"
 	]
 	quest.04C21F7B2F034772.title: "增压线圈"
 	quest.04E6DF90BA2FCACB.quest_desc: [
@@ -833,7 +833,7 @@
 		""
 		"&c准备好迎接挑战……"
 	]
-	quest.15C38E0D2B205FB4.title: "气液转换机用水"
+	quest.15C38E0D2B205FB4.title: "用于气液转换机的水"
 	quest.15CB4C73B630D833.quest_desc: [
 		"&b精英灌注工厂&r能够同时进行最多&a七个&r物品的灌注，同样有“&6自动分类&r”功能。"
 		""
@@ -1351,9 +1351,9 @@
 	quest.1D2EF18DBF02F6EB.quest_subtitle: "只有完成了征服&2黑暗森林&r的冒险，你才能踏入&6黑暗高塔&r并在塔顶找到Boss。"
 	quest.1D2EF18DBF02F6EB.title: "&8暮初&f恶魂"
 	quest.1D482F0D9AF8D17E.quest_desc: [
-		"&d原子合金&r是你可以做出的最强大、传导性最强的合金。"
+		"&d原子合金&r是你可以做出的最强大、导电性最好的合金。"
 		""
-		"将&5强化黑曜石&r&6灌注&r进&9强化合金&r就可以制作这种合金。"
+		"将&5强化黑曜石&r&6灌注&r进&9强化合金&r就可以制成这种合金。"
 	]
 	quest.1D482F0D9AF8D17E.title: "原子合金"
 	quest.1D57C823A1F0203C.quest_desc: [
@@ -1380,7 +1380,7 @@
 	quest.1DE9A85C2E5348D1.quest_desc: [
 		"&b聚变反应堆控制器&r是&b聚变反应堆&r的心脏。"
 		""
-		"只要给反应堆提供合适的&8燃料&r和&9冷却剂&r，反应堆就能&a稳定&r运行。"
+		"只要给反应堆提供合适的&8燃料&r和&9冷却剂&r，它就可以维持反应堆的&a稳定&r运行。"
 	]
 	quest.1DE9A85C2E5348D1.title: "聚变反应堆控制器"
 	quest.1DF80E9D2A1732BC.quest_desc: ["使用&5解除魔法&r的法术或&4杀死&r对应生物即可回收护符。"]
@@ -1478,9 +1478,9 @@
 	quest.1F88FCB1B73FF882.quest_desc: ["刷怪停止前附近同类型实体的最大数量。"]
 	quest.1F88FCB1B73FF882.quest_subtitle: "+2 最大实体数量"
 	quest.1F9A1456487655B0.quest_desc: [
-		"用&b传送核心&r制作&9传送机&r，即可在任意距离瞬间传送。"
+		"用&b传送核心&r制作的&9传送机&r可无视距离将你瞬间传送至另一个地方。"
 		""
-		"每个&b传送门&r需要一个&9传送机&r和&a九个&r&b传送框架&r，中间留出一两格供玩家通过的洞。"
+		"每个&b传送门&r由一个&9传送机&r和&a九个&r&b传送框架&r构成，中间留出1x2的洞供玩家通过。"
 		""
 		"&6配置&r好频率，然后走起！"
 	]
@@ -1523,7 +1523,7 @@
 	]
 	quest.206C9BCE1D67C3B8.quest_desc: ["手工清理&b粉笔&r确实有点麻烦。幸亏这个问题已经解决了：使用&b粉笔擦&r！"]
 	quest.206C9BCE1D67C3B8.quest_subtitle: "Don't got any soap?"
-	quest.207613A34C3F10FA.title: "化学灌注器用氧气"
+	quest.207613A34C3F10FA.title: "用于化学灌注器的氧气"
 	quest.2085CB41244C2783.quest_desc: ["你需要前往下界击杀疣猪兽，并获取疣猪皮。"]
 	quest.209744C68891F1DA.quest_desc: ["蝙蝠使魔可以让你在&b黑暗&r中&6看清楚&r。"]
 	quest.209744C68891F1DA.quest_subtitle: "回声定位"
@@ -1622,7 +1622,7 @@
 		"  它大约是&6二十分之一&b秒&r。这个世界就是按照这些“&btick&r”来运行的，你可以&6好好利用&r它！"
 	]
 	quest.21584ECDBB6907DE.title: "什么是tick？"
-	quest.21586F8B123BFCC3.quest_desc: ["&b放射性废料桶&r能够以一个固定速率使存储其中的各种&2放射性流体&r缓慢&7衰变&r。"]
+	quest.21586F8B123BFCC3.quest_desc: ["&b放射性废料桶&r能够使存储其中的各种&2放射性流体&r以固定的速率缓慢&7衰变&r。"]
 	quest.21586F8B123BFCC3.title: "真正的能源，真正的痛苦"
 	quest.216C2D79B2481DA3.quest_desc: ["网络中&e每个&r&b高级通用线缆&r能够容纳&e51.2 kFE&r。每增加一个线缆，网络总传输速率就增加&e51.2 kFE/t&r。"]
 	quest.216C2D79B2481DA3.title: "高级通用线缆"
@@ -1688,9 +1688,9 @@
 	quest.225C580584927804.quest_desc: ["&b高级烧炼工厂&r能够同时进行最多&a五个&r烧炼任务，同样有“&e自动分类&r”功能。"]
 	quest.225C580584927804.title: "高级烧炼工厂"
 	quest.22822DD2E10F65EA.quest_desc: ["当这个仪器&6放置&r在&b汞催化器&r上时，可以为&b重塑阵列&r提供动力。"]
-	quest.22A2121A25A010AB.quest_desc: ["每个&b基础感应元件&r可以为你的感应矩阵增加&e3.2 GFE&r的能量存储上限。"]
+	quest.22A2121A25A010AB.quest_desc: ["每个&b基础感应元件&r可以为你的感应矩阵增加&e3.2 GFE&r的存储容量。"]
 	quest.22A2121A25A010AB.title: "基础感应元件"
-	quest.22AC242F0A230278.quest_desc: ["&dQIO红石适配器&r可以通过发出&4红石信号&r的方式&6监控&r你的存储系统。"]
+	quest.22AC242F0A230278.quest_desc: ["&dQIO红石适配器&r可以让你通过它发出的&4红石信号&r来&6监控&r你的存储系统。"]
 	quest.22AC242F0A230278.title: "QIO红石适配器"
 	quest.22D2716905D415E5.quest_desc: [
 		"&b富集仓&r是一台简易的机器，不仅可以&6将矿石富集&r成两个或以上的&b粉&r，还可以&6富集&r其他物品，例如："
@@ -1825,11 +1825,11 @@
 	quest.253FA8D6C09E2BD5.quest_desc: ["生成实体将不会发出任何声音。"]
 	quest.253FA8D6C09E2BD5.quest_subtitle: "+ 静音"
 	quest.2571BC62616A45AB.quest_desc: [
-		"这就是你的&dQIO仪表板&r。"
+		"这是你的&dQIO仪表板&r。"
 		""
-		"访问所有&b物品&r的地方。"
+		"它是你访问系统中所存&b物品&r的端口。"
 		""
-		"时尚而深邃，可以适配几乎所有环境。"
+		"时尚而深邃，放在哪里都好看。"
 	]
 	quest.2571BC62616A45AB.title: "QIO仪表板"
 	quest.263FE6D3550CD41C.quest_desc: [""]
@@ -1847,9 +1847,9 @@
 	]
 	quest.264F371D2A18EAEC.title: "基础加压管道"
 	quest.2675A4EA019B383F.quest_desc: [
-		"你需要建造&b工业涡轮&r来&7利用&r不断产生的&7蒸汽&r，并将其转化为&e电力&r。"
+		"你需要建造一些&b工业涡轮&r，才能&7利用&r你生产的&7蒸汽&r来发&e电&r。"
 		""
-		"搭建处于中央位置的涡轮以及涡轮的周边结构。"
+		"请搭建中心的涡轮及涡轮的周边结构。"
 	]
 	quest.2675A4EA019B383F.title: "涡轮时间"
 	quest.2689A56675E12245.quest_desc: [
@@ -1876,7 +1876,7 @@
 	quest.272E31F15A39517B.quest_desc: [
 		"终极&e发电&r设备的第一步——&b聚变反应堆框架&r。"
 		""
-		"框架搭建的墙内，是&4极其强大&r的聚变反应。"
+		"这些框架搭建的墙壁可将&4极其强大&r的聚变反应束缚于其中。"
 	]
 	quest.272E31F15A39517B.title: "聚变反应堆框架"
 	quest.27A396E8628B269E.quest_desc: ["  &b金钻&r可产出下界的建筑方块和矿物。"]
@@ -1885,9 +1885,9 @@
 	quest.27B6C6079B5FE918.title: "回旋式气液转换机"
 	quest.2805DA3A1F411588.quest_desc: ["用于&a存储&f&4能量&f，你会需要一个&bFE元件外壳&f的。"]
 	quest.2821236A1E8FEF73.quest_desc: [
-		"&b聚变反应堆端口&r是通向&b聚变反应堆&r中心的强化通路。"
+		"&b聚变反应堆端口&r是一条直通&b聚变反应堆&r中心的坚固通道。"
 		""
-		"没有&6连接&r时，它就和框架一样坚固；一旦&6连接&r资源，它就可以提供一个&a单向&r的通路，将资源输入核心或从核心输出。"
+		"通常情况下，它就和框架一样坚固；如果将它与其他东西&6连接&r，它就可以提供一个&a单向&r的通路，将资源输入核心或从核心输出。"
 	]
 	quest.2821236A1E8FEF73.title: "聚变反应堆端口"
 	quest.286229410FA571B7.quest_desc: ["&6Prevents&r collisions and &6controls&r the flow of scheduled trains."]
@@ -2027,7 +2027,7 @@
 	quest.2AB5183A0BD8D387.title: "多核并行处理单元"
 	quest.2ABCACEBACE7A37D.title: "门瑞欧浆果"
 	quest.2ACF8F5EFD3C4AF7.title: "靴子"
-	quest.2ADDD30536A7FF68.quest_desc: ["&b强化玻璃&r是是一种&3超强透明材料&r，能够用于&b聚变反应堆&r的中心位置。人人都喜欢&6看到&r漂亮的颜色（虽然它们可能会&4抹杀&r你，也可能不会）。"]
+	quest.2ADDD30536A7FF68.quest_desc: ["&b强化玻璃&r是一种&3超强的透明材料&r，可用于搭建&b聚变反应堆&r的核心墙体。人人都喜欢&6看&r漂亮的颜色（虽然它可能会&4抹杀&r你，也可能不会）。"]
 	quest.2B1717F5D6E20B79.quest_desc: [
 		"  消耗大量能量，用&b电解机&r长时间电解刚刚制得的&b奇点&r，你就可以通过&b量子霍金辐射&r以&b通用物质&r——即&dUU物质&r的形式，提取大量能量。"
 		""
@@ -2035,7 +2035,7 @@
 	]
 	quest.2B1717F5D6E20B79.title: "UU物质桶"
 	quest.2B2D3B338662F02C.quest_desc: ["可以用纯化金来&6改变&r&b硫&r的&a品级&r。"]
-	quest.2B3B96DDFE5D3ACA.quest_desc: ["你可以用&b锅炉外壳&r搭建&b热力锅炉&r，依靠&c外部热源&r&6产出&r更多&7蒸汽&r，比如&b裂变反应堆&r产生的&9液态过热钠&r。"]
+	quest.2B3B96DDFE5D3ACA.quest_desc: ["你可以用&b锅炉外壳&r搭建&b热力锅炉&r，利用&c外部热源&r&6产出&r更多&7蒸汽&r，比如&b裂变反应堆&r产生的&9过热钠&r。"]
 	quest.2B3B96DDFE5D3ACA.title: "锅炉外壳"
 	quest.2B41DC5E4D733C9C.quest_subtitle: "Dropped within the Trials of Awaken gateway. "
 	quest.2B482168EC0C6EB8.quest_subtitle: "Stealth, fun style."
@@ -2219,7 +2219,7 @@
 	]
 	quest.2E1EB12F3D9B315E.quest_subtitle: "本任务为全收集任务"
 	quest.2E1EB12F3D9B315E.title: "红色仪式之板"
-	quest.2E50F969D8AE49B2.quest_desc: ["每个&b精英感应元件&r可以为你的感应矩阵增加&e204.8 GFE&r的能量存储上限。"]
+	quest.2E50F969D8AE49B2.quest_desc: ["每个&b精英感应元件&r可以为你的感应矩阵增加&e204.8 GFE&r的存储容量。"]
 	quest.2E50F969D8AE49B2.title: "精英感应元件"
 	quest.2E5D9CB5D821E96A.quest_desc: [
 		"这是一类最&8坚固的&r&b压力管道&r。"
@@ -2312,7 +2312,7 @@
 		"另一种合成原材料。"
 		"可在&bEMI/JEI&r中查询合成方法。"
 	]
-	quest.305C258D68DA8E96.quest_desc: ["你可以用&b感应外壳&r搭建一个容纳元件和供应器的结构，这些元件和供应器可以&6储存&r浩如烟海的&e能量&r。"]
+	quest.305C258D68DA8E96.quest_desc: ["你可以用&b感应外壳&r搭建一个容纳感应元件和供应器的结构，来&6储存&r浩如烟海的&e能量&r。"]
 	quest.305C258D68DA8E96.title: "感应外壳"
 	quest.305EDA1DA23E9BDF.quest_desc: ["Guardians of order in an unpredicatble world of &bChains,&r &bBelts,&r and &bBoxes&r."]
 	quest.305EDA1DA23E9BDF.quest_subtitle: "Package them again, Sam."
@@ -2412,7 +2412,7 @@
 	quest.32677D1F144A1184.quest_desc: ["恶魔配偶可以帮助你并提供陪伴。它们有两种类别——为什么不都召唤呢？"]
 	quest.32677D1F144A1184.quest_subtitle: "……"
 	quest.32677D1F144A1184.title: "召唤恶魔配偶"
-	quest.327EDC1D4C50D185.quest_desc: ["&dQIO输出端口&r专门用来从系统中&a提取&r物品，输入到端口指向的方块中。"]
+	quest.327EDC1D4C50D185.quest_desc: ["&dQIO输出端口&r可将系统中的物品&a输出&r到其下方的存储容器中。"]
 	quest.327EDC1D4C50D185.title: "QIO输出端口"
 	quest.3288EB24E412AF9A.quest_subtitle: "完成对应任务章节。"
 	quest.3288EB24E412AF9A.title: "&d现代&b工业化"
@@ -2439,17 +2439,17 @@
 		"需要&b离心机&r吗？"
 		"需要&a更快的&r吗？"
 		""
-		"一个转得像&9游乐场环岛&r中间的&6火箭一样快&r的怎么样？"
+		"一个&6转得像&r被拴住的&9只能沿着操场转圈&r的&6火箭&r一样快的怎么样？"
 		""
-		"那么&b同位素离心机&r就是答案！"
+		"那这个&b同位素离心机&r再合适不过了！"
 		""
-		"它可以用来处理&2核废料&r，还可以用来制作&d裂变燃料&r。"
+		"它可以用来处理&2核废料&r，也可以用来制作&d裂变燃料&r。"
 	]
 	quest.3392424E7E1B68C4.title: "同位素离心机"
 	quest.33AC5F9CFB679483.quest_desc: [
-		"我们需要眼睛来看，最好保护住它们——&bMekaSuit头盔&r正会如此。"
+		"眼睛是心灵的窗户，请好好保护它们——&bMekaSuit头盔&r正适合这份工作。"
 		""
-		"它甚至可以提供&5夜视&r！"
+		"它甚至还有&5夜视&r功能！"
 	]
 	quest.33AC5F9CFB679483.title: "MekaSuit头盔"
 	quest.33C2042F320B2D34.quest_desc: [
@@ -2485,7 +2485,7 @@
 	]
 	quest.33D0760B5FEF7C46.title: "等离子涡轮机"
 	quest.33EEBDD0730C020E.quest_desc: ["使用卷轴撰写台和猩红精华来制作猩红法术卷轴。"]
-	quest.33F07E292A9B14B1.quest_desc: ["&b传送核心&r是&6传送&r的核心，不仅可以传送资源，也可以传送人。"]
+	quest.33F07E292A9B14B1.quest_desc: ["&b传送核心&r是&6传送&r功能（可传送资源和人）的核心材料。"]
 	quest.33F07E292A9B14B1.title: "传送核心"
 	quest.33F695229D12C6FB.quest_subtitle: "烘干树脂"
 	quest.3447A04FA017C790.quest_desc: [
@@ -2624,9 +2624,9 @@
 	quest.36D6DCA2535410E0.quest_desc: [
 		"你能想象的最大的驱动器。"
 		""
-		"能够存储整整&a16,000,000&r个物品，&38,192&r种不同的类型。"
+		"能够存储整整&38,192&r种不同类型的，总计&a16,000,000&r个物品。"
 		""
-		"几乎你能想到的一切都可以存进这样一张驱动器里。"
+		"你能想到的几乎一切事物，都可以存进这样的一个驱动器中。"
 	]
 	quest.36D6DCA2535410E0.title: "超质量 QIO 驱动器"
 	quest.36F22AA68C1841F6.quest_desc: [""]
@@ -2799,7 +2799,7 @@
 		"{image:justdirethings:block/portal_shader width:100 height:100 align:center}"
 	]
 	quest.3AE00D06232E0175.quest_subtitle: "奔向月球！"
-	quest.3B0AB80C9FAD48F2.quest_desc: ["&b反质子核合成器&r能够消耗气态&d反物质&r，改变某些物品的分子结构，从而将其转化成更强力的变体。"]
+	quest.3B0AB80C9FAD48F2.quest_desc: ["&b反质子核合成器&r能够利用气态&d反物质&r改变某些物品的分子结构，将其转化成更强力的变体。"]
 	quest.3B0AB80C9FAD48F2.title: "反质子核合成器"
 	quest.3B117FA99DD7558F.quest_desc: ["你可能会希望&6自动化&r这项生产过程。"]
 	quest.3B117FA99DD7558F.title: "溶剂"
@@ -2818,7 +2818,7 @@
 		"你也可以在化学压射室里用&7氧气&r强行&4氧化&r铜质材料，用水蒸气固化混凝土，把红砖变回黏土，让失活的珊瑚重新焕发活力。"
 	]
 	quest.3BAA7EC7653A7905.title: "化学压射室"
-	quest.3BAFFE6DA1F9BFDF.title: "化学压射为硫粉"
+	quest.3BAFFE6DA1F9BFDF.title: "化学压射为硫"
 	quest.3BDEC456E9E80548.quest_desc: [
 		"有些&b仪式&r值得一提："
 		""
@@ -2968,7 +2968,7 @@
 	quest.3F6730383CCC8BB0.quest_desc: ["Don’t be fooled… it may appear similar to the humble &bcauldron,&r but is flexible enough to work with &bBelts&r, &bFluid Pipes&r, and &bMechanical Mixers&r and &bPresses&r—&6enabling&r the automation of many recipes."]
 	quest.3F73EC8E087E2920.quest_desc: ["生成的生物将会掉落额外战利品，且回响等级越高，额外战利品也越多。"]
 	quest.3F73EC8E087E2920.quest_subtitle: "+1 回响属性"
-	quest.3F8B9421E85C047D.title: "化学清洗机用水"
+	quest.3F8B9421E85C047D.title: "用于化学清洗的水"
 	quest.3FB60EC2EE4D0435.quest_desc: [
 		"&b巫师工具&r可在&b抄写台&r附上&d法术&r。"
 		""
@@ -2976,7 +2976,7 @@
 		"&8可为施法者施加“自身”法术。用巫师之镜施放的法术&2消耗魔力更少&r&8且&6持续时间更长&r（对法术中的所有魔符均起效）&8。（巫师工具均不需要&5形态&r&8魔符）"
 	]
 	quest.3FB60EC2EE4D0435.title: "巫师工具"
-	quest.400274581B9BD5FC.quest_desc: ["&b激光聚焦矩阵&r用来给&b聚变反应堆&r点火，它能够将&c激光&r发出的激光束直接聚焦到反应堆的核心。"]
+	quest.400274581B9BD5FC.quest_desc: ["&b激光聚焦矩阵&r可将&c激光&r束直接聚焦到反应堆的核心，给&b聚变反应堆&r点火。"]
 	quest.40148704F9175B05.quest_desc: [
 		"绑定好键位以后，将鼠标悬停在&b头盔&r上，按shift即可查看按哪个键可以启用&5夜视&r。"
 		""
@@ -3067,21 +3067,21 @@
 	quest.413557ECF489FD2C.quest_subtitle: "在末地浮岛的稀有结构中出现。"
 	quest.413557ECF489FD2C.title: "&5黑曜石柱"
 	quest.41604B0C59094F5E.quest_desc: [
-		"心就是你的引擎。"
+		"你的心脏就是你的引擎。"
 		""
-		"要是心没了，那你也就没了。"
+		"要是它挂了，你也就挂了。"
 		""
-		"所以，使用&bMekaSuit护甲&r来&6阻挡&r所有即将到来的&c攻击&r吧！"
+		"所以，让&bMekaSuit护甲&r为你&6抵挡&r所有&c攻击&r吧！"
 		""
 		"坚如磐石，否则保证退款！"
 	]
 	quest.41604B0C59094F5E.title: "MekaSuit护甲"
 	quest.4163F176763D3C2B.quest_desc: [
-		"二级 QIO 驱动器。"
+		"二级&dQIO 驱动器&r。"
 		""
-		"能够存储&a128,000&r个物品，&3256&r种不同类型。"
+		"能够存储&3256&r种不同类型的总计&a128,000&r个物品。"
 		""
-		"存储必须增长！"
+		"存储量还要扩大！"
 	]
 	quest.4163F176763D3C2B.title: "超密集 QIO 驱动器"
 	quest.4184B4182CFEF694.quest_desc: [
@@ -3185,7 +3185,7 @@
 		"界面中还有一个槽位，用来将&d营养糊剂&r装进&b餐壶&r。"
 	]
 	quest.4351715A36CA0DA6.title: "营养液化器"
-	quest.436C9C6FF59C4FD5.quest_desc: ["每个&b基础感应供应器&r可以为你的感应矩阵增加&e102.4 kFE/t&r的能量传输速率，同时包括输入和输出速率。"]
+	quest.436C9C6FF59C4FD5.quest_desc: ["每个&b基础感应供应器&r可以为你的感应矩阵增加&e102.4 kFE/t&r的能量传输（输入/输出）速率。"]
 	quest.436C9C6FF59C4FD5.title: "基础感应供应器"
 	quest.43985FE38B0EBCB5.quest_desc: [
 		"&b基础机械管道&r用于在管道网络中传输&7流体&r。"
@@ -3281,9 +3281,9 @@
 		"- 是否需要魔源：否。"
 	]
 	quest.45402DE880D9EF58.quest_desc: [
-		"一张能够扭曲时间的 &dQIO 驱动器&r，只为存储你的物品，天知道这意味着什么。"
+		"一个能够扭曲时间来存储物品的&dQIO 驱动器&r。天知道这意味着什么。"
 		""
-		"能够存储&a1,048,000&r个物品，&31,024&r种不同类型。"
+		"能够存储&31,024&r种不同类型的总计&a1,048,000&r个物品。"
 	]
 	quest.45402DE880D9EF58.title: "时间膨胀 QIO 驱动器"
 	quest.454FF6E2926163F7.quest_desc: [
@@ -3489,7 +3489,7 @@
 		"[ tip: when &6placed&r on a &bBelt,&r &6hit&r with a &bWrench&r to &6expand&r them into their full block-width form ]"
 	]
 	quest.488424BE711AE0F1.quest_subtitle: "Create's I/O port"
-	quest.489C1CE982BC1739.quest_desc: ["&dQIO输入端口&r专门用来将物品从存储容器&c输入&r到系统中。"]
+	quest.489C1CE982BC1739.quest_desc: ["&dQIO输入端口&r可将其下方存储容器中的物品&c输入&r到系统中。"]
 	quest.489C1CE982BC1739.title: "QIO输入端口"
 	quest.48E96D243486D38E.quest_desc: [
 		"&b虚空瞬移手杖&r的&6功能&r："
@@ -3561,7 +3561,7 @@
 	quest.4A5466E364B85AEF.title: "&7第一块钢！"
 	quest.4A559B47D164D1BB.quest_subtitle: "可使用诅咒之眼找到"
 	quest.4A559B47D164D1BB.title: "&b咒翼&e灵骸"
-	quest.4A85523931A7D539.quest_desc: ["每个&b高级感应供应器&r可以为你的感应矩阵增加&e819.2 kFE/t&r的能量传输速率，同时包括输入和输出速率。"]
+	quest.4A85523931A7D539.quest_desc: ["每个&b高级感应供应器&r可以为你的感应矩阵增加&e819.2 kFE/t&r的能量传输（输入/输出）速率。"]
 	quest.4A85523931A7D539.title: "高级感应供应器"
 	quest.4AAFD7E0D868844A.quest_desc: ["It &6ejects...&r this, that, cows, creepers, sheep, or even players."]
 	quest.4AAFD7E0D868844A.quest_subtitle: "Wheee!"
@@ -3842,9 +3842,9 @@
 	]
 	quest.4F987C54768D8E3D.quest_subtitle: "Cognitive Machinations"
 	quest.4FBA0ECAC8AEBCD8.quest_desc: [
-		"&b裂变燃料组件&r是一组燃料棒，用来装载&d裂变燃料&r。"
+		"&b裂变燃料组件&r是一组含有&d裂变燃料&r的燃料棒。"
 		""
-		"将它们竖直放置，并在顶部安装&b控制棒组件&r。"
+		"将它们一个叠一个地摞起来放置，并在顶部放上&b控制棒组件&r。"
 	]
 	quest.4FBA0ECAC8AEBCD8.title: "核裂变"
 	quest.4FDD66D88C90C951.quest_desc: ["想要获得&b刷怪笼&f，你需要使用&a精准采集&f挖掘&b刷怪笼&f。每一个&b刷怪笼&f的基础数值都是一样的且可以被修改。"]
@@ -4022,7 +4022,7 @@
 		"  你要知道，&6给&b水&r&6加压变成&b高压水&r&6会消耗很多能量&r，但涡轮机可不一定会把这些能量还给你。"
 	]
 	quest.5401B18217772D6C.title: "热交换机"
-	quest.5408EFD0B9CA0527.quest_desc: ["每个&b终极感应供应器&r可以为你的感应矩阵增加&e52.42 MFE/t&r的能量传输速率，同时包括输入和输出速率。"]
+	quest.5408EFD0B9CA0527.quest_desc: ["每个&b终极感应供应器&r可以为你的感应矩阵增加&e52.42 MFE/t&r的能量传输（输入/输出）速率。"]
 	quest.5408EFD0B9CA0527.title: "终极感应供应器"
 	quest.541C68336E6C7510.quest_desc: [
 		"&b基础粉碎工厂&r能够同时进行最多&a三个&r粉碎任务。"
@@ -4064,9 +4064,9 @@
 	quest.550B874D9F2D0D5A.quest_desc: [
 		"&b数字型采矿机&r是一种基于&e过滤器&r的自动采矿机。"
 		""
-		"在它的GUI里，你可以为特定的&9方块&r（不只是矿石）设置特定的过滤器，甚至可以用标签设置过滤器。"
+		"在它的GUI里，你可以为特定的&9方块&r（不只是矿石）设置&e过滤器&r，甚至可以基于标签设置过滤器。"
 		""
-		"最大工作半径为&a32&r格。"
+		"它的最大工作半径为&a32&r格。"
 		""
 		"记得用&b辞典&r查找方块的标签。"
 	]
@@ -4117,9 +4117,9 @@
 	quest.55A5C20E17BD3038.quest_desc: [
 		"万具之具。"
 		""
-		"如果你喜欢&b原子分解机&r，那么这将会是你的新欢。"
+		"你说你最喜欢&b原子分解机&r吗，那么这个马上就会成为你的新欢了。"
 		""
-		"你可以以任何喜欢的方式对它&6升级&r，激活各种&e功能&r。"
+		"你可以随心所欲地&6升级&r它，给它装载各种各样的&e功能&r。"
 		""
 		"&bMeka工具&r就是所有工具的尽头。"
 	]
@@ -4147,7 +4147,7 @@
 	quest.5619683321410B74.title: "大型空间组件"
 	quest.5663A6C559490A29.quest_desc: ["&6右击&f对&b僵尸&f或&b尸壳&f使用&b天线珍珠&f，可以获得玩家天线珍珠。"]
 	quest.5663A6C559490A29.quest_subtitle: "别以为你能把那个僵尸找回来"
-	quest.566D039774A4DB9D.quest_desc: ["离心&2核废水&r，将产生的钚与&9氟石粉&r结合就能形成&b钚球&r。"]
+	quest.566D039774A4DB9D.quest_desc: ["将&2核废料&r再处理可以获得钚，再将钚与&9氟石粉&r结合即可制成&b钚球&r。"]
 	quest.566D039774A4DB9D.title: "钚球"
 	quest.56723AEFD93C17F1.quest_subtitle: "可使用沙漠之眼找到"
 	quest.56723AEFD93C17F1.title: "&6远古遗魂"
@@ -4161,7 +4161,7 @@
 	quest.569CE57C377AB1B7.title: "油菜"
 	quest.56A515610D242E28.quest_desc: ["墨水有不同的稀有度，你需要更高等级的墨水来制作更高等级的卷轴。"]
 	quest.56A515610D242E28.title: "墨水"
-	quest.56C5ECD3430B6A55.quest_desc: ["&b高密度聚乙烯加强鞘翅&r是普通&d鞘翅&r的升级版，该鞘翅的耐久是普通鞘翅的两倍，同时可以用&7高密度聚乙烯片&r进行修复，每个高密度聚乙烯片可以修复&3四分之一&r的耐久。"]
+	quest.56C5ECD3430B6A55.quest_desc: ["&b高密度聚乙烯加强鞘翅&r是普通&d鞘翅&r的升级版，该鞘翅的耐久是普通鞘翅的两倍，且可以用&7高密度聚乙烯片&r进行修复，每片可修复&3四分之一&r的耐久！"]
 	quest.56C5ECD3430B6A55.title: "高密度聚乙烯加强鞘翅"
 	quest.56EF0A864720C7C5.quest_desc: ["物品传输的&b过滤器&r，可用在&6星宝石兽&r上。"]
 	quest.56EF0A864720C7C5.title: "物品卷轴：过滤器"
@@ -4229,7 +4229,7 @@
 	quest.59451B5DAD78C46F.quest_desc: [
 		"&b原子分解机&r将是你用过的最好的工具。"
 		""
-		"它是一种多合一工具，而且能造成&4大量伤害&r。"
+		"它是一种全能工具，而且还能造成&4大量伤害&r。"
 	]
 	quest.59451B5DAD78C46F.title: "原子分解机"
 	quest.594BC97607EEE341.quest_desc: ["A key piece of most Create builds: &6interchanges&r axis of rotational motion between one plane and another"]
@@ -4422,7 +4422,7 @@
 	quest.5FBAD421F88943B6.title: "转运管道"
 	quest.5FCE0573AA70913A.quest_subtitle: "完成对应任务章节。"
 	quest.5FCE0573AA70913A.title: "&4Just Dire Things"
-	quest.5FFDA262D7693860.quest_desc: ["活化&2核废水&r，将产生的钋与&b氟石粉&r结合就能形成&a钋球&r。"]
+	quest.5FFDA262D7693860.quest_desc: ["将&2核废料&r再处理可以获得钋，再将钋与&b氟石粉&r结合即可制成&a钋球&r。"]
 	quest.5FFDA262D7693860.title: "钋球"
 	quest.60225C11880C3534.title: "蓝莓"
 	quest.6070283AEA8DFA7E.quest_desc: [
@@ -4445,12 +4445,12 @@
 	quest.60868DF852E6028B.title: "更多装备"
 	quest.60A38769895A0B14.title: "Bank's Dock and Link"
 	quest.60A4B6B0601C837C.quest_desc: ["&b铜棒&f也有同样的功能，但其&6放置&f的最大数量限制为9个方块。"]
-	quest.60AEE273431548B6.quest_desc: ["在工业涡轮和热力锅炉里放置一层&b分压原件&r，适当调节压力释放。"]
+	quest.60AEE273431548B6.quest_desc: ["在涡轮和锅炉里放置一层&b分压元件&r以更好地调节&7压力的释放&r。"]
 	quest.60AEE273431548B6.title: "分压元件"
 	quest.60F4F5FE0C3748C3.quest_desc: [
-		"&b化学清洗机&r能够清洗&d浆液&r，以备&9结晶&r。"
+		"&b化学清洗机&r能够清洗&d浆液&r，供&9结晶&r使用。"
 		""
-		"&a五倍&r矿物产线的最后阶段。"
+		"这是&a五倍&r矿产线的最后一步。"
 	]
 	quest.60F4F5FE0C3748C3.title: "化学清洗机"
 	quest.6127E7FBC4ABF307.quest_desc: [
@@ -4470,7 +4470,7 @@
 	]
 	quest.61340C2A12FEAA26.quest_desc: ["&bME驱动器&f用于存放&b存储元件&f。"]
 	quest.61340C2A12FEAA26.title: "ME驱动器"
-	quest.614E49D8AA7F85FC.quest_desc: ["每个&b精英感应供应器&r可以为你的感应矩阵增加&e9.55 MFE/t&r的能量传输速率，同时包括输入和输出速率。"]
+	quest.614E49D8AA7F85FC.quest_desc: ["每个&b精英感应供应器&r可以为你的感应矩阵增加&e9.55 MFE/t&r的能量传输（输入/输出）速率。"]
 	quest.614E49D8AA7F85FC.title: "精英感应供应器"
 	quest.61748279816F2D7F.quest_desc: [
 		"&b红石控制模块&f的功能是让机器可被&c红石&f控制！手持模块&6右击&f可&6切换其&f模式，有&9高信号&f和&9低信号&f两种。然后把它放进&c红石&f模块槽位即可。"
@@ -4580,9 +4580,9 @@
 	]
 	quest.63B54338B8D5823B.title: "染色器"
 	quest.63D83934E3A1A71C.quest_desc: [
-		"&bMekaSuit靴子&r是你迈向成为鞋友的未来的初次尝试。"
+		"&bMekaSuit靴子&r是你入坑鞋圈的起点。"
 		""
-		"&6升级&r靴子来更好地保护你的脚免于各种伤害。"
+		"&6升级&r这双靴子来保护你的脚免受各种伤害。"
 	]
 	quest.63D83934E3A1A71C.title: "MekaSuit靴子"
 	quest.63EC4C04DD5C0CA6.quest_subtitle: "可使用烈焰之眼找到"
@@ -4688,7 +4688,7 @@
 	quest.66F756E370750359.quest_desc: [
 		"人生好裤！"
 		""
-		"&bMekaSuit护腿&r将会保护你的腿部。完全升级后，可以&6防护&r几乎所有&4伤害&r。"
+		"&6升级&r到顶配的&bMekaSuit护腿&r可以帮你的腿抵御几乎所有的&4攻击&r。"
 	]
 	quest.66F756E370750359.title: "MekaSuit护腿"
 	quest.670CE9B293296FEB.quest_desc: [
@@ -4737,7 +4737,7 @@
 	]
 	quest.6794A40DE2A79575.quest_subtitle: "暗影导师"
 	quest.6794A40DE2A79575.title: "村民"
-	quest.67A41E4D6BCA5F2B.quest_desc: ["量子物品编排（Quantum Item Orchestration）系统的核心，你可以在此处存放你的QIO驱动器，务必用你的生命保护它。"]
+	quest.67A41E4D6BCA5F2B.quest_desc: ["这是量子物品编排（Quantum Item Orchestration）系统的核心。你的QIO驱动器都存放在此处，务必用你的生命保护它。"]
 	quest.67A41E4D6BCA5F2B.title: "QIO驱动器阵列"
 	quest.67ACD099BDB606FA.quest_desc: [
 		"戴上这个&b护目镜&r，你将仿佛拥有&b第三只眼&r一般。"
@@ -4873,7 +4873,7 @@
 	]
 	quest.68BF4571620AC8CF.quest_subtitle: "示例法术"
 	quest.68BF4571620AC8CF.title: "法师的法术书"
-	quest.68C8CDDDD7EA8A48.quest_desc: ["你需要用&b超临界移相器端口&r为&9移相器&r供应或收取资源。"]
+	quest.68C8CDDDD7EA8A48.quest_desc: ["你需要通过&b超临界移相器端口&r来向&9移相器&r输入/输出资源。"]
 	quest.68C8CDDDD7EA8A48.title: "超临界移相器端口"
 	quest.690D4925E05D5421.quest_desc: [
 		"- &b农艺魔源通道&r会在周围有树苗或作物&2生长&r时生产魔源。"
@@ -4997,7 +4997,7 @@
 	quest.698235E8EC974A7F.quest_subtitle: "这是健身器材么？"
 	quest.698594BEA9750A4E.quest_desc: ["&8灰色&r粉笔比上一种粉笔更能稳定五芒星。"]
 	quest.698594BEA9750A4E.quest_subtitle: "第三阵基"
-	quest.69B079DABB860AEF.quest_desc: ["由强化黑曜石加强的电路板，专为承受最剧烈的工作和碰撞。"]
+	quest.69B079DABB860AEF.quest_desc: ["用&5强化黑曜石&r加强的&b电路板&r，可承受极端的工作负荷和冲击。"]
 	quest.69B079DABB860AEF.title: "终极控制电路"
 	quest.69BD8400AAA37066.quest_desc: [
 		"&b初级传感器&r："
@@ -5175,11 +5175,11 @@
 	quest.6E3F0C072B55467B.quest_desc: ["Simple: &6harvests&r and &6resets&r &bmature crops&r."]
 	quest.6E60988E8F8C4FF2.title: "三氧化硫"
 	quest.6EA29403BF85B19C.quest_desc: [
-		"你的第一个 &dQIO 驱动器&r。"
+		"你的第一个&dQIO 驱动器&r。"
 		""
-		"能够存储&a16,000&r个物品，&3128&r种不同类型。"
+		"能够存储&3128&r种不同类型的总计&a16,000&r个物品。"
 		""
-		"从此开始，它只会变得更大。"
+		"这只是它的最小容量。"
 	]
 	quest.6EA29403BF85B19C.title: "QIO 驱动器"
 	quest.6EBFFFB567687A1E.quest_desc: [
@@ -5192,7 +5192,7 @@
 	quest.6EDBFB47B2F8E6BA.quest_desc: ["&b魔王&r是所有绑定魔灵中最强大的，可以为其主人提供许多好处。"]
 	quest.6EDBFB47B2F8E6BA.quest_subtitle: "精通"
 	quest.6EDFD510DC096B12.quest_desc: [
-		"你可以在&b改造站&r为你的模块化组件&a安装&r或&c移除&r升级——无论是护甲还是其他东西。"
+		"你可以在&b改造站&r中为你的模块化组件——无论是护甲还是其他东西——&a安装&r或&c移除&r升级。"
 		""
 		"你可以在&dEMI&r中查看升级的种类和作用。"
 	]
@@ -5294,15 +5294,15 @@
 	quest.707EBB99AA8F4C57.quest_subtitle: "电线！滋啦！"
 	quest.707EBB99AA8F4C57.title: "钢线材轧机"
 	quest.7080BD0EC57359A6.quest_desc: [
-		"This &bwand&r is your &5Ars Nouveau&r's \"wrench\"."
+		"&b支配之杖&r即为&5新生魔艺&r中的“扳手”。"
 		""
-		"&lHEELLLLLPP, I don't understand how to bind!!!&r"
-		"FROM &bx&r TO &by&r"
-		"&8Example: right click starbuncle first, then sneak right click chest. "
-		"&8(the starbuncle will deposit its items to the chest)&r"
+		"&l求助求助！怎么用支配之杖进行绑定！！！&r"
+		"这遵循从&bx&r到&by&r的原则"
+		"&8例：你需要先右击星宝石兽，再潜行右击箱子。"
+		"&8（如此一来，星宝石兽就会把物品存进箱子）&r"
 		""
 		""
-		"&4NOTE&r: check the &bwiki&r or the &bbook&r for all the interactions it can do."
+		"&4提示&r：查阅&bwiki&r或&b残破的宝典&r可了解支配之杖的所有作用。"
 	]
 	quest.70E5F2E588EFEC0D.quest_desc: [
 		"此任务仅用作居中对焦，以确保你每次打开&b此任务章节&r时，视角会对焦至此任务。"
@@ -5515,7 +5515,7 @@
 	]
 	quest.74C5FDC3B1E74586.title: "通量转换器"
 	quest.74D9B681E8EFE064.quest_desc: ["末影珍珠由末影人掉落，用于制作末影法术卷轴。"]
-	quest.7529F840525E5BDF.quest_desc: ["每个&b终极感应元件&r可以为你的感应矩阵增加&e1.6 TFE&r的能量存储上限。"]
+	quest.7529F840525E5BDF.quest_desc: ["每个&b终极感应元件&r可以为你的感应矩阵增加&e1.6 TFE&r的存储容量。"]
 	quest.7529F840525E5BDF.title: "终极感应元件"
 	quest.7533E0212EFE326D.quest_subtitle: "面向&e蜂箱&r放置时，可将&6蜂蜜&r以&b流体形式&r抽取出来。"
 	quest.754B6893342E703D.quest_desc: [
@@ -5650,7 +5650,7 @@
 	quest.7921D6460E480F82.quest_desc: [
 		"使用&b锅炉阀门&r来&c输入热量&r和&9水&r。"
 		""
-		"也可以用来&a输出&r&7蒸汽&r。"
+		"以及&a输出&r&7蒸汽&r。"
 	]
 	quest.7921D6460E480F82.title: "锅炉阀门"
 	quest.79288A7251986136.quest_desc: [
@@ -5663,9 +5663,9 @@
 	quest.7946DBB127444E4D.title: "黄瓜"
 	quest.7948BA211BD790C8.quest_desc: ["可以存储&a无限&r量的单一流体。"]
 	quest.79515634992D02A3.quest_desc: [
-		"你可以导出新形成的&d气态反物质&r，并将其固化为&d反物质球&r。"
+		"你可以输出这些新形成的&d气态反物质&r，将其固化，得到&d反物质球&r。"
 		""
-		"反物质球用来制作你能想到的最&6强力&r的&9升级&r和&9机器&r。"
+		"它可以制造出你能想象的最&6强力&r的&9升级&r和&9机器&r。"
 	]
 	quest.79515634992D02A3.title: "反物质"
 	quest.7992491EE3E2BED3.quest_desc: ["&b高级热导线缆&r拥有&a1.0&r点&4热容&r，&e5.0&r点热导，但热阻为&c400.0&r点。"]
@@ -5740,7 +5740,7 @@
 	quest.7AFED4254BA881B2.title: "杨梅"
 	quest.7B81E0A800E42F1F.quest_subtitle: "To Infinity and Beyond!"
 	quest.7B81E0A800E42F1F.title: "&dInfinity Cells"
-	quest.7B821A8C8A97FA30.title: "硫粉"
+	quest.7B821A8C8A97FA30.title: "硫"
 	quest.7B86C9C90997B3E3.quest_desc: [
 		"&a你没听错&r！"
 		""
