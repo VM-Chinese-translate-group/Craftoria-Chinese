@@ -97,13 +97,13 @@
 	quest.02AE5771A57BC6BE.title: "&3应用能源"
 	quest.02D3AFC713077502.quest_desc: ["使发酵过程更加&6高效&r。&a你可能会想要自动化这个过程&r。"]
 	quest.030E566682A89105.quest_desc: [
-		"&b燃料罐&r可以容纳大量的燃料。"
+		"   &b燃料罐&r可以容纳大量的燃料。"
 		""
-		"它可以放置在任何通常可以放燃料的槽位中。"
+		"   它可以放置在任何通常用来放燃料的槽位中。"
 		""
-		"最棒的事情是……当没有东西可以&6熔炼&r、&6烟熏&r、&6燃烧&r或&6生产能量&r时，&o它会停止消耗其内部存储&r。"
+		"   最棒的事情是……当没有东西需要&6烧炼&r、&6烟熏&r、&6燃烧&r或&6发电&r时，&o它就会停止消耗其内部存储的燃料&r。"
 		""
-		"这有助于你的燃料供应更持久。"
+		"  这可以让你的燃料消耗得更慢。"
 		""
 		"{image:justdirethings:item/fuel_canister_full width:100 height:100 align:center fit:true}"
 	]
@@ -751,7 +751,7 @@
 	quest.13600E981D85B79D.quest_desc: ["自动合成需要合成存储器才能执行，它们负责储存自动合成中使用的物品和流体。"]
 	quest.13600E981D85B79D.title: "合成存储器"
 	quest.138DC280BDD0622B.title: "氢"
-	quest.13A991D769FF6E2A.quest_desc: ["提示：试着种在浅水里！"]
+	quest.13A991D769FF6E2A.quest_desc: ["提示：试试种在水里！"]
 	quest.13A991D769FF6E2A.title: "稻米"
 	quest.13AF33D9F34D640F.quest_desc: [
 		"稍高级一点的法术书，能够在法术中使用&52级魔符&r。"
@@ -1951,15 +1951,15 @@
 	quest.29DE74B144E0A85F.quest_desc: ["&6橙色&r粉笔非常适合用来召唤火灵，尽管并不能控制它们。"]
 	quest.29DE74B144E0A85F.quest_subtitle: "芬香"
 	quest.29E3DC274AF5DAFA.quest_desc: [
-		"&b核源铁扳手&r是……一个扳手。"
+		"  &b核源铁扳手&r是……一个扳手。"
 		""
-		"建造时，它可以&6旋转&r方块——非常方便。"
+		"  建造时，它可以&6旋转&r方块——非常方便。"
 		""
-		"用所有你最喜欢的科技方块试一试，有扳手交互功能的就行。"
+		"  用你最喜欢的科技方块试一试吧，当然，那个方块得有扳手交互功能。"
 		""
 		"{image:justdirethings:item/ferricore_wrench width:100 height:100 align:center fit:true}"
 	]
-	quest.29E3DC274AF5DAFA.quest_subtitle: "并非耍猴戏"
+	quest.29E3DC274AF5DAFA.quest_subtitle: "Not Monkey Business"
 	quest.29E6ED5067027F08.quest_desc: [
 		"-可批量执行任何单方块&e电动&r合成&b机器&r提供给它的&6配方&r。"
 		""
@@ -2316,7 +2316,7 @@
 	quest.305C258D68DA8E96.title: "感应外壳"
 	quest.305EDA1DA23E9BDF.quest_desc: ["Guardians of order in an unpredicatble world of &bChains,&r &bBelts,&r and &bBoxes&r."]
 	quest.305EDA1DA23E9BDF.quest_subtitle: "Package them again, Sam."
-	quest.3068A4024A893DF9.quest_desc: ["倘若找到苍白沼泽群系，你便能发现这种阴森的植物……"]
+	quest.3068A4024A893DF9.quest_desc: ["如果你到了苍白沼泽群系，你可能会发现这种阴森的植物……"]
 	quest.3068A4024A893DF9.title: "苍白南瓜"
 	quest.306E118494E0FA08.title: "蓝色发光甘蔗"
 	quest.308640ACCC096431.quest_desc: [
@@ -2785,7 +2785,7 @@
 	quest.3A5A59C7AEA670C7.quest_desc: ["&b阿维亚之环&r是你要准备的第一个五芒星。它可以用来&6召唤魔精&r。请&6参考&r&b魔灵全典&r了解如何布置。"]
 	quest.3A5A59C7AEA670C7.quest_subtitle: "首个仪式"
 	quest.3A5A59C7AEA670C7.title: "阿维亚之环"
-	quest.3AA43F4E91E31E82.title: "丝兰果实"
+	quest.3AA43F4E91E31E82.title: "丝兰果"
 	quest.3AAE23B6BE07E5DC.quest_desc: ["使用卷轴撰写台和神圣珍珠来制作神圣法术卷轴，这些卷轴能治疗并施放效果。"]
 	quest.3AE00D06232E0175.quest_desc: [
 		"&b传送枪&r："
@@ -3221,7 +3221,7 @@
 	quest.43DB398322EF99BD.quest_subtitle: "混合&e两种&r材料，制成&6合金&r。"
 	quest.43EFE64785AE50B4.title: "四阶 1:4"
 	quest.442CDC27ADFA34E4.quest_desc: ["如果想要&6撤回&f某项修改，可以将&b下界石英&6放于副手&f，再将原本用于增加那项修改的物品放于主手对刷怪笼使用即可。这将&a消耗&f用于增加那项修改的物品，而非&6下界石英&f。"]
-	quest.443DFD3FB9E0BA2F.quest_desc: ["先弄明白自己需要种什么，再去找种子就好办多了！试试打几棵草，或者到处走走，就能找到几种有趣的植物！"]
+	quest.443DFD3FB9E0BA2F.quest_desc: ["先弄明白自己需要种什么，再去找种子就好办多了！试试打几棵草，或者到处走走，找找有趣的植物！"]
 	quest.44507ED3F8A6DEC1.quest_subtitle: "有多种方法可以暂时阻止生物在你附近生成，让你能够安心地进行采矿。"
 	quest.448D7A215A175817.quest_desc: [
 		"&b神秘学&r是一种围绕&6召唤魔灵&r为你工作而展开的技艺。"
@@ -3916,7 +3916,7 @@
 	quest.51A8026A0F8A83B1.quest_desc: ["绿宝石可以在采矿、探索或与村民交易时获取，并用于制作唤魔法术卷轴。"]
 	quest.51E386BC7692D06C.quest_desc: ["为了&6建立&r&6汞驱物流系统&r，必须使用这些&b线缆&r来&6连接&r输入和输出。如果需要，&b连接节点&r允许多条线缆汇聚到一个点。"]
 	quest.51E386BC7692D06C.title: "汞驱连接"
-	quest.51ECF72F223BDB3A.title: "咖啡豆"
+	quest.51ECF72F223BDB3A.title: "咖啡"
 	quest.51F5C6D60D719DC4.quest_desc: [
 		"&bBrass&r—a simple alloy of &bCopper&r and &bZinc,&r but you will need to &6visit&r the Nether to &6equip&r yourself to make it."
 		""
@@ -4234,8 +4234,8 @@
 	quest.59451B5DAD78C46F.title: "原子分解机"
 	quest.594BC97607EEE341.quest_desc: ["A key piece of most Create builds: &6interchanges&r axis of rotational motion between one plane and another"]
 	quest.596057832C440706.title: "绝缘"
-	quest.59EC9D8641CF67B8.quest_desc: ["“我们走过的生物群系”模组也添加了不少作物……只要知道去哪找就行！"]
-	quest.59EE97EF70F6F962.quest_desc: ["有时你能在野外的水边找到野生亚麻植株！采几棵吧！"]
+	quest.59EC9D8641CF67B8.quest_desc: ["“我们走过的生物群系”模组也添加了不少作物……但你得知道去哪找！"]
+	quest.59EE97EF70F6F962.quest_desc: ["你有时能在野外的水边找到野生的亚麻植株！采几棵吧！"]
 	quest.59EE97EF70F6F962.quest_subtitle: "纯素……纤维？"
 	quest.59EE97EF70F6F962.title: "亚麻"
 	quest.59FD22A238BC0378.quest_subtitle: "Crafting ingredient for the Replicator."
@@ -4646,7 +4646,7 @@
 	]
 	quest.65AA8B8D22954941.quest_subtitle: "完成对应任务章节。"
 	quest.65AA8B8D22954941.title: "&5Boss终结者"
-	quest.65F98AFE7EC4CE62.title: "猴面包果实"
+	quest.65F98AFE7EC4CE62.title: "猴面包果"
 	quest.660EFAF144F70749.quest_desc: [
 		"  来吧，大升级！之前你只能用&b低压蒸汽涡轮机&r以32EU/t的速率发电，但现在，用这个全新的&b中压蒸汽涡轮机&r，你&6可以达到最高128EU/t&r了！除了产能翻四倍之外，它跟&b低压蒸汽涡轮机&r就没有太大区别了。"
 		""
@@ -5267,7 +5267,7 @@
 	quest.6FF7CECC5DAF516B.quest_desc: [
 		"1. 放置&b凝胶&r方块。"
 		""
-		"2. 它将显示需要&6“喂食”&r的东西。&d\\*&r"
+		"2. 它会显示你需要&6“喂”&r给它什么。&d\\*&r"
 		""
 		"3. 将一个&b铁块&r放在它旁边。"
 		""
@@ -5440,9 +5440,9 @@
 	quest.7342F6461382E839.quest_subtitle: "真正的力量！"
 	quest.7342F6461382E839.title: "&d量子盔甲"
 	quest.734DD2AA16A5FBEC.quest_desc: [
-		"破坏&b粗核源铁矿簇&r可掉落&b粗核源铁&r。"
+		"   &b破坏粗核源铁矿簇可&6掉落&b粗核源铁&r。"
 		""
-		"接下来，你需要将其&6熔炼&r，获得&b核源铁锭&r。"
+		"   接下来，你需要&6烧炼&r它，获得&b核源铁锭&r。"
 		""
 		"{image:justdirethings:item/raw_ferricore width:100 height:100 align:center fit:true}"
 	]
@@ -5553,15 +5553,15 @@
 	]
 	quest.7593E582FA928061.title: "铜钻"
 	quest.75C95D894C3B3428.quest_desc: [
-		"恭喜！"
+		"  恭喜！"
 		""
-		"你现在已经&6解锁&r了一阶的&lJDT&r&b物品&r和&b方块&r。"
+		"  你现在已经&6解锁&r了一阶的&lJDT&r&b物品&r和&b方块&r。"
 		""
-		"不过，你还需要&6制作&r更多的&b核源铁锭&r。"
+		"  不过，你还需要&6制作&r更多的&b核源铁锭&r。"
 		""
 		"{image:justdirethings:item/ferricore_ingot width:100 height:100 align:center fit:true}"
 	]
-	quest.75C95D894C3B3428.quest_subtitle: "一阶：解锁"
+	quest.75C95D894C3B3428.quest_subtitle: "一阶：已解锁"
 	quest.75FE996305813D68.quest_desc: ["想找到&6陨石&r，你可以制作一个&b陨石罗盘&r。&b罗盘&f会指向离你最近的&6陨石&f。"]
 	quest.75FE996305813D68.quest_subtitle: "找到陨石"
 	quest.75FE996305813D68.title: "流星是什么？"
@@ -6033,7 +6033,7 @@
 	task.2DCC056348E9BB4B.title: "召唤恶魔妻子"
 	task.2FA7F24545E1C37E.title: "从这里开始"
 	task.3033BCAB98641150.title: "高级样板供应器"
-	task.310C3BFD53972F70.title: "寿司狗GoGo！"
+	task.310C3BFD53972F70.title: "寿司狗！Go！Go！"
 	task.318C7D190267976F.title: "召唤铁匠使魔"
 	task.32CCFEEA0A624C11.title: "制作烈焰蕾壤"
 	task.336881A8652FA9A0.title: "召唤魔精碎矿者（很抱歉，没有成就！）"
