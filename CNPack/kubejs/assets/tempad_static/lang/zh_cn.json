@@ -85,7 +85,7 @@
   "misc.tempad.upgrades": "Installed Upgrades:",
   "misc.tempad.wandering": "Wandering in",
 
-  "misc.tempad.shift_key_info": "Hold [%s] for more info",
+  "misc.tempad.shift_key_info": "按住[%s]显示更多信息",
 
   "location.tempad.saved": [
     "",

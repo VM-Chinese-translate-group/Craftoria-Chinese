@@ -161,11 +161,11 @@
 	quest.0442AA6067606DA8.quest_subtitle: "命运之轮？"
 	quest.044EA6B07D6C3E41.title: "青苹果"
 	quest.045942C709C63044.quest_desc: [
-		"初级的发电机。"
+		"  初级。"
 		""
-		"用来&6生产&r电力。"
+		"  可&6发&r电。"
 		""
-		"能使用&b煤炭&r，以及其他&n固体&r&b燃料&r。"
+		"  使用&b煤炭&r，以及其他&n固体&r&b燃料&r。"
 		""
 		"{image:justdirethings:block/generatort1_top width:100 height:100 align:center}"
 	]
@@ -324,17 +324,17 @@
 	quest.08A2F489A73BE55B.quest_desc: ["&b终极富集工厂&r能够同时处理最多&a九个&r配方，同样有“&e自动分类&r”功能。"]
 	quest.08A2F489A73BE55B.title: "终极富集工厂"
 	quest.08B17C05B2111477.quest_desc: [
-		"恭喜！"
+		"  恭喜！"
 		""
-		"你现在已经&6解锁&r了&lJDT&r&o四阶&r和&o最终阶&r的&b物品&r和&b方块&r。"
+		"  你现在已经&6解锁&r了&o四阶&r，也就是&o最终阶段&r的&lJDT&r&b物品&r和&b方块&r。"
 		""
-		"&b工具&r&6能瞬间完成工作&r，&b盔甲&r赋予你像&o超人&r一样的&6力量&r，而&b手杖&r可以在世界中&6临时制造空洞&r。"
+		"  &b工具&r&6可以瞬间完成工作&r，&b盔甲&r会赋予你&o超人&r一样的&6力量&r，而&b手杖&r可以在世界中&6制造临时的空洞&r。"
 		""
-		"每个看到你身穿顶级&lJDT&r装备的人都会知道你已经完成了所有的挑战……包括&2主世界&r、&4下界&r、&3末地&r和&9深暗之域&r。"
+		"  每个看到你身穿顶级&lJDT&r装备的人都会知道你已经完成了所有的挑战……包括&2主世界&r、&4下界&r、&3末地&r和&9深暗之域&r。"
 		""
 		"{image:justdirethings:item/eclipsealloy_ingot width:100 height:100 align:center fit:true}"
 	]
-	quest.08B17C05B2111477.quest_subtitle: "四阶：解锁"
+	quest.08B17C05B2111477.quest_subtitle: "四阶：已解锁"
 	quest.08BE35FB8E58C4B5.quest_desc: [
 		"&b基础锯木工厂&r能够同时进行最多&a三个&r锯木任务。"
 		""
@@ -539,9 +539,9 @@
 		"This item will let you craft the highest tier of &bSpell Book&r."
 	]
 	quest.0E50E568DFA078D5.quest_desc: [
-		"&oJust Dire Things&r的进展与四种类型的&o&l&b凝胶&r紧密相连。"
+		"  &oJust Dire Things&r模组的推进与四种&o&l&b凝胶&r紧密相连。"
 		""
-		"制作每种&b凝胶&r都需要访问不同的区域。"
+		"  每种&b凝胶&r都需要访问过相应的区域后才能制作。"
 		""
 		"• &b&l原初浆凝胶&r——&6主世界&r"
 		""
@@ -549,13 +549,13 @@
 		""
 		"• &b&l虚空辉凝胶&r——&6末地&r"
 		""
-		"• &b&l暗影脉凝胶&r——&6深暗之域&r”"
+		"• &b&l暗影脉凝胶&r——&6深暗之域&r"
 		""
 		""
 		"{image:justdirethings:block/gooblock_tier4 width:32 height:32 align:center fit:true}"
 	]
-	quest.0E50E568DFA078D5.quest_subtitle: "Goo Job!"
-	quest.0E50E568DFA078D5.title: "初学Just Dire Things"
+	quest.0E50E568DFA078D5.quest_subtitle: "“胶”傲的工作！"
+	quest.0E50E568DFA078D5.title: "Just Dire Things入门"
 	quest.0E89FB32767F03C0.quest_desc: [
 		"这是普通的&b机枪弹药&r，没有特殊属性。"
 		""
@@ -577,12 +577,12 @@
 	quest.0EB8636489EB02DE.quest_subtitle: "神秘学"
 	quest.0EB8636489EB02DE.title: "Ars Ocultas附属模组"
 	quest.0ECDE9598DABBD3A.quest_desc: [
-		"• &cOre Miner&r, &cOre Scanner&r"
-		"• &cLawn Mower&r, &cSky Sweeper&r"
-		"• &cTree Feller&r, &cLeaf Breaker&c"
-		"• &cAuto Smelter&r"
-		"• &cHammer&r"
-		"• &cDrops Teleporter&r"
+		"• &c矿石采掘&r、&c矿石扫描&r"
+		"• &c割草&r、&c垂直清扫&r"
+		"• &c伐木&r、&c除叶&r"
+		"• &c自动烧炼&r"
+		"• &c重锤&r"
+		"• &c掉落物传送&r"
 		""
 		"{image:justdirethings:item/celestigem_paxel_active width:100 height:100 align:center fit:true}"
 	]
@@ -843,11 +843,11 @@
 	quest.15D18F5637F6382E.title: "&a通用机械"
 	quest.16052CFE597B57F7.title: "化学灌注为H2SO4"
 	quest.160740771654F4E6.quest_desc: [
-		"&b虚炎煤碳块&r可以被&6转化&c为&b粗蚀空烬质&r，"
+		"   &b虚炎煤炭&r块可以被&6转化&c为&b粗蚀空烬质&r"
 		""
-		"从中可&6掉落&r3-4个&b蚀空烬质&r。"
+		"   它会&6掉落&r3-4个&b蚀空烬质&r。"
 		""
-		"它能&6燃烧&r的物品数量是&b煤炭&r的81倍。"
+		"   可&6烧炼&r81倍于&b煤炭&r的物品。"
 		""
 		"{image:justdirethings:block/coalblock_t4 width:100 height:100 align:center fit:true}"
 	]
@@ -1109,16 +1109,15 @@
 	quest.183EB573F8F1DC8C.quest_subtitle: "Potion | Crafting | Apparatus"
 	quest.18416E8B02E02817.quest_subtitle: "收获9x9范围内的作物。"
 	quest.18680FEE2B6FF16F.quest_desc: [
-		"种植在&b烈焰蕾壤&r上的作物将自动&6收获&r并&6重新种植&r。"
+		"  种植在&b烈焰蕾壤&r上的作物会自动&6收获&r并&6重新种植&r。"
 		""
-		"你可能想使用&oJust Dire Things&r的&b物品拾取器&r自动&6收集&r作物的掉落物并存储起来。"
+		"  你也许可以用&oJust Dire Things模组&r的&b物品拾取器&r自动&6收集&r作物的掉落物并存储起来。"
 		""
-		"&b烈焰蕾壤&r也能些许&6加速&r作物生长，且抵抗&6践踏&r。"
-		""
+		"  &b烈焰蕾壤&r也能稍微&6加速&r作物的生长，且可以抵抗&6践踏&r。"
 		""
 		"{image:justdirethings:block/goofarmland_tier2_moist width:100 height:100 align:center fit:true}"
 	]
-	quest.18680FEE2B6FF16F.quest_subtitle: "自动裁剪"
+	quest.18680FEE2B6FF16F.quest_subtitle: "自动作物"
 	quest.186F257352F2E844.quest_desc: ["  这个机器需要一种全新的力量……你刚获得的&b钛&r就挺适合的。&b增压器&r可将&b水&r&6加压为&bHP&r，&6或者说&b高压水&r，将&b蒸汽&r&6加压为&bHP蒸汽&r。它也可以逆向运行，将流体减压。&6加装了&b进气口&r的&b增压器&r还&6可以制取&b液态空气&r，这可比&b真空冷却机&r高效多了。"]
 	quest.186F257352F2E844.title: "增压器"
 	quest.188CF922D562E21A.quest_desc: [
@@ -1135,15 +1134,15 @@
 	quest.18956DB32D96ED2B.quest_desc: ["准备好升级了？想把你的房子打包带走？不错的想法，露营对史蒂夫的老腰可不太好。"]
 	quest.18956DB32D96ED2B.title: "中型空间组件"
 	quest.18CEE2F64F6E53E6.quest_desc: [
-		"恭喜！"
+		"  恭喜！"
 		""
-		"你现在已经&6解锁&r了&o三阶&r的&lJDT&r&b物品&r和&b方块&r。"
+		"  你现在已经&6解锁&r了&o三阶&r的&lJDT&r&b物品&r和&b方块&r。"
 		""
-		"&6传送&r——包括&b掉落物&r和自身——是这个等级的标志性能力。"
+		"  &6传送&r——包括&b掉落物&r和你自己——是这个等级的标志性能力。"
 		""
 		"{image:justdirethings:item/celestigem width:100 height:100 align:center}"
 	]
-	quest.18CEE2F64F6E53E6.quest_subtitle: "三阶：解锁"
+	quest.18CEE2F64F6E53E6.quest_subtitle: "三阶：已解锁"
 	quest.18D1995FE0140399.title: "电解分离为氯气"
 	quest.18D6860E893D80D2.quest_desc: [
 		"通过ME IO端口，你能将一个&b物品元件&r中的物品&a移动&f到另一个&b物品元件&f中。"
@@ -1191,11 +1190,11 @@
 	quest.19F7B6A670D4A707.quest_subtitle: "生汞"
 	quest.19F7B6A670D4A707.title: "晶化汞"
 	quest.1A1C915A4A1F7741.quest_desc: [
-		"&b烈焰蕾凝胶&r可以把&b原初煤炭块&r&6转化&r为&b粗烈焰烬质&r，"
+		"   &b烈焰蕾凝胶&r可以把&b原初煤炭&r块&6转化&r为&b粗烈焰烬质&r"
 		""
-		"从中可&6掉落&r3-4个&b烈焰烬质&r。"
+		"   它会&6掉落&r3-4个&b烈焰烬质&r。"
 		""
-		"它能&6燃烧&r的物品数量是&b煤炭&r的9倍。"
+		"   可&6烧炼&r9倍于&b煤炭&r的物品。"
 		""
 		"{image:justdirethings:block/coalblock_t2 width:100 height:100 align:center fit:true}"
 	]
@@ -1250,15 +1249,15 @@
 	]
 	quest.1AE719655A757BF1.title: "钛钻"
 	quest.1AEF6E844F39155D.quest_desc: [
-		"&6转换&b："
+		"  &6转化&b："
 		""
-		"• &b钻石块&r转换为&b&n粗苍穹晶矿簇&r"
+		"• &b钻石&r块转化为&b&n粗苍穹晶矿簇&r"
 		""
-		"• &b金块&r转换为&b&o粗烈焰金矿簇&r"
+		"• &b金&r块转化为&b&o粗烈焰金矿簇&r"
 		""
-		"• &b铁块&r转换为&b&o粗核源铁矿簇&r"
+		"• &b铁&r块转化为&b&o粗核源铁矿簇&r"
 		""
-		"比&b烈焰蕾凝胶&r快。"
+		"转化速度比&b烈焰蕾凝胶&r更快。"
 		""
 		"{image:justdirethings:block/gooblock_tier3 width:100 height:100 align:center fit:true}"
 	]
@@ -1452,9 +1451,9 @@
 		"&6Cannon&r your build plans right into the world, block by block."
 	]
 	quest.1F81CBD8519E244B.quest_desc: [
-		"就像&b核源铁盔甲&r一样，但&6在熔岩中会自动修复&r——不过你可能需要先脱下来。"
+		"  这套盔甲与&b核源铁盔甲&r差不多，但是它&6在熔岩中会自动修复&r——不过你大概需要先把它脱下来。"
 		"  "
-		"可支持新增的&b升级&r："
+		"  新增额外&b升级&r："
 		""
 		"  • &b头盔&r：&c一忘皆空&r"
 		"  • &b胸甲&r：&c灭火&r"
@@ -1507,15 +1506,15 @@
 	]
 	quest.1FF9FB01DBE735FC.quest_subtitle: "等价交换？"
 	quest.202149DADCC786EE.quest_desc: [
-		"恭喜！"
+		"  恭喜！"
 		""
-		"你现在已经&6解锁&r了二阶的&lJDT&r&b物品&r和&b方块&r。"
+		"  你现在已经&6解锁&r了二阶的&lJDT&r&b物品&r和&b方块&r。"
 		""
-		"这个等级的主题是“熔岩修复”。"
+		"  这个等级的主题是“熔岩修复”。"
 		""
 		"{image:justdirethings:item/blazegold_ingot width:100 height:100 align:center fit:true}"
 	]
-	quest.202149DADCC786EE.quest_subtitle: "二阶：解锁"
+	quest.202149DADCC786EE.quest_subtitle: "二阶：已解锁"
 	quest.2023CDC95630D9B0.quest_desc: [
 		""
 		""
@@ -1638,9 +1637,9 @@
 	quest.219AFCECD9D006A2.quest_desc: ["守护者使魔可以通过舍弃自身的一条肢体来&6避免&r其主人&b死亡&r。"]
 	quest.219AFCECD9D006A2.quest_subtitle: "不朽"
 	quest.21AE41FA52DB561D.quest_desc: [
-		"这台便利又美丽的设备可以为你的物品栏中所有&c需要能量&r的&b物品&r&6充电&r。"
+		"  这台方便好用的设备可以为你物品栏中所有&c需要能量&r的&b物品&r&6充电&r。"
 		""
-		"搭配&b燃料罐&r使用更佳。"
+		"  搭配&b燃料罐&r使用更佳。"
 		""
 		"{image:justdirethings:item/pocket_generator_active width:100 height:100 align:center}"
 	]
@@ -2513,14 +2512,14 @@
 	quest.3447A04FA017C790.quest_subtitle: "合成第一站"
 	quest.3480351307F0DD04.quest_desc: ["ME能源存储元件最大可达256M，不过我不会写任务要求你完成后面的元件了。"]
 	quest.3492CFBA1602D7F2.quest_desc: [
-		"当&6存有能量&r时，提供&b钻石盔甲&r级别的护甲和盔甲韧性。"
+		"  &6存有能量&r时，提供&b钻石盔甲&r级别的护甲值和盔甲韧性。"
 		""
-		"可支持新增的&b升级&r："
+		"  新增额外&b升级&r："
 		""
 		"• &b头盔&r：&c夜视&r"
 		"• &b胸甲&r：&c鞘翅&r"
 		"• &b护腿&r：&c诱饵&r"
-		"• &b靴子&r：&c抵消摔落伤害&r"
+		"• &b靴子&r：&c抵消摔落&r"
 		""
 		"{image:justdirethings:item/template_celestigem width:100 height:100 align:center fit:true}"
 	]
@@ -2579,8 +2578,7 @@
 	quest.35F320164724B44C.quest_desc: ["两次生成之间的最小时间间隔。"]
 	quest.35F320164724B44C.quest_subtitle: "-10 最小生成延迟"
 	quest.35F6CAD5BE56A32A.quest_desc: [
-		"&b暗影脉壤&r的作用与前一级的&b土壤&r相似，但&6作物生长速度更快&r。"
-		""
+		"  &b暗影脉壤&r的功能与前一级的&b土壤&r相似，但&6作物生长的速度更快了&r。"
 		""
 		"{image:justdirethings:block/goofarmland_tier4_moist width:100 height:100 align:center fit:true}"
 	]
@@ -3118,14 +3116,14 @@
 	]
 	quest.42D6CC67AB29D7DA.title: "&9游戏后期"
 	quest.42EC7168ADC6AF76.quest_desc: [
-		"&b烈焰推进手杖&r具有以下&6功能&r："
+		"  &b烈焰推进手杖&r具有以下&6功能&r："
 		""
-		"• &c熔岩修复&r：与其他二阶装备类似"
+		"• &c熔岩修补&r：与其他二阶装备一样"
 		"• &c空气推进&r：将你弹射到空中"
 		""
-		"JDT手杖的&6功能&r是内置的。"
+		"   JDT手杖的&6功能&r是内置的。"
 		""
-		"作为&c空气推进&r功能的辅助，当手持时，可以&6防止摔落伤害&r。"
+		"   作为&c空气推进&r功能的辅助，手持它时可&6免疫摔落伤害&r。"
 		""
 		"{image:justdirethings:item/blazejet_wand width:100 height:100 align:center fit:true}"
 	]
@@ -3339,9 +3337,9 @@
 	]
 	quest.45F0194CF3DCA5DD.title: "褐煤"
 	quest.4628ABEE13B276A9.quest_desc: [
-		"破坏&b粗烈焰金矿簇&r可&6掉落&r&b粗烈焰金&r。"
+		" 破坏&b粗烈焰金矿簇&r可&6掉落&r&b粗烈焰金&r。"
 		""
-		"接下来，你需要将其&6熔炼&r，以获得&b烈焰金锭&r。"
+		" 接下来，你需要&6烧炼&r它，获得&b烈焰金锭&r。"
 		""
 		"{image:justdirethings:item/raw_blazegold width:100 height:100 align:center fit:true}"
 	]
@@ -3453,9 +3451,9 @@
 	quest.47C1108CF46C81FC.quest_desc: ["  &b铝钻&r&6可采集&b原油&r。它会自动勘探地下的油田，把原油抽上来。"]
 	quest.47C1108CF46C81FC.title: "铝钻"
 	quest.47E6E91E526B6D34.quest_desc: [
-		"破坏&b粗苍穹晶矿簇&r会&6掉落&r&b苍穹晶&r。"
+		" 破坏&b粗苍穹晶矿簇&r会&6掉落&r&b苍穹晶&r。"
 		""
-		"无需熔炼或进一步加工。"
+		" 无需烧炼或进一步加工。"
 		""
 		"{image:justdirethings:item/celestigem width:100 height:100 align:center fit:true}"
 	]
@@ -3492,24 +3490,24 @@
 	quest.489C1CE982BC1739.quest_desc: ["&dQIO输入端口&r可将其下方存储容器中的物品&c输入&r到系统中。"]
 	quest.489C1CE982BC1739.title: "QIO输入端口"
 	quest.48E96D243486D38E.quest_desc: [
-		"&b虚空瞬移手杖&r的&6功能&r："
+		"  &b虚空瞬移手杖&r的&6功能&r："
 		""
-		"• &c空气推进&r：可配置的等级最高为4"
-		"• &c虚空位移&r：可&6传送&r≤15格"
+		"• &c空气推进&r：推进强度最高可设为4"
+		"• &c虚空瞬移&r：可&6传送&r≤15格"
 		""
 		"{image:justdirethings:item/voidshift_wand width:100 height:100 align:center fit:true}"
 	]
-	quest.48E96D243486D38E.quest_subtitle: "从这里到那里"
+	quest.48E96D243486D38E.quest_subtitle: "从这儿到那儿"
 	quest.48F4ED8C915995DC.quest_desc: ["刷怪笼生成将忽略光照条件。"]
 	quest.48F4ED8C915995DC.quest_subtitle: "+ 忽略光照"
 	quest.495EEAA73357FA60.quest_desc: [
-		"可接受最高级&6升级&r："
+		"  可接受最高等级的&6升级&r："
 		""
-		"• &b镐&r：&c瞬间破坏&r，&c透视&r"
-		"• &b铲&r：&c瞬间破坏&r"
+		"• &b镐&r：&c瞬间破坏&r、&c透视&r"
+		"• &b锹&r：&c瞬间破坏&r"
 		"• &b斧&r：&c瞬间破坏&r"
 		"• &b剑&r：&c生物透视&r"
-		"• &b弓&r：&c穿墙&r，&c勇度哨箭&r"
+		"• &b弓&r：&c穿墙&r、&c勇度哨箭&r"
 		""
 		"{image:justdirethings:item/eclipsealloy_pickaxe_active width:100 height:100 align:center fit:true}"
 	]
@@ -3569,9 +3567,9 @@
 	quest.4AC8B9FD75596EEF.title: "高级压射工厂"
 	quest.4ACA16837329BE5D.title: "甜椒"
 	quest.4B0CDF7941199C8E.quest_desc: [
-		"使用&b核源铁&r耕地时，可以转化为&b原初浆壤&r。"
+		"  使用&b核源铁锄&r耕地会得到&b原初浆壤&r。"
 		""
-		"它不会被踩坏，而且种在其上的作物生长速度比普通土壤稍微快一些。"
+		"  它不会被踩坏，而且种在其上的作物会比普通土壤上的长得稍微快一些。"
 		""
 		"{image:justdirethings:block/goofarmland_tier1_moist width:100 height:100 align:center fit:true}"
 	]
@@ -3598,20 +3596,20 @@
 	quest.4BDF01E28F247553.quest_subtitle: "示例法术"
 	quest.4BDF01E28F247553.title: "巫师之弩（3级）"
 	quest.4BF483174CC0A0F1.quest_desc: [
-		"当&6存有能量&r时，不会损耗耐久度。"
+		" &6存有能量&r时不会损耗耐久。"
 		""
-		"可支持新增的&b升级&r："
+		"  新增额外&b升级&r："
 		""
 		"• &b镐&r：&c掉落物传送&r"
-		"• &b铲&r：&c掉落物传送&r"
+		"• &b锹&r：&c掉落物传送&r"
 		"• &b斧&r：&c掉落物传送&r"
 		"• &b锄&r：&c掉落物传送&r"
 		"• &b剑&r：&c掉落物传送&r"
-		"• &b弓&r：&c滞留&r，&c追踪箭矢&r"
+		"• &b弓&r：&c滞留&r、&c追踪箭矢&r"
 		""
 		"{image:justdirethings:item/celestigem_shovel_active width:100 height:100 align:center fit:true}"
 	]
-	quest.4BF483174CC0A0F1.quest_subtitle: "滚开！"
+	quest.4BF483174CC0A0F1.quest_subtitle: "去你的吧！"
 	quest.4BF483174CC0A0F1.title: "苍穹晶工具\\&武器"
 	quest.4C23B5A6A57A13C0.quest_desc: ["&b安全设置台&r是一个中央安全系统，用来管理你拥有的所有机器。"]
 	quest.4C23B5A6A57A13C0.title: "安全设置台"
@@ -3629,15 +3627,15 @@
 	quest.4CD943F9416FB352.title: "能源元件"
 	quest.4D02897DB2CE4C25.title: "芥末"
 	quest.4D05AA18CF654D70.quest_desc: [
-		"&b核源铁工具和武器&r与它们的&b铁制等价物品&r一样坚固耐用。"
+		"  &b核源铁工具和武器&r的强度和耐久度与&b铁制的&r相当。"
 		""
-		"它们也可以使用合适的&b模板&r&6升级&r到更高的等级。"
+		"  它们也可以使用合适的&b模板&r&6升级&r到更高的等级。"
 		""
-		"它们可以接受各种&6特殊能力&r的&b升级&r。"
+		"  它们可以接受各种&6特殊能力&r的&b升级&r。"
 		""
-		" • &b镐&r：&c矿石采掘&r，&c矿石扫描&r"
-		" • &b斧&r：&c伐木&r，&c除叶&r"
-		" • &b铲&r：&c割草&r，&c垂直清扫&r"
+		" • &b镐&r：&c矿石采掘&r、&c矿石扫描&r"
+		" • &b斧&r：&c伐木&r、&c除叶&r"
+		" • &b锹&r：&c割草&r、&c垂直清扫&r"
 		" • &b剑&r：&c生物扫描&r"
 		" • &b弓&r：&c药箭&r"
 		" • &b锄&r：本等级无特殊能力"
@@ -3647,13 +3645,13 @@
 	quest.4D05AA18CF654D70.quest_subtitle: "可升级的工具\\&武器"
 	quest.4D05AA18CF654D70.title: "核源铁工具\\&武器"
 	quest.4D1B83E147CC16AE.quest_desc: [
-		"&b虚空辉壤&r不仅可以自动收割作物，还能将它们的掉落物&6传送&r到指定的&b存储容器&r中。"
+		"  &b虚空辉壤&r不仅可以自动收割作物，还能将它们的掉落物&6传送&r到指定的&b存储容器&r中。"
 		""
-		"它还保留了之前等级土壤的&6践踏抗性&r，并进一步&6提升作物生长速度&r。"
+		"  它也有之前等级土壤的&6践踏抗性&r，并且进一步&6提升了作物的生长速度。&r"
 		""
 		"{image:justdirethings:block/goofarmland_tier3_moist width:100 height:100 align:center fit:true}"
 	]
-	quest.4D1B83E147CC16AE.quest_subtitle: "自动收割，推出！"
+	quest.4D1B83E147CC16AE.quest_subtitle: "自动作物，出列！"
 	quest.4D5787F48ECCB000.quest_desc: [
 		"&b钢酿造厂&r可以同时&6自动&r酿造&a4&r瓶药水，而且比普通的酿造台速度快不少。"
 		""
@@ -4082,13 +4080,13 @@
 	quest.553EB688C3FFD7E4.quest_desc: ["&b基础融合工厂&r能够同时融合&a三个&r物品。"]
 	quest.553EB688C3FFD7E4.title: "基础融合工厂"
 	quest.55542D5D7CDA77A5.quest_desc: [
-		"&6转换&b："
+		"  &6转化&b："
 		""
-		"• &b金块&r转换为&b&n粗烈焰金矿簇&r"
+		"• &b金&r块转化为&b&n粗烈焰金矿簇&r"
 		""
-		"• &b铁块&r转换为&b&o粗核源铁矿簇&r"
+		"• &b铁&r块转化为&b&o粗核源铁矿簇&r"
 		""
-		"比&b原初浆凝胶&r更快。"
+		"转化速度比&b原初浆凝胶&r更快。"
 		""
 		"{image:justdirethings:block/gooblock_tier2 width:100 height:100 align:center fit:true}"
 	]
@@ -4166,11 +4164,11 @@
 	quest.56EF0A864720C7C5.quest_desc: ["物品传输的&b过滤器&r，可用在&6星宝石兽&r上。"]
 	quest.56EF0A864720C7C5.title: "物品卷轴：过滤器"
 	quest.5707678AB1482B68.quest_desc: [
-		"&b烈焰烬质块&r可以&6转换&r为&b粗虚炎煤炭&r"
+		"   &b烈焰烬质&r块可以被&6转化&r为&b粗虚炎煤炭&r"
 		""
-		"可&6掉落&r3-4个&b虚炎煤炭&r。"
+		"   它会&6掉落&r3-4个&b虚炎煤炭&r。"
 		""
-		"它能&6燃烧&r的物品数量是&b煤炭&r的27倍。"
+		"   可&6烧炼&r27倍于&b煤炭&r的物品。"
 		""
 		"{image:justdirethings:block/coalblock_t3 width:100 height:100 align:center fit:true}"
 	]
@@ -4328,7 +4326,7 @@
 	quest.5C98D9127F4CEB74.quest_subtitle: "Not the table kind"
 	quest.5C98D9127F4CEB74.title: "炼金盐"
 	quest.5CD12382792FA310.quest_desc: [
-		""
+		" "
 		"{image:justdirethings:item/machine_settings_copier width:100 height:100 align:center}"
 	]
 	quest.5CD12382792FA310.quest_subtitle: "猜猜这有什么用"
@@ -4490,18 +4488,18 @@
 		"Check out&6 bulk-blasting&r (omg!) and &6pushing&r stuff around."
 	]
 	quest.6201E6DF709C29D0.quest_desc: [
-		"&b核源铁盔甲&r的强度和耐久度与&b铁盔甲&r相当。"
+		"  &b核源铁盔甲&r的强度和耐久度与&b铁盔甲&r相当。"
 		""
-		"它还可以使用合适的&b模板&r&6升级&r到更高的等级。"
+		"  它还可以使用合适的&b模板&r&6升级&r到更高的等级。"
 		""
-		"它可以接受各种&6特殊能力&r的&b升级&r。"
+		"  它可以接受各种&6特殊能力&r的&b升级&r。"
 		""
 		"• &b头盔：&c脑雾&r"
 		"• &b胸甲：&c无懈可击&r"
 		"• &b护腿：&c疾跑速度&r、&c行走速度&r"
 		"• &b靴子：&c步伐辅助&r、&c跳跃提升&r"
 		""
-		"（将一套核源铁盔甲升级到更高等级比最后制作一套更便宜。）"
+		"（先做一套核源铁盔甲，再把它升级到更高等级，比直接制作一套高等级盔甲更便宜。）"
 		""
 		"{image:justdirethings:item/template_ferricore width:100 height:100 align:center fit:true}"
 	]
@@ -4831,14 +4829,14 @@
 		"当&6配备&6了&b模块扩展卡&r时，你可以通过&3GUI&r精确&6调整&r阈值。"
 	]
 	quest.68A8995F4A13381A.quest_desc: [
-		"可接受最高级升级："
+		"  可接受最高等级的&b升级&r："
 		""
 		"• &b头盔&r："
-		"    &c减益移除&r，"
+		"    &c减益移除&r、"
 		"    &c意识摧毁&r"
 		"• &b胸甲&r："
-		"    &c飞行&r，（是的，&o创造模式那样的&r飞行！）"
-		"    &c死亡保护&r，"
+		"    &c飞行&r、（对，就是&o创造模式那样的&r飞行！）"
+		"    &c死亡保护&r、"
 		"    &c熔岩免疫&r"
 		"• &b护腿&r：&c穿墙&r"
 		"• &b靴子&r：&c地震&r"
@@ -5049,14 +5047,14 @@
 		"With &bBrass Funnels&r, you can even &6filter&r a &bMechanical Arm&r's targets."
 	]
 	quest.6B0418E2AC06FF09.quest_desc: [
-		"像&b核源铁工具\\&武器一样&r，但&6在熔岩中会自动修复&r。"
+		"  它们与&b核源铁工具\\&武器&r差不多，但是&6在熔岩中会自动修复&r。"
 		""
-		"可支持新增的&b升级&r："
+		"  新增额外&b升级&r："
 		""
-		"• &b镐&r：&c自动烧炼&r，&c重锤&r"
-		"• &b铲&r：&c自动烧炼&r，&c重锤&r"
-		"• &b斧&r：&c自动烧炼&r"
-		"• &b剑&r：&c自动烟熏&r，&c烧灼清创&r"
+		"• &b镐&r：&c烧炼&r、&c重锤&r"
+		"• &b锹&r：&c烧炼&r、&c重锤&r"
+		"• &b斧&r：&c烧炼&r"
+		"• &b剑&r：&c烟熏&r、&c烧灼清创&r"
 		"• &b弓&r：&c喷溅&r"
 		""
 		"{image:justdirethings:item/blazegold_sword_active width:100 height:100 align:center fit:true}"
@@ -5250,20 +5248,20 @@
 	quest.6FDE684299FEC954.quest_desc: ["每个&b精英机械管道&r可以提供&932,000mb&r流体容纳量，且“&a抽出&r”管道的抽出速率为&98,000mb/t&r。"]
 	quest.6FDE684299FEC954.title: "精英机械管道"
 	quest.6FE07EECD4579FD4.quest_desc: [
-		"&b蚀空门径手杖&r的&6能力&r包括："
+		"  &b蚀空门径手杖&r的&6能力&r有："
 		""
-		"• &c熔岩修复&r"
-		"• &c空气推进&r：强度 ≤ 8"
-		"• &c虚空瞬移&r：&6传送&r ≤ 30格"
+		"• &c熔岩修补&r"
+		"• &c空气推进&r：强度≤8"
+		"• &c虚空瞬移&r：&6传送&r≤30格"
 		"• &c蚀空门径&r：&6打开&r一个便携式空洞（！）"
 		""
-		"创建便携式空洞时，所有方块（除了实体方块）将暂时消失。"
+		"  制造便携式空洞，就是让一定范围内的所有方块（方块实体除外）暂时消失。"
 		""
-		"不久之后空洞将坍塌，恢复暂时消失的方块。"
+		"  不久之后，空洞会坍缩，消失的方块就重新出现了。"
 		""
 		"{image:justdirethings:item/eclipsegate_wand width:100 height:100 align:center fit:true}"
 	]
-	quest.6FE07EECD4579FD4.quest_subtitle: "现在你看到它们了……"
+	quest.6FE07EECD4579FD4.quest_subtitle: "现在你能看见它们……"
 	quest.6FF7CECC5DAF516B.quest_desc: [
 		"1. 放置&b凝胶&r方块。"
 		""
@@ -5602,9 +5600,9 @@
 	quest.779C3C6B89AD2526.quest_subtitle: "大飞跃"
 	quest.779C3C6B89AD2526.title: "&e电气时代！"
 	quest.7806DD85D325C01C.quest_desc: [
-		"&b多态催化剂&r是解锁JDT更优&b燃料&r的关键。"
+		"   &b多态催化剂&r是解锁JDT模组中更好的&b燃料&r的关键。"
 		""
-		"将一个&b多态催化剂&r&6投入&r&b水&r中，就会&6产生&r&b多态流体&r。"
+		"   将一个&b多态催化剂&r&6投入&r&b水&r中，就会&6产生&r&b多态流体&r。"
 		""
 		"{image:justdirethings:block/fluid_flowing width:100 height:100 align:center}"
 	]
@@ -5899,17 +5897,17 @@
 		"若想更快速地完成这一过程，你可以进行批量充能！只要拥有充足的&b能量&r，即可加速&b充能&r进程。若以&b块状&r材料替代&b锭状&r材料进行充能，速度更可&b提升9倍&r。"
 	]
 	quest.7F3A28754CD6AD41.quest_desc: [
-		"&6转换&b："
+		"  &6转化&b："
 		""
-		"• &b下界合金块&r转换为&b&n粗蚀空合金矿簇&r"
+		"• &b下界合金&r块转化为&b&n粗蚀空合金矿簇&r"
 		""
-		"• &b钻石块&r转换为&b&o粗苍穹晶矿簇&r"
+		"• &b钻石&r块转化为&b&o粗苍穹晶矿簇&r"
 		""
-		"• &b金块&r转换为&b&o粗烈焰金矿簇&r"
+		"• &b金&r块转化为&b&o粗烈焰金矿簇&r"
 		""
-		"• &b铁块&r转换为&b&o粗核源铁矿簇&r"
+		"• &b铁&r块转化为&b&o粗核源铁矿簇&r"
 		""
-		"转换速度比&b虚空辉凝胶&r快。"
+		"转化速度比&b虚空辉凝胶&r更快。"
 		""
 		"{image:justdirethings:block/gooblock_tier4 width:100 height:100 align:center fit:true}"
 	]
@@ -5930,15 +5928,15 @@
 	]
 	quest.7F4BD83F2D567FF0.quest_subtitle: "Choo Choo, Mister Farnsworth!"
 	quest.7F4BFF2C6E887FCC.quest_desc: [
-		"&b原初浆凝胶&r方块也会将&b煤炭块&r&6转化&r为&b原初煤炭块&r "
+		"   &b原初浆凝胶&r方块也会将&b煤炭块&r&6转化&r为&b粗原初煤炭&r "
 		""
-		"从这些&b原初煤炭块&r中会掉落3到4个&b原初煤炭&r。"
+		"   这些&b粗原初煤炭&r会&6掉落&r3至4个&b原初煤炭&r。"
 		""
-		"拥有足够的能量来&6燃烧&r物品，比普通&b煤炭&r多3倍。"
+		"   其拥有的能量足以&6烧炼&r3倍于普通&b煤炭&r的物品。"
 		""
 		"{image:justdirethings:block/coalblock_t1 width:100 height:100 align:center fit:true}"
 	]
-	quest.7F4BFF2C6E887FCC.quest_subtitle: "更好的煤"
+	quest.7F4BFF2C6E887FCC.quest_subtitle: "更好的煤炭"
 	quest.7F7AB9192CD7FC70.quest_desc: ["&b精英锯木工厂&r能够同时进行最多&a七个&r锯木任务，同样有“&e自动分类&r”功能。"]
 	quest.7F7AB9192CD7FC70.title: "精英锯木工厂"
 	quest.7FA5112E27A0D70C.quest_desc: ["这把镐比起你来用，可能更适合制作&b矿工魔灵&r，但比它脆弱的“前辈”要好得多。"]
