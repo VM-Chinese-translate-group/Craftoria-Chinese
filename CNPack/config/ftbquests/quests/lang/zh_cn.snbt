@@ -136,11 +136,11 @@
 	]
 	quest.038AAFBA1E0DEF7E.quest_subtitle: "机械动力人士必备"
 	quest.03CF6D6277D93A4A.quest_desc: [
-		"The &bGauge Dropper&r is a useful tool to &6move&r up to &a16&r buckets of &7fluid&r at a time directly from an &9inventory&r. "
+		"&b滴管&r是一种有用的工具，可以用来从&9机器内部&r一次性&6转移&r最多&a16&r桶&7流体&r。"
 		""
-		"This will help you to &6configure&r machines properly in the future. "
+		"滴管以后可以帮助你精准&6配置&r机器。"
 		""
-		"&6Right Click&r to deposit the &7fluid&r and &6Left Click&r to pick it up."
+		"&6左击&r将&7流体&r吸入，&6右击&r将其挤出。"
 	]
 	quest.03CF6D6277D93A4A.title: "滴管"
 	quest.03E0ADE2191CC3FB.quest_desc: ["每个&b高级感应元件&r可以为你的感应矩阵增加&e25.6 GFE&r的存储容量。"]
@@ -5350,7 +5350,7 @@
 		" "
 	]
 	quest.720874ECBFD3FD19.quest_subtitle: "JDT流体学101"
-	quest.720874ECBFD3FD19.title: "液体燃料"
+	quest.720874ECBFD3FD19.title: "流体燃料"
 	quest.720F16D6B1CB519C.quest_desc: [
 		"&b魔源宝石&r可用&9青金石&r或&d紫水晶&r在&b灌注室&r进行&6合成&r。"
 		""
