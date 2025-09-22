@@ -109,12 +109,12 @@
 	]
 	quest.030E566682A89105.quest_subtitle: "节省燃油"
 	quest.03271CEB2EBD0979.quest_desc: [
-		"从附属的&b源&r&6传输&r&c能量&r，到偏移范围内的任意&b消耗电力的设备&r。"
+		"  可使用其附属的&b能量源&r中的&c能量&r为指定区域（可设置偏移与范围）内所有的&b耗能设备&r&6充能&r。"
 		""
 		"{image:ftblibrary:icons/up width:32 height:32 align:center}"
 		"{image:ftbquests:tasks/fe_full width:64 height:64 align:center}"
 	]
-	quest.03271CEB2EBD0979.quest_subtitle: "范围充能"
+	quest.03271CEB2EBD0979.quest_subtitle: "范围充能器"
 	quest.038773FFAF3C8817.quest_desc: [
 		"请将本章内容视为流程图来阅读。"
 		""
@@ -136,7 +136,7 @@
 	]
 	quest.038AAFBA1E0DEF7E.quest_subtitle: "机械动力人士必备"
 	quest.03CF6D6277D93A4A.quest_desc: [
-		"&b滴管&r是一种有用的工具，可以用来从&9机器内部&r一次性&6转移&r最多&a16&r桶&7流体&r。"
+		"&b滴管&r是一种有用的工具，它可以从&9机器内部&r一次性&6转移&r至多&a16&r桶&7流体&r。"
 		""
 		"滴管以后可以帮助你精准&6配置&r机器。"
 		""
@@ -146,13 +146,13 @@
 	quest.03E0ADE2191CC3FB.quest_desc: ["每个&b高级感应元件&r可以为你的感应矩阵增加&e25.6 GFE&r的存储容量。"]
 	quest.03E0ADE2191CC3FB.title: "高级感应元件"
 	quest.03F624101CDF5291.quest_desc: [
-		"&b初级方块放置器&r："
-		"    • &6放置&r&b方块&r"
-		"    • &e速度&r和&e方向&r控制"
-		"    • 可选&4红石&r感应"
+		"  &b初级&r："
+		"    • 可&6放置&r&b方块&r"
+		"    • 可控制&e速度&r和&e方向&r"
+		"    • 可用&4红石&r控制"
 		""
-		"&b高级方块放置器&r："
-		"    • 添加&6过滤&r和&3偏移范围&r"
+		"  &b高级&r："
+		"    • 添加&6过滤&r、&3偏移与范围&r功能"
 		"    • 需要&c能量&r"
 		""
 		"{image:justdirethings:block/blockplacert2_side width:100 height:100 align:center}"
@@ -161,7 +161,7 @@
 	quest.0442AA6067606DA8.quest_subtitle: "命运之轮？"
 	quest.044EA6B07D6C3E41.title: "青苹果"
 	quest.045942C709C63044.quest_desc: [
-		"  初级。"
+		"  初级的。"
 		""
 		"  可&6发&r电。"
 		""
@@ -606,7 +606,7 @@
 		"&6Does&r things normally only a player can."
 	]
 	quest.0F121433B94D72D9.quest_desc: [
-		"在EMI中&6悬停&r鼠标以查看&lJDT&r&b升级&r，并&6按住Shift键&r以查看&9描述&r。"
+		"   在EMI中，将鼠标&6悬停&r在&lJDT&r的&b升级&r上，&6按住Shift键&r可查看&9描述&r。"
 		""
 		"{image:justdirethings:item/abilityupgrades/jumpboost width:100 height:100 align:center}"
 	]
@@ -975,7 +975,7 @@
 	quest.16E5B09AA7E6A487.quest_subtitle: "都来搭乘物品快车吧！"
 	quest.16E5B09AA7E6A487.title: "传送带"
 	quest.16F37A3E31EBDA50.quest_desc: [
-		"速度很快的单座飞机，需要耗费很多体力来驾驶，但开起来还是挺有趣的，伙计！"
+		"速度很快的单座飞机，开起来可能比较费劲，但还挺有趣的，伙计！"
 		""
 		"拥有一定的存储空间、一个武器槽、四个升级槽、一个旗帜槽，甚至可以搭载火箭来加速！"
 	]
@@ -1234,14 +1234,13 @@
 	]
 	quest.1A9AD40B2F094DCF.title: "造石机升级"
 	quest.1AD1C99F9C383632.quest_desc: [
-		"&b流体罐&r&6可以&6容纳8桶&r任何你想要装的&b流体&r。"
+		"   &b流体罐&r&6可以&6容纳8桶&r任意&b流体&r。"
 		""
-		"它有一种独特的“填充”模式，可以自动&6填充&r你物品栏中的其他&b流体容器&r。"
-		""
+		"   它有一种独特的“装填”模式，可以自动&6填充&r你物品栏中其他的&b流体容器&r。"
 		""
 		"{image:justdirethings:item/fluidcanister/fluid_canister width:100 height:100 align:center}"
 	]
-	quest.1AD1C99F9C383632.quest_subtitle: "Octo-Bucket"
+	quest.1AD1C99F9C383632.quest_subtitle: "八倍桶"
 	quest.1AE719655A757BF1.quest_desc: [
 		"  这个钻头将带你前往科技的边界……"
 		""
@@ -1282,17 +1281,17 @@
 		"It can &6link&r to multiple inventories, via &bStock Links&r, and is &boperated&r by the mob of your choice."
 	]
 	quest.1C69AE9775DDC0AD.quest_desc: [
-		"初级的燃液发电机。"
+		"  初级的。"
 		""
-		"从&b液体燃料&6中&6生产&r电能："
+		"  用&b流体燃料&r&6发&r电："
 		""
-		"• &b烈焰烬质燃料&r"
-		"• &b虚炎燃料&r"
-		"• &b蚀空烬质燃料&r"
+		"• &b烈焰燃液&r"
+		"• &b虚炎燃液&r"
+		"• &b蚀空燃液&r"
 		""
 		"{image:justdirethings:block/generatorfluidt1_top width:100 height:100 align:center}"
 	]
-	quest.1C69AE9775DDC0AD.quest_subtitle: "仅限液体燃料"
+	quest.1C69AE9775DDC0AD.quest_subtitle: "仅限流体燃料"
 	quest.1C7918099D5A55E2.quest_desc: ["&b并发压印模板&f用于在压印器中制作&b并发处理器&f。"]
 	quest.1C99FD35D2C4EAF7.title: "橘子"
 	quest.1CA2825FFA775BBE.quest_desc: [
@@ -1626,7 +1625,7 @@
 	quest.216C2D79B2481DA3.quest_desc: ["网络中&e每个&r&b高级通用线缆&r能够容纳&e51.2 kFE&r。每增加一个线缆，网络总传输速率就增加&e51.2 kFE/t&r。"]
 	quest.216C2D79B2481DA3.title: "高级通用线缆"
 	quest.217C5C65AFC95842.quest_desc: [
-		"小巧且适用于近地工作……比如建筑、采矿、修筑洞穴顶板等等。"
+		"小巧且适用于近地工作……比如建筑、在洞穴顶部采矿等等。"
 		""
 		"消耗燃料，拥有一个升级槽、一个武器槽以及一些存储空间。"
 	]
@@ -1643,7 +1642,7 @@
 		""
 		"{image:justdirethings:item/pocket_generator_active width:100 height:100 align:center}"
 	]
-	quest.21AE41FA52DB561D.quest_subtitle: "Pocket Rocket"
+	quest.21AE41FA52DB561D.quest_subtitle: "便携能源"
 	quest.21B62373ACBE871E.quest_subtitle: "一种可以绑定到任何地点的炉石变体！"
 	quest.21B6DE76E735A196.quest_desc: ["&bLiner Chasis&r and &bRotational Chassis&r &6help&r build contraptions without superglue."]
 	quest.21E1E62AA4761EE2.quest_desc: [
@@ -1765,21 +1764,21 @@
 	quest.24A9E9A5E3B7B041.quest_subtitle: "请出示证件！"
 	quest.24AE78EE11D2AFFD.title: "碎片"
 	quest.24B44DAA8C43CF11.quest_desc: [
-		"The &bConfigurator&r works as not only a wrench, but a tool to &6configure&r just about any type of &ainput and &coutput&r."
+		"&b配置器&r不止是一个扳手，它还可以用来&6配置&r任意种类的&a输入&r和&c输出&r。"
 		""
-		"Holding down &6SHIFT&r and &6scrolling&r will allow you to select which &3mode&r you want to use. The modes show in the bottom left of your screen."
+		"按住&6潜行键滚动鼠标滚轮&r可以选择所需的&3模式&r，模式会显示在屏幕下方。"
 		""
-		"When in a &eCONFIGURE&r mode, depending on the type you can &6configure&r the side of a &bmachine&r without needing to use the in-GUI screen for it."
+		"处于&e配置&r模式时，依据不同的配置类型，你可以在不使用GUI的情况下&6配置&r&b机器&r的侧面。"
 		""
-		"When in &7EMPTY&r mode, you &6SHIFT RIGHT-CLICK&r to empty a machine of items."
+		"处于&7空&r模式时，&6潜行右击&r可以清空机器内的物品。"
 		""
-		"When in &aROTATE mode, you can rotate machines by &6RIGHT-CLICK&r &oand&f &6SHIFT RIGHT-CLICK&r depending on the orientation you want relative to the side you click on. "
+		"处于&a旋转&r模式时，你可以通过&6右击&r&o和&f&6潜行右击&r来旋转机器，机器旋转的方向与右击的面有关。"
 		""
-		"If you &6RIGHT-CLICK&r, the face of the &bmachine&r will face the side you clicked on. "
+		"&6右击&r时，&b机器&r的正面会面对你点击的面。"
 		""
-		"If you &6SHIFT RIGHT-CLICK&r, the face of the &bmachine&r will be opposite of the face you clicked on."
+		"&6潜行右击&r时，&b机器&r的正面会背对你点击的面。"
 		""
-		"When in &9WRENCH&r mode, you can &6SHIFT RIGHT-CLICK&r on a machine to break it, saving it's &bitems&r, &eenergy&r, and &dconfigurations&r."
+		"处于&9扳手&r模式时，&6潜行右击&r可以破坏机器，机器内的&b物品&r、&e能量&r和&d配置&r会保留。"
 	]
 	quest.24B44DAA8C43CF11.title: "配置器"
 	quest.24D4796E0026F9F7.quest_desc: [
@@ -2167,14 +2166,14 @@
 	quest.2CB005B413D2B889.quest_subtitle: "太酷啦！"
 	quest.2CB005B413D2B889.title: "&c来让&a图标&9变得&e更时尚&8！"
 	quest.2CE7390F7567D9E2.quest_desc: [
-		"&b初级替换器&r："
+		"  &b初级&r："
 		"    • 成对运作"
-		"    • &6替换&r&b方块&r（包括&b空气&r）"
-		"    • &6传送&r&3实体&r（单个）"
-		"    • 可选&4红石&r&e感应&r"
+		"    • 可&6替换&r&b方块&r（包括&b空气&r）"
+		"    • 可&6传送&r&3实体&r（单个）"
+		"    • 可用&4红石&r&e控制&r"
 		""
-		"&b高级替换器&r："
-		"    • 添加&6过滤&r和&3偏移范围&r"
+		"  &b高级&r："
+		"    • 添加&6过滤&r、&3偏移与范围&r功能"
 		"    • 需要&c能量&r"
 		""
 		""
@@ -2718,7 +2717,7 @@
 	quest.392EC503FD52E32A.quest_desc: ["有着多种类别、多种&6品级&r的&b硫&r。"]
 	quest.392EC503FD52E32A.title: "硫"
 	quest.39460CB77E53D5FA.quest_desc: [
-		"&6允许&r其他&b方块&r与你的&3物品栏&r、&3盔甲&r或&3副手&r&b槽位&r进行&6交互&r。"
+		"  &6允许&r其他&b方块&r与你的&3物品栏&r、&3盔甲栏&r或&3副手&r&b槽位&r进行&6交互&r。"
 		""
 		"{image:justdirethings:block/playeraccessor width:100 height:100 align:center}"
 	]
@@ -2786,11 +2785,11 @@
 	quest.3AA43F4E91E31E82.title: "丝兰果"
 	quest.3AAE23B6BE07E5DC.quest_desc: ["使用卷轴撰写台和神圣珍珠来制作神圣法术卷轴，这些卷轴能治疗并施放效果。"]
 	quest.3AE00D06232E0175.quest_desc: [
-		"&b传送枪&r："
-		"    • 鼠标左/右击，&6开启&r一对&5传送门&r"
+		"  &b传送枪&r："
+		"    • 鼠标左/右击，可&6开启&r一对&5传送门&r"
 		""
-		"&b高级传送枪&r："
-		"    • &6打开&r到已保存&9位置&r的&5传送门&r"
+		"  &b高级传送枪&r："
+		"    • 可&6打开&r通往已保存&9位置&r的&5传送门&r"
 		"    • &6消耗&r&c能量&r和&b传送流体&r"
 		""
 		""
@@ -3105,7 +3104,7 @@
 	quest.4207ADF2CB254C6B.title: "上色机"
 	quest.423B29BD8DAC8C3D.quest_desc: ["如果可能，生成的生物将为幼年形态。"]
 	quest.423B29BD8DAC8C3D.quest_subtitle: "+ 幼年"
-	quest.427B70B9D14A1A51.title: "移动升级"
+	quest.427B70B9D14A1A51.title: "操作升级"
 	quest.42AC14C7D41F0CAB.quest_desc: ["使用卷轴撰写台和烈焰棒制作炽焰法术卷轴，它们非常适合灼烧你的敌人……有时甚至灼烧你的朋友……只是确保不要不小心把火球术施放在他们的宠物身上，这样你就安全了！"]
 	quest.42D6CC67AB29D7DA.quest_desc: [
 		"  你终于可以造&b数字电路&r了！"
@@ -3517,13 +3516,13 @@
 	quest.4980C231ECDB0BF2.quest_desc: ["  &b钢钻&r可产出其余的&6常用矿物&r，你在未来的自动化进程，乃至探索整个世界的旅程中都会用到的。你可以用EMI查看此钻头可能的产物。"]
 	quest.4980C231ECDB0BF2.title: "钢钻"
 	quest.49910F2EFEA1CDF2.quest_desc: [
-		"&b初级流体收集器&r："
-		"    • &6收集&r&b液体&r"
-		"    • &e速度&r和&e方向&r控制"
-		"    • 可选&4红石&r感应"
+		"  &b初级&r："
+		"    • 可&6收集&r&b流体&r"
+		"    • 可控制&e速度&r和&e方向&r"
+		"    • 可用&4红石&r控制"
 		""
-		"&b高级流体收集器&r："
-		"    • 添加&6过滤&r和&3偏移范围&r"
+		"  &b高级&r："
+		"    • 添加&6过滤&r、&3偏移与范围&r功能"
 		"    • 需要&c能量&r"
 		""
 		"{image:justdirethings:block/fluidcollectort2_side width:100 height:100 align:center}"
@@ -3659,12 +3658,12 @@
 	]
 	quest.4D5787F48ECCB000.quest_subtitle: "一次酿&e4&r瓶。"
 	quest.4D59020A532C4E92.quest_desc: [
-		"我打赌你&6认识&r&b这个&r。xD"
+		"   我打赌你肯定能&6弄明白&r&b这个&r怎么用。xD"
 		""
 		""
 		"{image:justdirethings:item/creaturecatcher_top_animation width:100 height:100 align:center}"
 	]
-	quest.4D59020A532C4E92.quest_subtitle: "这里，猫咪猫咪。"
+	quest.4D59020A532C4E92.quest_subtitle: "咪咪，过来！"
 	quest.4D7F6656A6A38EE0.quest_desc: ["用于从&5网络&f中输出&4能量&f"]
 	quest.4DAFFFDC31A78665.quest_desc: ["将&b铁块&f放入&b充能器&f来制作压印模板，用于制作&b能量处理器&f。"]
 	quest.4DBDCEA0761F1D3B.quest_desc: [
@@ -3695,7 +3694,7 @@
 	quest.4E062B9B4960632D.quest_desc: [
 		"性能优良、消耗燃料的交通工具……而且可以同时搭载两人！"
 		""
-		"拥有充足的存储空间、三个升级槽位、一个武器槽位、一个旗帜槽位以及一个染色槽位（用于给前部机头和后部机尾染色）。"
+		"拥有充足的存储空间、三个升级槽位、一个武器槽位、一个旗帜槽位以及一个染色槽位（用于给前部机头和后部机尾上色）。"
 	]
 	quest.4E1B3935FC8A1170.quest_desc: ["又是4倍的容量！继续叠起来！"]
 	quest.4E1B3935FC8A1170.title: "16k 存储元件"
@@ -3899,14 +3898,14 @@
 	quest.51542DCB5C8E5C3A.quest_desc: ["更高一级的法术书也只能容纳6个法术"]
 	quest.51649293068FE93D.quest_desc: ["&bRotational Chasis&r and &bLinear Chassis&r &6help&r build contraptions without superglue."]
 	quest.516F2A1A1270D9DC.quest_desc: [
-		"&b初级方块破坏器&r："
-		"    • &6破坏&r&b方块&r"
-		"    • 如果提供了&b工具&r，则会&6使用&r"
-		"    • &e速度&r和&e方向&r控制"
-		"    • 可选&4红石&r感应"
+		"  &b初级&r："
+		"    • 可&6破坏&r&b方块&r"
+		"    • 若有提供则会&6使用&r&b工具&r"
+		"    • 可控制&e速度&r和&e方向&r"
+		"    • 可用&4红石&r控制"
 		""
-		"&b高级方块破坏器&r："
-		"    • 添加&6过滤&r和&3偏移范围&r"
+		"  &b高级&r："
+		"    • 添加&6过滤&r、&3偏移与范围&r功能"
 		"    • 需要&c能量&r"
 		""
 		"{image:justdirethings:block/blockbreakert2_side width:100 height:100 align:center}"
@@ -4252,7 +4251,7 @@
 		""
 		"非常适合用于将大量战利品和矿石运回基地。"
 		""
-		"非常适合那些想过游牧生活的玩家。"
+		"也非常适合那些想过游牧生活的玩家。"
 	]
 	quest.5AB4D1D72EFD4428.quest_desc: ["&b感应端口&r是你与&9感应矩阵&r交互的接口。"]
 	quest.5AB4D1D72EFD4428.title: "感应端口"
@@ -4329,7 +4328,7 @@
 		" "
 		"{image:justdirethings:item/machine_settings_copier width:100 height:100 align:center}"
 	]
-	quest.5CD12382792FA310.quest_subtitle: "猜猜这有什么用"
+	quest.5CD12382792FA310.quest_subtitle: "猜猜它是干什么用的"
 	quest.5CEFB3C551971327.quest_desc: [""]
 	quest.5D584858B61E534B.quest_desc: ["这个&b催化器&f可以缓慢地将&d汞&r&f转化&r为&d汞流&r，它是炼金仪器的能量来源。"]
 	quest.5D584858B61E534B.quest_subtitle: "汞=汞流"
@@ -4541,12 +4540,12 @@
 	]
 	quest.62B245A23CA62678.title: "流体运输"
 	quest.62F43B936E236071.quest_desc: [
-		"从偏移范围中&6收集&r&b物品&r，并将它们&6放入&r&b附属的存储空间&r中。"
+		"   可&6收集&r指定区域（可设置偏移与范围）内的&b物品&r，并将它们&6放入&r其&b附属的容器&r中。"
 		""
 		"{image:ftblibrary:icons/down width:32 height:32 align:center}"
 		"{image:minecraft:block/barrel_side width:64 height:64 align:center}"
 	]
-	quest.62F43B936E236071.quest_subtitle: "给我那个！"
+	quest.62F43B936E236071.quest_subtitle: "拿来吧你！"
 	quest.62FCB2F06126B622.quest_desc: ["&b无线终端&f是一个可以&b无线&f远程操作&bME网络&的&b普通终端&f。使用&bME无线访问点&f来连接你的&b无线终端&f，如果你觉得无线覆盖范围太小了，还可以给&bME无线访问点&f加入&b无线信号增幅器&b来增加范围。在单个网络中到处多放置几个&bME无线访问点&f能够有效地覆盖更多玩家活动范围。"]
 	quest.62FCB2F06126B622.title: "无线终端"
 	quest.6307E15FAAF30712.quest_desc: ["使用高级样板编码器，你能够通过改变&b编码样板&f中不同物品的输入面&6编码&f需要将物品从特殊方向&6输入&f的&b样板&f。"]
@@ -4631,13 +4630,13 @@
 	]
 	quest.656CBEFEE317E2E7.quest_subtitle: "神秘学家到底要多大空间？"
 	quest.65A75D8101BEB05F.quest_desc: [
-		"&b初级流体放置器&r："
-		"    • &6放置&r&b流体&r"
-		"    • &e速度&r和&e方向&r控制"
-		"    • 可选&4红石&r感应"
+		"  &b初级&r："
+		"    • 可&6放置&r&b流体&r"
+		"    • 可控制&e速度&r和&e方向&r"
+		"    • 可用&4红石&r控制"
 		""
-		"&b高级流体放置器&r："
-		"    • 添加&6过滤&r和&3偏移范围&r"
+		"  &b高级&r："
+		"    • 添加&6过滤&r、&3偏移与范围&r功能"
 		"    • 需要&c能量&r"
 		""
 		"{image:justdirethings:block/fluidplacert2_side width:100 height:100 align:center}"
@@ -4692,9 +4691,9 @@
 	quest.670CE9B293296FEB.quest_desc: [
 		"开个玩笑！"
 		""
-		"你需要制作一个&b256M能源存储组件&r来完成这个。"
+		"你需要先制作&b256M能源存储组件&r，才能做出这个。"
 		""
-		"它可以存储&a无限&r量的FE。"
+		"可存储&a无限&r量的FE。"
 	]
 	quest.6711E72048BBDB08.quest_desc: ["&6Holds&r plenty of up to eight different things, color-able, and all nearby &bToolboxes&r can be &6accessed&r with one keybind—handy for keeping your eyes on your work, not your tools."]
 	quest.6716C1CE7B7FFA94.quest_desc: ["&b容量卡&f能够增加总线中过滤器的数量。"]
@@ -4950,17 +4949,17 @@
 	quest.693C902E4E926BB4.title: "化学氧化机"
 	quest.69400E62D67A21FC.quest_desc: ["使用卷轴撰写台和一颗绿宝石来制作唤魔卷轴。"]
 	quest.69403313B37E8219.quest_desc: [
-		" &b初级点击器&r："
-		"    • 点击面朝的&3目标&r"
-		"    • &e左击&r、&e右击&r和&e长按&r"
-		"    • &6潜行点击&r模式切换"
+		"  &b初级&r："
+		"    • 可&6点击&r前方的&3目标&r"
+		"    • 可&e左击&r、&e右击&r和&e长按&r"
+		"    • 可&6潜行点击&r"
 		"    • 可选择&3目标&r类别"
-		"    • 可选择&e动作&r的&6方向&r"
-		"    • &4红石&r感应选项"
+		"    • 可设置&6动作&r的&e方向&r"
+		"    • 可用&4红石&r控制"
 		""
-		"  &b高级点击器&r："
-		"    • 添加&6过滤&r和&3偏移范围&r"
-		"    • 可为放入的&b装备&r&6充电&r"
+		"  &b高级&r："
+		"    • 添加&6过滤&r、&3偏移与范围&r功能"
+		"    • 可为放入的&b设备&r&6充电&r"
 		"    • 需要&c能量&r"
 		""
 		"{image:justdirethings:block/clickert2_side width:100 height:100 align:center}"
@@ -4998,15 +4997,15 @@
 	quest.69B079DABB860AEF.quest_desc: ["用&5强化黑曜石&r加强的&b电路板&r，可承受极端的工作负荷和冲击。"]
 	quest.69B079DABB860AEF.title: "终极控制电路"
 	quest.69BD8400AAA37066.quest_desc: [
-		"&b初级传感器&r："
-		"    • &6感应&r面朝的目标"
+		"  &b初级&r："
+		"    • 可&6检测&r前方的目标"
 		"    • 可选择&3目标&r类别"
-		"    • &3目标&r&e过滤器&r"
+		"    • 设有&3目标&r&e过滤器&r"
 		"    • 可根据&e方块状态&r过滤"
-		"    • 可选&4红石&r&6发射&r"
+		"    • 可&6发出&r&4红石信号&r"
 		""
-		"&b高级传感器 &r："
-		"    • 添加&6过滤器&r和&3偏移范围&r"
+		"  &b高级&r："
+		"    • 添加&6过滤&r、&3偏移与范围&r功能"
 		"    • 需要&c能量&r"
 		""
 		"{image:justdirethings:block/sensort2_side width:100 height:100 align:center}"
@@ -5059,20 +5058,20 @@
 		""
 		"{image:justdirethings:item/blazegold_sword_active width:100 height:100 align:center fit:true}"
 	]
-	quest.6B0418E2AC06FF09.quest_subtitle: "Feel the Burn"
+	quest.6B0418E2AC06FF09.quest_subtitle: "燃烧吧"
 	quest.6B0418E2AC06FF09.title: "烈焰金工具\\&武器"
 	quest.6B275A372AE020A8.quest_desc: [
-		"&bPFC&r+&b多态流体&r → &5传送流体’&r"
+		"  &bPFC&r + &b多态流体&r → &5传送流体’&r"
 		""
-		"&5传送流体’&r+&b凝胶&r* → &d传送流体’’&r"
+		"  &5传送流体’&r + &b凝胶&r* → &d传送流体’’&r"
 		""
-		"*凝胶 ≥ 等级3"
+		"  *凝胶等级 ≥ 3"
 		""
-		"PFC = 传送流体催化剂"
-		"’ = 不稳定"
-		"’’ = 稳定  "
+		"  PFC = 传送流体催化剂"
+		"  ’ = 不稳定"
+		"  ’’ = 稳定  "
 		""
-		"&5不稳定传送流体&r只存在于&3末地&r中。"
+		"  &5不稳定的传送流体&r只能存在于&3末地&r中。"
 		""
 		"{image:justdirethings:item/portal_fluid_catalyst width:100 height:100 align:center}"
 	]
@@ -5334,20 +5333,20 @@
 	]
 	quest.71DD555551705B17.title: "动态储罐"
 	quest.720874ECBFD3FD19.quest_desc: [
-		"  &bBlaze Ember&r + PF → &4Blaze Ember Ø&r"
+		"  &b烈焰烬质&r + PF → &4烈焰Ø&r"
 		""
-		"  &bVoidFlame Coal&r + &cBlaze Emberƒ&r → &4VoidFlame Ø&r"
+		"  &b虚炎煤炭&r + &c烈焰ƒ&r → &4虚炎Ø&r"
 		""
-		"  &bEclipse Ember&r + &cVoidFlameƒ&r → &4Eclipse Ember Ø&r"
+		"  &b蚀空烬质&r + &c虚炎ƒ&r → &4蚀空Ø&r"
 		""
-		"  &4&oX&r &4Ø&r + &bgoo&r* ➠ &c&oX&r &cƒ&r"
+		"  &4&oX&r&4Ø&r + &b凝胶&r* ➠ &c&oX&r&cƒ&r"
 		""
-		"    (* goo must be of ≥ tier)"
+		"    （*凝胶等级必须 ≥ 燃液等级）"
 		""
-		"   PF = polymophic fluid"
-		"    Ø = &ounrefined&r fuel  "
-		"    ƒ = fuel"
-		" "
+		"   PF = 多态流体"
+		"    Ø = &o未精炼的&r燃液"
+		"    ƒ = 燃液"
+		""
 	]
 	quest.720874ECBFD3FD19.quest_subtitle: "JDT流体学101"
 	quest.720874ECBFD3FD19.title: "流体燃料"
@@ -5450,9 +5449,9 @@
 	quest.73A75FEFDFB27A5C.quest_desc: [
 		"廉价的远程交通工具。"
 		""
-		"依靠你的体力（饱食度）运行。"
+		"依靠&o你的&r体力（饱食度）运行。"
 		""
-		"有三个升级槽位、一个武器槽位以及容纳一些物品的存储空间。"
+		"有三个升级槽位、一个武器槽位和一定的存储空间。"
 	]
 	quest.73DF4B8186890BFE.quest_desc: [
 		"- &b魔源中转器：收集型&r"
@@ -5659,7 +5658,7 @@
 	quest.7931987BD172464D.title: "茴香"
 	quest.7938CF0A65011F0B.quest_desc: ["Vacuum tube, thermionic valve, &bElectron Tube&r—by any name it’s a cool looking item and a key ingredient for Create components that have “smarts”."]
 	quest.7946DBB127444E4D.title: "黄瓜"
-	quest.7948BA211BD790C8.quest_desc: ["可以存储&a无限&r量的单一流体。"]
+	quest.7948BA211BD790C8.quest_desc: ["可存储&a无限&r量的单一流体。"]
 	quest.79515634992D02A3.quest_desc: [
 		"你可以输出这些新形成的&d气态反物质&r，将其固化，得到&d反物质球&r。"
 		""
