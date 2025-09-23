@@ -1554,7 +1554,7 @@
 	]
 	quest.20BA7AE12056CF27.title: "基础富集工厂"
 	quest.20F0FCFAEBDE57D1.title: "绿色发光甘蔗"
-	quest.20F66D987F15593E.quest_desc: ["ME能源存储元件用于制作&bFE存储元件&r，这样你就可以把FE通通存储在你的ME网络中啦。"]
+	quest.20F66D987F15593E.quest_desc: ["用于制作&bFE存储元件&r，这样你就可以把FE存进你的ME网络中啦。"]
 	quest.20F99CBAD8D587DA.quest_desc: ["想要获取&b赛特斯石英水晶&f，你需要先去&b陨石&f那弄到至少5个&b赛特斯石英水晶&f，用于&6制作&f1个&b赛特斯石英母岩&f。然后你需要把&b母岩方块&6放下来&f，等待赛特斯石英簇生长即可。每当&b石英簇&f生长时，&b母岩&f都有一定概率&6退化&f，直至变为&b赛特斯石英块&f，然后就不会再长出石英簇了。"]
 	quest.20F99CBAD8D587DA.title: "赛特斯石英"
 	quest.21286633DE0F586E.quest_desc: [
@@ -2282,7 +2282,7 @@
 	]
 	quest.2F9560A5281DCDFD.quest_subtitle: "&o我的地不是你的地"
 	quest.2F9560A5281DCDFD.title: "&3团队&7与&2区块声明"
-	quest.2F993B0F106DB883.quest_desc: ["压印器使用b压印模板&f与原材料制作处理器。"]
+	quest.2F993B0F106DB883.quest_desc: ["可使用各种&b压印模板&f制作物品。"]
 	quest.2F993B0F106DB883.title: "压印器"
 	quest.2FA7A5966FEF6701.quest_desc: ["每个&b终极机械管道&r可以提供&9128,000mb&r流体容纳量，且“&a抽出&r”管道的抽出速率为&932,000mb/t&r。"]
 	quest.2FA7A5966FEF6701.title: "终极机械管道"
@@ -2509,7 +2509,7 @@
 		"！！！ 放在&b奥术基座&r上的物品不会被消耗 ！！！"
 	]
 	quest.3447A04FA017C790.quest_subtitle: "合成第一站"
-	quest.3480351307F0DD04.quest_desc: ["ME能源存储元件最大可达256M，不过我不会写任务要求你完成后面的元件了。"]
+	quest.3480351307F0DD04.quest_desc: ["ME能源存储组件最大可达256M，不过我不会写任务要求你制作更大的那些了。"]
 	quest.3492CFBA1602D7F2.quest_desc: [
 		"  &6存有能量&r时，提供&b钻石盔甲&r级别的护甲值和盔甲韧性。"
 		""
@@ -2771,11 +2771,11 @@
 	]
 	quest.39FCE3168C26B863.title: "焦炭"
 	quest.3A20D522302FE7B9.quest_desc: [
-		"&b逻辑处理器&f用于制作你的第一个存储元件并为其升级。"
+		"&b逻辑处理器&f用于制作你最初的存储元件，并为其升级。"
 		""
-		"&b工程处理器&f用于制作&bME控制器&f和其他组件来搭建你的第一个&bME网络&f。"
+		"&b工程处理器&f用于制作&bME控制器&f和其他组件，搭建你的第一个&bME网络&f。"
 		""
-		"&b运算处理器&f用于制作&b存储组件&f以及其他杂物。"
+		"&b运算处理器&f用于制作&b存储组件&f以及其他的一些东西。"
 	]
 	quest.3A20D522302FE7B9.title: "基础处理器"
 	quest.3A23D98042990591.title: "化学灌注为三氧化硫"
@@ -2918,7 +2918,7 @@
 	]
 	quest.3E1B0CBA0889C0AE.quest_subtitle: "For the well-heeled landed Gantry"
 	quest.3E212B5DE277B73A.quest_subtitle: "哼 哼"
-	quest.3E41681892FA2E44.quest_desc: ["放置在&b样板供应器&r或&bME接口&r中，就能让它们给接触的方块/线缆提供能量。"]
+	quest.3E41681892FA2E44.quest_desc: ["安装在&b样板供应器&r或&bME接口&r中，就能让它们给接触的方块/线缆提供能量。"]
 	quest.3E62028A2B03EEA4.quest_desc: ["&b精英热导线缆&r拥有&a1.0&r点&4热容&r，&e5.0&r点热导，但热阻为&c8000.0&r点。"]
 	quest.3E62028A2B03EEA4.title: "精英热导线缆"
 	quest.3E8C6BD8557C6F08.quest_desc: [
@@ -3826,7 +3826,7 @@
 	quest.4F0F24F222AA434A.quest_desc: ["&e黄色&r粉笔的力量比白色的略强。它主要用于降灵仪式。"]
 	quest.4F0F24F222AA434A.quest_subtitle: "降灵"
 	quest.4F2C4595C25E23E1.quest_desc: ["这根探测杖已经预同调，可以定位&9稀有&r材料。"]
-	quest.4F6FD689E65509BF.quest_desc: ["&b基础卡&r是用于制作&b升级卡&f的组件。"]
+	quest.4F6FD689E65509BF.quest_desc: ["&b基础卡&f是用于制作&b升级卡&f的组件。"]
 	quest.4F6FD689E65509BF.title: "基础卡"
 	quest.4F987C54768D8E3D.quest_desc: [
 		"Remember this:"
@@ -4377,8 +4377,8 @@
 	]
 	quest.5EC2714894E2CB13.quest_subtitle: "粉碎，剪切，压扁"
 	quest.5EC2714894E2CB13.title: "Ars Unification附属模组"
-	quest.5ECC7F4F5D2591D9.quest_desc: ["&b高级卡&f是用于制作&b升级卡&f的组件。"]
-	quest.5ECC7F4F5D2591D9.title: "高级升级"
+	quest.5ECC7F4F5D2591D9.quest_desc: ["&b高级卡&r是用于制作&b升级卡&f的组件。"]
+	quest.5ECC7F4F5D2591D9.title: "Advanced Upgrades"
 	quest.5EEF6110DDBEB146.quest_desc: [
 		"一种预编程的&b无人机&r，它可以保护以它部署位置为中心的&e31x31x31&r区域。 "
 		""
@@ -4696,7 +4696,7 @@
 		"可存储&a无限&r量的FE。"
 	]
 	quest.6711E72048BBDB08.quest_desc: ["&6Holds&r plenty of up to eight different things, color-able, and all nearby &bToolboxes&r can be &6accessed&r with one keybind—handy for keeping your eyes on your work, not your tools."]
-	quest.6716C1CE7B7FFA94.quest_desc: ["&b容量卡&f能够增加总线中过滤器的数量。"]
+	quest.6716C1CE7B7FFA94.quest_desc: ["&b容量卡&f能够增加&b总线&f中过滤槽位的数量。"]
 	quest.6716C1CE7B7FFA94.title: "基础升级"
 	quest.67284079A941EF4B.quest_desc: [
 		"&b潜水罐&r能够提供&7氧气&r，让你在&6水下呼吸&r，探索更长时间。"
