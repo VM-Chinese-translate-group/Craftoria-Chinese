@@ -630,8 +630,8 @@
 		"&9物流无人机：&r"
 		"——库存 x 35"
 	]
-	quest.0FA3C7049E71EA4A.quest_desc: ["打算尽快做一台&b采石场&f吗？"]
-	quest.0FA3C7049E71EA4A.title: "64k 存储元件"
+	quest.0FA3C7049E71EA4A.quest_desc: ["你这是打算开一家&b采石场&f吗？"]
+	quest.0FA3C7049E71EA4A.title: "64k 存储组件"
 	quest.0FB6106D73ABB512.title: "管道升级"
 	quest.0FDA602713778AF0.title: "三阶 1:3"
 	quest.0FE6DFF73BE7AA10.quest_desc: ["召唤比魔精更强大的魔灵需要使用&a黄绿色&r粉笔。它证明了你对神秘学基础知识的掌握。"]
@@ -1131,7 +1131,7 @@
 		"&4提示&r：记录魔符需要消耗&2经验&r。"
 	]
 	quest.188CF922D562E21A.quest_subtitle: "多人游玩必备"
-	quest.18956DB32D96ED2B.quest_desc: ["准备好升级了？想把你的房子打包带走？不错的想法，露营对史蒂夫的老腰可不太好。"]
+	quest.18956DB32D96ED2B.quest_desc: ["准备好升级了？打算把你的房子打包带走吗？不错的想法，露营对史蒂夫的老腰可不太好。"]
 	quest.18956DB32D96ED2B.title: "中型空间组件"
 	quest.18CEE2F64F6E53E6.quest_desc: [
 		"  恭喜！"
@@ -1145,9 +1145,9 @@
 	quest.18CEE2F64F6E53E6.quest_subtitle: "三阶：已解锁"
 	quest.18D1995FE0140399.title: "电解分离为氯气"
 	quest.18D6860E893D80D2.quest_desc: [
-		"通过ME IO端口，你能将一个&b物品元件&r中的物品&a移动&f到另一个&b物品元件&f中。"
+		"通过ME IO端口，你可以将一个&b物品元件&r中的物品&a移动&f到另一个&b物品元件&f中。"
 		""
-		"如果你想要&a压缩&f&b存储元件&f的类或是将&b存储元件&f中的东西清理到更大的存储元件中，这个端口会派上用场。"
+		"如果你想要把物品&a压缩&f进&b存储元件&f中，或是将&b存储元件&f中的东西清理出来，制作更大的存储元件，那这个端口就会派上用场的。"
 	]
 	quest.18DED87B3E23350F.quest_subtitle: "可批量执行任何提供给它的电动多方块机器的配方。"
 	quest.18E944F145FEBB8C.quest_desc: [
@@ -1184,7 +1184,7 @@
 	]
 	quest.19B550F54950E253.quest_subtitle: "出现在主世界寒冷群系中稀有生成的巫妖塔中，跟随灵魂之星的指引便可找到。"
 	quest.19B550F54950E253.title: "&b暗夜巫妖"
-	quest.19C33613F2811BAA.quest_desc: ["通过&bME终端&f，你可以查看你的ME网络的&b库存&f，终端还能进一步升级。"]
+	quest.19C33613F2811BAA.quest_desc: ["通过这个&b基础的终端&f，你可以访问你ME网络的&b库存&f。这个终端还能进一步升级。"]
 	quest.19C33613F2811BAA.title: "终端"
 	quest.19F7B6A670D4A707.quest_desc: ["从&b蒸馏器&r中获取的，这是最原始形态的&b汞&r。"]
 	quest.19F7B6A670D4A707.quest_subtitle: "生汞"
@@ -1720,7 +1720,7 @@
 		""
 		"Tip: use a &bRedstone signal&r next to an array of these to &6close&r all unused spots when &6crafting&r a smaller recipe."
 	]
-	quest.23CC2667A1269C9C.quest_desc: ["目前为止，你使用了以0和1的形式保存&6二维数据&f的&b存储组件&f。现在，让我们以原物质的形式保存&6三维数据&f。这是一种比以往复杂得多的&b存储组件&f，因此造价有些许昂贵，你没法起步就大量地存储空间。"]
+	quest.23CC2667A1269C9C.quest_desc: ["目前为止，你所用的&b存储组件&f都是以0和1的形式存储&6二维数据&f的。现在，让我们存储&6三维数据&f吧——直接以原物质的形式。这种&b存储组件&f比之前那些复杂得多，因此造价颇为昂贵，你大概没法一步到位地大量存储空间。"]
 	quest.23CC2667A1269C9C.title: "小型空间组件"
 	quest.2472B23BC0C28C6C.quest_desc: [
 		"  还记得我们之前讲的“tick”吗？为什么1tick是二十分之一秒？"
@@ -1809,7 +1809,7 @@
 	]
 	quest.24D4796E0026F9F7.quest_subtitle: "自动化"
 	quest.24D4796E0026F9F7.title: "法术炮塔"
-	quest.24E5FA9129987168.quest_desc: ["与&b无线终端&f作用相同，但无线合成终端有一个&b合成界面&f！"]
+	quest.24E5FA9129987168.quest_desc: ["与&b无线终端&f相同，但是多了一个&b合成界面&f！"]
 	quest.24E5FA9129987168.title: "无线合成终端"
 	quest.250D1E2BFE6E0D50.quest_desc: [
 		"  升级！&b大型蒸汽锅炉&r！ "
@@ -2302,7 +2302,7 @@
 		"这个任务中的清单只是建造最矮的热力蒸馏塔所需的材料。"
 	]
 	quest.2FC0A2D07CC2DFC7.title: "热力蒸馏塔"
-	quest.3009C3939976FBD2.quest_desc: ["&b合成终端&是&b终端&f的升级版，有了它，你就可以直接使用网络中的物品进行合成。"]
+	quest.3009C3939976FBD2.quest_desc: ["&b合成终端&是&b终端&f的升级版，有了它，你就可以直接使用网络中的物品进行合成了。"]
 	quest.3009C3939976FBD2.title: "合成终端"
 	quest.300F6868FC217C55.quest_subtitle: "通关存档！"
 	quest.300F6868FC217C55.title: "&6奖杯大收藏家"
@@ -2318,11 +2318,11 @@
 	quest.3068A4024A893DF9.title: "苍白南瓜"
 	quest.306E118494E0FA08.title: "蓝色发光甘蔗"
 	quest.308640ACCC096431.quest_desc: [
-		"&bME控制器&f是壮大你的&bME网络&f的第一步，&bME控制器&f需要&6供电&f才能工作，不过用电量不大。"
+		"&bME控制器&f是壮大你的&bME网络&f的第一步。&bME控制器&f需要&6供电&f才能工作，不过用电量不大。"
 		""
-		"ME控制器没面能够提供32个频道，你需要用&b致密线缆&r才能利用上全部的频道，普通的线缆只能传输8个频道。"
+		"ME控制器每面可提供32个频道，你需要用&b致密线缆&r才能利用上全部的频道，普通的线缆只能传输8个。"
 		""
-		"注意：&I只有&r&b致密线缆&r能传输多于8个的频道，即便使用&b致密线缆&r连接，&bME接口，&b样板供应器&r以及其他设备依然只能传递8个频道。"
+		"注意：&I只有&r&b致密线缆&r能传输8个以上的频道。&bME接口，&b样板供应器&r以及其他设备即便使用了&b致密线缆&r连接，也依然只能传输8个频道。"
 	]
 	quest.308640ACCC096431.title: "存储网络的中心"
 	quest.30BD7370506EBC6C.title: "氧"
@@ -3696,8 +3696,8 @@
 		""
 		"拥有充足的存储空间、三个升级槽位、一个武器槽位、一个旗帜槽位以及一个染色槽位（用于给前部机头和后部机尾上色）。"
 	]
-	quest.4E1B3935FC8A1170.quest_desc: ["又是4倍的容量！继续叠起来！"]
-	quest.4E1B3935FC8A1170.title: "16k 存储元件"
+	quest.4E1B3935FC8A1170.quest_desc: ["又是4倍！卷起来了！"]
+	quest.4E1B3935FC8A1170.title: "16k 存储组件"
 	quest.4E33ED9C42F906F6.quest_desc: [
 		"与常规的&b化学品存储元件&r不同的是，这种元件能够存储放射性化学品。"
 		""
@@ -4212,15 +4212,15 @@
 	quest.58F3BCF5BFBCF371.quest_subtitle: "我要更多"
 	quest.590D73FDE6335297.quest_desc: ["&6Measure&r how much &denergy,&r in the form of Stress Units, your contraptions are &6generating&r and &6consuming,&r or how fast they are working."]
 	quest.59128813386BFDB1.quest_desc: [
-		"&bP2P（点对点）通道&f复杂的同时非常实用。这些&b通道&f能&6从一处传输至多32个频道到另一处&f，你可能要问：“我为什么不用&b致密线缆&f呢？”"
+		"&bP2P（点对点）通道&f可以超级复杂，但是也超级实用。这些&b通道&f可以&6点对点传输至多32个频道&f。你可能要问：“那我为什么不用&b致密线缆&f呢？”"
 		""
-		"这样做确实没有问题！但这是一种&6极其低效&f的办法。32个频道可以通过P2P通道只占用1个频道，也就是说理论上你可以通过&6一根致密线缆&f传输&61024个频道而不是32个&f。"
+		"这样做确实没有问题！但这是一种&6极其低效&f的办法。这32个频道通过P2P通道传输后会被压缩成1个频道，这样也就是说，理论上你可以通过&6一根致密线缆&f传输&61024个频道，而不止是32个&f。"
 		""
-		"你需要用&b内存卡&f将&bP2P通道&f以频率连接起来，&6按住Shift右击&f&b作为“入口”的通道&b给内存卡设定&f至某个频率，&6右击&f&b“出口”通道&f即可将它设定至&b“入口”&f的频率。记牢了，一个“入口”通道能有多个&b“出口”通道&f，前提是它们使用的频道总数不超过&b“入口”通道&f。"
+		"你需要用&b内存卡&f将&bP2P通道&f以相同的频率&6连接&r起来。&6Shift右击&f&b作为“入口”的通道即可将内存卡设定&f为该通道的频率，再&6右击&f&b“出口”通道&f即可将其设定为&b“入口”通道&f的频率。记住了，一个“入口”通道能有多个&b“出口”通道&f，前提是它们使用的频道总数不超过输入&b“入口”通道&f的频道总数。"
 		""
-		"除了传输频道的ME P2P通道以外还有许多不同种类的&bP2P通道&f，有&6传输&b能量&f，&b流体&f，&b物品&f，&b光&f甚至是&b红石强度&f的！它们的使用方法与ME P2P通道相同。"
+		"除了传输&bME频道&f的以外，还有许多不同种类的&bP2P通道&f，有&6传输&b能量&f的、&b流体&f的、&b物品&f的、&b光&f的，甚至是&b红石信号&f的！它们除了&b传输&f的不是&b频道&f以外，其他的方面都是和ME P2P通道一样的。"
 		""
-		"熟练使用P2P需要一定的实践，你可以先实验性地使用它们。当你掌握了P2P，你的&bME网络&f会更像出自一个专业网络工程师之手！"
+		"熟练使用P2P需要一定的实践，你可以先做些实验试一试。当你掌握它以后，你的&bME网络&f就像是出自专业的网络工程师之手了！"
 	]
 	quest.59128813386BFDB1.title: "P2P"
 	quest.59451B5DAD78C46F.quest_desc: [
@@ -4546,7 +4546,7 @@
 		"{image:minecraft:block/barrel_side width:64 height:64 align:center}"
 	]
 	quest.62F43B936E236071.quest_subtitle: "拿来吧你！"
-	quest.62FCB2F06126B622.quest_desc: ["&b无线终端&f是一个可以&b无线&f远程操作&bME网络&的&b普通终端&f。使用&bME无线访问点&f来连接你的&b无线终端&f，如果你觉得无线覆盖范围太小了，还可以给&bME无线访问点&f加入&b无线信号增幅器&b来增加范围。在单个网络中到处多放置几个&bME无线访问点&f能够有效地覆盖更多玩家活动范围。"]
+	quest.62FCB2F06126B622.quest_desc: ["&b无线终端&f就是一个可以&b无线&f访问&bME网络&的&b普通终端&f。使用&bME无线访问点&f来连接你的&b无线终端&f，如果你觉得无线覆盖范围太小了，还可以给&bME无线访问点&f安装&b无线信号增幅器&f来增加覆盖范围。在同一个网络的不同地方多放置几个&bME无线访问点&f也能够有效地增加覆盖范围。"]
 	quest.62FCB2F06126B622.title: "无线终端"
 	quest.6307E15FAAF30712.quest_desc: ["使用高级样板编码器，你能够通过改变&b编码样板&f中不同物品的输入面&6编码&f需要将物品从特殊方向&6输入&f的&b样板&f。"]
 	quest.632BE5724D2120EB.quest_desc: [
@@ -4558,7 +4558,7 @@
 	quest.63327FF2199F01A3.quest_desc: [
 		"你需要这个来无线访问你的&bME网络&f。"
 		""
-		"并不是只有&b无线终端&f能够连接到你的&bME网络&f，诸如&b建筑小帮手&f等等工具也能够连接ME网络。"
+		"并不是只有&b无线终端&f能够连接到你的&bME网络&f，其他的东西，比如&b建筑小帮手&f，也能够连接ME网络。"
 	]
 	quest.63756443B3FFDB48.quest_desc: [
 		"Ah, the humble but reliable &bMillstone&r."
@@ -5035,7 +5035,7 @@
 	quest.6A9DAB624949191E.title: "精英富集工厂"
 	quest.6AB303BEA478C0F3.quest_desc: ["&6Programmable&r Rotation Control!"]
 	quest.6ADBF1DFBDF45D7C.quest_desc: [
-		"使用&b逻辑处理器&f与&b红石&f以及&b石英玻璃&f制作而成。"
+		"使用&b逻辑处理器&f、&b红石&f以及&b石英玻璃&f制作而成。"
 		""
 		"制作&bME存储组件&f是用ME网络存储你所有物品的第一步。"
 	]
@@ -5237,7 +5237,7 @@
 	]
 	quest.6F6898DC529D1120.title: "无限资源？"
 	quest.6F760612E07E3CBA.title: "大豆"
-	quest.6F7A998802C99AD4.quest_desc: ["空间塔用于勾勒出你想要存进空间存储元件的空间体积。你需要用空间塔构建出你所想捕获空间的3条边，每条空间塔需要占用1个频道，最短为2格长。试试测量一下每条空间塔的长度与消耗能量的关系！也许你能找到一个最优方案。"]
+	quest.6F7A998802C99AD4.quest_desc: ["空间塔用于勾勒出你想要存进空间存储元件的空间体积。你需要用空间塔搭建出你所想捕获空间的3条边，每条空间塔需要占用1个频道，最短为2格长。试试测量一下空间塔条数与消耗的能量的关系！也许你能找到一个最优的方案。"]
 	quest.6F7A998802C99AD4.title: "空间塔"
 	quest.6F9513334361D44E.quest_desc: ["&6食用&r这种水果将开启你的&b第三只眼&r，让你看到原本无法看到的事物。"]
 	quest.6F9513334361D44E.quest_subtitle: "灵视剂"
@@ -5798,7 +5798,7 @@
 	]
 	quest.7C0FA555C5FE00D1.quest_subtitle: "哔嘟"
 	quest.7C0FA555C5FE00D1.title: "机械臂"
-	quest.7C201074DDBAE831.quest_desc: ["也许整个生物群系的物质都能装进你的&bME存储网络……"]
+	quest.7C201074DDBAE831.quest_desc: ["我感觉你的&bME存储网络&r都能塞下一整个生物群系了……"]
 	quest.7C201074DDBAE831.title: "256k 存储组件"
 	quest.7C31082BB88384BF.quest_desc: [
 		"——在&e击中&r时引发&c爆炸&r。"
