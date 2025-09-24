@@ -211,7 +211,7 @@
 	]
 	quest.0541F90AD95B4B5E.quest_desc: ["Pay attention: it might &6make&r one thing on a &bDepot&r, and another in a &bBasin&r."]
 	quest.0541F90AD95B4B5E.quest_subtitle: "May I press you to a cucumber sandwich?"
-	quest.0547229FF5334CF5.quest_desc: ["&bME接口&f就像一个箱子，你可以在&bME接口&f的GUI中&a标记物品或者流体&r，这样它就会源源不断地从&5网络%f中拉取物品来维持库存。"]
+	quest.0547229FF5334CF5.quest_desc: ["&bME接口&f就像一个箱子，你可以在&bME接口&的GUI中&a标记物品或者流体&r，这样它就会自动从&5网络&f中拉取物品来维持库存。"]
 	quest.0578945AE9664476.quest_subtitle: "可在觉醒之门试炼中掉落。"
 	quest.05A0AC380BB141A0.quest_desc: ["&b限流管道&r属于一种&b物流管道&r，充当着“&6溢出&r”管道的角色，如果管道中的&3物品&r无处可去，他们就会&6穿过&r&b限流管道&r。"]
 	quest.05A0AC380BB141A0.title: "限流管道"
@@ -224,7 +224,7 @@
 		""
 		"&bME精确输出总线&r能以指定的数量输出物品，不多不少。"
 		""
-		"&bME阈值输出总线&r只在网络中的物品量低于/高于设置的阈值时输出物品。"
+		"&bME阈值输出总线&r只在网络中的物品量高于/低于设置的阈值时输出物品。"
 	]
 	quest.05B2AA73EAEDCCF4.title: "更高级的输出总线"
 	quest.05E2E87CF3F9A5FB.quest_desc: ["由&4红石&r和&c柴油&r制成，用于&b速度升级&r。"]
@@ -980,45 +980,45 @@
 		"拥有一定的存储空间、一个武器槽、四个升级槽、一个旗帜槽，甚至可以搭载火箭来加速！"
 	]
 	quest.16F7C881B4CED163.quest_desc: [
-		"- &bGlyphs&r: "
-		"&8+ Form: Touch"
-		"&8+ Augment: AoE, Pierce, Extend Time"
-		"&8+ Effect: Place, Grow, Fell, Pickup, Delay"
+		"- &b所需魔符&r： "
+		"&8+ 形态：触摸"
+		"&8+ 增强：扩散，穿透，延长时效"
+		"&8+ 效果：放置，生长，砍伐，拾取，延迟"
 		""
-		"- &bFor 1x1 tree&r: 2->3 turrets"
-		"&8+ &bTurret 1&8: Touch -> Place -> Grow -> Grow -> Grow (more Grow if needed)"
+		"- &b对于树干1x1粗的树&r：2或3个炮塔"
+		"&8+ &b第1个炮塔&8：触摸 -> 放置 -> 生长 -> 生长 -> 生长（若需要，可继续添加更多“生长”）"
 		""
-		"&8+ &bTurret 2&8: Touch -> Fell -> AoE -> AoE (more if needed) -> Delay -> Pickup -> AoE -> AoE (more AoE if needed)"
+		"&8+ &b第2个炮塔&8：触摸 -> 砍伐 -> 扩散 -> 扩散（需要的话就多加几个“扩散”） -> 延迟 -> 拾取 -> 扩散 -> 扩散（需要的话就多加几个“扩散”）"
 		""
-		"- &bTips&r"
-		"+ Tip 1: redstone clock "
-		"&8Through &bRedstone Clock &8(cycle time &91->100 ticks&8)"
+		"- &b小提示&r"
+		"+ 小提示①：红石计时器"
+		"&8可用&b红石计时器&8实现间隔触发炮塔（进行&91到100刻&8的计时循环）"
 		""
-		"+ Tip 2: redstone delay "
-		"&8Through &bRepeater"
+		"+ 小提示②：红石信号延时"
+		"&8用&b中继器"
 		""
-		"+ Tip 3: redstone transfer "
-		"&8Through laserio or just redstone : P"
+		"+ 小提示③：红石信号传输"
+		"&8用LaserIO模组的物品，或者直接用红石粉 : P"
 		""
 		""
-		"&8Check &bPage 2 &8for 2x2 tree farm"
+		"&8在&b第2页&8可查看占地2x2的树如何处理"
 		""
 		"{@pagebreak}"
-		"- &bFor 2x2 tree&r: 2->3 turrets "
-		"&8(2 if using item collector from another mod)"
+		"- &b对于2x2的树&r：2或3个炮塔"
+		"&8（如果用其他模组做好了收集装置，可以只用2个炮塔）"
 		""
-		"&bMake sure&r: NORTH \\& WEST don't have any block. (vanilla feature)"
+		"&b首先请确保&r：北侧和西侧没有任何方块。（原版特性）"
 		""
-		"&8+ &bTurret 1&8: Touch -> Place -> AoE -> AoE -> Pierce -> Grow -> Grow -> Grow (more Grow if needed)"
+		"&8+ &b第1个炮塔&8：触摸 -> 放置 -> 扩散 -> 扩散 -> 穿透 -> 生长 -> 生长 -> 生长（若需要则多加）"
 		""
-		"&8+ &bTurret 2&8: Touch -> Fell -> AoE -> AoE -> AoE -> AoE (more if needed)"
+		"&8+ &b第2个炮塔&8：触摸 -> 砍伐 -> 扩散 -> 扩散 -> 扩散 -> 扩散（若需要则多加）"
 		""
-		"&8+ &bTurret 3&8: Touch -> Delay -> Extend Time (more if needed) -> Pickup -> AoE -> AoE -> AoE -> AoE (more if needed)"
+		"&8+ &b第3个炮塔&8：触摸 -> 延迟 -> 延长时效（若需要则多加） -> 拾取 -> 扩散 -> 扩散 -> 扩散 -> 扩散（若需要则多加）"
 		""
-		"Tip 4: don't want saplings outside the &92x2&r? "
-		"&8Use non-dirt/grass so saplings can't be placed on"
+		"小提示④：不想让树苗被放到&92x2&r范围外的区域？"
+		"&8在树苗种植范围外，请不要用泥土或草方块，改用无法种植的方块。"
 	]
-	quest.16F7C881B4CED163.title: "Tree Farm Idea"
+	quest.16F7C881B4CED163.title: "树场构想"
 	quest.176524D0E4475298.quest_desc: [
 		"  有了刚挖出来的&b原油&r，你现在又有好多新东西可以做了，不过在此之前，&6原油还需要精炼才能使用&r。现在的这玩意从工业的角度来说，没有什么卵用。"
 		""
@@ -1106,7 +1106,7 @@
 		"&4提示&r：不止&b奥术基座&r，&5Ars Énergistique&r模组让&8（扩展）&r&b样板供应器&r也能充当成品输出过滤器。"
 		"&8（不过仍然需要绑定木桶或箱子作为库存）"
 	]
-	quest.183EB573F8F1DC8C.quest_subtitle: "Potion | Crafting | Apparatus"
+	quest.183EB573F8F1DC8C.quest_subtitle: "酿造 | 合成 | 附魔装置"
 	quest.18416E8B02E02817.quest_subtitle: "收获9x9范围内的作物。"
 	quest.18680FEE2B6FF16F.quest_desc: [
 		"  种植在&b烈焰蕾壤&r上的作物会自动&6收获&r并&6重新种植&r。"
@@ -1260,7 +1260,7 @@
 		""
 		"{image:justdirethings:block/gooblock_tier3 width:100 height:100 align:center fit:true}"
 	]
-	quest.1B1ED97DF0FE2E3C.quest_desc: ["&b存储总线&f可以在不需要&bME驱动器&f的情况下将箱子或者其他容器接入你的&bME系统&f&5网络&f。"]
+	quest.1B1ED97DF0FE2E3C.quest_desc: ["The&b Storage Bus&f allows you to use a chest or other storage box a &5network &ffor your &bME System&f to connect to rather then a &bStorage Drive&f."]
 	quest.1B65CA6898CC3F9E.quest_desc: [
 		"&b基础灌注工厂&r能够同时进行最多&a三个&r物品的灌注。"
 		""
@@ -1558,50 +1558,50 @@
 	quest.20F99CBAD8D587DA.quest_desc: ["想要获取&b赛特斯石英水晶&f，你需要先去&b陨石&f那弄到至少5个&b赛特斯石英水晶&f，用于&6制作&f1个&b赛特斯石英母岩&f。然后你需要把&b母岩方块&6放下来&f，等待赛特斯石英簇生长即可。每当&b石英簇&f生长时，&b母岩&f都有一定概率&6退化&f，直至变为&b赛特斯石英块&f，然后就不会再长出石英簇了。"]
 	quest.20F99CBAD8D587DA.title: "赛特斯石英"
 	quest.21286633DE0F586E.quest_desc: [
-		"Mob farm. (living entities or inside Containment Jar)"
+		"用于刷取生物掉落物。（生物可以是活的，也可以是收容罐内的）"
 		""
-		"- Range: &910 blocks&r from the &bStone Henge&r."
+		"- 范围：&b德格米石阵&r的&910格&r内。"
 		""
-		"- Progress: 20. (by default)"
+		"- 进度：20。（默认值，满时收获）"
 		""
-		"- How to get more loot*: variety is key."
+		"- 如何增大单次收获产量*：关键在于生物的多样性。"
 		""
-		"- Summoning: &6right click&r on &2Mossy Cobblestone&r to summon."
-		"&8(will convert the block to Stone Henge)"
+		"- 召唤方法：手持护符&6右击&r&2苔石&r即可召唤。"
+		"&8（会将苔石转化为德格米石阵）"
 		""
-		"- Using the Drygmy: place a &bstorage&r &6touching&r the &bStone Henge&r."
-		"S: Stone Henge"
-		"C: chest (or other storages)"
-		" C "
-		"CSC"
-		" C"
+		"- 使用方法：&6紧靠&r着&b德格米石阵&r放置一个&b容器&r。"
+		"石：德格米石阵"
+		"箱：箱子（或其他容器）"
+		"  箱 "
+		"箱石箱"
+		"  箱"
 		""
-		"- Source needed: YES."
+		"- 是否需要魔源：是。"
 		""
 		""
-		"&4NOTE&r: some mods are blacklisted ; some mods don't have loot."
+		"&4提示&r：部分生物在德格米黑名单内，还有一部分生物本来就没有掉落物；这些生物均无法产出掉落物。"
 		""
-		"&8*Check &8&bPage 2 &8for Drygmy behind-the-scene."
+		"&8*在&8&b第2页&8可查看德格米的底层原理。"
 		""
 		"{@pagebreak}"
-		"These are from config."
+		"数据来自配置文件。"
 		"&8drygmyUniqueBonus = 2"
 		"&8drygmyBaseItems = 1"
 		"&8drygmyQuantityCap = 5"
 		""
-		"DrygmyTile.java generateItems()"
+		"DrygmyTile.java 方法：generateItems()"
 		"&8- this.bonus = uniqueEntities.size() * drygmyUniqueBonus + Math.min(drygmyQuantityCap, nearbyEntities.size());"
 		"&8- int numberItems = drygmyBaseItems + this.bonus;"
 		""
-		"Focus on &bthis.bonus&r. It means the more &6uniqueEntities&r in the area, the more loot from each cycle."
-		"&8(at &920 Drygmys&r&8, you should be good on &6speed&r&8)"
+		"这里请留意&bthis.bonus&r，它意味着范围内的&6uniqueEntities&r越多，每次产出的掉落物就越多。"
+		"&8（若有&920只德格米&r&8，就能大大提高&6产出效率&r&8）"
 		""
-		"1. It calculates that &bnumberItems&r."
-		"2. It generates a random &6loot table array&r from nearby entities. (jar-ed or not)"
-		"3. Then it will do &bnumberItems&r times, each time choosing 1 from the loot table array to add to the &6result&r."
-		"4. Put result into &bstorage&r next to the drygmy stone. (DrygmyTile)"
+		"1. 先计算&bnumberItems&r。"
+		"2. 然后根据附近的生物种类（无论是否在收容罐中），生成一个随机的&6战利品表数组&r。"
+		"3. 接下来执行选取&bnumberItems&r次，每次都会从战利品表数组中选取1个物品，加入到&6最终输出结果&r中。"
+		"4. 最后将最终输出结果的物品存入德格米石阵旁的&b容器&r中。（DrygmyTile）"
 	]
-	quest.21286633DE0F586E.quest_subtitle: "Mob Farm"
+	quest.21286633DE0F586E.quest_subtitle: "刷取生物掉落物"
 	quest.2133B29DE47BDC25.quest_desc: ["&b高级融合工厂&r能够同时融合&a五个&r物品。"]
 	quest.2133B29DE47BDC25.title: "高级融合工厂"
 	quest.215606B3A894512E.quest_desc: [
@@ -2254,7 +2254,7 @@
 		"  有了&b研磨机&r，你还可以把各种不要的金属物品丢进去，&6回收成粉&r。这样你就能从各种战利品和老旧工具中搞点好处了。"
 	]
 	quest.2F66F85A601AC908.title: "青铜研磨机"
-	quest.2F6C16939D136BF0.quest_desc: ["&b破坏面板&f能够直接&6破坏&f它面对的方块并&6拾取&6&b方块掉落物&f。"]
+	quest.2F6C16939D136BF0.quest_desc: ["&b破坏面板&f能够&6破坏&f/&6拾取&f它面对的&6方块&f/&b掉落物&f。"]
 	quest.2F6C16939D136BF0.title: "ME面板"
 	quest.2F7A213261682E1B.quest_desc: [
 		"可以用&b液化坩埚&r将材料&6浸泡&r在&d溶剂&r中，提取&b硫&r。反应需要&6加热&r。"
@@ -2647,7 +2647,7 @@
 		"&8For more info on Storage Lectern:"
 		"{ \"text\": \"CLICK ME\", \"underlined\": true, \"clickEvent\": { \"action\": \"change_page\", \"value\": \"4526B82A151F72AC\" } }"
 	]
-	quest.373E9DFC1082CC1F.quest_subtitle: "Storage"
+	quest.373E9DFC1082CC1F.quest_subtitle: "存储"
 	quest.375B2C2D89889153.quest_subtitle: "完成对应任务章节。"
 	quest.375B2C2D89889153.title: "&e气动工艺"
 	quest.3761B64135EA94C0.quest_desc: [
@@ -3590,7 +3590,7 @@
 		"- 物品销毁：&b湮灭之瓶&r（返还魔源）。或选用背包的&b虚空升级&r。"
 		""
 		"- 制作法术：无需&5形态魔符&r，因为&b弩&r自动指定了弹射物形态。"
-		"&8分裂 -> 爆炸 -> 敏感 -> 范围效果 -> 范围效果 -> 范围效果 -> 范围效果 -> 破坏 -> 提取 -> 拾取"
+		"&8分裂 -> 爆炸 -> 敏感 -> 扩散 -> 扩散 -> 扩散 -> 扩散 -> 破坏 -> 提取 -> 拾取"
 	]
 	quest.4BDF01E28F247553.quest_subtitle: "示例法术"
 	quest.4BDF01E28F247553.title: "巫师之弩（3级）"
@@ -4548,7 +4548,7 @@
 	quest.62F43B936E236071.quest_subtitle: "拿来吧你！"
 	quest.62FCB2F06126B622.quest_desc: ["&b无线终端&f就是一个可以&b无线&f访问&bME网络&的&b普通终端&f。使用&bME无线访问点&f来连接你的&b无线终端&f，如果你觉得无线覆盖范围太小了，还可以给&bME无线访问点&f安装&b无线信号增幅器&f来增加覆盖范围。在同一个网络的不同地方多放置几个&bME无线访问点&f也能够有效地增加覆盖范围。"]
 	quest.62FCB2F06126B622.title: "无线终端"
-	quest.6307E15FAAF30712.quest_desc: ["使用高级样板编码器，你能够通过改变&b编码样板&f中不同物品的输入面&6编码&f需要将物品从特殊方向&6输入&f的&b样板&f。"]
+	quest.6307E15FAAF30712.quest_desc: ["高级样板编码器可&6设定&b样板&f中不同物品的输入/输出面。"]
 	quest.632BE5724D2120EB.quest_desc: [
 		"&b强化合金&r是一种精英材料，通过将钻石&6灌注&r进灌注合金制作而成。"
 		""
@@ -4704,7 +4704,7 @@
 		"带上潜水罐探索&9海洋&r深处，或者给自己&6建造&r一个水下基地吧。"
 	]
 	quest.67284079A941EF4B.title: "潜水装备"
-	quest.6750F4584257BA75.quest_desc: ["&b扩展总线&f拥有&a更多的&f升级卡槽，并且相较于普通的总线&a快&f8倍。"]
+	quest.6750F4584257BA75.quest_desc: ["&b扩展总线&f拥有&a更多的&f升级槽位，并且速度比普通的总线&a快&f8倍。"]
 	quest.6750F4584257BA75.title: "扩展总线"
 	quest.6762C357EEDE8D10.quest_desc: [
 		"一种利用&e阳光&r来&7压缩空气&r的高级压缩机。"
@@ -4782,7 +4782,7 @@
 		"- 物品销毁：&b湮灭之瓶&r（返还魔源）。或选用背包的&b虚空升级&r。"
 		""
 		"- 制作法术：无需&5形态魔符&r，因为&b弩&r自动指定了弹射物形态。"
-		"&8破坏 -> 范围效果 -> 范围效果 -> 穿透 -> 穿透 -> 穿透 -> 提取 -> 拾取 -> 范围效果 -> 范围效果"
+		"&8破坏 -> 扩散 -> 扩散 -> 穿透 -> 穿透 -> 穿透 -> 提取 -> 拾取 -> 扩散 -> 扩散"
 	]
 	quest.67E949C75CEFA446.quest_subtitle: "示例法术"
 	quest.67E949C75CEFA446.title: "巫师之弩（2级）"
@@ -4856,13 +4856,13 @@
 		"&8（销毁物品可返还魔源）"
 		""
 		"- 制作法术："
-		"&8弹射物 -> 穿透 -> 穿透 -> 穿透 -> 破坏 -> 范围效果 -> 范围效果 -> 穿透 -> 提取 -> 拾取"
+		"&8弹射物 -> 穿透 -> 穿透 -> 穿透 -> 破坏 -> 扩散 -> 扩散 -> 穿透 -> 提取 -> 拾取"
 		""
 		""
 		"&8在&b第二页&8可查看&8法术解析。"
 		""
 		"{@pagebreak}"
-		"&8弹射物 -> 穿透 -> 穿透 -> 穿透 -> 破坏 -> 范围效果 -> 范围效果 -> 穿透 -> 提取 -> 拾取"
+		"&8弹射物 -> 穿透 -> 穿透 -> 穿透 -> 破坏 -> 扩散 -> 扩散 -> 穿透 -> 提取 -> 拾取"
 		""
 		"射出一发弹射物，共可击中&94次&r，每次：精准采集3x3x2范围的所有方块，并将掉落物捡拾至物品栏内"
 		"=> 共3x3x8 （3x3范围，纵深为8格）"
@@ -4967,22 +4967,22 @@
 	quest.69403313B37E8219.quest_subtitle: "玩家模仿者"
 	quest.6976592A2FB069AD.quest_desc: ["将&b4个福鲁伊克斯水晶&f以2x2的形式合成就能得到&b福鲁伊克斯块&f。"]
 	quest.69767F69C84AC701.quest_desc: [
-		"&l1. How to acquire the bound script? &r"
-		"Perform the &bRitual of Binding&r near them. (check &bRitual Brazier&r)"
-		"&8It will convert multiple not just one per ritual&r"
+		"&l1. 如何获取绑定手稿？ &r"
+		"在对应生物旁施展&b绑定仪式&r。（详情请查阅&b仪式火盆&r任务）"
+		"&8每次仪式可转化不止一只生物，推荐批量转化&r"
 		""
-		"&l2. Do familiars have HP?&r"
-		"Yes. But when they die you can just resummon from the book."
+		"&l2. 使魔有血量吗？&r"
+		"有的。不过就算使魔死了，再用法术书召唤一个就可以了。"
 		""
-		"&l3. Familiar effects&r"
-		"Since each &bfamiliar&r has their own effects and special interaction, listing here would be very long"
-		"So checkout the &bbook&r or w&biki&r for more detail :)"
+		"&l3. 使魔的效果&r"
+		"每种&b使魔&r都有其对应的效果和特殊交互，在此全部列出的话就太长了"
+		"若欲了解详情，请查阅&b宝典&r或&bwiki&r吧 :)"
 		""
 		""
-		"&4NOTE&r: summoning a familiar will reserve a &9percentage&r of your &5source bar&r for that familiar until you &5Dispel&r it."
+		"&4提示&r：召唤使魔后，会固定为使魔预留&9一定百分比&r的魔力，直到你将使魔&5解除&r。"
 		""
-		"&8What I use?&r"
-		"&8I use Starbuncle early for Speed II&r"
+		"&8你问我用什么使魔？&r"
+		"&8早期我用星宝石兽，其能提供迅捷 II效果&r"
 	]
 	quest.69767F69C84AC701.quest_subtitle: "大师球！"
 	quest.69767F69C84AC701.title: "使魔"
@@ -5166,7 +5166,7 @@
 	quest.6DED76B2F4AFD02F.quest_subtitle: "摸起来有点冷"
 	quest.6DED76B2F4AFD02F.title: "干冰"
 	quest.6DEFCC013F7A6069.quest_subtitle: "随时随地更改你的物品名称，而无需消耗大量经验值。"
-	quest.6DFA92E319E7DA77.quest_desc: ["想起步&6自动合成&f，你需要用&b样板编码终端&f制作一个&b编码样板&f，然后将&b编码样板&f&6放进&f&b样板供应器&f中。"]
+	quest.6DFA92E319E7DA77.quest_desc: ["要开始&6自动合成&f，你需要先用&b样板编码终端&f制作一个&b样板&f，然后将&b样板&f&6放进&f&b样板供应器&f中。"]
 	quest.6DFA92E319E7DA77.title: "样板供应器"
 	quest.6E2932D7D8228910.title: "&7压力&c表"
 	quest.6E3F0C072B55467B.quest_desc: ["Simple: &6harvests&r and &6resets&r &bmature crops&r."]
@@ -5365,7 +5365,7 @@
 	quest.72481CA0AC8AFD6A.title: "福鲁伊克斯色智能线缆"
 	quest.72539873C7201A47.quest_desc: ["毒马铃薯用于制作自然法术卷轴。"]
 	quest.7277A0413086D71A.quest_desc: ["用&b恩特罗种子&f&6右击&f&b福鲁伊克斯块&f来将它转变为&b恩特罗化的福鲁伊克斯母岩&f。"]
-	quest.7290F8670BBBF12E.quest_desc: ["&bME主动成型面板&f与普通的&b成型面板&r作用相同，不过它不需要网络中有物品进出就能够放置，这真的方便到爆不是吗？"]
+	quest.7290F8670BBBF12E.quest_desc: ["&bME主动成型面板&f与普通的&b成型面板&r作用相同，不过它可以主动拉取网络中的方块/物品，这真的方便到爆不是吗？"]
 	quest.72CBC6171104037F.quest_desc: [
 		"Seriously, one of the cooler doors in modded MC, imho."
 		""
