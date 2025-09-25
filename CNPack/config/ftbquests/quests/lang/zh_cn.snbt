@@ -9,7 +9,7 @@
 	chapter.26E59C8DBA7F6FE3.title: "Monster Mayhem"
 	chapter.2A4C06811555B5D0.title: "遗物与饰品"
 	chapter.2B64DA0213E9FC7B.title: "私人存储"
-	chapter.2E72024B18414A17.title: "&dEternal"
+	chapter.2E72024B18414A17.title: "&d永恒"
 	chapter.3188AC6C440F7520.title: "&a新手上路"
 	chapter.33E8845C982DC0F2.title: "通用机械：矿石处理"
 	chapter.36F47DCAC3D28F1B.title: "园艺耕作"
@@ -4235,7 +4235,7 @@
 	quest.59EE97EF70F6F962.quest_desc: ["你有时能在野外的水边找到野生的亚麻植株！采几棵吧！"]
 	quest.59EE97EF70F6F962.quest_subtitle: "纯素……纤维？"
 	quest.59EE97EF70F6F962.title: "亚麻"
-	quest.59FD22A238BC0378.quest_subtitle: "Crafting ingredient for the Replicator."
+	quest.59FD22A238BC0378.quest_subtitle: "制作复制器的原材料。"
 	quest.5A2B3D4660D8D741.quest_desc: ["消耗&b绿宝石&f，&6富生升级&f的必需物品"]
 	quest.5A2B3D4660D8D741.quest_subtitle: "我以为蓝色的才叫富生"
 	quest.5A2B3D4660D8D741.title: "&a富生水晶"
@@ -5687,7 +5687,7 @@
 		"使用时，你须要将&b御炎火盆&r放在煅烧炉下方，并为它&6添加燃料&r提供热量。&a燃料的持续时间是原版熔炉里的两倍&r。"
 	]
 	quest.7A6C1605F32F695F.quest_subtitle: "这只是一个烤箱？"
-	quest.7A73A6CC630BAA3F.quest_subtitle: "Endless Boss Fights!"
+	quest.7A73A6CC630BAA3F.quest_subtitle: "无尽的Boss战！"
 	quest.7A73A6CC630BAA3F.title: "&dBoss Rush"
 	quest.7A79DC2CE5CC9DEE.quest_subtitle: "完成对应任务章节。"
 	quest.7A79DC2CE5CC9DEE.title: "&aReplication"
@@ -5735,8 +5735,8 @@
 	]
 	quest.7AF270EF635B11CF.title: "防爆合金板"
 	quest.7AFED4254BA881B2.title: "杨梅"
-	quest.7B81E0A800E42F1F.quest_subtitle: "To Infinity and Beyond!"
-	quest.7B81E0A800E42F1F.title: "&dInfinity Cells"
+	quest.7B81E0A800E42F1F.quest_subtitle: "无穷无尽！"
+	quest.7B81E0A800E42F1F.title: "&d无限元件"
 	quest.7B821A8C8A97FA30.title: "硫"
 	quest.7B86C9C90997B3E3.quest_desc: [
 		"&a你没听错&r！"
