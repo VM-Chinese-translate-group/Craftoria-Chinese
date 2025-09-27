@@ -95,8 +95,6 @@
 	quest.026C88446512DDB8.quest_subtitle: "Can run &eCoke Oven&r recipes in batches."
 	quest.02AE5771A57BC6BE.quest_subtitle: "Complete the quest chapter."
 	quest.02AE5771A57BC6BE.title: "&3Applied Energistics"
-	quest.02C96AE982806447.quest_desc: ["&bBuilding Gadgets &fuse &4power &fto operate. While &6pressing &b\"H\" &fby default, it will open the setting menu from which u can select the size, and other options."]
-	quest.02C96AE982806447.title: "&bBuilding Gadgets"
 	quest.02D3AFC713077502.quest_desc: ["Makes fermentation processes more &6efficient&r. &aYou may wish to automate this&r."]
 	quest.030E566682A89105.quest_desc: [
 		"   The &bfuel canister&r holds a large amount of fuel."
@@ -110,7 +108,6 @@
 		"{image:justdirethings:item/fuel_canister_full width:100 height:100 align:center fit:true}"
 	]
 	quest.030E566682A89105.quest_subtitle: "Fuel Saver"
-	quest.03103A57191715D1.title: "Leather Backpack"
 	quest.03271CEB2EBD0979.quest_desc: [
 		"  &6Transmits&r &cenergy&r from attached &bsource&r, to any power &bconsumer&r within an offset AOE."
 		""
@@ -118,8 +115,6 @@
 		"{image:ftbquests:tasks/fe_full width:64 height:64 align:center}"
 	]
 	quest.03271CEB2EBD0979.quest_subtitle: "An AOE Charger"
-	quest.03471D7D8B0068F0.quest_desc: [""]
-	quest.03471D7D8B0068F0.title: "Iron Backpack"
 	quest.038773FFAF3C8817.quest_desc: [
 		"  Read this chapter as a flow chart."
 		""
@@ -150,7 +145,6 @@
 	quest.03CF6D6277D93A4A.title: "Gauge Dropper"
 	quest.03E0ADE2191CC3FB.quest_desc: ["Each &bAdvanced Induction Cell&r added to your matrix adds &e25.6 GFE&r of energy storage."]
 	quest.03E0ADE2191CC3FB.title: "Advanced Induction Cell"
-	quest.03EE3F38F8606509.quest_desc: ["When combined with Redstone and Printed Silicon, you will make a Accumulation Processor."]
 	quest.03F624101CDF5291.quest_desc: [
 		"  &bSimple&r:"
 		"    • &bBlocks&r get &6placed&r"
@@ -176,7 +170,6 @@
 		"{image:justdirethings:block/generatort1_top width:100 height:100 align:center}"
 	]
 	quest.045942C709C63044.quest_subtitle: "Does What it Says on the Tin"
-	quest.045D5406A58CA1A9.quest_subtitle: "Congratulations! You've completed MI!"
 	quest.047A5CFAEBBE7E4E.quest_desc: [""]
 	quest.047A5CFAEBBE7E4E.quest_subtitle: "Shopification for Create"
 	quest.048328EEBEEC9C94.quest_desc: [
@@ -392,7 +385,6 @@
 	quest.098C3858B4FFCE78.quest_subtitle: "280% More power"
 	quest.09B10C121C7E9023.quest_desc: ["Used to craft &bME Energy Storage Components&f and other accessories."]
 	quest.0A67575BAF8596B0.quest_desc: ["Better than you model train tracks: straights, curves (two kinds), and slopes—works across Nether portals and unloaded chunks too!"]
-	quest.0AC5BE6934118778.quest_subtitle: "You may see a bit better underwater"
 	quest.0AC7D844C55119E1.quest_desc: [
 		"  This is no &bMonkey Wrench&r, but you better hope you can move like one in the future."
 		""
@@ -403,7 +395,6 @@
 		"  Remember, you cannot &6break&r the machine using the &bWrench&r, it WILL &6destroy&r it and you &6wont&r get it back. Just use your trusty &bPickaxe&r instead."
 	]
 	quest.0AC7D844C55119E1.title: "Wrench"
-	quest.0AD392F5527093C2.quest_desc: ["Used as a housing to hold MEGA Storage Component, for Fluid Storage."]
 	quest.0B2FF8169FD3812D.quest_desc: [
 		"  &bSteel Hatches&r have &6double the capacity of bronze hatches&r, increasing one inventory slot to 2, and increasing a multi-block's max steam usage rate from 2 EU/t to 4 EU/t. As long as there is a single steel fluid input hatch receiving steam, your entire multi-block is upgraded to a \"steel tier.\""
 		""
@@ -504,13 +495,9 @@
 	]
 	quest.0C91DF887A33A8E6.quest_subtitle: "It's not void mining; it's pocket dimension mining"
 	quest.0C9D9AFD7C5C9F97.quest_desc: ["The &bNetherite Stick&f does the same things, but with a block &6place&f maximum of 1024 blocks."]
-	quest.0CE7E899D54A6AE8.quest_subtitle: "Congratulations! You've completed AE2!"
-	quest.0CE7E899D54A6AE8.title: "&bApplied Energistics &d100%"
 	quest.0D1AFCAD90FAA4F9.quest_desc: ["This Rod is pre-attuned to find a &aCommon&r material."]
 	quest.0D44F37BE787CA30.quest_desc: ["This &3substance&r can be &6processed&r in a &bThermopneumatic Processing Plant&r to produce &eLPG&r, which is an &aexcellent&r &7liquid fuel&r comparable in quality to &3Thermal Expansion’s&r &7Refined Fuel&r. "]
 	quest.0D44F37BE787CA30.title: "&6Gasoline"
-	quest.0D632F9A1EAFDA57.quest_subtitle: "Congratulations! You've completed PNC!"
-	quest.0D632F9A1EAFDA57.title: "&6PneumaticCraft &c100%"
 	quest.0D8988AF02D890EA.quest_subtitle: "Find an Ancient Battleground"
 	quest.0D8988AF02D890EA.title: "The Walking Dead"
 	quest.0DA354D54D288D20.quest_desc: [
@@ -623,12 +610,6 @@
 		""
 		"{image:justdirethings:item/abilityupgrades/jumpboost width:100 height:100 align:center}"
 	]
-	quest.0F5FE44BAC4E06D4.quest_desc: [
-		"To get the &bNeptunium Ingot&f you must &afish&f for a &bNeptune's Bounty&f."
-		""
-		"NOTE: Using &bLuck of the Sea&f will &aincrease&f your chances"
-	]
-	quest.0F5FE44BAC4E06D4.title: "Neptunium"
 	quest.0F7AEC02C0AC86A2.quest_desc: [
 		"When their &7pressure&r gets &ebelow&r a certain point, they will scan for a &bCharging Station&r fitted with a &bDispenser Upgrade&r within their designated area  if one is found, they will automatically &6recharge&r before going back to their respective task. "
 		""
@@ -770,11 +751,6 @@
 	quest.13600E981D85B79D.quest_desc: ["Required for autocrafting, as these store the items and fluids used in crafts."]
 	quest.13600E981D85B79D.title: "Crafting Storage"
 	quest.138DC280BDD0622B.title: "Hydrogen"
-	quest.1395E3C0ACED7F7B.quest_desc: [
-		"The trough will automatically feed animals nearby."
-		""
-		"The nest will automaticaly pick up eggs from nearby"
-	]
 	quest.13A991D769FF6E2A.quest_desc: ["Hint: Try growing in a pond!"]
 	quest.13A991D769FF6E2A.title: "Rice"
 	quest.13AF33D9F34D640F.quest_desc: [
@@ -878,7 +854,6 @@
 	quest.1607D3C2384B6CFF.quest_desc: ["The &bAccumulator Processor&f is used for all of the &bMEGA Storage Components&f."]
 	quest.1610E88D5231E670.quest_desc: ["The &bThermal Evapoation Controller&r is the brain of your new evaporation towers. These towers are used to take a &7fluid&r and &6evaporate&r &7water&r from it to &9increase the concentration&r of the &3dissolved solids&r within it. &6Check your EMI&r to see exactly what you can get out of it. You &omight&r need to make a few..."]
 	quest.1610E88D5231E670.title: "Thermal Evaporation Controller"
-	quest.161CCE9681663A68.quest_desc: ["A Mid-Game component used to craft bulk storage for chemicals"]
 	quest.162DD68C3B91FC5E.quest_desc: [
 		"  We have a lot to cover."
 		""
@@ -1287,7 +1262,6 @@
 		"{image:justdirethings:block/gooblock_tier3 width:100 height:100 align:center fit:true}"
 	]
 	quest.1B1ED97DF0FE2E3C.quest_desc: ["The&b Storage Bus&f allows you to use a chest or other storage box a &5network &ffor your &bME System&f to connect to rather then a &bStorage Drive&f."]
-	quest.1B268D5AFF2297A4.title: "Ultimate Bin"
 	quest.1B65CA6898CC3F9E.quest_desc: [
 		"The &bBasic Infusing Factory&r can process up to &a3&r infusing processs at once. "
 		""
@@ -1849,7 +1823,6 @@
 	quest.250D1E2BFE6E0D50.title: "Advanced Large Steam Boiler"
 	quest.253FA8D6C09E2BD5.quest_desc: ["Spawned entities will make no noise."]
 	quest.253FA8D6C09E2BD5.quest_subtitle: "+ Silent"
-	quest.255021677AF472E9.title: "Reformation Array"
 	quest.2571BC62616A45AB.quest_desc: [
 		"This is your &dQIO Dashboard&r. "
 		""
@@ -1872,8 +1845,6 @@
 		"If the machine or container automatically pushes the contents into the pipe, then each the transfer rate is &94000mb/t&r for each tube in the network."
 	]
 	quest.264F371D2A18EAEC.title: "Basic Pressurized Tube"
-	quest.266E065B5B4C91E3.quest_desc: ["This &bemitter &fconverts &bmercury &finto &bSulfuric Flux &fwhich can carry information."]
-	quest.266E065B5B4C91E3.quest_subtitle: "Mercury = Sulfuric Flux"
 	quest.2675A4EA019B383F.quest_desc: [
 		"You'll need to make &bTurbines&r to &7harness the steam&r you'll be producing and generate &eelectricity&r. "
 		""
@@ -1912,7 +1883,6 @@
 	quest.27B6C6079B5FE918.quest_desc: ["The &bRotary Condensentrator&r allows you to either &6condense&r a &egas&r into it's &7liquid&r form and vis-versa by pressing the button in the top left of the GUI."]
 	quest.27B6C6079B5FE918.title: "Rotary Condensentrator"
 	quest.2805DA3A1F411588.quest_desc: ["Used to &astore &f&4power&f, you will need to get yourself a &bFE Cell Housing&f."]
-	quest.28127BEABD50770E.quest_desc: ["Used to store Radioactive Chemicals, rather then a Waste Barrel"]
 	quest.2821236A1E8FEF73.quest_desc: [
 		"The &bFusion Reactor Port&r is a reinforced passage into the center of the &bFusion Reactor&r."
 		""
@@ -1922,7 +1892,6 @@
 	quest.286229410FA571B7.quest_desc: ["&6Prevents&r collisions and &6controls&r the flow of scheduled trains."]
 	quest.286229410FA571B7.quest_subtitle: "Keep them trains rollin’!"
 	quest.28724CA9F837F710.quest_desc: ["Amythyst Resonance Charm - when worn this charm will grant you a 15% mana regen boost."]
-	quest.28808424CA6FD60C.title: "Gold Backpack"
 	quest.28A35996DE62CFA0.quest_desc: [
 		"&l1. Bigger storage&r"
 		"Checkout &5Ars Énergistique&r, an AE2 addon."
@@ -1997,7 +1966,6 @@
 		""
 		"- Insert &eelectric&r crafting machines to run in &6parallel&r."
 	]
-	quest.29E8F63B19A2F129.title: "Netherite Backpack"
 	quest.29EB6FA48EDBE556.quest_desc: ["&7Light Gray&r Chalk serves as an improved foundational chalk above White, stabilizing pentacles made with it more."]
 	quest.29EB6FA48EDBE556.quest_subtitle: "Second Foundation"
 	quest.2A08F71925AE775E.quest_desc: ["I mean... it's all there right in it's name."]
@@ -2350,18 +2318,6 @@
 	quest.3068A4024A893DF9.quest_desc: ["If you can find your way to a Pale Bog Biome, you may discover these eery gourds..."]
 	quest.3068A4024A893DF9.title: "Pale Pumpkin"
 	quest.306E118494E0FA08.title: "Blue Glowcane"
-	quest.30712755CEBE5920.quest_desc: [
-		"Wire it!"
-		"Drain it!"
-		"Store it!"
-		"Power it!"
-		"Hopper it!"
-		"Charge it!"
-		"Transmit it!"
-		"&4You've got the power!!!"
-	]
-	quest.30712755CEBE5920.quest_subtitle: "Powah"
-	quest.30712755CEBE5920.title: "Powah!!! 100%"
 	quest.308640ACCC096431.quest_desc: [
 		"The &bME Controller &fis the first big step into making your &bME system&f. The &bME Controller&f must be &6powered&f, but doesn't required much."
 		""
@@ -2429,7 +2385,6 @@
 		""
 		"{image:justdirethings:item/eclipsealloy_paxel_active width:100 height:100 align:center fit:true}"
 	]
-	quest.324AF7933BC871B0.title: "Elite Chemical Tank"
 	quest.324EB8165298F503.quest_desc: ["The &bElite Logistical Transporter&r can pull &a64 items per second&r into a transporter network and transfer it at a speed of &a4.0 meters per second&r."]
 	quest.324EB8165298F503.title: "Elite Logistical Transporter"
 	quest.3254374A45D0D708.quest_desc: [
@@ -2462,7 +2417,6 @@
 	quest.3288EB24E412AF9A.title: "&dModern &bIndustrialization"
 	quest.328E672F6B43D93A.quest_desc: ["For both &6assembling&r your trains and, well, &6being&r train stations."]
 	quest.32DC17E21BF26228.quest_desc: ["Use this to &6download&r saved &bSchematics&r into a new &bSchematic&r ready for use in the &bSchematicannon.&r"]
-	quest.333A187FF6CCBCF2.title: "Theurgy 100%"
 	quest.3357A8B614D477B6.quest_desc: [
 		"  A new machine, the little sibling to the &bPacker&r! This one can only be made in steel; it really needs that extra strength."
 		""
@@ -2583,8 +2537,6 @@
 		""
 		"Has limited range of 1000 blocks, unlike the &bQuantum Ring&r."
 	]
-	quest.357B4B559D714994.quest_desc: ["This machine transforms &bsulfur&f into different &bsulfurs"]
-	quest.357B4B559D714994.quest_subtitle: "Sulfur = Sulfur"
 	quest.35853F056E2B6E69.title: "Amulets"
 	quest.35885A1220BB34FC.quest_desc: [
 		"&6Temperatures&r will shift, &agrass&r and &afoliage&r colors will change, the chance of &9rain&r and &7storms&r will fluctuate, and more. "
@@ -2909,7 +2861,6 @@
 	quest.3C6E442CEB73191F.title: "Gas-Burning Generator"
 	quest.3CABE90D2D99AAD0.quest_desc: ["The &bCrafting Formula&r is used to store crafting recipes which are used in &bFormulaic Assemblicators&r."]
 	quest.3CABE90D2D99AAD0.title: "Crafting Formula"
-	quest.3CEBC51DB3555C3E.quest_subtitle: "Every Netherite tier has its own unique properties"
 	quest.3CF03758A5C98E5B.quest_desc: [
 		"This bow will add &5Projectile glyph&r at the start, so you don't need to include &5Form glyph&r in the spell."
 		""
@@ -3109,9 +3060,6 @@
 		"To use the &bTablet&r, specify &9pick-up&r and &9drop-off&r locations by &6right-clicking&r on the &3inventory&r or &btank&r with the &bTablet&r."
 	]
 	quest.40FF154148BBAFF2.quest_subtitle: "oooh Shiny!"
-	quest.41125B1819031283.quest_desc: ["People around your world really need your help! Doing a good deed here and there might reward you in the future. Plus, are you really doing anything else important? Forget about your nearly critical fission reactor or the hoard of monsters in your basement or even the corruption spreading through the world. Help that old lady or that amputee instead!"]
-	quest.41125B1819031283.quest_subtitle: "A good deed a day keeps the insanity away!"
-	quest.41125B1819031283.title: "Hit the streets!"
 	quest.41183734EB2C28FF.quest_desc: ["&6Fills&r vanilla &bfluid containers&r and &6applies&r &9fluids&r to &bitems&r in sequenced recipes."]
 	quest.41183734EB2C28FF.quest_subtitle: "Where’d the itsy bitsy spider go?"
 	quest.413557ECF489FD2C.quest_subtitle: "Appears in rare structures in the end islands."
@@ -3143,7 +3091,6 @@
 	]
 	quest.4184B4182CFEF694.quest_subtitle: "Signal acquired"
 	quest.418659818AD0712B.quest_desc: ["&bBulk Storage Cells&f can hold an &ainfinite &famount of 1 singular item."]
-	quest.419531F1ADA558AE.title: "BUBBLEZONE!!!!"
 	quest.41D1344A31FEA6DF.quest_desc: [
 		"  &bKanthal Coils&r are a new type of coiling for your &bEBF&r, &6allowing for a higher power draw&r and the capability to generate even more heat. Be careful, don't want to get burned. Ouch!"
 		""
@@ -3158,16 +3105,7 @@
 	quest.4207ADF2CB254C6B.title: "Painting Machine"
 	quest.423B29BD8DAC8C3D.quest_desc: ["The spawner will always spawn a baby entity when possible."]
 	quest.423B29BD8DAC8C3D.quest_subtitle: "+ Youthful"
-	quest.42619280FF258EEA.quest_desc: ["&bMore Red&f is a mod that lets u run &bredstone &fanywhere u want, up walls, on top of ceilings, under ceilings. "]
-	quest.42619280FF258EEA.title: "&cMore Red"
 	quest.427B70B9D14A1A51.title: "Movement Upgrades"
-	quest.42867560C8974A84.quest_desc: ["Again?! What are you nuts?"]
-	quest.429A3E6B65A5D719.quest_desc: [
-		"&aHave you ever wanted to cook like a blockhead? "
-		""
-		"Well do I have the kitchen setup for you, &6craft&r yourself a &bkitchen&r and the all the &erecipes&r will come to you."
-	]
-	quest.429A3E6B65A5D719.title: "&dCooking For Blockheads"
 	quest.42AC14C7D41F0CAB.quest_desc: ["Using the Scroll Forge and a Blaze Rod craft a Fire Scrolls, which are really good at burning your enemies... and sometimes your friends... Just make sure you dont accodently cast fireball on their pets and you should be fine!"]
 	quest.42D6CC67AB29D7DA.quest_desc: [
 		"  You've finally reached &bDigital Circuits&r!"
@@ -3210,7 +3148,6 @@
 	]
 	quest.4303A1A434C07540.quest_subtitle: "Neat and tidy"
 	quest.4303A1A434C07540.title: "Ritual: Summon Foliot Janitor"
-	quest.431B5333B30B42CA.quest_subtitle: "Gravity in water?"
 	quest.431FA8EF8194D39B.quest_desc: [
 		"🦀 🦀 🦀 Crab Crab Crab 🦀 🦀 🦀 "
 		""
@@ -3399,7 +3336,6 @@
 		"  This means you can keep your real &bCoal&r for other &6projects&r or &6recipes&r, keep &bLignite&r to &6fuel&r your &bSteam Mining Drill&r instead."
 	]
 	quest.45F0194CF3DCA5DD.title: "Lignite Coal"
-	quest.46230DB5AB0C2460.quest_desc: [""]
 	quest.4628ABEE13B276A9.quest_desc: [
 		" &bRaw blazegold&r &6drops&r from broken &braw blazegold ore&r."
 		""
@@ -3409,7 +3345,6 @@
 	]
 	quest.462944FD21A92AED.quest_desc: ["&4Infused Alloy&r is the first alloy you'll make, comprised of &cinfusing redstone&r into &6copper&r making an extra conductive metal that you'll use for &acircuitry&r. "]
 	quest.462944FD21A92AED.title: "Infused Alloy"
-	quest.46312A46467C5497.quest_desc: ["When you find a &bRelic &fin the wild, you can use the &bResearch Table&f to unlock &aspecial effects &fwith &bexperience&f."]
 	quest.465ECB57BFCF5291.quest_desc: ["Spawned entities will have no AI."]
 	quest.465ECB57BFCF5291.quest_subtitle: "+ No AI"
 	quest.4670BD132DF4A70E.quest_desc: [
@@ -3491,7 +3426,6 @@
 		"  Create the &bSteel Upgrade&r and install it onto any bronze machine &6using a smithing table or packer&r."
 	]
 	quest.475DC864A0BC0F1F.title: "Faster Machines?"
-	quest.476C1218B9BF2C17.quest_desc: ["Used to store 1 Item in bulk."]
 	quest.4788E4092A488C9E.quest_desc: ["Simply a must have for the fast factory."]
 	quest.478A6A8ADA223AEF.quest_desc: [
 		"The &bCanteen&r is used to hold &dNutritional Paste&r and allow you to &6consume&r it. "
@@ -4052,7 +3986,6 @@
 		"&8(doesn't convert certus block to budding though)"
 	]
 	quest.52BB8CBB7118C793.quest_subtitle: "Amethyst"
-	quest.52F4C1914EF9C7E2.quest_desc: ["Automate me a time machine now, wontcha?"]
 	quest.5319FD97D5133E7A.quest_desc: ["To craft &bRedstone Crystal&6 throw&b 1 Block of Redstone, 1 Glowstone Dust, and 1 Fluix Crystal &finto &awater &fand watch the magic happen."]
 	quest.534B63750942C433.quest_desc: [
 		"Your first circuit in this technology line is the &bBasic Control Circuit&r. "
@@ -4258,7 +4191,6 @@
 		"&8Tip 2: it can &6pull &8items from &bstorage &8near it (disable with &bDominion Wand&r&8)"
 		"&6sneak + right click"
 	]
-	quest.57F8ADC972482202.quest_subtitle: "Might swim a bit faster"
 	quest.5855D8361A2C6623.quest_desc: ["The &bTemplates&f can be used in the &bTemplate Manager&f."]
 	quest.5855D8361A2C6623.title: "&bBuilding Gadgets"
 	quest.58CA2853D9620919.quest_desc: [
@@ -4489,7 +4421,6 @@
 	quest.5FBAD421F88943B6.title: "Diversion Transporter"
 	quest.5FCE0573AA70913A.quest_subtitle: "Complete the quest chapter."
 	quest.5FCE0573AA70913A.title: "&4Just Dire Things"
-	quest.5FED7FD4E2BB3C3B.quest_subtitle: "You might breath a bit better underwater"
 	quest.5FFDA262D7693860.quest_desc: ["Create &aPolonoium Pelettes&r by repurposing the &2nucelar waste&r and combining it with &bfluorite dust&r."]
 	quest.5FFDA262D7693860.title: "Polonium Pellet"
 	quest.60225C11880C3534.title: "Blueberries"
@@ -4631,7 +4562,6 @@
 		""
 		"You can also link some other items to your &bME System&f other than just the &bWireless Terminals&f, such as &bBuilding Gadgets&f."
 	]
-	quest.6353B0AB7EFFA163.quest_subtitle: "add this here"
 	quest.63756443B3FFDB48.quest_desc: [
 		"Ah, the humble but reliable &bMillstone&r."
 		""
@@ -4695,7 +4625,6 @@
 	]
 	quest.6531DF5573672E9E.quest_subtitle: "Found in a converted Hollow Hill in the middle of the &6Fire Swamp&r."
 	quest.6531DF5573672E9E.title: "&1Hydra"
-	quest.653C26BF81CFA5A0.quest_desc: ["Used as a housing to hold MEGA Storage Component, for Item Storage."]
 	quest.656CBEFEE317E2E7.quest_desc: [
 		"By default, the Actuator's storage space is not the largest."
 		""
@@ -4881,7 +4810,6 @@
 	]
 	quest.681A718388A97FFC.title: "Muffling Upgrade"
 	quest.682D1178AF51998C.quest_desc: ["Craft any Rune that goes best with the magic armor or upgrade orb that you want."]
-	quest.683CF11DB8361F81.quest_desc: ["Used as a housing to hold MEGA Storage Component, for (Mekanism) Chemical Storage."]
 	quest.683EEA78F71AC153.quest_desc: ["The &bDiamond Stick&f does the same things, but with a block &6place&f maximum of 128 blocks."]
 	quest.68493CE96FD68EBA.title: "Cryomancer"
 	quest.68721F148E2805FB.quest_desc: [
@@ -4901,8 +4829,6 @@
 		""
 		"When &6equipped&r with a &bModule Expansion Card&r, you can precisely &6adjust&r the threshold through the &3GUI&r."
 	]
-	quest.68A1BBD669C1CEF5.quest_desc: ["The &bMarket &fwill allow you to &6buy &falmost any &bseed/sapling &fin the game with &bemeralds&f."]
-	quest.68A1BBD669C1CEF5.title: "&aFarming For Blockheads"
 	quest.68A8995F4A13381A.quest_desc: [
 		"  Accepts top-level &bupgrades&r:"
 		""
@@ -5041,8 +4967,6 @@
 		"{image:justdirethings:block/clickert2_side width:100 height:100 align:center}"
 	]
 	quest.69403313B37E8219.quest_subtitle: "Player Impersonator"
-	quest.695A9A54CFD509FF.quest_desc: ["This machine allows for the &6replication&f of &bSulfur "]
-	quest.695A9A54CFD509FF.quest_subtitle: "Infinite Sulfur?"
 	quest.6976592A2FB069AD.quest_desc: ["Crafted with &b4 Fluix Crystals&f in a 2x2 pattern you will obtain a &bFluix Block&f."]
 	quest.69767F69C84AC701.quest_desc: [
 		"&l1. How to acquire the bound script? &r"
@@ -5282,8 +5206,6 @@
 	quest.6F07EDE7A819467B.quest_subtitle: "Complete the quest chapter."
 	quest.6F07EDE7A819467B.title: "&cPowah"
 	quest.6F1F240CD3A5CB1F.title: "Lemons"
-	quest.6F2BFD1AF4B2F9C9.quest_desc: ["The &bFluix Covered Cables &fare the same as &bGlass Cables &fbut have insulation that can be colored. They also continue to not show network information. Decorate your base a little with them!"]
-	quest.6F2BFD1AF4B2F9C9.title: "Fluix Covered Cable"
 	quest.6F5731A4490A537F.quest_desc: [
 		"Add &2Etching Acid&r to an &bEtching Tank&r to convert: "
 		""
@@ -5323,7 +5245,6 @@
 	quest.6F9513334361D44E.quest_subtitle: "Hallucinogens"
 	quest.6FA1BD39E9BB9392.quest_desc: ["The &bUltimate Combining Factory&r allows you to process &a9&r combining recipes at once."]
 	quest.6FA1BD39E9BB9392.title: "Ultimate Combining Factory"
-	quest.6FB6E8A7461B0439.quest_desc: ["A Mid-Game component used to craft Bulk Storage."]
 	quest.6FD3C9B4EF558332.quest_desc: ["Brassy on the edges, but classy-not-brassy all over."]
 	quest.6FDE684299FEC954.quest_desc: ["The &bElite Mechanical Pipe&r has a per-pipe capacity of &932,000mb&r and a per-\"&apull&r\" pipe flow rate of &98,000mb/t&r."]
 	quest.6FDE684299FEC954.title: "Elite Mechanical Pipe"
@@ -5413,7 +5334,6 @@
 		"Each block that comprises the multiblock's total volume adds &3350,000mb&r of &7liquid storage&r or &316,000,000mb&r of &egas storage&r."
 	]
 	quest.71DD555551705B17.title: "Dynamic Tank"
-	quest.71F041E82D23C365.title: "Oredictionificator"
 	quest.720874ECBFD3FD19.quest_desc: [
 		"  &bBlaze Ember&r + PF → &4Blaze Ember Ø&r"
 		""
@@ -5614,7 +5534,6 @@
 		"[ tip: see the &bInventory Ticker&r for Create's great take on a storage terminal ]"
 	]
 	quest.754EC4FE62F454E8.quest_subtitle: "It's all your Vault!"
-	quest.755B63C1841819D4.quest_desc: ["Made by dropping Charged Certus Quartz, Iron, and Sky Stone into water. The Sky Stone Ingot can be used for all Storage Components from MEGA Cells."]
 	quest.75810CDFB362E0CB.quest_desc: [
 		"They are &6crafted&r by causing a &6reaction&r between &bEnder Pearl&r or &bEnder Dust&r and a &bSingularity&r. Any &6explosive force&r should be enough to trigger the reaction."
 		""
@@ -5681,7 +5600,6 @@
 	]
 	quest.779C3C6B89AD2526.quest_subtitle: "Time for a Major Upgrade"
 	quest.779C3C6B89AD2526.title: "&eThe Electric Age!"
-	quest.77D008B7B47BF2D7.title: "Diamond Backpack"
 	quest.7806DD85D325C01C.quest_desc: [
 		"   &bPolymorphic Catalyst&r is the key to unlock JDT's better &bfuels&r."
 		""
@@ -5725,7 +5643,6 @@
 	quest.78EDBDED3BFEC145.title: "Welcome to &othe&r &aCraftoria&r!"
 	quest.78F7F62C0E2E7448.quest_desc: ["The &bUltimate Purifying Factory&r allows you to process up to &a9&r purifying recipes at once."]
 	quest.78F7F62C0E2E7448.title: "Ultimate Purifying Factory"
-	quest.790B49348370BE10.title: "Sulfurs and Niter"
 	quest.791CAEBAE57EF0E1.quest_desc: ["  &bMotors&r take electricity and produce a rotational force. You'll use motors to create many of the machines and other components in the future. &6You should automate these&r."]
 	quest.791CAEBAE57EF0E1.quest_subtitle: "You Spin Me Right 'Round"
 	quest.791CAEBAE57EF0E1.title: "Motors"
@@ -5945,27 +5862,6 @@
 		""
 		"Similarly, the &3freezing process&r &espeeds up&r with increased &3cooling&r."
 	]
-	quest.7D62935133EE5551.quest_desc: [
-		"  You did it."
-		"  You &oactually&r did it, you crazy &kplayer&r !"
-		""
-		"  Not only tried to do it."
-		"  Not just planned to do it."
-		""
-		"  Didn't stop at steel"
-		"  Didn't aquiesce at aluminum."
-		""
-		"  Grinded. Grew."
-		"  Struggled. Agonized."
-		"  Tore down and rebuilt."
-		"  Expanded, improvised, and improved."
-		""
-		"  Quarried. Distilled."
-		"  Ran down bottlenecks."
-		"  Slot locked, upgraded, and over-clocked."
-		"  And piped. So much piping."
-	]
-	quest.7D62935133EE5551.title: "MI 100%"
 	quest.7DA234839458B333.quest_desc: [
 		"The &cFlamethrower&r allows you to use &7Hydrogen&r to spew &4fire&r at &bblocks&r and &2entities&r. "
 		""
@@ -5997,7 +5893,6 @@
 	quest.7ED9955750255A69.quest_subtitle: "Complete the quest chapter."
 	quest.7ED9955750255A69.title: "&dArs Nouveau"
 	quest.7EDF633DDB5DA2A1.quest_desc: ["Frozen Bones are dropped from Strays and are used to craft Ice Scrolls"]
-	quest.7EE57E9E41549AE8.quest_desc: ["The&b Molecular Assembler &fcarries out the operation defined by any &bPattern Providers&f place adjacent to it."]
 	quest.7EF829BFBBB4009B.quest_desc: [
 		"By placing Energizing rods around an Energizing Orb, then powering the rods, you can energize different materials inside the orb. This can range from single items to a combination of items."
 		""
@@ -6105,16 +6000,9 @@
 	task.00CA3CB10A03DF62.title: "PNC 100%"
 	task.013281B2076D21ED.title: "Helpful Tips \\& Tricks"
 	task.02D1703C79A7F3EF.title: "Any #c:logs/archwood"
-	task.031E7C03A8B20B9F.title: "Tools"
-	task.0352346D1E6B1314.title: "Sulfur and Nitrate"
-	task.04471CC6E8140F0C.title: "Mining Gadgets"
 	task.04FBCF96BB8F176A.title: "Vein be gone!"
-	task.07818B6C552EFFD7.title: "&5Ars Nouveau &6100%"
-	task.0A3A3817F4660E79.title: "&dModern Industrialization 100%"
-	task.0B5C8412C58A454B.title: "Hit That Grass!"
 	task.0BA54BE324AE1978.title: "How Delightful!"
 	task.0D974A2537B460E2.title: "Upgrades AAAAAAAAAAAAHHHHHHHHH"
-	task.0F6742A136681E6E.title: "Expanded Storage"
 	task.0FA270C84C6558F4.title: "Clean Slurry"
 	task.0FF55D7FA5CEAD32.title: "Any #c:seeds/flax"
 	task.11CC52C63FF1FDE8.title: "Summon a Beaver Familiar"
@@ -6125,8 +6013,6 @@
 	task.15E07774D19A4B1A.title: "Exploration? Machines? Magic?"
 	task.160306663D203B48.title: "Guilds and Claims"
 	task.17EAF020DF15D376.title: "Miscellaneous Origins"
-	task.1936B2F028F013BB.title: "More RED!!!"
-	task.19756286A29F901E.title: "Applied Energistic Storage"
 	task.1A36A5D48C75BE0D.title: "Any #minecraft:candles"
 	task.1ACF33BDD92D15DA.title: "KILL the Pope"
 	task.1B5D407F2729F56F.title: "The DEAD King"
@@ -6147,26 +6033,17 @@
 	task.2DCC056348E9BB4B.title: "Summon a Demonic Wife"
 	task.2FA7F24545E1C37E.title: "Start Here"
 	task.3033BCAB98641150.title: "Advanced Pattern Provider"
-	task.3034DEF5A7D3124C.title: "&6Powah &4100%"
-	task.3089C625E9031179.title: "&6Pneumatic&cCraft &e100%"
 	task.310C3BFD53972F70.title: "Sushi Go! Go! Go!"
 	task.318C7D190267976F.title: "Summon a Blacksmith Familiar"
-	task.3233A3518D058510.title: "Relics"
 	task.32CCFEEA0A624C11.title: "Make Blazebloom Soil"
 	task.336881A8652FA9A0.title: "Summon a Foliot Crusher (there's no advancement, sorry!)"
-	task.338BB132236A7460.title: "&bApplied Energistics 100%"
 	task.339C2D373170BE2F.title: "Be a Fashion Icon!"
 	task.33DEB184944AC7D0.title: "Water"
 	task.3404171FB712C24D.title: "Tier 5 Ores, 1:5"
-	task.34E4A03ABDF6182A.title: "Functional Storage"
-	task.35BDDC94514B035E.title: "&6Collect Them All!"
-	task.3653474583A2841E.title: "Tiered Backpacks"
-	task.37128B9AA092A398.title: "Side Quests"
 	task.3716986BD12061AA.title: "Any #c:raw_materials/gold"
 	task.37DECFA02129E0B8.title: "Summon a Deer Familiar"
 	task.3BC634992A1E9BAD.title: "Observe: &2Any Entro Budding&r"
 	task.3C8E0C3D705AB65F.title: "Any #c:raw_materials/iron"
-	task.3D6A18F9E8A30F0B.title: "&5Ars Nouveau &d100%"
 	task.3ED23CC07C23FD76.title: "&bWelcome To Occultism"
 	task.4046229AF35778A3.title: "Seasons"
 	task.4137D2B088325C60.title: "Summon a Foliot Transporter"
@@ -6176,28 +6053,19 @@
 	task.429785464C6CD059.title: "Any #minecraft:axes"
 	task.443D8F4CD01CC0C9.title: "Summon a Parrot \"Familiar\""
 	task.4552085BF5330776.title: "OK, Let Me Cook"
-	task.487C2DBC60537E92.title: "Specialty Travelers Backpacks"
-	task.4B733AF93D7D28C4.title: "check the filter"
 	task.4CE3EEAAF41AE050.title: "Summon a Foliot Janitor"
 	task.4D5812F798FB8C8C.title: "&dTheurgy &9100%"
 	task.4D63FA888F0497B5.title: "Summon a Cthulhu Familiar"
 	task.4E775BAB4EB29C69.title: "Any #c:crops/garlic"
 	task.4F4699F9117BC270.title: "Pre-Programmed Drones"
 	task.4F7787C0557CF5CC.title: "Apo The Carist"
-	task.5001206B16F5D7A0.title: "Modern Industrialization Storage"
-	task.525F82A0A4CD7A78.title: "&6Occultism &4100%"
 	task.52C834FDFA57A474.title: "Summon a Beholder Familiar"
 	task.5327B3CEDA60D4BE.title: "Any #c:raw_materials/silver"
 	task.5397C5FA8788480F.title: "Any #c:seeds/rice"
 	task.54E5D81FEE18AF83.title: "Pyromancer"
-	task.56265F6574251564.title: "Candle"
 	task.570D439C4AC9F64C.title: "World Tiers"
 	task.58AC1E8BBD7EAB5B.title: "Summon a Mummy Familiar"
-	task.5983497D25122539.title: "Exaltation Apparatus"
-	task.5A17D67E5C26C2A1.title: "Bank Storage"
-	task.5C841C5182A0FB83.title: "Mekanism Storage"
 	task.5CB700830F80DFD8.title: "Water for Chemical Washing"
-	task.5D0320C52C8ADFAD.title: "&4Just Dire Things &c100%"
 	task.5D5634634E3879E5.title: "Summon a Bat Familiar"
 	task.5DAF1EE0903D876A.title: "Machines?"
 	task.601F7C69458E7589.title: "Welcome to Theurgy"
@@ -6205,27 +6073,18 @@
 	task.63DAD8D3277DA248.title: "Evolving Manufacturing Index"
 	task.64433571E92D5E65.title: "Emotes"
 	task.6544A3FD1B532809.title: "Summon a Demonic Husband"
-	task.659005F19206B35C.title: "Building Gadgets"
 	task.65A43DD683FB39E4.title: "Summon a Foliot Lumberjack"
 	task.65B2D0E35B083E82.title: "Survival of the Fittest"
 	task.66BF2FED6B091A68.title: "Exploration!"
-	task.68513782E03F702F.title: "Reactor Planning"
-	task.6A42FE8CB215ACAD.title: "Artifacts"
 	task.6C6C366D034AF5C7.title: "Summon an Otherworld Sapling Trader"
-	task.6C82FF1670E71374.title: "&aMekanism &3100%"
 	task.708EE345AEBB270B.title: "Make ShadowPulse Soil"
-	task.71E7A36D9C2BD7CC.title: "Cataclysm Bosses"
 	task.7206B162C5B4E0B8.title: "Ores at Tier 1"
 	task.73B852C41DE1F864.title: "Any #c:crops/rice"
 	task.73DFBACC98E080BC.title: "Any Knife"
-	task.74736F9FF1907F53.title: "Technological Storage"
 	task.74C6D98426025A18.title: "Summon a Guardian Familiar"
 	task.7537E40C4FAB6D5C.title: "Welcome To Powah"
 	task.7A0371393E813129.title: "Observe: &2Any Certus Budding&r"
-	task.7A970E46C90F719A.title: "&6Collect Them All"
 	task.7AB3BAEAA2E50F06.title: "Archevoker"
-	task.7ADDEF2457D8E760.title: "Advanced Netherite"
 	task.7C14A87514F74DF9.title: "Make VoidShimmer Soil"
 	task.7E36340AFD8F91C6.title: "Summon a Greedy Familiar"
-	task.7E5AD4DEEEDA93BC.title: "Extra Spicy Technology"
 }
