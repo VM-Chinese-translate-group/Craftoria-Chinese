@@ -12,9 +12,9 @@
     "chapterGroupsFile": "config/ftbquests/quests/chapter_groups.snbt",
     "jsonOutputDir": "kubejs/assets/quests/lang",
     "extractEmbedded": {
-      "customName": false,
-      "lore": false,
-      "feedbackMessage": false
+      "customName": true,
+      "lore": true,
+      "feedbackMessage": true
     }
   },
   "attentionList": {
@@ -32,7 +32,9 @@
     ]
   },
   "exclusionPatterns": [
+    "config/ftbquests/quests/lang/*/",
     "**/lang/*.*",
-    "!**/lang/en_us.*"
+    "!**/lang/en_us.*",
+    "kubejs/assets/minecraft/lang/en_us.json"
   ]
 }
