@@ -5783,6 +5783,7 @@
 	quest.7BDBE300D4B0B1F7.quest_subtitle: "骨粉堆成山！"
 	quest.7BE64AF022E35ADE.quest_desc: ["你可以使用&b更多红石&f模组来&b自由设计&f你的红石系统。例如贴在墙壁上，放置在屋顶上，或是吸附在天花板上。"]
 	quest.7BE64AF022E35ADE.title: "&c更多红石"
+	quest.7BEA5B1D1B410E82.quest.desc: "The &3Advanced Solar Generator&r is an upgraded version of the small &3Solar Generator&r and provides much more &apower&r. You can &6place&r them in the top corners of the &3Thermal Evaporation Tower&r with the green power &aenergy output&r facing the &3Thermal Evaporation Block&r to &6increase&r the &cheat&r of the tower in the day."
 	quest.7BEA5B1D1B410E82.quest_desc: [
 		"&b高级太阳能发电机&r是小型&3太阳能发电机&r的升级版，能够提供更多的&a能量&r。"
 		""

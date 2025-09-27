@@ -1,9 +1,9 @@
 {
-    "cs_items_tab": "Cataclysm: Spellbooks",
-    "creative_tab.cataclysm_spellbooks.items": "Cataclysm: Spellbooks",
+    "cs_items_tab": "灾变：法术书",
+    "creative_tab.cataclysm_spellbooks.items": "灾变：法术书",
 
-    "attribute.cataclysm_spellbooks.abyssal_magic_resist": "Abyssal Magic Resist",
-    "attribute.cataclysm_spellbooks.abyssal_spell_power": "Abyssal Spell Power",
+    "attribute.cataclysm_spellbooks.abyssal_magic_resist": "深渊法术抗性",
+    "attribute.cataclysm_spellbooks.abyssal_spell_power": "深渊法术强度",
 
 
     "effect.cataclysm_spellbooks.abyssal_predator_effect": "Abyssal Predator",
@@ -11,7 +11,7 @@
     "effect.cataclysm_spellbooks.incapacitated_effect": "Incapacitated",
     "effect.cataclysm_spellbooks.incapacitated_effect.description": "The player is unable to move their head, as well as having slowed movement.",
     "effect.cataclysm_spellbooks.abyssal_gnawer_timer": "Conjured Abyssal Gnawer",
-    "effect.cataclysm_spellbooks.abyssal_gnawer_timer.description": "The amount of time an Abyssal Gnawer remains in the world.",
+    "effect.cataclysm_spellbooks.abyssal_gnawer_timer.description": "深渊噬咬者在世界上的剩余存在时间。",
     "effect.cataclysm_spellbooks.wrathful_effect": "Wrathful",
     "effect.cataclysm_spellbooks.wrathful_effect.description": "The player is filled with wrath that increases their damage per hit.",
     "effect.cataclysm_spellbooks.ignited_timer": "Conjured Ignited Reinforcements",
@@ -26,7 +26,7 @@
     "effect.cataclysm_spellbooks.crab_timer.description": "The amount of time an summoned Amethyst Crab remains in the world.",
 
 
-    "school.cataclysm_spellbooks.abyssal": "Abyssal",
+    "school.cataclysm_spellbooks.abyssal": "深渊",
 
 
     "item.cataclysm_spellbooks.abyss_spell_book": "Book o' R'lyeh",
@@ -46,7 +46,7 @@
     "item.cataclysm_spellbooks.hellfire_forge.desc": "When in your main hand, right click to cast the imbued spell",
     "item.cataclysm_spellbooks.hellfire_forge.desc2": "(FYI, this is not a pickaxe)",
 
-    "item.cataclysm_spellbooks.abyssal_rune": "Abyssal Rune",
+    "item.cataclysm_spellbooks.abyssal_rune": "深渊符文",
 
     "item.cataclysm_spellbooks.ignis_helmet": "Ignis Mage Hat",
     "item.cataclysm_spellbooks.ignis_chestplate": "Ignis Mage Robes",
@@ -54,11 +54,11 @@
     "item.cataclysm_spellbooks.ignis_leggings": "Ignis Mage Leggings",
     "item.cataclysm_spellbooks.ignis_boots": "Ignis Mage Greaves",
 
-    "item.cataclysm_spellbooks.abyssal_warlock_helmet": "Abyssal Warlock Hood",
-    "item.cataclysm_spellbooks.abyssal_warlock_mask": "Abyssal Warlock Mask",
-    "item.cataclysm_spellbooks.abyssal_warlock_chestplate": "Abyssal Warlock Robes",
-    "item.cataclysm_spellbooks.abyssal_warlock_leggings": "Abyssal Warlock Leggings",
-    "item.cataclysm_spellbooks.abyssal_warlock_boots": "Abyssal Warlock Greaves",
+    "item.cataclysm_spellbooks.abyssal_warlock_helmet": "深渊巫师兜帽",
+    "item.cataclysm_spellbooks.abyssal_warlock_mask": "深渊巫师面罩",
+    "item.cataclysm_spellbooks.abyssal_warlock_chestplate": "深渊巫师法袍",
+    "item.cataclysm_spellbooks.abyssal_warlock_leggings": "深渊巫师护腿",
+    "item.cataclysm_spellbooks.abyssal_warlock_boots": "深渊巫师护胫",
 
     "item.cataclysm_spellbooks.cursium_mage_circlet": "Cursium Mage Circlet",
     "item.cataclysm_spellbooks.cursium_mage_chestplate": "Cursium Mage Breastplate",
@@ -70,10 +70,10 @@
     "item.cataclysm_spellbooks.leviathans_blessing": "Leviathan's Blessing",
     "item.cataclysm_spellbooks.leviathans_blessing.desc": "Provides immunity to abyssal effects",
 
-    "item.cataclysm_spellbooks.abyssal_upgrade_orb": "Abyssal Upgrade Orb",
+    "item.cataclysm_spellbooks.abyssal_upgrade_orb": "深渊升级法球",
 
 
-    "spell.cataclysm_spellbooks.void_beam": "Abyssal Beam",
+    "spell.cataclysm_spellbooks.void_beam": "深渊光束",
     "spell.cataclysm_spellbooks.void_beam.guide": "Cast an abyssal beam at your chosen target",
 
     "spell.cataclysm_spellbooks.void_rune": "Conjure: Void Rune",
@@ -85,7 +85,7 @@
     "spell.cataclysm_spellbooks.abyssal_slash": "Tidal Tear",
     "spell.cataclysm_spellbooks.abyssal_slash.guide": "Slash your at your target dealing melee damage",
 
-    "spell.cataclysm_spellbooks.abyssal_blast": "Abyssal Blast",
+    "spell.cataclysm_spellbooks.abyssal_blast": "深渊冲击波",
     "spell.cataclysm_spellbooks.abyssal_blast.guide": "Unleash a devastating blast that damages blocks and inflicts abyssal burn",
 
     "spell.cataclysm_spellbooks.abyssal_predator": "Abyssal Predator",

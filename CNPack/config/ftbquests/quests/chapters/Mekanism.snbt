@@ -101,7 +101,7 @@
 		}
 		{
 			height: 2.0d
-			hover: ["hover.quests.mekanism.nom_nom"]
+			hover: ["Nom Nom"]
 			image: "mekanism:block/crusher/front_active"
 			order: 1
 			rotation: 0.0d
@@ -2977,7 +2977,7 @@
 					count: 9L
 					id: "63BA13F30F620A1E"
 					item: {
-						count: 9
+						count: 1
 						id: "mekanism:teleporter_frame"
 					}
 					type: "item"
@@ -3107,7 +3107,7 @@
 					count: 4L
 					id: "4E95311A6DDC05F7"
 					item: {
-						count: 4
+						count: 1
 						id: "mekanismgenerators:turbine_rotor"
 					}
 					type: "item"
@@ -3125,7 +3125,7 @@
 					count: 21L
 					id: "61A76F6788F772CB"
 					item: {
-						count: 21
+						count: 1
 						id: "mekanismgenerators:turbine_vent"
 					}
 					type: "item"
@@ -3134,7 +3134,7 @@
 					count: 9L
 					id: "14EC18AAF706EEE4"
 					item: {
-						count: 9
+						count: 1
 						id: "mekanismgenerators:saturating_condenser"
 					}
 					type: "item"
@@ -3143,7 +3143,7 @@
 					count: 9L
 					id: "369432F2D06EF797"
 					item: {
-						count: 9
+						count: 1
 						id: "mekanismgenerators:electromagnetic_coil"
 					}
 					type: "item"
@@ -3160,7 +3160,7 @@
 					count: 8L
 					id: "51833BDFC3318AB1"
 					item: {
-						count: 8
+						count: 1
 						id: "mekanism:pressure_disperser"
 					}
 					type: "item"

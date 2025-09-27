@@ -801,7 +801,7 @@
 					count: 2L
 					id: "59C2CC416CCF27BC"
 					item: {
-						count: 2
+						count: 1
 						id: "mekanism:thermal_evaporation_valve"
 					}
 					type: "item"
@@ -810,7 +810,7 @@
 					count: 9L
 					id: "367F13FBD5CFE482"
 					item: {
-						count: 9
+						count: 1
 						id: "mekanism:structural_glass"
 					}
 					type: "item"
@@ -819,7 +819,7 @@
 					count: 4L
 					id: "634F8BEA2D6AD087"
 					item: {
-						count: 4
+						count: 1
 						id: "mekanismgenerators:advanced_solar_generator"
 					}
 					type: "item"
@@ -828,7 +828,7 @@
 					count: 24L
 					id: "1BB240F32DA015EE"
 					item: {
-						count: 24
+						count: 1
 						id: "mekanism:thermal_evaporation_block"
 					}
 					type: "item"
@@ -1058,7 +1058,7 @@
 				count: 16L
 				id: "3BA1537C2EEBE4E7"
 				item: {
-					count: 16
+					count: 1
 					id: "modern_industrialization:sulfur_dust"
 				}
 				type: "item"
@@ -1154,7 +1154,7 @@
 				count: 32L
 				id: "6A7D137833824B25"
 				item: {
-					count: 32
+					count: 1
 					id: "minecraft:gunpowder"
 				}
 				type: "item"
