@@ -5588,13 +5588,13 @@
 	quest.77968A26B3D90399.quest_subtitle: "Best wrench in the game, I say."
 	quest.77978ED3AC1DFA26.quest_desc: ["&aAE扩展&f是一个能够给&aAE2加速扩产&f的附属模组。"]
 	quest.779C3C6B89AD2526.quest_desc: [
-		"  电力机器的工作方式和蒸汽机器大差不差，只是&6它们消耗电能来工作，而不是蒸汽&r，而且可以将配方超频到32EU/t（目前如此）。"
+		"  Electric machines work exactly the same as steam machines, except from the fact &6they require electricity to function instead of steam&r and they can progressively overclock recipes to up to 32 EU/t (for now)."
 		""
-		" 你可以使用EMI查看你熟悉的机器的电动版本的配方。它们制作起来更复杂，需要许多奇奇怪怪的零件。"
+		"  You can use your EMI to view the recipes for the electric versions of the machines you are already familiar with. The recipes are more complex and will require more specific machine oriented parts."
 		""
-		" 你的第一个核心零件就是这个&b模拟电路&r。它是低压机器的主电路，也是更高级机器和电路的基础材料。&6你最好尽快把它的生产自动化了&r。"
+		"  Your first main part will be the &bAnalog Circuits&r. This will be the main circuit for the LV machines as well as the base for high tier circuits and machines. &6You should automate this as soon as possible&r."
 		""
-		"  我强烈建议你尽快开始自动化这些零件的生产。我会在任务中告诉你哪些零件需要自动化生产的。搞好了自动化，制造这些电力机器就跟免费的似的了，因为所有的零件都不需要你自己动手制造了！"
+		"  I strongly suggest that you begin to automate parts as soon as you possibly can. I'll let you know which parts you should automate as we come across them. Doing so will make electric machines practically free as you wont need to manually craft any components by yourself!"
 	]
 	quest.779C3C6B89AD2526.quest_subtitle: "大飞跃"
 	quest.779C3C6B89AD2526.title: "&e电气时代！"

@@ -30,29 +30,29 @@
 
 
     "item.cataclysm_spellbooks.abyss_spell_book": "拉莱耶之书",
-    "item.cataclysm_spellbooks.desert_spell_book": "Desert Spellbook",
-    "item.cataclysm_spellbooks.ignis_spell_book": "Ignis Spellbook",
+    "item.cataclysm_spellbooks.desert_spell_book": "沙漠法术书",
+    "item.cataclysm_spellbooks.ignis_spell_book": "焰魔法术书",
     "item.cataclysm_spellbooks.codex_of_malice_spell_book": "怨恨法典",
 
     "item.cataclysm_spellbooks.bloom_stone_staff": "花岩法杖",
     "item.cataclysm_spellbooks.coral_staff": "珊瑚法杖",
-    "item.cataclysm_spellbooks.fake_wudjets_staff": "Fake Wadjet's Staff",
-    "item.cataclysm_spellbooks.void_staff": "Void Staff",
-    "item.cataclysm_spellbooks.spirit_sunderer": "Spirit Sunderer",
+    "item.cataclysm_spellbooks.fake_wudjets_staff": "仿制的瓦吉特之杖",
+    "item.cataclysm_spellbooks.void_staff": "虚空法杖",
+    "item.cataclysm_spellbooks.spirit_sunderer": "灵魂分离者",
     "item.cataclysm_spellbooks.soul_brazier": "Soul Brazier",
 
     "item.cataclysm_spellbooks.monstrous_flamberge": "Monstrous Flamberge",
-    "item.cataclysm_spellbooks.hellfire_forge": "Hellfire Forge",
-    "item.cataclysm_spellbooks.hellfire_forge.desc": "When in your main hand, right click to cast the imbued spell",
-    "item.cataclysm_spellbooks.hellfire_forge.desc2": "(FYI, this is not a pickaxe)",
+    "item.cataclysm_spellbooks.hellfire_forge": "狱火熔炉",
+    "item.cataclysm_spellbooks.hellfire_forge.desc": "在主手时，可右击施放已注入的法术",
+    "item.cataclysm_spellbooks.hellfire_forge.desc2": "（仅供参考，这不是一把镐子）",
 
     "item.cataclysm_spellbooks.abyssal_rune": "深渊符文",
 
-    "item.cataclysm_spellbooks.ignis_helmet": "Ignis Mage Hat",
-    "item.cataclysm_spellbooks.ignis_chestplate": "Ignis Mage Robes",
-    "item.cataclysm_spellbooks.ignis_chestplate_elytra": "Winged Ignis Robes",
-    "item.cataclysm_spellbooks.ignis_leggings": "Ignis Mage Leggings",
-    "item.cataclysm_spellbooks.ignis_boots": "Ignis Mage Greaves",
+    "item.cataclysm_spellbooks.ignis_helmet": "焰魔法师帽",
+    "item.cataclysm_spellbooks.ignis_chestplate": "焰魔法师长袍",
+    "item.cataclysm_spellbooks.ignis_chestplate_elytra": "带翼焰魔法师长袍",
+    "item.cataclysm_spellbooks.ignis_leggings": "焰魔法师护腿",
+    "item.cataclysm_spellbooks.ignis_boots": "焰魔法师护胫",
 
     "item.cataclysm_spellbooks.abyssal_warlock_helmet": "深渊巫师兜帽",
     "item.cataclysm_spellbooks.abyssal_warlock_mask": "深渊巫师面罩",
@@ -62,13 +62,13 @@
 
     "item.cataclysm_spellbooks.cursium_mage_circlet": "咒魂法师头环",
     "item.cataclysm_spellbooks.cursium_mage_chestplate": "咒魂法师胸甲",
-    "item.cataclysm_spellbooks.cursium_mage_elytra": "Cursium Mage Winged Breastplate",
-    "item.cataclysm_spellbooks.cursium_mage_skirt": "Cursium Mage Skirt",
+    "item.cataclysm_spellbooks.cursium_mage_elytra": "咒魂法师带翼胸甲",
+    "item.cataclysm_spellbooks.cursium_mage_skirt": "咒魂法师裙",
     "item.cataclysm_spellbooks.cursium_mage_boots": "咒魂法师护胫",
     "item.cataclysm_spellbooks.cursium_chestplate.desc4": "可与鞘翅结合",
 
-    "item.cataclysm_spellbooks.leviathans_blessing": "Leviathan's Blessing",
-    "item.cataclysm_spellbooks.leviathans_blessing.desc": "Provides immunity to abyssal effects",
+    "item.cataclysm_spellbooks.leviathans_blessing": "利维坦的祝福",
+    "item.cataclysm_spellbooks.leviathans_blessing.desc": "可免疫深渊效果",
 
     "item.cataclysm_spellbooks.abyssal_upgrade_orb": "深渊升级法球",
 
@@ -83,10 +83,10 @@
     "spell.cataclysm_spellbooks.dimensional_rift.guide": "Cast a dimensional rift",
 
     "spell.cataclysm_spellbooks.abyssal_slash": "Tidal Tear",
-    "spell.cataclysm_spellbooks.abyssal_slash.guide": "Slash your at your target dealing melee damage",
+    "spell.cataclysm_spellbooks.abyssal_slash.guide": "斩击目标并造成近战伤害",
 
     "spell.cataclysm_spellbooks.abyssal_blast": "深渊冲击波",
-    "spell.cataclysm_spellbooks.abyssal_blast.guide": "Unleash a devastating blast that damages blocks and inflicts abyssal burn",
+    "spell.cataclysm_spellbooks.abyssal_blast.guide": "释放一次毁灭性的爆炸，破坏方块并造成深渊灼烧",
 
     "spell.cataclysm_spellbooks.abyssal_predator": "Abyssal Predator",
     "spell.cataclysm_spellbooks.abyssal_predator.guide": "Cast a spell that increases your swim speed, attack damage, and attack speed. You gain more damage while underwater",
@@ -122,7 +122,7 @@
     "spell.cataclysm_spellbooks.hellish_blade.guide": "Summon a replicate of the Incinerator above your opponent, striking them and applying stun and Blazing Brand on hit",
 
     "spell.cataclysm_spellbooks.abyss_fireball": "Unfolding Coruscation",
-    "spell.cataclysm_spellbooks.abyss_fireball.guide": "Summon a torrent of bouncing fireballs that change depending on your health, dealing Blazing Brand on hit",
+    "spell.cataclysm_spellbooks.abyss_fireball.guide": "召唤一股弹射火球洪流，会随你的生命值变化，击中时造成炽热烙印",
 
     "spell.cataclysm_spellbooks.amethyst_puncture": "Amethyst Puncture",
     "spell.cataclysm_spellbooks.amethyst_puncture.guide": "Launch an amethyst cluster at your opponent",
