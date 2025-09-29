@@ -29,13 +29,13 @@
     "school.cataclysm_spellbooks.abyssal": "深渊",
 
 
-    "item.cataclysm_spellbooks.abyss_spell_book": "Book o' R'lyeh",
+    "item.cataclysm_spellbooks.abyss_spell_book": "拉莱耶之书",
     "item.cataclysm_spellbooks.desert_spell_book": "Desert Spellbook",
     "item.cataclysm_spellbooks.ignis_spell_book": "Ignis Spellbook",
-    "item.cataclysm_spellbooks.codex_of_malice_spell_book": "Codex of Malice",
+    "item.cataclysm_spellbooks.codex_of_malice_spell_book": "怨恨法典",
 
-    "item.cataclysm_spellbooks.bloom_stone_staff": "Bloom Stone Staff",
-    "item.cataclysm_spellbooks.coral_staff": "Coral Staff",
+    "item.cataclysm_spellbooks.bloom_stone_staff": "花岩法杖",
+    "item.cataclysm_spellbooks.coral_staff": "珊瑚法杖",
     "item.cataclysm_spellbooks.fake_wudjets_staff": "Fake Wadjet's Staff",
     "item.cataclysm_spellbooks.void_staff": "Void Staff",
     "item.cataclysm_spellbooks.spirit_sunderer": "Spirit Sunderer",
@@ -60,12 +60,12 @@
     "item.cataclysm_spellbooks.abyssal_warlock_leggings": "深渊巫师护腿",
     "item.cataclysm_spellbooks.abyssal_warlock_boots": "深渊巫师护胫",
 
-    "item.cataclysm_spellbooks.cursium_mage_circlet": "Cursium Mage Circlet",
-    "item.cataclysm_spellbooks.cursium_mage_chestplate": "Cursium Mage Breastplate",
+    "item.cataclysm_spellbooks.cursium_mage_circlet": "咒魂法师头环",
+    "item.cataclysm_spellbooks.cursium_mage_chestplate": "咒魂法师胸甲",
     "item.cataclysm_spellbooks.cursium_mage_elytra": "Cursium Mage Winged Breastplate",
     "item.cataclysm_spellbooks.cursium_mage_skirt": "Cursium Mage Skirt",
-    "item.cataclysm_spellbooks.cursium_mage_boots": "Cursium Mage Greaves",
-    "item.cataclysm_spellbooks.cursium_chestplate.desc4": "Can be combined with elytra",
+    "item.cataclysm_spellbooks.cursium_mage_boots": "咒魂法师护胫",
+    "item.cataclysm_spellbooks.cursium_chestplate.desc4": "可与鞘翅结合",
 
     "item.cataclysm_spellbooks.leviathans_blessing": "Leviathan's Blessing",
     "item.cataclysm_spellbooks.leviathans_blessing.desc": "Provides immunity to abyssal effects",
@@ -211,7 +211,7 @@
 
     "entity.cataclysm_spellbooks.abyssal_gnawers": "Abyssal Gnawer",
     "entity.cataclysm_spellbooks.infernal_blade": "Infernal Blade",
-    "entity.cataclysm_spellbooks.hellish_blade": "Hellish Blade",
+    "entity.cataclysm_spellbooks.hellish_blade": "地狱之刃",
     "entity.cataclysm_spellbooks.blazing_aoe": "Blazing AoE",
     "entity.cataclysm_spellbooks.summoned_ignited_revenant": "炽燃遗魂",
     "entity.cataclysm_spellbooks.summoned_ignited_berserker": "炽燃狂魂",
@@ -220,7 +220,7 @@
     "entity.cataclysm_spellbooks.summoned_draugur": "再行魂尸",
     "entity.cataclysm_spellbooks.summoned_royal_draugur": "皇家魂尸",
     "entity.cataclysm_spellbooks.summoned_elite_draugur": "精英魂尸",
-    "entity.cataclysm_spellbooks.summoned_aptrgangr": "Aptrgangr",
+    "entity.cataclysm_spellbooks.summoned_aptrgangr": "冥行武弁",
     "entity.cataclysm_spellbooks.summoned_amethyst_crab": "紫水晶巨蟹",
 
 
@@ -236,7 +236,7 @@
     "death.attack.cataclysm_spellbooks.summoned_draugur": "%1$s was swarmed by %2$s's dragur",
     "death.attack.cataclysm_spellbooks.summoned_royal_draugur": "%1$s was swarmed by %2$s's dragur",
     "death.attack.cataclysm_spellbooks.summoned_elite_draugur": "%1$s was swarmed by %2$s's dragur",
-    "death.attack.cataclysm_spellbooks.summoned_aptrgangr": "%1$s was chopped in half %2$s's Aptrgangr",
+    "death.attack.cataclysm_spellbooks.summoned_aptrgangr": "%1$s被%2$s的冥行武弁砍成了两半",
     "death.attack.cataclysm_spellbooks.summoned_amethyst_crab": "%1$s was crunched between %2$s's Amethyst Crab's claws",
 
     "death.attack.blazing_aoe.item": "%1$s was immolated in %2$s's blazing field while using %3$s",
