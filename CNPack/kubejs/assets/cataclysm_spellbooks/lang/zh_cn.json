@@ -109,10 +109,10 @@
     "spell.cataclysm_spellbooks.conjure_ignited_reinforcement": "Ignited Reinforcements",
     "spell.cataclysm_spellbooks.conjure_ignited_reinforcement.guide": "召唤炽燃遗魂和炽燃狂魂来援助你",
 
-    "spell.cataclysm_spellbooks.ashen_breath": "Ashen Breath",
-    "spell.cataclysm_spellbooks.ashen_breath.guide": "Spew ashen breath on your opponents",
+    "spell.cataclysm_spellbooks.ashen_breath": "燃灰吐息",
+    "spell.cataclysm_spellbooks.ashen_breath.guide": "向你的对手喷吐灰烬般的气息",
 
-    "spell.cataclysm_spellbooks.bone_storm": "Bone Storm",
+    "spell.cataclysm_spellbooks.bone_storm": "骸骨风暴",
     "spell.cataclysm_spellbooks.bone_storm.guide": "Launch a swirling bone storm from yourself. The higher the speed, the farther the spread",
 
     "spell.cataclysm_spellbooks.piercing_bone": "Piercing Bone",
@@ -124,8 +124,8 @@
     "spell.cataclysm_spellbooks.abyss_fireball": "Unfolding Coruscation",
     "spell.cataclysm_spellbooks.abyss_fireball.guide": "召唤一股弹射火球洪流，会随你的生命值变化，击中时造成炽热烙印",
 
-    "spell.cataclysm_spellbooks.amethyst_puncture": "Amethyst Puncture",
-    "spell.cataclysm_spellbooks.amethyst_puncture.guide": "Launch an amethyst cluster at your opponent",
+    "spell.cataclysm_spellbooks.amethyst_puncture": "紫水晶穿刺",
+    "spell.cataclysm_spellbooks.amethyst_puncture.guide": "向你的对手发射一块紫水晶簇",
 
     "spell.cataclysm_spellbooks.gravity_storm": "Gravity Storm",
     "spell.cataclysm_spellbooks.gravity_storm.guide": "Conjure a void vortex where you are looking to devastate targets",
@@ -157,20 +157,20 @@
     "spell.cataclysm_spellbooks.pilfer": "Pilfer",
     "spell.cataclysm_spellbooks.pilfer.guide": "Cast a spell that rips away the item held in the target's hand",
 
-    "spell.cataclysm_spellbooks.summon_koboleton": "Conjure: Koboleton",
-    "spell.cataclysm_spellbooks.summon_koboleton.guide": "Conjure a group of Koboletons to fight by your side",
+    "spell.cataclysm_spellbooks.summon_koboleton": "召唤：骸龙",
+    "spell.cataclysm_spellbooks.summon_koboleton.guide": "召唤一群骸龙为你战斗",
 
     "spell.cataclysm_spellbooks.cursed_rush": "Cursed Rush",
     "spell.cataclysm_spellbooks.cursed_rush.guide": "Rush in the direction you're looking in, summoning phantom halberds at both your original and new destination. Any entity caught in your path will be damaged",
 
-    "spell.cataclysm_spellbooks.conjure_thralls": "Conjure: Undead Thralls",
-    "spell.cataclysm_spellbooks.conjure_thralls.guide": "Conjure a group of undead draugur to fight by your side",
+    "spell.cataclysm_spellbooks.conjure_thralls": "召唤：不死仆从",
+    "spell.cataclysm_spellbooks.conjure_thralls.guide": "召唤一群不死魂尸与你并肩作战",
 
     "spell.cataclysm_spellbooks.tectonic_tremble": "Tectonic Tremble",
     "spell.cataclysm_spellbooks.tectonic_tremble.guide": "Shake the earth, igniting nearby entites and knocking them back",
 
-    "spell.cataclysm_spellbooks.conjure_amethyst_crab": "Conjure: Amethyst Crab",
-    "spell.cataclysm_spellbooks.conjure_amethyst_crab.guide": "Conjure the mythical Amethyst Crab to fight by your side",
+    "spell.cataclysm_spellbooks.conjure_amethyst_crab": "召唤：紫水晶巨蟹",
+    "spell.cataclysm_spellbooks.conjure_amethyst_crab.guide": "召唤传说中的的紫水晶巨蟹与你并肩作战",
 
 
     "ui.cataclysm_spellbooks.void_beam": "Summon an abyssal beam similar to the Deepling warlocks",
@@ -181,13 +181,13 @@
     "ui.cataclysm_spellbooks.incinerator_damage": "Deals %d if Incinerator is held in the main hand",
     "ui.cataclysm_spellbooks.incineration_duration": "Lasts for %d seconds",
     "ui.cataclysm_spellbooks.ignited_count": "%d Summons",
-    "ui.cataclysm_spellbooks.bone_speed_1": "%d Projectile speed",
-    "ui.cataclysm_spellbooks.bone_speed_2": "%d Projectile speed",
-    "ui.cataclysm_spellbooks.bone_speed_3": "%d Projectile speed",
-    "ui.cataclysm_spellbooks.blazing_bone_speed": "%d Projectile speed",
+    "ui.cataclysm_spellbooks.bone_speed_1": "%d弹射物速度",
+    "ui.cataclysm_spellbooks.bone_speed_2": "%d弹射物速度",
+    "ui.cataclysm_spellbooks.bone_speed_3": "%d弹射物速度",
+    "ui.cataclysm_spellbooks.blazing_bone_speed": "%d弹射物速度",
     "ui.cataclysm_spellbooks.fireball_details": "Below half health turns the firball into soul fire, at below 30% health into an abyss fireball",
     "ui.cataclysm_spellbooks.recast_count": "Can cast this spell %d times in succession before cooldown",
-    "ui.cataclysm_spellbooks.amethyst_speed": "Launches Amethyst Clusters at %d projectile speed",
+    "ui.cataclysm_spellbooks.amethyst_speed": "以%d的弹射物速度发射紫水晶簇",
     "ui.cataclysm_spellbooks.gravity_storm.lifespan": "Summon a void vortex that lasts for %d seconds",
     "ui.cataclysm_spellbooks.difference": "Affects entities in at %d speed",
     "ui.cataclysm_spellbooks.gravitation": "While standing, drag entities in. While crouching, push entities away",

@@ -901,17 +901,17 @@
 		"在&6配置&r过滤器时非常有用。"
 	]
 	quest.164F4710E109F7F2.quest_desc: [
-		"  Time for that beautifully shining &bOrange Ingot&r? You'll need to grab some of the &bCopper&r and &bTin&r dust you get from the &bForge Hammer&r to make it. It's a simple mixture of &63:1&r &bCopper&r to &bTin&r in your crafting grid. Once you &6progress&r, you'll find a way to produce this mixture more &6efficiently&r since you're spilling some &bdust&r making it on hand."
+		"  现在该做这些美丽闪亮的&b橙色金属锭&r啦。你需要从&b锻压台&r上弄一点&b铜&r粉和&b锡&r粉，然后把它们在工作台中按照&b铜&r：&b锡&r=&63：1&r的比例混合即可。随着游戏进程的&6推进&r，还会有更&6高效&r的生产这种混合物的方法，毕竟用手工的话，难免会有些&b粉&r沾到手上而损耗掉。"
 		""
-		"  Now that you're entering the &aSteam Age&r with this &bBronze&r, I'll give you some &6tips&r on the &bmachines&r you'll be making. Remember that &bSteam Machines&r will accept inputs from &6any side&r, be it&b items, steam or another fluid&r. You can &6lock&r their slots by &6clicking&r on the &bpadlock&r looking button in the &binterface&r. "
+		"  有了&b青铜&r，你就踏入&a蒸汽时代&r了。我来给你一些有关你接下来会用到的&b机器&r的&6提示&r。&b物品、蒸汽或者其他流体&r可以从&b蒸汽机&r的&6任意面&r输入。你可以&6点击&r蒸汽机&bGUI&r中的&b锁头&r按钮来&6锁定&r它的槽位。 "
 		""
-		"&6Locked&r slots will make sure the machine &6only&r accepts one type of &bitem&r or &bfluid&r per slot."
+		"槽位&6锁定&r后，机器的每个槽位就&6只能&r接受一种&b物品&r或者&b流体&r。"
 		""
-		"  Every &bmachine&r has an &boutput side&r as well, and you can &6enable&r &bauto-output&b from inside the &rinterface&r. Using your trusty &bWrench&r you can &6adjust&r the output side with ease!"
+		"  每个&b机器&r也都有一个&b输出面&r，你可以在机器的&rGUI&r中&6开启&b自动推出&b。你可以用你可靠的&b扳手&r来轻松地&6调整&r输出面！"
 		""
-		"  If you don't want so &bmany items&r in the slots at a time, &6use&r that &bScroll Wheel&r of yours to &6adjust&r the maximum number of &bitems&r stored at a time."
+		"  如果你不希望槽位里堆叠&b太多物品&r的话，可以&6用&b鼠标滚轮&r来&6调整&b物品&r的最大堆叠数量。"
 		""
-		"  &cP.S.&r Right clicking on a &bsteam machine&r with &7gunpowder&r will double it's &6speed&r and &6steam consumption&r. Keep that in mind when looking at recipes. That &7gunpowder&r may just save you a trip to hell."
+		"  &cP.S.&r 用&7火药&r右击&b蒸汽机&r可以让它的&6运行速度&r翻倍，同时&6蒸汽的消耗量&r也会翻倍。看配方的时候请牢记这一点，这个&7火药&r可能会帮大忙！"
 	]
 	quest.164F4710E109F7F2.title: "你的第一块青铜"
 	quest.166CEF9F03DA14F6.quest_desc: [
@@ -968,7 +968,7 @@
 	quest.16E5B09AA7E6A487.quest_desc: [
 		"  &b传送带&r是机器中用于移动物品的部件。"
 		""
-		"  它依靠&b电动机&r来旋转，以&b橡胶布&r作为移动的平面。"
+		"  它依靠&b电动机&r来旋转，以&b橡胶布&r作为传送平台。"
 		""
 		"  &6这个需要自动化生产&r。"
 	]
@@ -2848,7 +2848,7 @@
 		""
 		"  这用来压缩或者打包物品非常合适。&6这个需要自动化生产&r。"
 	]
-	quest.3C3519AFEBBAEC70.quest_subtitle: "金属冲压"
+	quest.3C3519AFEBBAEC70.quest_subtitle: "金属冲击"
 	quest.3C3519AFEBBAEC70.title: "活塞"
 	quest.3C6E442CEB73191F.quest_desc: [
 		"&b燃气发电机&r可以使用各种&c可燃气体&r发&e电&r。"
@@ -5588,13 +5588,13 @@
 	quest.77968A26B3D90399.quest_subtitle: "Best wrench in the game, I say."
 	quest.77978ED3AC1DFA26.quest_desc: ["&aAE扩展&f是一个能够给&aAE2加速扩产&f的附属模组。"]
 	quest.779C3C6B89AD2526.quest_desc: [
-		"  Electric machines work exactly the same as steam machines, except from the fact &6they require electricity to function instead of steam&r and they can progressively overclock recipes to up to 32 EU/t (for now)."
+		"  电力机器的工作方式和蒸汽机器大差不差，只是&6它们消耗电能来工作，而不是蒸汽&r，而且可以将配方超频到最高32EU/t（目前如此）。"
 		""
-		"  You can use your EMI to view the recipes for the electric versions of the machines you are already familiar with. The recipes are more complex and will require more specific machine oriented parts."
+		" 你可以使用EMI查看常用机器电动版本的配方。它们制作起来更复杂，需要许多奇奇怪怪的零件。"
 		""
-		"  Your first main part will be the &bAnalog Circuits&r. This will be the main circuit for the LV machines as well as the base for high tier circuits and machines. &6You should automate this as soon as possible&r."
+		" 你的第一个核心零件就是这个&b模拟电路&r。它是低压机器的主要电路，也是高级机器和电路的基础材料。&6你最好尽快搭建出它的自动化产线&r。"
 		""
-		"  I strongly suggest that you begin to automate parts as soon as you possibly can. I'll let you know which parts you should automate as we come across them. Doing so will make electric machines practically free as you wont need to manually craft any components by yourself!"
+		"  我强烈建议你尽快开始自动化这些零件的生产。我会在任务中告诉你哪些零件是需要自动化生产的。搞好了自动化，制造这些电力机器就跟免费的似的了，因为所有的零件都不需要你自己手搓了！"
 	]
 	quest.779C3C6B89AD2526.quest_subtitle: "大飞跃"
 	quest.779C3C6B89AD2526.title: "&e电气时代！"
@@ -5641,7 +5641,7 @@
 	quest.78EDBDED3BFEC145.title: "欢迎来到&aCraftoria&r！"
 	quest.78F7F62C0E2E7448.quest_desc: ["&b终极提纯工厂&r能够同时处理&a九个&r提纯配方。"]
 	quest.78F7F62C0E2E7448.title: "终极提纯工厂"
-	quest.791CAEBAE57EF0E1.quest_desc: ["  &b电动机&r利用电能产生旋转力。在未来你制造很多机器和其他零件的时候都会用到电动机。&6这个需要自动化生产&r。"]
+	quest.791CAEBAE57EF0E1.quest_desc: ["  &b电动机&r利用电能产生旋转力。以后许多机器和零件的制作都会用到电动机。&6这个需要自动化生产&r。"]
 	quest.791CAEBAE57EF0E1.quest_subtitle: "You Spin Me Right 'Round"
 	quest.791CAEBAE57EF0E1.title: "电动机"
 	quest.7921D6460E480F82.quest_desc: [
@@ -5797,7 +5797,7 @@
 		""
 		"  &6这个需要自动化生产&r。"
 	]
-	quest.7C0FA555C5FE00D1.quest_subtitle: "哔嘟"
+	quest.7C0FA555C5FE00D1.quest_subtitle: "哔啵"
 	quest.7C0FA555C5FE00D1.title: "机械臂"
 	quest.7C201074DDBAE831.quest_desc: ["我感觉你的&bME存储网络&r都能塞下一整个生物群系了……"]
 	quest.7C201074DDBAE831.title: "256k 存储组件"
