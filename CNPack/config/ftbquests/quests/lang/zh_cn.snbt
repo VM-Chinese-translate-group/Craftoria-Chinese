@@ -2848,7 +2848,7 @@
 		""
 		"  这用来压缩或者打包物品非常合适。&6这个需要自动化生产&r。"
 	]
-	quest.3C3519AFEBBAEC70.quest_subtitle: "金属冲击"
+	quest.3C3519AFEBBAEC70.quest_subtitle: "金属冲压"
 	quest.3C3519AFEBBAEC70.title: "活塞"
 	quest.3C6E442CEB73191F.quest_desc: [
 		"&b燃气发电机&r可以使用各种&c可燃气体&r发&e电&r。"
@@ -5783,7 +5783,7 @@
 	quest.7BDBE300D4B0B1F7.quest_subtitle: "骨粉堆成山！"
 	quest.7BE64AF022E35ADE.quest_desc: ["你可以使用&b更多红石&f模组来&b自由设计&f你的红石系统。例如贴在墙壁上，放置在屋顶上，或是吸附在天花板上。"]
 	quest.7BE64AF022E35ADE.title: "&c更多红石"
-	quest.7BEA5B1D1B410E82.quest.desc: "The &3Advanced Solar Generator&r is an upgraded version of the small &3Solar Generator&r and provides much more &apower&r. You can &6place&r them in the top corners of the &3Thermal Evaporation Tower&r with the green power &aenergy output&r facing the &3Thermal Evaporation Block&r to &6increase&r the &cheat&r of the tower in the day."
+	quest.7BEA5B1D1B410E82.quest.desc: "&3高级太阳能发电机&r是小型&3太阳能发电机&r的升级版，能够提供更多的&a能量&r。你可以将其&6放置&r在&3热力蒸馏塔&r的顶角，将绿色的&a能量输出口&r对准&3热力蒸馏方块&r，这样白天它就可以为蒸馏塔&6提供&r&c热量&r。"
 	quest.7BEA5B1D1B410E82.quest_desc: [
 		"&b高级太阳能发电机&r是小型&3太阳能发电机&r的升级版，能够提供更多的&a能量&r。"
 		""
