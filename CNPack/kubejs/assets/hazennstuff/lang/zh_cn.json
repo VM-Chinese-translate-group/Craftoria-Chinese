@@ -6,7 +6,7 @@
   "item.hazennstuff.excalibur_fragment": "Excalibur Fragment",
   "item.hazennstuff.starkissed_zenalite": "Starkissed Zenalite",
   "item.hazennstuff.deus_essence": "Deus Essence",
-  "item.hazennstuff.runestone_fragments": "Runestone Fragments",
+  "item.hazennstuff.runestone_fragments": "符文碎片",
   "item.hazennstuff.permafrost_fragment": "Permafrost Fragment",
   "item.hazennstuff.charred_bones": "Charred Bones",
   "item.hazennstuff.overgrown_bone": "Overgrown Bone",
@@ -15,53 +15,53 @@
 
 
 
-  "item.hazennstuff.ruptured": "Ruptured Mana Crystal",
-  "item.hazennstuff.refined": "Refined Mana Crystal",
+  "item.hazennstuff.ruptured": "破碎的魔力水晶",
+  "item.hazennstuff.refined": "强化魔力水晶",
   "item.hazennstuff.reinforced": "强化魔力水晶",
-  "item.hazennstuff.radiance": "Radiance Mana Crystal",
+  "item.hazennstuff.radiance": "光辉魔力水晶",
 
 
 
-  "block.hazennstuff.phantasmium": "Phantasmium",
-  "block.hazennstuff.abysslate": "Abysslate",
+  "block.hazennstuff.phantasmium": "幻影石",
+  "block.hazennstuff.abysslate": "深渊石",
 
 
-  "block.hazennstuff.zenalite_deepslate_ore": "Zenalite Deepslate Ore",
-  "block.hazennstuff.zenalite_stone_ore": "Zenalite Stone Ore",
-  "block.hazennstuff.zenalite_abysslate_ore": "Zenalite Abysslate Ore",
-  "block.hazennstuff.zenalite_voidstone_ore": "Voidstone Abysslate Ore",
+  "block.hazennstuff.zenalite_deepslate_ore": "深层泽纳利特矿石",
+  "block.hazennstuff.zenalite_stone_ore": "泽纳利特矿石",
+  "block.hazennstuff.zenalite_abysslate_ore": "深渊泽纳利特矿石",
+  "block.hazennstuff.zenalite_voidstone_ore": "深渊虚空石矿石",
 
-  "block.hazennstuff.runestone_slag": "Runestone Slag",
-  "block.hazennstuff.aquastone": "Aquastone",
+  "block.hazennstuff.runestone_slag": "符文矿渣",
+  "block.hazennstuff.aquastone": "水石",
 
-  "block.hazennstuff.fireblossom": "Fireblossom",
-
-
-  "block.hazennstuff.voidstone": "Voidstone",
-  "block.hazennstuff.cobbled_voidstone": "Cobbled Voidstone",
+  "block.hazennstuff.fireblossom": "火焰花",
 
 
-  "block.hazennstuff.zenalite_bricks": "Zenalite Bricks",
-  "block.hazennstuff.zenalite_stairs": "Zenalite Stairs",
-  "block.hazennstuff.zenalite_slab": "Zenalite Slab",
+  "block.hazennstuff.voidstone": "虚空石",
+  "block.hazennstuff.cobbled_voidstone": "虚空石圆石",
 
-  "block.hazennstuff.zenalite_block": "Zenalite Block",
-  "block.hazennstuff.mithril_block": "Mithril Block",
-  "block.hazennstuff.pyrium_block": "Pyrium Block",
-  "block.hazennstuff.arcane_steel_block": "Arcane Steel Block",
 
-  "block.hazennstuff.wisewood_planks": "Wisewood Planks",
-  "block.hazennstuff.wisewood_door": "Wisewood Door",
-  "block.hazennstuff.wisewood_slab": "Wisewood Slab",
-  "block.hazennstuff.wisewood_fence": "Wisewood Fence",
-  "block.hazennstuff.wisewood_fence_gate": "Wisewood Fence Gate",
-  "block.hazennstuff.wisewood_stairs": "Wisewood Stairs",
-  "block.hazennstuff.wisewood_leaves": "Wisewood Leaves",
-  "block.hazennstuff.wisewood_log": "Wisewood Log",
-  "block.hazennstuff.wisewood_wood": "Wisewood Wood",
-  "block.hazennstuff.stripped_wisewood_log": "Stripped Wisewood Log",
-  "block.hazennstuff.stripped_wisewood_wood": "Stripped Wisewood Wood",
-  "block.hazennstuff.wisewood_trapdoor": "Wisewood Trapdoor",
+  "block.hazennstuff.zenalite_bricks": "泽纳利特砖",
+  "block.hazennstuff.zenalite_stairs": "泽纳利特楼梯",
+  "block.hazennstuff.zenalite_slab": "泽纳利特台阶",
+
+  "block.hazennstuff.zenalite_block": "泽纳利特块",
+  "block.hazennstuff.mithril_block": "秘银块",
+  "block.hazennstuff.pyrium_block": "炽金块",
+  "block.hazennstuff.arcane_steel_block": "奥术钢块",
+
+  "block.hazennstuff.wisewood_planks": "智慧木木板",
+  "block.hazennstuff.wisewood_door": "智慧木门",
+  "block.hazennstuff.wisewood_slab": "智慧木台阶",
+  "block.hazennstuff.wisewood_fence": "智慧木栅栏",
+  "block.hazennstuff.wisewood_fence_gate": "智慧木栅栏门",
+  "block.hazennstuff.wisewood_stairs": "智慧木楼梯",
+  "block.hazennstuff.wisewood_leaves": "智慧木树叶",
+  "block.hazennstuff.wisewood_log": "智慧木原木",
+  "block.hazennstuff.wisewood_wood": "智慧木",
+  "block.hazennstuff.stripped_wisewood_log": "去皮智慧木原木",
+  "block.hazennstuff.stripped_wisewood_wood": "去皮智慧木",
+  "block.hazennstuff.wisewood_trapdoor": "智慧木活板门",
 
 
   "item.hazennstuff.ice_pike": "Ice Pike",
@@ -74,7 +74,7 @@
 
 
   "item.hazennstuff.frieren_staff": "Frieren's Staff",
-  "item.hazennstuff.wisewood_cane": "Wisewood Cane",
+  "item.hazennstuff.wisewood_cane": "智慧木手杖",
   "item.hazennstuff.rod_of_discord": "Rod of Discord",
 
 
@@ -241,11 +241,11 @@
 
 
 
-  "curios.modifiers.mana_crystal": "When using the Mana Crystal:",
+  "curios.modifiers.mana_crystal": "使用魔力水晶时：",
 
 
 
-  "curios.identifier.mana_crystal": "Mana Crystal",
+  "curios.identifier.mana_crystal": "魔力水晶",
 
 
   "spell.hazennstuff.chaotic_teleport": "Chaotic Teleport",
@@ -262,7 +262,7 @@
   "effect.hazennstuff.sub_zero": "Sub Zero",
   "effect.hazennstuff.grand_ender_dragon": "Grand Ender Dragon",
   "effect.hazennstuff.fireblossom": "Fireblossom",
-  "effect.hazennstuff.arbiter": "Arbiter",
+  "effect.hazennstuff.arbiter": "仲裁者",
   "effect.hazennstuff.discerning_the_eldritch": "Discerning the Eldritch",
 
 
@@ -278,8 +278,8 @@
 
 
 
-  "creativetab.hazennstuff.hazennstuff_materials": "Hazen 'n Stuff Materials",
-  "creativetab.hazennstuff.hazennstuff_blocks": "Hazen 'n Stuff Blocks",
-  "creativetab.hazennstuff.hazennstuff_utility": "Hazen 'n Stuff Utility",
-  "creativetab.hazennstuff.hazennstuff_equipment": "Hazen 'n Stuff Equipment"
+  "creativetab.hazennstuff.hazennstuff_materials": "Hazen 'N Stuff|材料",
+  "creativetab.hazennstuff.hazennstuff_blocks": "Hazen 'N Stuff|方块",
+  "creativetab.hazennstuff.hazennstuff_utility": "Hazen 'N Stuff|实用工具",
+  "creativetab.hazennstuff.hazennstuff_equipment": "Hazen 'N Stuff|装备"
 }
