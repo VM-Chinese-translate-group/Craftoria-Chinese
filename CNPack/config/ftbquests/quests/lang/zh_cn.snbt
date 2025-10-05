@@ -2723,13 +2723,13 @@
 	]
 	quest.39716053AAD8ABF2.quest_desc: ["Gotta start somewhere, and this will let you &6hand-power&r your first mechanical creations—or jump-start your self-pumping steam boiler engines."]
 	quest.3971C52500C72F92.quest_desc: [
-		"Make a &bTemporary Rune&r &6permanent&8."
-		"&8(temporary rune from &5Rune glyph&8)"
+		"能将&b一次性的符文&r&6永久化&8。"
+		"&8（一次性的符文来自于&5魔符&8)"
 		""
-		"Alternatively, create a &bBlank Rune&r that can be set with a &bSpell Parchment&r."
+		"也可以放置一个&b空白符文&r，对其使用&b法术羊皮纸&r即可。"
 		""
 		""
-		"&4NOTE&r: the rune will need &5source&r to operate."
+		"&4提示&r：符文需要&5魔源&r才能运作。"
 	]
 	quest.3973F425BD96668A.quest_desc: [
 		"你需要制作一个&b样板编码终端&r才能为你的自动合成系统编写样板。"
@@ -2861,20 +2861,20 @@
 	quest.3CABE90D2D99AAD0.quest_desc: ["&b合成配方&r用于存储合成配方，供&b公式装配器&r使用。"]
 	quest.3CABE90D2D99AAD0.title: "合成配方"
 	quest.3CF03758A5C98E5B.quest_desc: [
-		"This bow will add &5Projectile glyph&r at the start, so you don't need to include &5Form glyph&r in the spell."
+		"此弓会自动添加形态：&5弹射物之魔符&r，所以法术中无需包含&5形态魔符&r。"
 		""
-		"- Arrow: &bAugment Arrow: Amplify&r"
-		"- Spell:"
-		"&8Harm -> Amplify -> Amplify"
+		"- 箭：&b增强箭：强化&r"
+		"- 法术："
+		"&8伤害 -> 强化 -> 强化"
 		""
-		"- Later you can add &5Wither&r and &5Hex&r"
+		"- 之后可以加上&5凋零&r和&5脆弱诅咒&r"
 		""
 		""
-		"&8Check &bPage 2 &8for some explanations."
+		"&8在&b第2页&8可查看分析。"
 		""
 		"{@pagebreak}"
-		"- So that is 4 &5Amplify&r total. Netting you an extra &95 + 2 * 4 = 13&r damage if my math is correct."
-		"- With &6Power IX enchantment&r, I was doing &945->60 damage&r on average to &2Iron Golem&r per shot."
+		"- 以此法配置法术，一共有4层&5强化&r（增强箭是2层）。如果我计算无误的话，一共能造成&95 + 2 * 4 = 13&r点伤害。"
+		"- 若弓附有&6力量 IX魔咒&r，经我测试，平均每发能造成&945到60点伤害&r&2（测试对象为铁傀儡）&r。"
 	]
 	quest.3CF03758A5C98E5B.quest_subtitle: "示例法术"
 	quest.3CF03758A5C98E5B.title: "巫师之弓"

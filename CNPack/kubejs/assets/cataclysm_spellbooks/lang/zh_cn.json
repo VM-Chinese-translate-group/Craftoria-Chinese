@@ -85,7 +85,7 @@
     "spell.cataclysm_spellbooks.abyssal_slash": "Tidal Tear",
     "spell.cataclysm_spellbooks.abyssal_slash.guide": "斩击目标并造成近战伤害",
 
-    "spell.cataclysm_spellbooks.abyssal_blast": "深渊冲击波",
+    "spell.cataclysm_spellbooks.abyssal_blast": "深渊激涌",
     "spell.cataclysm_spellbooks.abyssal_blast.guide": "释放一次毁灭性的爆炸，破坏方块并造成深渊灼烧",
 
     "spell.cataclysm_spellbooks.abyssal_predator": "深渊猎杀者",
@@ -106,10 +106,10 @@
     "spell.cataclysm_spellbooks.incineration": "焚烧",
     "spell.cataclysm_spellbooks.incineration.guide": "在施法者前方召唤火焰进行直线打击",
 
-    "spell.cataclysm_spellbooks.conjure_ignited_reinforcement": "Ignited Reinforcements",
+    "spell.cataclysm_spellbooks.conjure_ignited_reinforcement": "燃魂增援",
     "spell.cataclysm_spellbooks.conjure_ignited_reinforcement.guide": "召唤炽燃遗魂和炽燃狂魂来援助你",
 
-    "spell.cataclysm_spellbooks.ashen_breath": "燃灰吐息",
+    "spell.cataclysm_spellbooks.ashen_breath": "余烬之息",
     "spell.cataclysm_spellbooks.ashen_breath.guide": "向你的对手喷吐灰烬般的气息",
 
     "spell.cataclysm_spellbooks.bone_storm": "骸骨风暴",
@@ -133,8 +133,8 @@
     "spell.cataclysm_spellbooks.void_bulwark": "虚空壁垒",
     "spell.cataclysm_spellbooks.void_bulwark.guide": "在你周围召唤虚空符文，并伤害你周围的的敌人",
 
-    "spell.cataclysm_spellbooks.gravitation_pull": "Gravitational Pull",
-    "spell.cataclysm_spellbooks.gravitation_pull.guide": "Reel in entities towards yourself by manipulating gravity around yourself",
+    "spell.cataclysm_spellbooks.gravitation_pull": "引力",
+    "spell.cataclysm_spellbooks.gravitation_pull.guide": "通过操纵自己周围的重力，将实体拉向自己",
 
     "spell.cataclysm_spellbooks.sandstorm": "沙尘暴",
     "spell.cataclysm_spellbooks.sandstorm.guide": "召唤环绕你的沙尘暴",
