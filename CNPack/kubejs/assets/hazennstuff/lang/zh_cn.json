@@ -16,7 +16,7 @@
 
 
   "item.hazennstuff.ruptured": "破碎的魔力水晶",
-  "item.hazennstuff.refined": "强化魔力水晶",
+  "item.hazennstuff.refined": "精致魔力水晶",
   "item.hazennstuff.reinforced": "强化魔力水晶",
   "item.hazennstuff.radiance": "光辉魔力水晶",
 
@@ -29,7 +29,7 @@
   "block.hazennstuff.zenalite_deepslate_ore": "深层泽纳利特矿石",
   "block.hazennstuff.zenalite_stone_ore": "泽纳利特矿石",
   "block.hazennstuff.zenalite_abysslate_ore": "深渊泽纳利特矿石",
-  "block.hazennstuff.zenalite_voidstone_ore": "深渊虚空石矿石",
+  "block.hazennstuff.zenalite_voidstone_ore": "虚空泽纳利特矿石",
 
   "block.hazennstuff.runestone_slag": "符文矿渣",
   "block.hazennstuff.aquastone": "水石",
@@ -153,7 +153,7 @@
   "item.hazennstuff.charged_scourge_helmet": "天灾面具",
   "item.hazennstuff.charged_scourge_chestplate": "天灾鳞甲",
   "item.hazennstuff.charged_scourge_leggings": "天灾护膝",
-  "item.hazennstuff.charged_scourge_boots": "Scourge Treads",
+  "item.hazennstuff.charged_scourge_boots": "天灾长靴",
 
   "item.hazennstuff.soul_flame_helmet": "魂焰面具",
   "item.hazennstuff.soul_flame_chestplate": "魂焰胸甲",
@@ -207,10 +207,10 @@
   "item.hazennstuff.project_sekai_boots": "初音未来的靴子",
 
 
-  "item.hazennstuff.rotten_girl_helmet": "初音未来的头发",
-  "item.hazennstuff.rotten_girl_chestplate": "初音未来的制服",
-  "item.hazennstuff.rotten_girl_leggings": "初音未来的护腿",
-  "item.hazennstuff.rotten_girl_boots": "初音未来的靴子",
+  "item.hazennstuff.rotten_girl_helmet": "“初音未来”的头发",
+  "item.hazennstuff.rotten_girl_chestplate": "“初音未来”的制服",
+  "item.hazennstuff.rotten_girl_leggings": "“初音未来”的护腿",
+  "item.hazennstuff.rotten_girl_boots": "“初音未来”的靴子",
 
 
   "item.hazennstuff.synthesizer_v_helmet": "重音Teto的头发",
@@ -267,7 +267,7 @@
 
 
   "sounds.hazennstuff.soul_flame_equip": "装备魂焰盔甲",
-  "sounds.hazennstuff.charged_scourge_equip": "充能的装备天灾盔甲",
+  "sounds.hazennstuff.charged_scourge_equip": "装备天灾盔甲",
   "sounds.hazennstuff.creaking_sorcerer_equip": "装备嘎枝巫师盔甲",
   "sounds.hazennstuff.seraph_equip": "装备炽天使盔甲",
   "sounds.hazennstuff.supreme_witch_equip": "装备至尊女巫盔甲",

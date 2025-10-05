@@ -777,7 +777,7 @@
 				item: {
 					components: {
 						"ftbfiltersystem:filter": "and(item_tag(theurgy:alchemical_niters))"
-						"minecraft:custom_name": "\"All the Niters\""
+						"minecraft:custom_name": "“所有的硝”"
 					}
 					count: 1
 					id: "ftbfiltersystem:smart_filter"
