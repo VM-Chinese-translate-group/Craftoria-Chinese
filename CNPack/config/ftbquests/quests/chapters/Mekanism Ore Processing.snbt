@@ -282,7 +282,7 @@
 				item: {
 					components: {
 						"ftbfiltersystem:filter": "or(item(minecraft:iron_ingot)item(minecraft:gold_ingot)item(minecraft:copper_ingot)item(mekanism:dust_osmium)item(modern_industrialization:tin_ingot)item(modern_industrialization:lead_ingot)item(modern_industrialization:uranium_ingot)item(modern_industrialization:iridium_ingot)item(modern_industrialization:nickel_ingot)item(modern_industrialization:silver_ingot))"
-						"minecraft:custom_name": "\"锭\""
+						"minecraft:custom_name": "“锭”"
 					}
 					count: 1
 					id: "ftbfiltersystem:smart_filter"

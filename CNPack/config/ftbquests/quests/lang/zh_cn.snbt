@@ -314,7 +314,7 @@
 		"You'll want to see the &bBrass Tunnels&r for some usefull expansions of tunnel's &6capabilities&r."
 	]
 	quest.0888176AF1BEA68D.quest_subtitle: "让它们来制作蛋糕！"
-	quest.088E87F861406342.quest_desc: ["Use it to &6fill&r your moat, &6drain&r a swamp, &6pump&r &9water&r or &blava&r without limit."]
+	quest.088E87F861406342.quest_desc: ["&6填充&r你的护城河，&6排干&r沼泽，或无限量地&6抽取&r&9水&r与&b岩浆&r。"]
 	quest.0897CCAC72E82C5B.quest_desc: [
 		"&oPowah！是关于发电、存储和传输电力的模组"
 		"&8*但不适用于现代工业化模组"
@@ -1901,7 +1901,7 @@
 	quest.28A35996DE62CFA0.quest_subtitle: "更大的储存容量，以及无线连接"
 	quest.28A35996DE62CFA0.title: "才10k容量？还不能无线连接？"
 	quest.28D8463C6036B3BF.title: "哈密瓜"
-	quest.28EB489B44A05070.quest_desc: ["&a复制器&r可以使用储存在物质储罐中的&d物质&r开始复制物品，并将其送回&b终端&r。"]
+	quest.28EB489B44A05070.quest_desc: ["&a复制器&r可以使用储存在物质储罐中的&d物质&r以复制物品，并将其送回&b终端&r。"]
 	quest.28EB489B44A05070.quest_subtitle: "使用储存的物质来制作物品。"
 	quest.2909AE63FA355344.quest_desc: [
 		"部分&b任务&r会奖励&b3级符典条目节选&r&8（远古符典条目节选）&r。"
@@ -3059,7 +3059,7 @@
 		"使用&b平板电脑&r&6右击&r一个&3容器&r或&b储罐&r来指定&9取货&r和&9收货&r地点。"
 	]
 	quest.40FF154148BBAFF2.quest_subtitle: "哇哦，亮闪闪的！"
-	quest.41183734EB2C28FF.quest_desc: ["&6Fills&r vanilla &bfluid containers&r and &6applies&r &9fluids&r to &bitems&r in sequenced recipes."]
+	quest.41183734EB2C28FF.quest_desc: ["&6灌注&r原版&b流体容器&r或在序列合成中向&b物品&r&6注入&r&9流体&r。"]
 	quest.41183734EB2C28FF.quest_subtitle: "“那只小蜘蛛去哪儿了"
 	quest.413557ECF489FD2C.quest_subtitle: "在末地浮岛的稀有结构中出现。"
 	quest.413557ECF489FD2C.title: "&5黑曜石柱"
@@ -3546,7 +3546,7 @@
 	quest.49E73DF03C8D28C7.quest_subtitle: "御火"
 	quest.4A0E862883FE42BB.quest_desc: ["这块宝石能够将大部分&b生物&r&6存储&r在里面，便于运输。"]
 	quest.4A0E862883FE42BB.quest_subtitle: "目标是宝可梦大师！"
-	quest.4A476B25B5A3E88D.quest_desc: ["生物生成的范围半径（以方块为单位）。"]
+	quest.4A476B25B5A3E88D.quest_desc: ["生物生成的范围半径（以格数为单位）。"]
 	quest.4A476B25B5A3E88D.quest_subtitle: "+2 生成范围"
 	quest.4A5466E364B85AEF.quest_desc: [
 		"  比铁更深暗更冰冷……而且强度是前者的1000倍。快来炼&b钢&r！就用你之前制得的焦炭，把它弄成粉末，然后跟铁粉混合在一起，得到&b生钢粉&r。别忘了&6用&b搅拌机&r，它可以提升产率。"
@@ -3845,7 +3845,7 @@
 	]
 	quest.4FBA0ECAC8AEBCD8.title: "核裂变"
 	quest.4FDD66D88C90C951.quest_desc: ["想要获得&b刷怪笼&f，你需要使用&a精准采集&f挖掘&b刷怪笼&f。每一个&b刷怪笼&f的基础数值都是一样的且可以被修改。"]
-	quest.4FDD66D88C90C951.title: "&c神话刷怪笼"
+	quest.4FDD66D88C90C951.title: "&c神化刷怪笼"
 	quest.5021D7D55A0B3533.quest_desc: ["欢迎来到&b化学&r的世界！有些&e化学品&r实际上很&c危险&r，不过幸运的是，在这里，你的身体对那些危险化学品是有&7抗性&r的。"]
 	quest.5021D7D55A0B3533.title: "化学时间到！"
 	quest.508A650402DC24F5.quest_desc: ["&b超临界移相器&r的外壳，昂贵而坚硬。"]
@@ -4129,7 +4129,7 @@
 	]
 	quest.55AEBE2068711237.quest_subtitle: "流水不息，轮转不止，万物由此开始。"
 	quest.55B4497680B48819.title: "水蜜桃"
-	quest.55DBF04C81688194.quest_subtitle: "The Un-Spout"
+	quest.55DBF04C81688194.quest_subtitle: "吸液器"
 	quest.560634C7982F2FDC.quest_desc: [
 		"可改变&b弹射物法术&r的飞行方向。"
 		"&8（法术击中棱镜时，可被&b侦测器&r&8检测到)"
@@ -5086,7 +5086,7 @@
 		""
 		"&d物质&a百科&r是一个搜索表，它可以&6搜索&r具有特定&d物质价值&r的物品。"
 		""
-		"你可以通过在&a复制终端&r屏幕上的&b搜索栏&r&9左侧&r的按钮访问，也可以点击终端&9右侧&r的物质陈列表来访问。"
+		"你可以通过在&a复制终端&r屏幕上的&b搜索栏&r&9左侧&r的按钮访问，也可以点击终端&9右侧&r的物质列表来访问。"
 		""
 		"在&d物质&a百科&r的搜索栏中，你可以使用以下操作："
 		""
