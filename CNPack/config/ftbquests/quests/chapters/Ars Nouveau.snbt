@@ -3205,7 +3205,7 @@
 					id: "409ABE58A225C159"
 					item: {
 						components: {
-							"minecraft:custom_name": "{\"italic\":false,\"text\":\"Warden's Meat\"}"
+							"minecraft:custom_name": "{\"italic\":false,\"text\":\"监守者的肉\"}"
 							"minecraft:food": {
 								effects: [
 									{
@@ -3261,9 +3261,9 @@
 								saturation: 4.0f
 							}
 							"minecraft:lore": [
-								"{\"color\":\"gray\",\"italic\":false,\"text\":\"Meat from a Warden\"}"
-								"{\"color\":\"gray\",\"italic\":false,\"text\":\"Obtained through a dubious mean\"}"
-								"{\"color\":\"dark_red\",\"italic\":false,\"text\":\"Eat at your own risk!\"}"
+								"{\"color\":\"gray\",\"italic\":false,\"text\":\"肉，来自监守者\"}"
+								"{\"color\":\"gray\",\"italic\":false,\"text\":\"也许能通过某种方式获取\"}"
+								"{\"color\":\"dark_red\",\"italic\":false,\"text\":\"欢迎品尝，后果自负！\"}"
 							]
 							"minecraft:rarity": "epic"
 						}

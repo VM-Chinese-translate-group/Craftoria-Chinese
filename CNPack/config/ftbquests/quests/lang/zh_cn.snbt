@@ -534,9 +534,9 @@
 	quest.0E352E2B17084DAE.quest_desc: ["&b高级锯木工厂&r能够同时进行最多&a五个&r锯木任务，同样有“&e自动分类&r”功能。"]
 	quest.0E352E2B17084DAE.title: "高级锯木工厂"
 	quest.0E3A8954B2AAF9F7.quest_desc: [
-		"Use the &bRitual Brazier&r to summon the &4Wilden Chimera&r then defeat it."
+		"使用&b仪式火盆&r召唤&4荒野奇美拉&r，然后将其击败。"
 		""
-		"This item will let you craft the highest tier of &bSpell Book&r."
+		"荒野供物可用于合成最高等级的&b法术书&r。"
 	]
 	quest.0E50E568DFA078D5.quest_desc: [
 		"  &oJust Dire Things&r模组的推进与四种&o&l&b凝胶&r紧密相连。"
@@ -1445,9 +1445,9 @@
 	quest.1F33EBCE377EF15D.quest_desc: ["&b高级粉碎工厂&r能够同时进行最多&a五个&r粉碎任务，同样有“&e自动分类&r”功能。"]
 	quest.1F33EBCE377EF15D.title: "高级粉碎工厂"
 	quest.1F71E19AD3CFCABC.quest_desc: [
-		"Tchaikovsky's &o1812 Overture&r… music to place builds too."
+		"柴可夫斯基的&o《1812序曲》&r......亦是放置建筑的伴奏。"
 		""
-		"&6Cannon&r your build plans right into the world, block by block."
+		"将你的规划&6炮制&r于世界中，一块接一块。"
 	]
 	quest.1F81CBD8519E244B.quest_desc: [
 		"  这套盔甲与&b核源铁盔甲&r差不多，但是它&6在熔岩中会自动修复&r——不过你大概需要先把它脱下来。"
@@ -1668,7 +1668,7 @@
 	quest.21EDEEE1A1B82B53.title: "粗铱"
 	quest.21EE3862F6DA8E09.quest_desc: ["&b精密锯木机&r能够以&e极高的效率&r处理&9原木&r及其他木质材料，同时产生副产物&9锯末&r。"]
 	quest.21EE3862F6DA8E09.title: "精密锯木机"
-	quest.220163965130D8C7.quest_desc: ["&6Breaks&r &bblocks without solid colision boxes&r... like &btracks&r, &blevers&r, &bbuttons&r, etc."]
+	quest.220163965130D8C7.quest_desc: ["会&6破坏&r没有固体碰撞箱的&b方块&r......比如&b轨道&r、&b拉杆&r、&b按钮&r等等。"]
 	quest.2209DC294580BF3D.quest_desc: [
 		"巢穴有四个天然开放的入口。"
 		""
@@ -1832,8 +1832,8 @@
 	quest.2571BC62616A45AB.title: "QIO仪表板"
 	quest.263FE6D3550CD41C.quest_desc: [""]
 	quest.263FE6D3550CD41C.title: "高级升级"
-	quest.264DA461C59E31C3.quest_desc: ["&6Fires&r up your &bBlaze Burners&r to new highs."]
-	quest.264DA461C59E31C3.quest_subtitle: "Blazes! This one’s not a lie."
+	quest.264DA461C59E31C3.quest_desc: ["将您的&b烈焰人燃烧室&r&6加热&r至全新高温。"]
+	quest.264DA461C59E31C3.quest_subtitle: "烈焰人！这次可是真家伙。"
 	quest.264F371D2A18EAEC.quest_desc: [
 		"&b基础加压管道&r能够&6传输&r各种东西，比如&e气体&r、&a灌注物&r、&d颜料&r和&5浆液&r。"
 		""
@@ -1918,9 +1918,9 @@
 	quest.299CBEA2571FD97A.quest_subtitle: "&b蓝水晶"
 	quest.299CBEA2571FD97A.title: "&b钻石水晶"
 	quest.29A942B4C3E9A502.quest_desc: [
-		"&6Cuts&r down even the tallest &btrees&r, or &6cuts&r many &bthings&r into... many more &bthings&r."
+		"&6砍伐&r甚至是最高的&b树木&r，或者&6切割&r许多&b物品&r，变成......更多的&b物品&r"
 		""
-		"So many recipes apply for many possible inputs to the &bMechanical Saw&r, that you'll want to &6lock in&r the recipe by &6hitting&r the top of it with an example of the desired output."
+		"&b动力锯&r可以处理的输入物品非常多，对应的合成配方也十分丰富，您可能需要拿着期望输出的物品&6右击&r在其顶部的过滤槽来&6锁定&r这个配方。"
 	]
 	quest.29A942B4C3E9A502.quest_subtitle: "这不是Stock、Aitken和Waterman的风格。"
 	quest.29AC06B27D6A53C5.quest_desc: [
@@ -2387,11 +2387,11 @@
 	quest.324EB8165298F503.quest_desc: ["&b精英物流管道&r能够以&a每秒64个物品&r的速度将物品抽出到传输网络中，并以&a每秒4.0米&r的速度传输物品。"]
 	quest.324EB8165298F503.title: "精英物流管道"
 	quest.3254374A45D0D708.quest_desc: [
-		"Use a &b Schematic and Quil&r to &6save&r a build or a piece of your world."
+		"使用&b蓝图与笔&r来&6保存&r建筑或你世界的一角。"
 		""
-		"Use an &bEmpty Schematic&r in a &bSchematic Table&r to &6put your schemes&r in motion."
+		"在&b蓝图桌&r中使用&b空白蓝图&r来实施&6你的规划&r。"
 	]
-	quest.3254374A45D0D708.quest_subtitle: "A blank slate… what will you write on yours?"
+	quest.3254374A45D0D708.quest_subtitle: "一张白纸......你会在上面写些什么呢？"
 	quest.325A0651CB2D1279.quest_desc: [
 		"这台机器将&c空印刷电路板&r暴露在&e紫外线&r下，为它们在&b蚀刻器&r中的&6加工&r做准备。"
 		""
@@ -2415,7 +2415,7 @@
 	quest.3288EB24E412AF9A.quest_subtitle: "完成对应任务章节。"
 	quest.3288EB24E412AF9A.title: "&d现代&b工业化"
 	quest.328E672F6B43D93A.quest_desc: ["For both &6assembling&r your trains and, well, &6being&r train stations."]
-	quest.32DC17E21BF26228.quest_desc: ["Use this to &6download&r saved &bSchematics&r into a new &bSchematic&r ready for use in the &bSchematicannon.&r"]
+	quest.32DC17E21BF26228.quest_desc: ["使用它来将保存的&b蓝图&r&6写入&r到空白&b蓝图&r以便在&b蓝图加农炮&r中使用。"]
 	quest.3357A8B614D477B6.quest_desc: [
 		"  这个机器是&b打包机&r的兄弟！它必须由钢材制成，因为它确实需要这么大的力量。"
 		""
@@ -2721,7 +2721,7 @@
 		""
 		"{image:justdirethings:block/playeraccessor width:100 height:100 align:center}"
 	]
-	quest.39716053AAD8ABF2.quest_desc: ["Gotta start somewhere, and this will let you &6hand-power&r your first mechanical creations—or jump-start your self-pumping steam boiler engines."]
+	quest.39716053AAD8ABF2.quest_desc: ["总得从某个地方开始，而这个能让你&6手摇驱动&r你的第一台机械造物——或者快速启动你的自供水式蒸汽引擎。"]
 	quest.3971C52500C72F92.quest_desc: [
 		"能将&b一次性的符文&r&6永久化&8。"
 		"&8（一次性的符文来自于&5魔符&8)"
@@ -2940,7 +2940,7 @@
 	quest.3E903D71F66D3DB4.title: "&6复制器（MK II）"
 	quest.3E9D2DA07E8617EA.quest_subtitle: "完成对应任务章节。"
 	quest.3E9D2DA07E8617EA.title: "&6Theurgy"
-	quest.3EFED58FAE46B366.quest_desc: ["&6Glue&r blocks into contraptions of any size, be they small or super."]
+	quest.3EFED58FAE46B366.quest_desc: ["将方块&6粘合&r成任意大小的结构，无论是小型还是超大型。"]
 	quest.3F0097CCBA02804C.quest_desc: ["The &bLarge Steam Furnace&r can &6smelt&r recipes in batches of up to 8 at a &a25%&r deduction of &eEU&r cost. Keep in mind, it &cwont&r do a mix of recipes, they &omust&r be the same type. If not, each type of recipe will be &6split&r into their batch of a max of 8."]
 	quest.3F0097CCBA02804C.quest_subtitle: "越大越好！"
 	quest.3F0B58522B009779.quest_desc: [
@@ -3148,28 +3148,28 @@
 	quest.4303A1A434C07540.quest_subtitle: "干净又整齐"
 	quest.4303A1A434C07540.title: "仪式：召唤魔精清洁工"
 	quest.431FA8EF8194D39B.quest_desc: [
-		"🦀 🦀 🦀 Crab Crab Crab 🦀 🦀 🦀 "
+		"🦀 🦀 🦀 蟹 蟹 蟹 🦀 🦀 🦀 "
 		""
-		"Will do the &6archaeology&r (suspicious sand/gravel) from normal sand/gravel."
+		"会对普通的沙子和沙砾进行&6考古&r（参考可疑的沙子/沙砾）。"
 		""
-		"- Radius: &93 blocks&r from the storage block."
+		"- 有效范围：存储方块周围&93格&r内。"
 		""
-		"- Bind with &bDominion Wand&r."
+		"- 可用&b支配之杖&r进行绑定。"
 		""
-		"- Source needed: YES."
+		"- 是否需要魔源：是"
 		""
-		"Sand:"
+		"沙子战利品表："
 		"&8- DESERT_WELL_ARCHAEOLOGY"
 		"&8- DESERT_PYRAMID_ARCHAEOLOGY"
 		"&8- OCEAN_RUIN_WARM_ARCHAEOLOGY"
 		""
-		"Gravel:"
+		"沙砾战利品表："
 		"&8- OCEAN_RUIN_WARM_ARCHAEOLOGY"
 		"&8- TRAIL_RUINS_ARCHAEOLOGY_COMMON"
 		"&8- TRAIL_RUINS_ARCHAEOLOGY_RARE"
 		""
 		""
-		"&4NOTE&r: blocks will be &4consumed&r, you will need to re-place those sand/gravel."
+		"&4提示&r：考古会&4破坏&r沙子/沙砾，需要及时补充。"
 	]
 	quest.431FA8EF8194D39B.quest_subtitle: "🦀 大帽子 🦀 | 考古专家"
 	quest.434D7EDCDD954B40.quest_desc: ["除了作为合成材料，&b安山机壳&r还可以用来&6装饰&r&b传动轴&r和&b传送带&r，甚至&b齿轮&r和&b大齿轮&r。后者用途有助于让用来提升早期动力源转速的齿轮结构保持紧凑。"]
@@ -3896,7 +3896,7 @@
 	]
 	quest.5143D5FD55C819CA.quest_subtitle: "目标已锁定"
 	quest.51542DCB5C8E5C3A.quest_desc: ["更高一级的法术书也只能容纳6个法术"]
-	quest.51649293068FE93D.quest_desc: ["&bRotational Chasis&r and &bLinear Chassis&r &6help&r build contraptions without superglue."]
+	quest.51649293068FE93D.quest_desc: ["可&6容纳&r多达八种不同的物品，能自定义颜色，且附近所有&b工具箱&r均可通过同一快捷键快速&6取用&r——利于让您专注于工作，而不是寻找工具。"]
 	quest.516F2A1A1270D9DC.quest_desc: [
 		"  &b初级&r："
 		"    • 可&6破坏&r&b方块&r"
@@ -4211,7 +4211,7 @@
 		"你可以使用&b稳定器&r来解决这个问题。它们将进一步&6稳定&r促动器与存储维度的连接，使其能够&6存储越来越多&r。"
 	]
 	quest.58F3BCF5BFBCF371.quest_subtitle: "我要更多"
-	quest.590D73FDE6335297.quest_desc: ["&6Measure&r how much &denergy,&r in the form of Stress Units, your contraptions are &6generating&r and &6consuming,&r or how fast they are working."]
+	quest.590D73FDE6335297.quest_desc: ["以应力的形式&6测量&r你的装置&6生成&r或&6消耗&r了多少&d能量&r，或者它们的转速有多快。"]
 	quest.59128813386BFDB1.quest_desc: [
 		"&bP2P（点对点）通道&f可以超级复杂，但是也超级实用。这些&b通道&f可以&6点对点传输至多32个频道&f。你可能要问：“那我为什么不用&b致密线缆&f呢？”"
 		""
@@ -4264,12 +4264,12 @@
 	quest.5B578B176E3E3280.quest_desc: [
 		"🎉🎉🎉🎉🎉🎉"
 		""
-		"Here, have some &bWarden's Meat&r. "
-		"&8What to do with it? Up to you 😈"
+		"恭喜恭喜，来吃点&b监守者的肉&吧。 "
+		"&8要用这些肉干什么呢？取决于你 😈"
 		""
-		"What's next?"
-		"&8There the addons to checkout (Ars Elemental for example)"
-		"&8Or maybe try to do everything the mod has to offer (if you haven't done potion, familiar farming, turret already)"
+		"然后要干什么？"
+		"&8还有一些附属模组可以探索（比如Ars Elemental）"
+		"&8或者试试本模组的其他内容（比如药水系统、使魔自动化、炮塔等，如果你还没有做过的话）"
 		""
 		"🎉🎉🎉🎉🎉🎉"
 	]
@@ -5586,7 +5586,7 @@
 	quest.7790ABA120E4EBA9.quest_desc: ["Once you have mastered the basics, you can move on to working with &bDjinn&r, intermediate-level spirits."]
 	quest.7790ABA120E4EBA9.quest_subtitle: "熟练"
 	quest.77968A26B3D90399.quest_desc: [""]
-	quest.77968A26B3D90399.quest_subtitle: "Best wrench in the game, I say."
+	quest.77968A26B3D90399.quest_subtitle: "我敢说，这是游戏中最好用的扳手。"
 	quest.77978ED3AC1DFA26.quest_desc: ["&aAE扩展&f是一个能够给&aAE2加速扩产&f的附属模组。"]
 	quest.779C3C6B89AD2526.quest_desc: [
 		"  电力机器的工作方式和蒸汽机器大差不差，只是&6它们消耗电能来工作，而不是蒸汽&r，而且可以将配方超频到最高32EU/t（目前如此）。"
