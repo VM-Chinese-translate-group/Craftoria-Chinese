@@ -447,7 +447,7 @@
 				item: {
 					components: {
 						"ftbfiltersystem:filter": "or(item(justdirethings:blockplacert1)item(justdirethings:blockplacert2))"
-						"minecraft:custom_name": "\"Block Placer\""
+						"minecraft:custom_name": "“方块放置器”"
 					}
 					count: 1
 					id: "ftbfiltersystem:smart_filter"
@@ -471,7 +471,7 @@
 				item: {
 					components: {
 						"ftbfiltersystem:filter": "or(item(justdirethings:fluidplacert1)item(justdirethings:fluidplacert2))"
-						"minecraft:custom_name": "\"Fluid Placer\""
+						"minecraft:custom_name": "\"流体放置器\""
 					}
 					count: 1
 					id: "ftbfiltersystem:smart_filter"
@@ -495,7 +495,7 @@
 				item: {
 					components: {
 						"ftbfiltersystem:filter": "or(item(justdirethings:fluidcollectort1)item(justdirethings:fluidcollectort2))"
-						"minecraft:custom_name": "\"Fluid Collector\""
+						"minecraft:custom_name": "\"流体收集器\""
 					}
 					count: 1
 					id: "ftbfiltersystem:smart_filter"
@@ -519,7 +519,7 @@
 				item: {
 					components: {
 						"ftbfiltersystem:filter": "or(item(justdirethings:sensort1)item(justdirethings:sensort2))"
-						"minecraft:custom_name": "\"Sensor\""
+						"minecraft:custom_name": "\"传感器\""
 					}
 					count: 1
 					id: "ftbfiltersystem:smart_filter"
@@ -543,7 +543,7 @@
 				item: {
 					components: {
 						"ftbfiltersystem:filter": "or(item(justdirethings:blockswappert1)item(justdirethings:blockswappert2))"
-						"minecraft:custom_name": "\"Swapper\""
+						"minecraft:custom_name": "\"替换器\""
 					}
 					count: 1
 					id: "ftbfiltersystem:smart_filter"
@@ -567,7 +567,7 @@
 				item: {
 					components: {
 						"ftbfiltersystem:filter": "or(item(justdirethings:portalgun)item(justdirethings:portalgun_v2))"
-						"minecraft:custom_name": "\"Portal Gun\""
+						"minecraft:custom_name": "\"传送枪\""
 					}
 					count: 1
 					id: "ftbfiltersystem:smart_filter"
@@ -591,7 +591,7 @@
 				item: {
 					components: {
 						"ftbfiltersystem:filter": "or(item(justdirethings:blockbreakert1)item(justdirethings:blockbreakert2))"
-						"minecraft:custom_name": "\"Block Breaker\""
+						"minecraft:custom_name": "\"方块破坏器\""
 					}
 					count: 1
 					id: "ftbfiltersystem:smart_filter"
@@ -677,7 +677,7 @@
 				item: {
 					components: {
 						"ftbfiltersystem:filter": "or(item(justdirethings:clickert1)item(justdirethings:clickert2))"
-						"minecraft:custom_name": "\"Clicker\""
+						"minecraft:custom_name": "\"点击器\""
 					}
 					count: 1
 					id: "ftbfiltersystem:smart_filter"
@@ -1604,7 +1604,7 @@
 				item: {
 					components: {
 						"ftbfiltersystem:filter": "or(item(justdirethings:upgrade_cauterizewounds)item(justdirethings:upgrade_deathprotection)item(justdirethings:upgrade_debuffremover)item(justdirethings:upgrade_decoy)item(justdirethings:upgrade_dropteleport)item(justdirethings:upgrade_earthquake)item(justdirethings:upgrade_elytra)item(justdirethings:upgrade_epicarrow)item(justdirethings:upgrade_extinguish)item(justdirethings:upgrade_flight)item(justdirethings:upgrade_glowing)item(justdirethings:upgrade_groundstomp)item(justdirethings:upgrade_hammer)item(justdirethings:upgrade_homing)item(justdirethings:upgrade_instabreak)item(justdirethings:upgrade_invulnerability)item(justdirethings:upgrade_jumpboost)item(justdirethings:upgrade_lavaimmunity)item(justdirethings:upgrade_lawnmower)item(justdirethings:upgrade_leafbreaker)item(justdirethings:upgrade_lingering)item(justdirethings:upgrade_mindfog)item(justdirethings:upgrade_mobscanner)item(justdirethings:upgrade_negatefalldamage)item(justdirethings:upgrade_nightvision)item(justdirethings:upgrade_noai)item(justdirethings:upgrade_oreminer)item(justdirethings:upgrade_orescanner)item(justdirethings:upgrade_orexray)item(justdirethings:upgrade_phase)item(justdirethings:upgrade_potionarrow)item(justdirethings:upgrade_runspeed)item(justdirethings:upgrade_skysweeper)item(justdirethings:upgrade_smelter)item(justdirethings:upgrade_smoker)item(justdirethings:upgrade_splash)item(justdirethings:upgrade_stepheight)item(justdirethings:upgrade_stupefy)item(justdirethings:upgrade_swimspeed)item(justdirethings:upgrade_treefeller)item(justdirethings:upgrade_walkspeed))"
-						"minecraft:custom_name": "\"Upgrades\""
+						"minecraft:custom_name": "\"升级\""
 					}
 					count: 1
 					id: "ftbfiltersystem:smart_filter"

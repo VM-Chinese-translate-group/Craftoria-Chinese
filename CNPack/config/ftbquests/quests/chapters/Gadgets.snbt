@@ -785,7 +785,7 @@
 				item: {
 					components: {
 						"ftbfiltersystem:filter": "or(item(mininggadgets:mininggadget_simple)item(mininggadgets:mininggadget_fancy)item(mininggadgets:mininggadget))"
-						"minecraft:custom_name": "\"Any Mining Gadget\""
+						"minecraft:custom_name": "\"任意采掘小帮手\""
 					}
 					count: 1
 					id: "ftbfiltersystem:smart_filter"
