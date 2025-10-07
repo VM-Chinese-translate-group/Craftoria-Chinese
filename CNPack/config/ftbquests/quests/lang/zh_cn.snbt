@@ -316,7 +316,7 @@
 	quest.0888176AF1BEA68D.quest_subtitle: "让它们来制作蛋糕！"
 	quest.088E87F861406342.quest_desc: ["&6填充&r你的护城河，&6排干&r沼泽，或无限量地&6抽取&r&9水&r与&b岩浆&r。"]
 	quest.0897CCAC72E82C5B.quest_desc: [
-		"&oPowah！是关于发电、存储和传输电力的模组"
+		"&oPowah!是关于发电、存储和传输电力的模组"
 		"&8*但不适用于现代工业化模组"
 	]
 	quest.0897CCAC72E82C5B.quest_subtitle: "需要更多POWAH！不是吗？"
@@ -1182,7 +1182,7 @@
 		""
 		"并联运作以&6提升&r流量，也可间隔串联来&6推动&r流体通过更长的管道。"
 	]
-	quest.19B550F54950E253.quest_subtitle: "出现在主世界寒冷群系中稀有生成的巫妖塔中，跟随灵魂之星的指引便可找到。"
+	quest.19B550F54950E253.quest_subtitle: "居住在寒冷生物群系少见的高塔中，跟随灵魂之星的指引便可找到。"
 	quest.19B550F54950E253.title: "&b暗夜巫妖"
 	quest.19C33613F2811BAA.quest_desc: ["通过这个&b基础的终端&f，你可以访问你ME网络的&b库存&f。这个终端还能进一步升级。"]
 	quest.19C33613F2811BAA.title: "终端"
@@ -1209,8 +1209,8 @@
 		""
 		"与你的预期可能不同，即使温度&4过高&r，这台机器&c也不会爆炸&r。"
 	]
-	quest.1A6929801D08F2C5.quest_desc: ["There may be other ways to &6make more power&r in modded, but it is hard to top the satisfaction of a boiler driving many &bSteam Engines&r… as many as you can setup &6fed&r with enough &cheat&r and &9water.&r"]
-	quest.1A6929801D08F2C5.quest_subtitle: " Chuga Chuga Chuga."
+	quest.1A6929801D08F2C5.quest_desc: ["在各种模组中，或许存在其他&6提供更多能源&r的方式，但很难有哪种能超越锅炉驱动多台&b蒸汽引擎&r带来的满足感......只要你能搭建足够的结构，为其&6供给&r充足的&c热量&r与&9水源&r，它便能驱动无数引擎。"]
+	quest.1A6929801D08F2C5.quest_subtitle: "咔嚓 咔嚓 咔嚓。"
 	quest.1A885E0BA312B916.quest_desc: ["&b电阻形加热器&r可以将&a能量&r转化为热量，然后，通过&b热力蒸馏阀门&r，你可以把热量&6输入&r蒸馏塔，以提高蒸馏塔的温度。"]
 	quest.1A885E0BA312B916.title: "电阻型加热器"
 	quest.1A8D5373290BC1A6.quest_desc: [
@@ -1323,7 +1323,7 @@
 	]
 	quest.1CD1F5A08AE6E557.quest_subtitle: "在深处闪耀"
 	quest.1CD404EA948FF868.quest_desc: [
-		"你可以使用这台&b机器&r，将任何具有物质价值的物品&6转化&r成&d物质。"
+		"你可以使用这台&b机器&r，将任何具有物质值的物品&6转化&r成&d物质。"
 		""
 		"当鼠标&6悬停&r在某些物品上时，你可以看到它们有了&9物质值&r。"
 		""
@@ -1711,9 +1711,9 @@
 	quest.237468FAB20906A8.quest_desc: [""]
 	quest.237468FAB20906A8.quest_subtitle: "2倍容量"
 	quest.238794C3DE2B79BA.quest_desc: [
-		"&bEncased Fans&r can do some neat things to mobs and entities, and this will let them &6spray&r those effects all around."
+		"&b鼓风机&r能对生物和实体产生奇妙效果，而此装置可让其将效果向四周&6分散&r。"
 		""
-		"Tip: clustered &bNozzles&r’ effects &6stack&r. Try it out."
+		"提示：密集排列的&b分散网&r的效果可&6叠加&r，不妨一试。"
 	]
 	quest.23988FD7E2EEF319.quest_desc: [
 		"The core element for a molecular assembler of Create, basically."
@@ -1858,8 +1858,8 @@
 	quest.2689A56675E12245.title: "&e液化石油"
 	quest.268B0F87CC431A51.quest_desc: ["-需要放入用于转换的电缆等级的&b外壳&r（默认为&e低压&r）。"]
 	quest.268B0F87CC431A51.quest_subtitle: "变压更方便！"
-	quest.2697B8077174B870.quest_desc: ["[ Be sure to check out the netherite versions of these and the &bBacktank&r too. ]"]
-	quest.2697B8077174B870.quest_subtitle: "Jaques Cousteau ain’t got a shine on you."
+	quest.2697B8077174B870.quest_desc: ["[ 记得也去看看这些装备的下界合金版本以及&b铜背罐&r。 ]"]
+	quest.2697B8077174B870.quest_subtitle: "雅克·库斯托在您面前也要黯然失色。"
 	quest.26A44EDA4AABFF6F.quest_desc: [
 		"&bCompressed Steel &fis crafted with an &bIron Ingot &f&6thrown &fon the ground and &6blown up &fby&b TNT&f, but you wont always get your return on it. "
 		""
@@ -1912,7 +1912,7 @@
 	quest.2909AE63FA355344.title: "3级魔符"
 	quest.292875386D7B9981.quest_desc: ["&b晶质铀&f是一种可通过&6采矿&f获得的矿石。你也可以通过&bMI的采石机&f获取。&b晶质铀&f是Powah模组中的核心资源，被用于大量合成配方，还可以用作&b反应堆&f燃料。"]
 	quest.292875386D7B9981.quest_subtitle: "可能想戴上手套"
-	quest.292875386D7B9981.title: "&a晶质铀"
+	quest.292875386D7B9981.title: "&aUraninite"
 	quest.293C22FC12999302.title: "月辉浆果"
 	quest.2976D5A533FDEE8F.quest_subtitle: "Push and Pull Farther"
 	quest.299CBEA2571FD97A.quest_subtitle: "&b蓝水晶"
@@ -2115,7 +2115,7 @@
 		"我强烈建议试验一遍每一种&a模式&r，&c以免正式使用时破坏其他东西&r。"
 	]
 	quest.2BF835F8F73E8F06.quest_subtitle: "挖呀挖呀挖！"
-	quest.2BF835F8F73E8F06.title: "&cVein Be Gone!"
+	quest.2BF835F8F73E8F06.title: "&c矿脉枯竭！"
 	quest.2C4CA092A557205E.quest_desc: [
 		"  1985年从2015年打来电话，它想要回它的反重力技术！"
 		""
@@ -3688,7 +3688,7 @@
 	]
 	quest.4DBDCEA0761F1D3B.title: "折跃卷轴"
 	quest.4DC59BCF8833CC3C.title: "牛油果"
-	quest.4DCA027828C2921C.quest_desc: ["Portable, stored power for some Create stuff."]
+	quest.4DCA027828C2921C.quest_desc: ["便携的随身能源，可给一些机械动力的物品提供动力。"]
 	quest.4E026831A66E0A42.quest_desc: ["&1蓝色&r粉笔可以召唤并绑定魔王。"]
 	quest.4E026831A66E0A42.quest_subtitle: "七大洋"
 	quest.4E062B9B4960632D.quest_desc: [
@@ -5084,13 +5084,13 @@
 		""
 		"{@pagebreak}"
 		""
-		"&d物质&a百科&r是一个搜索表，它可以&6搜索&r具有特定&d物质价值&r的物品。"
+		"&d物质&a百科&r是一个搜索表，它可以&6搜索&r具有特定&d物质值&r的物品。"
 		""
 		"你可以通过在&a复制终端&r屏幕上的&b搜索栏&r&9左侧&r的按钮访问，也可以点击终端&9右侧&r的物质列表来访问。"
 		""
 		"在&d物质&a百科&r的搜索栏中，你可以使用以下操作："
 		""
-		"&l*&r &aearth>10&r将显示所有含有大于10大地物质的物品"
+		"&l*&r &aearth>10&r 将显示所有含有大于10大地物质的物品"
 		""
 		"&l*&r &4nether=20&r 将显示所有恰好含有20下界物质的物品"
 		""
@@ -5748,7 +5748,7 @@
 		""
 		"总之，尽情去&6发掘&r那些&c不可能的&r。"
 	]
-	quest.7B86C9C90997B3E3.quest_subtitle: "&o来到魔法？"
+	quest.7B86C9C90997B3E3.quest_subtitle: "&o来点魔法？"
 	quest.7B86C9C90997B3E3.title: "&5研习魔法？！"
 	quest.7B88129FF5C9145F.quest_desc: ["刷怪笼激活时玩家必须所处的范围。"]
 	quest.7B88129FF5C9145F.quest_subtitle: "+4 激活范围"

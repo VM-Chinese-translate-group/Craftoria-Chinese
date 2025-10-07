@@ -447,7 +447,7 @@
 				item: {
 					components: {
 						"ftbfiltersystem:filter": "or(item(justdirethings:blockplacert1)item(justdirethings:blockplacert2))"
-						"minecraft:custom_name": "“方块放置器”"
+						"minecraft:custom_name": "\"方块放置器\""
 					}
 					count: 1
 					id: "ftbfiltersystem:smart_filter"

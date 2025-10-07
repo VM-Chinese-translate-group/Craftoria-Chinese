@@ -59,7 +59,7 @@
   "item.tempad.knowledge_projector.card_usage_2": "写入位置后，位置卡可用于为%s和%s提供位置信息。从其他玩家获得的位置卡，若要将位置存入到任意门，只需将其放入卡包，但是与%s配合使用时不需要这样。",
   "item.tempad.knowledge_projector.card_usage_3": "将一张已有位置信息的位置卡放入合成栏合成即可清空它的数据，以便重复使用。",
   "item.tempad.knowledge_projector.cell_crafting": "只需像铁锭、铜锭、红石粉和紫水晶碎片这些手头常有的物品就可合成时间量子单元。",
-  "item.tempad.knowledge_projector.cell_overview": "时间量子是TVA多宇宙技术的重要燃料，因此重现这种技术的第一步就是产生和储存时间量子。原始的时间量子电池可用于储存时间量子，还可用于合成更先进的材料。",
+  "item.tempad.knowledge_projector.cell_overview": "时间量子是TVA多宇宙技术的重要燃料，因此重现这种技术的第一步就是生产并储存时间量子。原始的时间量子电池可用于储存时间量子，还可用于合成更先进的材料。",
   "item.tempad.knowledge_projector.cell_usage": "如果身上携带有%s或是%s，会十分缓慢地为时间量子单元充能，将单元放入%s，也能为它充能。存有时间量子的单元会自动将自身的时间量子转移到物品栏或饰品栏携带的其他设备。时间量子单元能存下%s时间量子。",
   "item.tempad.knowledge_projector.chronomark_crafting": "合成时间标记，需要一块铁块、数个铁锭、数个%s锭、一个末影珍珠以及一块遮光玻璃。",
   "item.tempad.knowledge_projector.chronomark_overview": "时间标记是一种固定式方块，用于生成精确的空间坐标并提供给其他设备。它是%s的升级版，它可以设置最高%s个方块的偏移，以便用户将设备安装在天花板或是地下使用。同时，它还提供更多的用户过滤选项。",

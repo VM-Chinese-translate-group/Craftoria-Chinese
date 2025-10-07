@@ -685,7 +685,7 @@
   "chemical.craftoria.plutonium_oxide": "氧化钚",
   "chemical.craftoria.quantum_infusion": "量子灌注液（化学品）",
 
-  "comment_info": "emi中的提示和信息",
+  "comment_info": "tooltip and info in emi",
   "tooltip.craftoria.hold_shift": "按住[Shift]键可查看更多信息",
   "tooltip.craftoria.ice_essence": "由觉醒之门试炼中的神化暗夜巫妖掉落。",
   "tooltip.craftoria.fire_essence": "Dropped by the Apothic Gauntlet in the Trial of Awaken gateway.",
@@ -704,8 +704,8 @@
   "tooltip.ae2wtlib.quantum_bridge_card.3": "这可以使你从世界任何地方访问你的ME系统。",
 
   "tooltip.justdirethings.raw_ore.source_info": "可以通过破坏%s获得。",
-  "tooltip.justdirethings.raw_ore.check_emi": "查阅EMI了解如何制造这种矿簇。",
-  "tooltip.justdirethings.raw_ore.crafting_note": "不是自然生成的！它是制作出来的。",
+  "tooltip.justdirethings.raw_ore.check_emi": "查阅EMI了解如何制造矿石。",
+  "tooltip.justdirethings.raw_ore.crafting_note": "不是自然生成的！它是做出来的。",
 
   "tooltip.pipez.title.transfer_rates": "传输速率：",
   "tooltip.pipez.title.transfer_rates_universal": "传输速率：（物品 | 流体 | 能量 | 气体）",
@@ -776,16 +776,16 @@
   "info.tesseract.tesseract.line4": "超立方体无法自行转移事物，请使用管道或线缆来输入/输出。",
   "info.tesseract.tesseract.line5": "请确保两端频率相同。",
 
-  "info.mi.budding.certus": "将无瑕的赛特斯石英母岩置于中心以产生赛特斯石英水晶。",
-  "info.mi.budding.amethyst": "将紫水晶母岩置于中心以产生紫水晶碎片。",
-  "info.mi.budding.entro": "将完全恩特罗化的福鲁伊克斯母岩置于中心以产生恩特罗水晶。",
-  "info.mi.budding.thioquartz": "将石英硫母岩置于中心以产生石英硫碎片。",
-  "info.mi.budding.timecrystal.line1": "将时间水晶母岩置于中心以产生时间水晶碎片。",
+  "info.mi.budding.certus": "将无瑕的赛特斯石英母岩置于中心以生产赛特斯石英水晶。",
+  "info.mi.budding.amethyst": "将紫水晶母岩置于中心以生产紫水晶碎片。",
+  "info.mi.budding.entro": "将完全恩特罗化的福鲁伊克斯母岩置于中心以恩特罗水晶。",
+  "info.mi.budding.thioquartz": "将石英硫母岩置于中心以生产石英硫碎片。",
+  "info.mi.budding.timecrystal.line1": "将时间水晶母岩置于中心以生产时间水晶碎片。",
   "info.mi.budding.timecrystal.line2": "需要第三阶段的时间水晶母岩。",
   "info.mi.budding.topaz": "Place Budding Topaz in the center to produce Topaz Shard.",
-  "info.mi.budding.citrine": "将黄水晶母岩置于中心以产生黄水晶碎片。",
-  "info.mi.budding.onyx": "将缟玛瑙母岩置于中心以产生缟玛瑙碎片。",
-  "info.mi.budding.moonstone": "将月长石母岩置于中心以产生月长石碎片。",
+  "info.mi.budding.citrine": "将黄水晶母岩置于中心以生产黄水晶碎片。",
+  "info.mi.budding.onyx": "将缟玛瑙母岩置于中心以生产缟玛瑙碎片。",
+  "info.mi.budding.moonstone": "将月长石母岩置于中心以生产月长石碎片。",
 
   "info.industrialforegoing.dryrubber.line1": "可在胶乳加工机中制成。",
   "info.industrialforegoing.dryrubber.line2": "需要用水和胶乳制作。",
@@ -827,9 +827,9 @@
   "info.modern_industrialization.overdrive_module.line2": "但是要小心，机器在没有原料时仍然会消耗能量。",
   "info.modern_industrialization.overdrive_module.line3": "由于超频的工作原理，配方将会被锁定，直到你将模块移除或机器耗尽能量。",
 
-  "comment_ench": "附魔书描述",
+  "comment_ench": "enchanted book desc",
   "tooltip.enchdesc.hold": "§6按住§eShift键§6可查看附魔描述。§r",
-  "tooltip.enchdesc.embellish": "◊ %s：%s",
+  "tooltip.enchdesc.embellish": " ◊ %s：%s",
 
   "enchantment.minecraft.protection.desc": "减少大多数种类的伤害。",
   "enchantment.minecraft.fire_protection.desc": "减少火焰伤害和着火时的燃烧时间。",
@@ -907,7 +907,7 @@
   "trophy.theurgy.name": "Theurgy奖杯",
   "trophy.void_blossom.name": "虚空之花奖杯",
 
-  "comment_misc": "杂项",
+  "comment_misc": "misc",
   "message.mekanism.plutonium.warning": "Plutonium is not good for you!",
   "message.mekanism.polonium.warning": "Polonium is not good for you!",
   "message.mekanism.yellow_cake.warning": "Cake is a lie! Especially this one...",
