@@ -284,7 +284,7 @@
 	]
 	quest.077658D04D0D4AB3.quest_subtitle: "它有毒吗？"
 	quest.077658D04D0D4AB3.title: "硇砂蓄积器"
-	quest.07821D28021BB440.quest_desc: ["&6破坏&r&b方块&r,无需多言。"]
+	quest.07821D28021BB440.quest_desc: ["&6破坏&r&b方块&r，无需多言。"]
 	quest.07821D28021BB440.quest_subtitle: "钻吧，宝贝，钻吧！！！"
 	quest.07D88A0ABF82A39A.quest_desc: ["使用&b刀&f从&6动物&f身上获取。"]
 	quest.07D88A0ABF82A39A.quest_subtitle: "完美的蜡烛材料"
@@ -314,7 +314,7 @@
 		"You'll want to see the &bBrass Tunnels&r for some usefull expansions of tunnel's &6capabilities&r."
 	]
 	quest.0888176AF1BEA68D.quest_subtitle: "让它们来制作蛋糕！"
-	quest.088E87F861406342.quest_desc: ["&6填充&r你的护城河，&6排干&r沼泽，或无限量地&6抽取&r&9水&r与&b岩浆&r。"]
+	quest.088E87F861406342.quest_desc: ["&6填充&r你的护城河，&6排干&r沼泽，或无限量地&6抽取&r&9水&r与&b熔岩&r。"]
 	quest.0897CCAC72E82C5B.quest_desc: [
 		"&oPowah!是关于发电、存储和传输电力的模组"
 		"&8*但不适用于现代工业化模组"
@@ -441,7 +441,7 @@
 		""
 		"- 以相同方向驱动相邻且平行的&b传动轴&r，或者"
 		""
-		"- 让上述的一个传动轴与另一传动轴以&690°&r角转向，还能......"
+		"- 让上述的一个传动轴与另一传动轴以&690°&r角转向，还能……"
 		""
 		"- 通过&b可调节链式传动箱&r和一点&b红石&r实现&6转速加倍&r或&6减半&r！"
 		""
@@ -689,7 +689,7 @@
 	]
 	quest.1184EBAC0DADDB5F.title: "至高木原木"
 	quest.119752DA7C1B29B6.quest_desc: [""]
-	quest.11FC8E533E897B8F.quest_desc: ["只需&b500,000FE&f，就可以在充能器中充能&b雪球&f，召唤&b闪电&f！！！"]
+	quest.11FC8E533E897B8F.quest_desc: ["只需&b500,000FE&f，就可以在充能台中充能&b雪球&f，召唤&b闪电&f！！！"]
 	quest.11FC8E533E897B8F.quest_subtitle: "雪球中的闪电？"
 	quest.12094D44D2E3DB16.quest_desc: [
 		"这套&b盔甲&r可被&6升级&r，且提供的护甲值与&7铁套&r相当。"
@@ -1209,7 +1209,7 @@
 		""
 		"与你的预期可能不同，即使温度&4过高&r，这台机器&c也不会爆炸&r。"
 	]
-	quest.1A6929801D08F2C5.quest_desc: ["在各种模组中，或许存在其他&6提供更多能源&r的方式，但很难有哪种能超越锅炉驱动多台&b蒸汽引擎&r带来的满足感......只要你能搭建足够的结构，为其&6供给&r充足的&c热量&r与&9水源&r，它便能驱动无数引擎。"]
+	quest.1A6929801D08F2C5.quest_desc: ["在各种模组中，或许存在其他&6提供更多能源&r的方式，但很难有哪种能超越锅炉驱动多台&b蒸汽引擎&r带来的满足感……只要你能搭建足够的结构，为其&6供给&r充足的&c热量&r与&9水源&r，它便能驱动无数引擎。"]
 	quest.1A6929801D08F2C5.quest_subtitle: "咔嚓 咔嚓 咔嚓。"
 	quest.1A885E0BA312B916.quest_desc: ["&b电阻形加热器&r可以将&a能量&r转化为热量，然后，通过&b热力蒸馏阀门&r，你可以把热量&6输入&r蒸馏塔，以提高蒸馏塔的温度。"]
 	quest.1A885E0BA312B916.title: "电阻型加热器"
@@ -1445,7 +1445,7 @@
 	quest.1F33EBCE377EF15D.quest_desc: ["&b高级粉碎工厂&r能够同时进行最多&a五个&r粉碎任务，同样有“&e自动分类&r”功能。"]
 	quest.1F33EBCE377EF15D.title: "高级粉碎工厂"
 	quest.1F71E19AD3CFCABC.quest_desc: [
-		"柴可夫斯基的&o《1812序曲》&r......亦是放置建筑的伴奏。"
+		"柴可夫斯基的&o《1812序曲》&r……亦是放置建筑的伴奏。"
 		""
 		"将你的规划&6炮制&r于世界中，一块接一块。"
 	]
@@ -1668,7 +1668,7 @@
 	quest.21EDEEE1A1B82B53.title: "粗铱"
 	quest.21EE3862F6DA8E09.quest_desc: ["&b精密锯木机&r能够以&e极高的效率&r处理&9原木&r及其他木质材料，同时产生副产物&9锯末&r。"]
 	quest.21EE3862F6DA8E09.title: "精密锯木机"
-	quest.220163965130D8C7.quest_desc: ["会&6破坏&r没有固体碰撞箱的&b方块&r......比如&b轨道&r、&b拉杆&r、&b按钮&r等等。"]
+	quest.220163965130D8C7.quest_desc: ["会&6破坏&r没有固体碰撞箱的&b方块&r……比如&b轨道&r、&b拉杆&r、&b按钮&r等等。"]
 	quest.2209DC294580BF3D.quest_desc: [
 		"巢穴有四个天然开放的入口。"
 		""
@@ -1912,13 +1912,13 @@
 	quest.2909AE63FA355344.title: "3级魔符"
 	quest.292875386D7B9981.quest_desc: ["&b晶质铀&f是一种可通过&6采矿&f获得的矿石。你也可以通过&bMI的采石机&f获取。&b晶质铀&f是Powah模组中的核心资源，被用于大量合成配方，还可以用作&b反应堆&f燃料。"]
 	quest.292875386D7B9981.quest_subtitle: "可能想戴上手套"
-	quest.292875386D7B9981.title: "&aUraninite"
+	quest.292875386D7B9981.title: "&a晶质铀矿"
 	quest.293C22FC12999302.title: "月辉浆果"
 	quest.2976D5A533FDEE8F.quest_subtitle: "Push and Pull Farther"
 	quest.299CBEA2571FD97A.quest_subtitle: "&b蓝水晶"
 	quest.299CBEA2571FD97A.title: "&b钻石水晶"
 	quest.29A942B4C3E9A502.quest_desc: [
-		"&6砍伐&r甚至是最高的&b树木&r，或者&6切割&r许多&b物品&r，变成......更多的&b物品&r"
+		"&6砍伐&r甚至是最高的&b树木&r，或者&6切割&r许多&b物品&r，变成……更多的&b物品&r"
 		""
 		"&b动力锯&r可以处理的输入物品非常多，对应的合成配方也十分丰富，您可能需要拿着期望输出的物品&6右击&r在其顶部的过滤槽来&6锁定&r这个配方。"
 	]
@@ -2149,7 +2149,7 @@
 	quest.2C67C22D74F097A3.title: "紫色仪式之板"
 	quest.2C92B957A5E8646F.quest_desc: ["&b空白样板&f用于写入&6自动化&f所需的&a合成配方&f。你需要将&b空白样板&f放在&b样板编码器&f中&6编码&f，然后将编码后的样板放入&b样板供应器&f。"]
 	quest.2CB005B413D2B889.quest_desc: [
-		"没错，你可以变得十分带派！"
+		"没错，你还可以变成模特！"
 		""
 		"通过使用&b幻化台&r，你可以把你的&o任何&r&7物品&r、&7方块&r或者&7装备&r&6伪装&r成其他&7物品&r。"
 		""
@@ -2157,7 +2157,7 @@
 		"干就完了！"
 		""
 		"想把最强的剑变成曲奇？"
-		"为什么不这样呢？"
+		"为什么不呢？"
 		""
 		"组合是无穷无尽的。 "
 		""
@@ -2391,7 +2391,7 @@
 		""
 		"在&b蓝图桌&r中使用&b空白蓝图&r来实施&6你的规划&r。"
 	]
-	quest.3254374A45D0D708.quest_subtitle: "一张白纸......你会在上面写些什么呢？"
+	quest.3254374A45D0D708.quest_subtitle: "一张白纸……你会在上面写些什么呢？"
 	quest.325A0651CB2D1279.quest_desc: [
 		"这台机器将&c空印刷电路板&r暴露在&e紫外线&r下，为它们在&b蚀刻器&r中的&6加工&r做准备。"
 		""
@@ -2414,7 +2414,7 @@
 	quest.327EDC1D4C50D185.title: "QIO输出端口"
 	quest.3288EB24E412AF9A.quest_subtitle: "完成对应任务章节。"
 	quest.3288EB24E412AF9A.title: "&d现代&b工业化"
-	quest.328E672F6B43D93A.quest_desc: ["For both &6assembling&r your trains and, well, &6being&r train stations."]
+	quest.328E672F6B43D93A.quest_desc: ["它既用于&6组装&r你的列车，同时，其本身也&6作为&r火车站使用。"]
 	quest.32DC17E21BF26228.quest_desc: ["使用它来将保存的&b蓝图&r&6写入&r到空白&b蓝图&r以便在&b蓝图加农炮&r中使用。"]
 	quest.3357A8B614D477B6.quest_desc: [
 		"  这个机器是&b打包机&r的兄弟！它必须由钢材制成，因为它确实需要这么大的力量。"
@@ -2962,7 +2962,7 @@
 	]
 	quest.3F6174E82DDC48C3.quest_desc: ["&b电力熔炼炉&r是一台用来将物品和方块&6烧炼&r成对应的“&8煮熟版&r”的机器。"]
 	quest.3F6174E82DDC48C3.title: "电力熔炼炉"
-	quest.3F6730383CCC8BB0.quest_desc: ["可别被它的外表骗了......它看起来或许和朴素的&b炼药锅&r有几分相似，但其功能要灵活得多，能够与&b传送带&r、&b流体管道&r、&b动力搅拌器&r和&b动力冲压机&r协同工作——&6实现&r多种合成配方的自动化。"]
+	quest.3F6730383CCC8BB0.quest_desc: ["可别被它的外表骗了……它看起来或许和朴素的&b炼药锅&r有几分相似，但其功能要灵活得多，能够与&b传送带&r、&b流体管道&r、&b动力搅拌器&r和&b动力冲压机&r协同工作——&6实现&r多种合成配方的自动化。"]
 	quest.3F73EC8E087E2920.quest_desc: ["生成的生物将会掉落额外战利品，且回响等级越高，额外战利品也越多。"]
 	quest.3F73EC8E087E2920.quest_subtitle: "+1 回响属性"
 	quest.3F8B9421E85C047D.title: "用于化学清洗的水"
@@ -3917,7 +3917,7 @@
 	quest.51F5C6D60D719DC4.quest_desc: [
 		"&b黄铜&r——一种由&b铜&r和&b锌&r组成的简单合金，但巧妇难为无米之炊，你需要&6前往下界&r才能制作它。"
 		""
-		"&6带上&r几个&b空的烈焰人燃烧室&r过去......你可以拿着它对准&b烈焰人刷怪笼&r右击，&6捕捉&r和你带的&b空的烈焰人燃烧室&r一样多的的烈焰人。"
+		"&6带上&r几个&b空的烈焰人燃烧室&r过去……你可以拿着它对准&b烈焰人刷怪笼&r右击，&6捕捉&r和你带的&b空的烈焰人燃烧室&r一样多的的烈焰人。"
 		""
 		"一旦你获得了&b黄铜&r，你就能&6制作&r&c“黄铜”&r区域中的物品：&b机械手&r用于&c执行通常由玩家完成的动作&r，智能版本的基础机械动力装置，另外还有一些不错的装饰选择。我们也将&b烈焰人燃烧室&r放在其中，尽管你已经制作过一个了。"
 	]
@@ -3940,7 +3940,7 @@
 		"{@pagebreak}"
 		"5个方块？&4错误&r"
 		""
-		"8个方块? &2正确&r"
+		"8个方块？&2正确&r"
 		"&8发射一道弹射物，可击中4次，每次击中都会执行上述&5法术效果（破坏 + 穿透）&r"
 		"&8<=> 发射一道弹射物，可击中4次，每次击中都会破坏此方块与其后方的方块&r"
 		""
@@ -4098,7 +4098,7 @@
 		"- &6搬运&r并&6储存物品和流体&r。"
 		"- &6建造&r你的智能工厂。"
 		"- &6复制粘贴&r建筑，或&6导入&r它们。"
-		"- &6填充&r、&6排空&r或&6探索&r水域与岩浆。"
+		"- &6填充&r、&6排空&r或&6探索&r水域与熔岩。"
 		""
 		"本章节并不是游玩该模组的路线指引。 "
 		"机械动力模组自身已通过悬停信息与开创性的&6思索&r系统，为其组件提供了极佳的说明。"
@@ -4281,7 +4281,7 @@
 	quest.5BBB0BDD45F6FFC0.quest_desc: ["恶魔使魔可为其主人提供&b抗火&r效果。"]
 	quest.5BBB0BDD45F6FFC0.quest_subtitle: "掌控炼狱"
 	quest.5BCED97AA55DE2E3.quest_desc: [
-		"- 默认: "
+		"- 默认："
 		"&8自身 -> 腾跃 -> 强化"
 		""
 		"- 强化版 "
@@ -4333,7 +4333,7 @@
 	quest.5CEFB3C551971327.quest_desc: [""]
 	quest.5D584858B61E534B.quest_desc: ["这个&b催化器&f可以缓慢地将&d汞&r&f转化&r为&d汞流&r，它是炼金仪器的能量来源。"]
 	quest.5D584858B61E534B.quest_subtitle: "汞=汞流"
-	quest.5D5FC5420738FDE8.quest_desc: ["普通的&b纸板&r。如此基础，却是......&o机械动力&r最新功能的入口，这些功能展示在本画廊的&c“工厂智能”&r区域。"]
+	quest.5D5FC5420738FDE8.quest_desc: ["普通的&b纸板&r。如此基础，却是……&o机械动力&r最新功能的入口，这些功能展示在本画廊的&c“工厂智能”&r区域。"]
 	quest.5D852AA1930E1019.quest_desc: ["Captured blazes &6enjoy&r &beggs&r, like their distant forbear, Calcifer"]
 	quest.5D92326B02E9DC0F.title: "腰带"
 	quest.5DBFD3F917C4E49C.quest_subtitle: "可使用机械之眼找到"
@@ -4483,7 +4483,7 @@
 		"\"Unidirectional powered rail with variable speed controlled by the signal strength supplied to it.\""
 	]
 	quest.61A7F8B1C6ECEEA5.quest_desc: [
-		"低调的&b鼓风机&r......机械动力中人尽皆知的秘密武器。"
+		"低调的&b鼓风机&r……机械动力中人尽皆知的秘密武器。"
 		""
 		"试试它&6批量处理&r（天呐！）和&6推动&r物体的能力。"
 	]
@@ -4564,7 +4564,7 @@
 	quest.63756443B3FFDB48.quest_desc: [
 		"啊，质朴但又可靠的&b石磨&r。"
 		""
-		"&b粉碎轮&r可能更快，但石磨在许多结构中更&6合适&r......而且另一方面，&d你&r和&b粉碎轮&r也&6合&r不到一块。"
+		"&b粉碎轮&r可能更快，但石磨在许多结构中更&6合适&r……而且另一方面，&d你&r和&b粉碎轮&r也&6合&r不到一块。"
 	]
 	quest.63756443B3FFDB48.quest_subtitle: "Mill-itary Operations"
 	quest.6385DB0FFD411ECB.quest_desc: ["&b铁棒&f也有同样的功能，但其&6放置&f的最大数量限制为27个方块。"]
@@ -4675,7 +4675,7 @@
 	quest.668453E081A6C57B.title: "钛"
 	quest.66855DBE37DB5CD1.quest_desc: ["沿直线&6传递&r旋转应力：任务完成。"]
 	quest.66855DBE37DB5CD1.quest_subtitle: "你让我旋转"
-	quest.66A4DD110F0E66D1.quest_desc: ["是时候去&6管管&r机械动力的......管道了。"]
+	quest.66A4DD110F0E66D1.quest_desc: ["是时候去&6管管&r机械动力的……管道了。"]
 	quest.66A4DD110F0E66D1.quest_subtitle: "我很铜意"
 	quest.66AE27B8C8DADDA5.quest_desc: [
 		"&b颜料混合器&r是一个&6能够混合&r&d流体颜料&r的可靠机器。"
@@ -5019,7 +5019,7 @@
 	quest.6A382549A4C55A5E.quest_desc: ["&c高级控制电路&r是下一等级的&6电路&r，可用于制作更高级的机器。"]
 	quest.6A382549A4C55A5E.title: "高级控制电路"
 	quest.6A6C19E36893381B.quest_desc: [
-		"&b公式装配器&r是一台消耗&e能量&r合成物品的机器，甚至能充当一个&b高级合成台&r。"
+		"&b公式装配器&r是一台消耗&e能量&r合成物品的机器，甚至能充当一个&b高级工作台&r。"
 		""
 		"机器的GUI中有一些按钮和槽位可供使用，在&3左上角&r，有一个用来放置&b合成配方&r的槽位，槽位下方的按钮能够将&3右侧&r的&a3x3合成网格&r内的配方&6编码&r到合成配方里。"
 		""
@@ -5117,7 +5117,7 @@
 		""
 		"&bME扩展接口&f每个槽位能够容纳64个物品，槽位数是普通接口的4倍。"
 	]
-	quest.6BE74683BED141EF.quest_desc: ["它不仅可以作为建造组件和装饰品......还可以装饰在&b流体管道&r上，不仅能&6保持&r其连接方向，而且可以防止后续相邻放置的流体管道与其&6自动连接&r。"]
+	quest.6BE74683BED141EF.quest_desc: ["它不仅可以作为建造组件和装饰品……还可以装饰在&b流体管道&r上，不仅能&6保持&r其连接方向，而且可以防止后续相邻放置的流体管道与其&6自动连接&r。"]
 	quest.6C012E0F8B3922DC.quest_desc: ["&b精英压射工厂&r能够同时处理&a七个&r物品。"]
 	quest.6C012E0F8B3922DC.title: "精英压射工厂"
 	quest.6C7789B56E50B6F1.quest_desc: [
@@ -5627,7 +5627,7 @@
 	quest.78B4459314C86937.title: "奥术基座"
 	quest.78C746829110FC35.quest_desc: ["&b激光&r是&e能量传输&r的高级形式。它&6发射&r的极强的光子射线可&4伤害&r&2实体&r、&c点燃TNT&r、&7破坏方块&r，甚至&e辅助启动&r你未来的&9反应堆&r。"]
 	quest.78C746829110FC35.title: "激光"
-	quest.78D8E2EB66607AAA.quest_desc: ["拿一点&b下界石英&r，混合上&b红石&r，再仔细地&6砂&r一下，然后砰！......你即将制作你的第一个&b电子管&r，并且离&c“特产”&r区域的所有有趣好物更近一步。"]
+	quest.78D8E2EB66607AAA.quest_desc: ["拿一点&b下界石英&r，再混合上&b红石&r，仔细地&6砂&r一下，然后砰！……你就要快要做出你的第一个&b电子管&r了，并且离&c“特产”&r区域的所有有趣好物更近一步。"]
 	quest.78D8E2EB66607AAA.quest_subtitle: "光滑又闪亮！"
 	quest.78EDBDED3BFEC145.quest_desc: [
 		"这个&2世界&r由你的想象力所驱动。"

@@ -123,7 +123,7 @@
   "spell.gametechbcs_spellbooks.message.astral_sense.tnt": "💣 附近检测到被激活的TNT！",
   "spell.gametechbcs_spellbooks.message.astral_sense.targeting": "⚠ %s正以你为目标！(%sm)",
   "spell.gametechbcs_spellbooks.message.astral_sense.approaching": "⚠ %s正在迫近……(%sm)",
-  "spell.gametechbcs_spellbooks.message.astral_sense.projectile": "🚀检测到袭来的弹射物!",
+  "spell.gametechbcs_spellbooks.message.astral_sense.projectile": "🚀检测到袭来的弹射物！",
   "spell.gametechbcs_spellbooks.message.astral_sense.valuable_block": "💎 附近有某样有价值的东西！(%sm)",
   "spell.gametechbcs_spellbooks.tidal_slash.warning": "需要永恒漩涡的三叉戟才能施放这个法术！",
 
