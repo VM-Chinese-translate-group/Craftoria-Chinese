@@ -82,20 +82,20 @@
     "spell.cataclysm_spellbooks.dimensional_rift": "维度裂隙",
     "spell.cataclysm_spellbooks.dimensional_rift.guide": "打开一道维度裂隙",
 
-    "spell.cataclysm_spellbooks.abyssal_slash": "Tidal Tear",
+    "spell.cataclysm_spellbooks.abyssal_slash": "潮汐之泪",
     "spell.cataclysm_spellbooks.abyssal_slash.guide": "斩击目标并造成近战伤害",
 
     "spell.cataclysm_spellbooks.abyssal_blast": "深渊激涌",
     "spell.cataclysm_spellbooks.abyssal_blast.guide": "释放一次毁灭性的爆炸，破坏方块并造成深渊灼烧",
 
     "spell.cataclysm_spellbooks.abyssal_predator": "深渊猎杀者",
-    "spell.cataclysm_spellbooks.abyssal_predator.guide": "Cast a spell that increases your swim speed, attack damage, and attack speed. You gain more damage while underwater",
+    "spell.cataclysm_spellbooks.abyssal_predator.guide": "施放一个法术，可增加你的游泳速度、攻击伤害和攻击速度。你在水下时能造成更多伤害",
 
     "spell.cataclysm_spellbooks.depth_charge": "深渊水雷",
     "spell.cataclysm_spellbooks.depth_charge.guide": "在你周围一定范围内召唤多个深渊水雷",
 
     "spell.cataclysm_spellbooks.conjure_abyssal_gnawer": "Conjure: Abyssal Gnawer",
-    "spell.cataclysm_spellbooks.conjure_abyssal_gnawer.guide": "Summon a school of Abyssal Gnawers from another dimension to your aid",
+    "spell.cataclysm_spellbooks.conjure_abyssal_gnawer.guide": "从另一个维度召唤一群深渊噬咬者来协助你",
 
     "spell.cataclysm_spellbooks.tidal_grab": "触手撕裂",
     "spell.cataclysm_spellbooks.tidal_grab.guide": "Cast a tentacle from your grasp to damage targets",
@@ -121,7 +121,7 @@
     "spell.cataclysm_spellbooks.hellish_blade": "地狱之刃",
     "spell.cataclysm_spellbooks.hellish_blade.guide": "在对手上方召唤一把炎葬的复制品，击中他们并施加眩晕和炽热烙印",
 
-    "spell.cataclysm_spellbooks.abyss_fireball": "Unfolding Coruscation",
+    "spell.cataclysm_spellbooks.abyss_fireball": "迸发闪耀",
     "spell.cataclysm_spellbooks.abyss_fireball.guide": "召唤一股弹射火球洪流，会随你的生命值变化，击中时造成炽热烙印",
 
     "spell.cataclysm_spellbooks.amethyst_puncture": "紫水晶穿刺",
@@ -155,7 +155,7 @@
     "spell.cataclysm_spellbooks.conjure_koboldiator.guide": "召唤强大的骸龙斗士来协助你",
 
     "spell.cataclysm_spellbooks.pilfer": "偷窃",
-    "spell.cataclysm_spellbooks.pilfer.guide": "Cast a spell that rips away the item held in the target's hand",
+    "spell.cataclysm_spellbooks.pilfer.guide": "施展法术将目标手持的物品夺走",
 
     "spell.cataclysm_spellbooks.summon_koboleton": "召唤：骸龙",
     "spell.cataclysm_spellbooks.summon_koboleton.guide": "召唤一群骸龙为你战斗",
@@ -177,7 +177,7 @@
     "ui.cataclysm_spellbooks.void_rune": "在你目标的位置召唤虚空符文",
     "ui.cataclysm_spellbooks.dimensional_rift_spell.lifespan": "召唤一个持续%d秒的维度裂缝",
     "ui.cataclysm_spellbooks.gnawer_count": "召唤数量：%d",
-    "ui.cataclysm_spellbooks.range": "%d range to cast the spell",
+    "ui.cataclysm_spellbooks.range": "施法范围：%d",
     "ui.cataclysm_spellbooks.incinerator_damage": "如果主手持有炎葬，则造成%d点伤害",
     "ui.cataclysm_spellbooks.incineration_duration": "持续%d秒",
     "ui.cataclysm_spellbooks.ignited_count": "召唤数量：%d",
