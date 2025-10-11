@@ -212,7 +212,7 @@
 	quest.0541F90AD95B4B5E.quest_desc: ["请注意：同一种材料在&b置物台&r与&b工作盆&r中&6制作&r的产物可能不同。"]
 	quest.0541F90AD95B4B5E.quest_subtitle: "我能为你压一份黄瓜三明治吗？"
 	quest.0547229FF5334CF5.quest_desc: ["&bME接口&f就像一个箱子，你可以在&bME接口&的GUI中&a标记物品或者流体&r，这样它就会自动从&5网络&f中拉取物品来维持库存。"]
-	quest.0578945AE9664476.quest_subtitle: "可在觉醒之门试炼中掉落。"
+	quest.0578945AE9664476.quest_subtitle: "在觉醒之门试炼中掉落。"
 	quest.05A0AC380BB141A0.quest_desc: ["&b限流管道&r属于一种&b物流管道&r，充当着“&6溢出&r”管道的角色，如果管道中的&3物品&r无处可去，他们就会&6穿过&r&b限流管道&r。"]
 	quest.05A0AC380BB141A0.title: "限流管道"
 	quest.05B2AA73EAEDCCF4.quest_desc: [
@@ -645,7 +645,7 @@
 	quest.103CFBF5C4599A7B.quest_desc: [""]
 	quest.103CFBF5C4599A7B.quest_subtitle: "法术示例"
 	quest.103CFBF5C4599A7B.title: "挖矿"
-	quest.10534DA1BD464834.quest_subtitle: "可在觉醒之门试炼中掉落。"
+	quest.10534DA1BD464834.quest_subtitle: "在觉醒之门试炼中掉落。"
 	quest.1081BFCAB3F07FFF.quest_desc: [
 		"  需要蒸汽升级吗？是的我需要！&b大型蒸汽锅炉&r是小青铜/钢锅炉的升级版。&6它消耗燃料的速度是熔炉的8倍&r，达到最高温度时可产生&6256mb/t的蒸汽&r。还有，要记得给它供&b水&r！"
 		""
@@ -1182,7 +1182,7 @@
 		""
 		"并联运作以&6提升&r流量，也可间隔串联来&6推动&r流体通过更长的管道。"
 	]
-	quest.19B550F54950E253.quest_subtitle: "居住在寒冷生物群系少见的高塔中，跟随灵魂之星的指引便可找到。"
+	quest.19B550F54950E253.quest_subtitle: "居住在寒冷生物群系中少见的高塔里，跟随灵魂之星的指引便可找到。"
 	quest.19B550F54950E253.title: "&b暗夜巫妖"
 	quest.19C33613F2811BAA.quest_desc: ["通过这个&b基础的终端&f，你可以访问你ME网络的&b库存&f。这个终端还能进一步升级。"]
 	quest.19C33613F2811BAA.title: "终端"
@@ -1355,15 +1355,15 @@
 	]
 	quest.1D482F0D9AF8D17E.title: "原子合金"
 	quest.1D57C823A1F0203C.quest_desc: [
-		"  I've got the &bperfect tool&r for you, it'll just take a bit of &6time to craft&r. It's a &bSteam Mining Drill&r! These can &6mine&r in a &6much larger&r grid than regular ol' &bPickaxes&r can; &63x3&r to be exact. Not only will you be able to &6mine more efficiently&r, but you'll be able to make beautiful &btunnels&r with ease."
+		"  我这里有&b超好用的工具&r，不过需要你&6花点时间做出来&r。看，&b蒸汽采矿钻头&r！它一次可以&6挖掘&r一片区域，比普通的&b镐子&6大多了&r，准确来说，&63x3&r。除了&6高效采矿&r之外，这玩意还可以用来挖漂亮的&b隧道&r。"
 		""
-		"  Want to know something cool? This &bdrill&r &6&osilk touches&r blocks as well! I know right? It's awesome! This way you'll get &6&oway&r more bang for your buck when you pair it with the &bForge Hammer&r since you can &6crush&r &bFull Ores&r instead of starting from &bRaw Ores&r."
+		"  还有更厉害的，这个&b钻头&r还可以&6&o精准采集&r哦！哼哼，超棒的对吧？这样一来，配合上&b锻压台&r，直接从&b矿石&r，而不是从&b粗矿&r开始&6加工&r，就可以&6&o提高&r产矿量！"
 		""
-		"  One small... would you call it a &6downside&r? You need to &6power&r it. For some reason, the &bdrill&r itself &6never&r actually &6breaks&r, but you'll need to feed it &bWater&r and some type of &bBurnable Fuel&r; for example &bCoal&r or &bLignite&r. Just &6Right Click&r the &bfuel items&r into your &bdrill&r within your &binventory&r to&6 fill it up&r!"
+		"  有个小小的……也许是&6缺点&r吧？就是它需要&6用电&r。这个&b钻头&r本身&6不会&r真的&6损坏&r，但是你需要给它装&b水&r和&b燃料&r，比如&b煤炭&r或者&b褐煤&r。在&b物品栏&r中用&b燃料&6右击&b钻头&r即可&6装填&r！"
 		""
-		"  &aTips&r: &6Carry around&r a &bWater Bucket&r. Not only will this allow you to &6negate fall damage&r if you're skilled enough, but also as a source of &bWater&r to run your &bdrill&r off of. For some reason, depending on the use case, this world's &bWater Sources&r are infinite; use this to your advantage."
+		"  &a提示&r：记得&6随身带个&b水桶&r。它不仅能&6规避摔落伤害&r（但是需要有点操作），还能随时给你的&b钻头&r加&b水&r。由于某些原因，这个世界的&b水资源&r是无限的。好好利用这一点。"
 		""
-		"  &aMore Tips&r: &6Crouch to mine&r &bsingle blocks&r, if you need! They'll still be in their &6Silktouch&r form, but it wont do the &63x3&r, incase you need to mine &bblocks&r more delicately."
+		"  &a更多提示&r：&6潜行可挖掘&b单个方块&r，如果你想的话！&6精准采集&r此时依然有效，只是不会一次挖掉&63x3&r的方块了，这样你就可以更精细地挖掘&b方块&r了。"
 	]
 	quest.1D57C823A1F0203C.quest_subtitle: "叮铃，当啷，叮铃，当啷！"
 	quest.1D57C823A1F0203C.title: "蒸汽采矿钻头"
@@ -2035,7 +2035,7 @@
 	quest.2B2D3B338662F02C.quest_desc: ["可以用纯化金来&6改变&r&b硫&r的&a品级&r。"]
 	quest.2B3B96DDFE5D3ACA.quest_desc: ["你可以用&b锅炉外壳&r搭建&b热力锅炉&r，利用&c外部热源&r&6产出&r更多&7蒸汽&r，比如&b裂变反应堆&r产生的&9过热钠&r。"]
 	quest.2B3B96DDFE5D3ACA.title: "锅炉外壳"
-	quest.2B41DC5E4D733C9C.quest_subtitle: "可在觉醒之门试炼中掉落。"
+	quest.2B41DC5E4D733C9C.quest_subtitle: "在觉醒之门试炼中掉落。"
 	quest.2B482168EC0C6EB8.quest_subtitle: "Stealth, fun style."
 	quest.2B4BFD88DF1A934D.quest_desc: ["  它的重量只有钢的三分之一，而且延展性和可塑性都非常好。用你刚造好的&b电力高炉&r加热&b铝土&r，即可获得铝。&b铝&r的生产最好实现&6自动化&r，因为这玩意未来的用量可是很大的。"]
 	quest.2B4BFD88DF1A934D.quest_subtitle: "让我铝一铝"
@@ -2949,7 +2949,7 @@
 		"不同的&b食物&r（弹药）会触发不同的&6效果&r。"
 	]
 	quest.3F0B58522B009779.quest_subtitle: "Food Fighter!"
-	quest.3F146A658E5A01F3.quest_subtitle: "可在觉醒之门试炼中掉落。"
+	quest.3F146A658E5A01F3.quest_subtitle: "在觉醒之门试炼中掉落。"
 	quest.3F3600B6701641E0.quest_desc: [
 		"&b安山合金&r是启程机械动力的关键，&c“机械基础”&r区域中的方块也是如此。"
 		""

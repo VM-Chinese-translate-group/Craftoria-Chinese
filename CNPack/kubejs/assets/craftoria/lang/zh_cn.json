@@ -908,9 +908,9 @@
   "trophy.void_blossom.name": "虚空之花奖杯",
 
   "comment_misc": "misc",
-  "message.mekanism.plutonium.warning": "Plutonium is not good for you!",
-  "message.mekanism.polonium.warning": "Polonium is not good for you!",
-  "message.mekanism.yellow_cake.warning": "Cake is a lie! Especially this one...",
+  "message.mekanism.plutonium.warning": "钚对你有害！",
+  "message.mekanism.polonium.warning": "钋对你有害！",
+  "message.mekanism.yellow_cake.warning": "蛋糕是个谎言！特别是这个……",
   "message.mekanism.antimatter.warning": "MATTER IS COMPRESSING AROUND YOU!",
 
   "message.craftoria.player.effect.immortal_feeling": "You feel immortal",
@@ -935,10 +935,10 @@
   "puffish_skills.categories.fortune+0.1.title": "+0.1 时运",
   "puffish_skills.categories.mining_speed+2%.title": "+2% 挖掘速度",
 
-  "lef_tier.extended_industrialization.modern_industrialization.superconductor_coil": "Superconductor",
-  "rei_categories.modern_industrialization.electric_blast_furnace_superconductor_coil": "EBF (Superconductor Tier)",
-  "ebf_tier.modern_industrialization.superconductor_coil": "Superconductor",
-  "pyro_tier.industrialization_overdrive.modern_industrialization.superconductor_coil": "Superconductor",
+  "lef_tier.extended_industrialization.modern_industrialization.superconductor_coil": "超导",
+  "rei_categories.modern_industrialization.electric_blast_furnace_superconductor_coil": "EBF（超导等级）",
+  "ebf_tier.modern_industrialization.superconductor_coil": "超导",
+  "pyro_tier.industrialization_overdrive.modern_industrialization.superconductor_coil": "超导",
 
   "block.modern_industrialization.replicator": "复制器Mk II",
 
