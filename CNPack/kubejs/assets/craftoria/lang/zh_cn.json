@@ -697,7 +697,7 @@
   "tooltip.craftoria.infinity_soul_cell.line2": "与被附身的监守者刷怪蛋一起制作",
   "tooltip.craftoria.infinity_soul_cell.line3": "an empty trinity gem in any crafting grid",
   "tooltip.craftoria.infinity_soul_cell.line4": "As you can't use the captured warden for the ritual, for now",
-  "tooltip.craftoria.compressed.total_blocks": "总方块：%s",
+  "tooltip.craftoria.compressed.total_blocks": "总方块数：%s",
 
   "tooltip.ae2wtlib.quantum_bridge_card.1": "将此卡添加到你的无线终端，以便它能够连接到量子环",
   "tooltip.ae2wtlib.quantum_bridge_card.2": "通过在量子环和终端中放入一个量子缠绕态奇点。",

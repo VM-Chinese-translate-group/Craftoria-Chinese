@@ -879,7 +879,7 @@
 				item: {
 					components: {
 						"ftbfiltersystem:filter": "or(item_tag(create:valve_handles))"
-						"minecraft:custom_name": "\"机械动力: 阀门手轮\""
+						"minecraft:custom_name": "\"机械动力：阀门手轮\""
 					}
 					count: 1
 					id: "ftbfiltersystem:smart_filter"
