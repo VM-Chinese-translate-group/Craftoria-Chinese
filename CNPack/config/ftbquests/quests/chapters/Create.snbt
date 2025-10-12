@@ -191,7 +191,7 @@
 		}
 		{
 			height: 10.0d
-			hover: ["Tools"]
+			hover: ["工具"]
 			image: "ftbquests:textures/gui/toolbox_interior.png"
 			order: 2
 			rotation: 0.0d
@@ -297,7 +297,7 @@
 		}
 		{
 			height: 10.0d
-			hover: ["Mechanical Basics"]
+			hover: ["机械基础"]
 			image: "ftbquests:textures/gui/toolbox_interior.png"
 			order: 2
 			rotation: 0.0d
@@ -307,7 +307,7 @@
 		}
 		{
 			height: 10.0d
-			hover: ["Brass"]
+			hover: ["黄铜"]
 			image: "ftbquests:textures/gui/toolbox_interior.png"
 			rotation: 0.0d
 			width: 10.0d
@@ -316,7 +316,7 @@
 		}
 		{
 			height: 10.0d
-			hover: ["Transportation"]
+			hover: ["物流系统"]
 			image: "ftbquests:textures/gui/toolbox_interior.png"
 			order: 2
 			rotation: 0.0d
@@ -326,7 +326,7 @@
 		}
 		{
 			height: 10.0d
-			hover: ["Factory Smarts"]
+			hover: ["智能工厂"]
 			image: "ftbquests:textures/gui/toolbox_interior.png"
 			order: 2
 			rotation: 0.0d
@@ -336,7 +336,7 @@
 		}
 		{
 			height: 10.0d
-			hover: ["Specials"]
+			hover: ["特殊设备"]
 			image: "ftbquests:textures/gui/toolbox_interior.png"
 			order: 2
 			rotation: 0.0d
@@ -346,7 +346,7 @@
 		}
 		{
 			height: 10.0d
-			hover: ["Trains"]
+			hover: ["火车"]
 			image: "ftbquests:textures/gui/toolbox_interior.png"
 			order: 2
 			rotation: 0.0d
@@ -356,7 +356,7 @@
 		}
 		{
 			height: 10.0d
-			hover: ["Plumbing"]
+			hover: ["流体运输"]
 			image: "ftbquests:textures/gui/toolbox_interior.png"
 			order: 2
 			rotation: 0.0d
@@ -879,7 +879,7 @@
 				item: {
 					components: {
 						"ftbfiltersystem:filter": "or(item_tag(create:valve_handles))"
-						"minecraft:custom_name": "\"Create: Valve Handles\""
+						"minecraft:custom_name": "\"机械动力: 阀门手轮\""
 					}
 					count: 1
 					id: "ftbfiltersystem:smart_filter"
@@ -1079,7 +1079,7 @@
 				item: {
 					components: {
 						"ftbfiltersystem:filter": "or(item_tag(create:seats))"
-						"minecraft:custom_name": "\"Create Seats\""
+						"minecraft:custom_name": "\"机械动力：坐垫\""
 					}
 					count: 1
 					id: "ftbfiltersystem:smart_filter"
@@ -2263,7 +2263,7 @@
 				item: {
 					components: {
 						"ftbfiltersystem:filter": "or(item_tag(create:toolboxes))"
-						"minecraft:custom_name": "\"Create: Toolbox\""
+						"minecraft:custom_name": "\"机械动力：工具箱\""
 					}
 					count: 1
 					id: "ftbfiltersystem:smart_filter"
@@ -2762,7 +2762,7 @@
 				item: {
 					components: {
 						"ftbfiltersystem:filter": "or(item_tag(create:table_cloths))"
-						"minecraft:custom_name": "\"Create: Table Cloths\""
+						"minecraft:custom_name": "\"机械动力：桌布\""
 					}
 					count: 1
 					id: "ftbfiltersystem:smart_filter"

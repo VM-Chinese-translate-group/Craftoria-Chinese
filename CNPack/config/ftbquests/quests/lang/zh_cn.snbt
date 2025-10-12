@@ -171,7 +171,7 @@
 	]
 	quest.045942C709C63044.quest_subtitle: "物如其名"
 	quest.047A5CFAEBBE7E4E.quest_desc: [""]
-	quest.047A5CFAEBBE7E4E.quest_subtitle: "Shopification for Create"
+	quest.047A5CFAEBBE7E4E.quest_subtitle: "机械动力商店"
 	quest.048328EEBEEC9C94.quest_desc: [
 		"&b防辐射服&r可以保护你免受&2辐射泄露&r的危害。"
 		""
@@ -193,7 +193,7 @@
 	quest.04BCA6A8AE60D817.quest_subtitle: "炮塔自动化小贴示"
 	quest.04BCA6A8AE60D817.title: "放置指定方块"
 	quest.04C07CE4F7258BF5.quest_desc: [""]
-	quest.04C07CE4F7258BF5.quest_subtitle: "Move Stuff 'Round"
+	quest.04C07CE4F7258BF5.quest_subtitle: "让机械转起来"
 	quest.04C21F7B2F034772.quest_desc: [
 		"将&b增压线圈&r放置在每个面的内侧的中间位置，对准超临界移相器的中心。"
 		""
@@ -309,9 +309,9 @@
 	]
 	quest.07FE9074247583EE.title: "多方块结构控制器"
 	quest.0807F0094282C2D5.quest_desc: [
-		"&bAndesite Tunnels&r are pretty basic, &6providing&r cover for &bBelts&r and introduce basic item &6aportioning&r of items transported on them."
+		"&b安山岩隧道&r非常基础，可以&6遮盖&r&b传送带&r，并能对传送带上的物品进行简单的&6分流&r。"
 		""
-		"You'll want to see the &bBrass Tunnels&r for some usefull expansions of tunnel's &6capabilities&r."
+		"需要&6功能&r更强大的隧道，就去看看&b黄铜隧道&r吧。"
 	]
 	quest.0888176AF1BEA68D.quest_subtitle: "让它们来制作蛋糕！"
 	quest.088E87F861406342.quest_desc: ["&6填充&r你的护城河，&6排干&r沼泽，或无限量地&6抽取&r&9水&r与&b熔岩&r。"]
@@ -601,9 +601,9 @@
 	quest.0ED5CB1120D1BD6E.quest_desc: ["探索时，你可以在世界各地找到卷轴，但如果你不小心用掉了，卷轴就会被消耗。"]
 	quest.0ED5CB1120D1BD6E.title: "卷轴"
 	quest.0EFB32C64C146682.quest_desc: [
-		"Your right-hand man, in brass mechanical form."
+		"你可靠的得力助手，化身为黄铜机械之躯。"
 		""
-		"&6Does&r things normally only a player can."
+		"能&6完成&r通常只有玩家才能做到的事。"
 	]
 	quest.0F121433B94D72D9.quest_desc: [
 		"   在EMI中，将鼠标&6悬停&r在&lJDT&r的&b升级&r上，&6按住Shift键&r可查看&9描述&r。"
@@ -637,11 +637,11 @@
 	quest.0FE6DFF73BE7AA10.quest_desc: ["召唤比魔精更强大的魔灵需要使用&a黄绿色&r粉笔。它证明了你对神秘学基础知识的掌握。"]
 	quest.0FE6DFF73BE7AA10.quest_subtitle: "知识"
 	quest.10391A74418CA104.quest_desc: [
-		"Essential for one of my favorite class of contraptions: the &bdrillificator&r*."
+		"我最喜欢的一类机械装置——&b钻头阵列&r*——的必备组件。"
 		""
-		"[* a set of &bMechanical Drills&r &6arranged&r on a horizontal plane, for &6drilling&r down into world. ]"
+		"[* 把一组&b动力钻头&r&6排列&r在一个水平面上，用于向地下&6钻探&r。]"
 	]
-	quest.10391A74418CA104.quest_subtitle: "Pulley for You, Teddy!"
+	quest.10391A74418CA104.quest_subtitle: "滑轮，起！"
 	quest.103CFBF5C4599A7B.quest_desc: [""]
 	quest.103CFBF5C4599A7B.quest_subtitle: "法术示例"
 	quest.103CFBF5C4599A7B.title: "挖矿"
@@ -1276,9 +1276,9 @@
 	quest.1C25114D2AF71C35.title: "内爆压缩机"
 	quest.1C4ADA8B75FBBED1.quest_subtitle: "可以将你传送到个人出生点或世界出生点。"
 	quest.1C699E7F615D68A7.quest_desc: [
-		"The terminal in Create’s new build-your-own-storage-system kit."
+		"机械动力全新DIY仓储系统套件中的终端。"
 		""
-		"It can &6link&r to multiple inventories, via &bStock Links&r, and is &boperated&r by the mob of your choice."
+		"它可以通过&b仓储链接站&r&6连接&r到多个物品栏，并由你选择的生物来&b操作&r。"
 	]
 	quest.1C69AE9775DDC0AD.quest_desc: [
 		"  初级的。"
@@ -1302,7 +1302,7 @@
 		"  这个过程被称为&6电解&r，原理就是利用电流将||离子化合物||分解为构成它的元素。"
 	]
 	quest.1CA2825FFA775BBE.title: "电解机"
-	quest.1CACDF56CB395997.quest_desc: ["You can have my &bExtendo Grip&r... when you &6pry&r it out of my cold, dead, fingers. xD"]
+	quest.1CACDF56CB395997.quest_desc: ["想拿走我的&b伸缩机械手&r？……除非我死了，否则你休想从我手里&6把它撬走&r！xD"]
 	quest.1CACDF56CB395997.quest_subtitle: "向天空伸手！"
 	quest.1CC910880728D896.quest_desc: [
 		"  玩&b核裂变&r玩得开心不？嘿嘿，来搞&b核聚变&r吧！"
@@ -1484,9 +1484,9 @@
 	]
 	quest.1F9A1456487655B0.title: "传送机"
 	quest.1FA90B3E33E0DFEE.quest_desc: [
-		"Path &6clearing&r and &6building&r. Very cool."
+		"既能&6清理&r障碍，又能&6铺设&r道路。非常酷。"
 		""
-		"You want to see the ponder for these."
+		"你一定得看看这东西的思索演示。"
 	]
 	quest.1FAB4634116B6EC8.quest_desc: [
 		"作为一个人类，想要提高&e效率&r，你可以制作这对&b自由助跑器&r，让移动更加&a高效&r。"
@@ -1497,7 +1497,7 @@
 	quest.1FD59C1147BCE34F.quest_desc: ["刷怪笼将忽略生成条件。"]
 	quest.1FD59C1147BCE34F.quest_subtitle: "+ 忽略条件"
 	quest.1FDE63D5EA5DA3CB.quest_desc: ["If Internet Protocol has ports, than &bPackage Frogports&r must be part of CCP: Chain Conveyor Protocol."]
-	quest.1FDE63D5EA5DA3CB.quest_subtitle: "Not where frogs land and take off from."
+	quest.1FDE63D5EA5DA3CB.quest_subtitle: "这可不是青蛙起降的平台。"
 	quest.1FF9FB01DBE735FC.quest_desc: [
 		"&b硫&r的本质能够&6改变&r。这就是元素转变的根本。"
 		""
@@ -1644,7 +1644,7 @@
 	]
 	quest.21AE41FA52DB561D.quest_subtitle: "便携能源"
 	quest.21B62373ACBE871E.quest_subtitle: "一种可以绑定到任何地点的炉石变体！"
-	quest.21B6DE76E735A196.quest_desc: ["&bLiner Chasis&r and &bRotational Chassis&r &6help&r build contraptions without superglue."]
+	quest.21B6DE76E735A196.quest_desc: ["&b轴向底盘&r和&b径向底盘&r可以让你在不用强力胶的情况下&6组装&r机械装置。"]
 	quest.21E1E62AA4761EE2.quest_desc: [
 		"你可能想知道我为什么提到这些事，所以我来给你&6详细&r解释一下。"
 		""
@@ -1702,7 +1702,7 @@
 	]
 	quest.22D2716905D415E5.title: "富集仓"
 	quest.231404F75545A149.quest_desc: [""]
-	quest.231404F75545A149.quest_subtitle: "Elevate your self, friends, and builds."
+	quest.231404F75545A149.quest_subtitle: "让你、朋友和建筑一起升起来。"
 	quest.23313676FB186028.quest_desc: [
 		"&6右击&r要&6旋转&r方块，可以旋转它们。"
 		""
@@ -1716,9 +1716,9 @@
 		"提示：密集排列的&b分散网&r的效果可&6叠加&r，不妨一试。"
 	]
 	quest.23988FD7E2EEF319.quest_desc: [
-		"The core element for a molecular assembler of Create, basically."
+		"玩这是机械动力里的“分子装配机”的核心元件。"
 		""
-		"Tip: use a &bRedstone signal&r next to an array of these to &6close&r all unused spots when &6crafting&r a smaller recipe."
+		"提示：在它旁边&6放置&r一个&b红石信号源&r，可以在&6合成&r较小的配方时&6关闭&r所有未使用的格子以强制开始合成。"
 	]
 	quest.23CC2667A1269C9C.quest_desc: ["目前为止，你所用的&b存储组件&f都是以0和1的形式存储&6二维数据&f的。现在，让我们存储&6三维数据&f吧——直接以原物质的形式。这种&b存储组件&f比之前那些复杂得多，因此造价颇为昂贵，你大概没法一步到位地大量存储空间。"]
 	quest.23CC2667A1269C9C.title: "小型空间组件"
@@ -1744,7 +1744,7 @@
 	]
 	quest.247E497BC6DE25CE.title: "机器人"
 	quest.248175A1E0825C2F.quest_desc: ["这根探测杖可以定位&d珍贵&r材料。"]
-	quest.248CD41AE2A92573.quest_desc: ["What it says on the tin: the way to &6link&r inventories to other specific Create compontents."]
+	quest.248CD41AE2A92573.quest_desc: ["如其名：用于将仓储&6连接&r到其他特定的机械动力组件上。"]
 	quest.24A4F1AA0BFFE867.quest_desc: [
 		"  这是&b蒸汽高炉&r的电动版。&b电力高炉（简称EBF）&r利用感应加热产生极端高温。它解锁了许多新配方，&6默认情况下超频限制为128EU/t&r，就像其他的多方块电力机器一样。"
 		""
@@ -1914,7 +1914,7 @@
 	quest.292875386D7B9981.quest_subtitle: "可能想戴上手套"
 	quest.292875386D7B9981.title: "&a晶质铀矿"
 	quest.293C22FC12999302.title: "月辉浆果"
-	quest.2976D5A533FDEE8F.quest_subtitle: "Push and Pull Farther"
+	quest.2976D5A533FDEE8F.quest_subtitle: "推拉得更远"
 	quest.299CBEA2571FD97A.quest_subtitle: "&b蓝水晶"
 	quest.299CBEA2571FD97A.title: "&b钻石水晶"
 	quest.29A942B4C3E9A502.quest_desc: [
@@ -1967,7 +1967,7 @@
 	]
 	quest.29EB6FA48EDBE556.quest_desc: ["&7淡灰色&r粉笔是一种比白色更好的基础粉笔，用它绘制的五芒星更加稳定。"]
 	quest.29EB6FA48EDBE556.quest_subtitle: "第二阵基"
-	quest.2A08F71925AE775E.quest_desc: ["I mean... it's all there right in it's name."]
+	quest.2A08F71925AE775E.quest_desc: ["我的意思是……它的名字已经说明了一切。"]
 	quest.2A1319D8CFE3653B.quest_desc: [
 		"默认情况下，促动器的存储空间不是最大的。"
 		""
@@ -2036,7 +2036,7 @@
 	quest.2B3B96DDFE5D3ACA.quest_desc: ["你可以用&b锅炉外壳&r搭建&b热力锅炉&r，利用&c外部热源&r&6产出&r更多&7蒸汽&r，比如&b裂变反应堆&r产生的&9过热钠&r。"]
 	quest.2B3B96DDFE5D3ACA.title: "锅炉外壳"
 	quest.2B41DC5E4D733C9C.quest_subtitle: "在觉醒之门试炼中掉落。"
-	quest.2B482168EC0C6EB8.quest_subtitle: "Stealth, fun style."
+	quest.2B482168EC0C6EB8.quest_subtitle: "潜行，并保持风度。"
 	quest.2B4BFD88DF1A934D.quest_desc: ["  它的重量只有钢的三分之一，而且延展性和可塑性都非常好。用你刚造好的&b电力高炉&r加热&b铝土&r，即可获得铝。&b铝&r的生产最好实现&6自动化&r，因为这玩意未来的用量可是很大的。"]
 	quest.2B4BFD88DF1A934D.quest_subtitle: "让我铝一铝"
 	quest.2B4BFD88DF1A934D.title: "铝"
@@ -2312,8 +2312,8 @@
 	]
 	quest.305C258D68DA8E96.quest_desc: ["你可以用&b感应外壳&r搭建一个容纳感应元件和供应器的结构，来&6储存&r浩如烟海的&e能量&r。"]
 	quest.305C258D68DA8E96.title: "感应外壳"
-	quest.305EDA1DA23E9BDF.quest_desc: ["Guardians of order in an unpredicatble world of &bChains,&r &bBelts,&r and &bBoxes&r."]
-	quest.305EDA1DA23E9BDF.quest_subtitle: "Package them again, Sam."
+	quest.305EDA1DA23E9BDF.quest_desc: ["在这个由&b锁链&r、&b传送带&r和&b箱子&r组成的不可预测的世界里，它们是秩序的守护者。"]
+	quest.305EDA1DA23E9BDF.quest_subtitle: "再打包一次，山姆。"
 	quest.3068A4024A893DF9.quest_desc: ["如果你到了苍白沼泽群系，你可能会发现这种阴森的植物……"]
 	quest.3068A4024A893DF9.title: "苍白南瓜"
 	quest.306E118494E0FA08.title: "蓝色发光甘蔗"
@@ -2335,7 +2335,7 @@
 	quest.30ED8D5374012D92.quest_desc: ["用玻璃瓶右击闪电苦力怕，可以获得一个雷电瓶。"]
 	quest.30FB66E92909D4B9.quest_subtitle: "所有的硝"
 	quest.30FB66E92909D4B9.title: "&b炼金硝"
-	quest.30FC83AF65C13591.quest_desc: ["Like the &bAndesite Tunnel&r, but with &6filtering&r and &6distribution&r modes."]
+	quest.30FC83AF65C13591.quest_desc: ["类似&b安山隧道&r，不过带有&6过滤&r和&6分配&r物品的功能"]
 	quest.31203D3E004E1DAB.title: "氯气"
 	quest.3143EA7DF096CE61.quest_desc: [
 		"  啊，新机器！它必须由钢材制成，因为它确实需要这么大的力量。"
@@ -2451,17 +2451,17 @@
 	]
 	quest.33AC5F9CFB679483.title: "MekaSuit头盔"
 	quest.33C2042F320B2D34.quest_desc: [
-		"Chutes are more flexible than you might at first think."
+		"溜槽比你初看之下要灵活得多。"
 		""
-		"They can stack vertically, but also diagonally."
+		"它们可以垂直堆叠，也可以斜向堆叠。"
 		""
-		"A Wrench will place, or remove, windows in Chutes."
+		"用扳手可以给溜槽安装或拆除窗户。"
 		""
-		"Moves items up, using Encased Fans at either end to force air up."
+		"在两端使用风扇向上吹气，可以使物品向上移动。"
 		""
-		"Move items down with... nothing else. (thank you, gravity!)"
+		"让物品向下移动则……什么都不用做。（感谢重力！）"
 	]
-	quest.33C2042F320B2D34.quest_subtitle: "Well, Chute."
+	quest.33C2042F320B2D34.quest_subtitle: "好吧，溜了。"
 	quest.33CD5343AFBF853C.quest_desc: [
 		"可将&5魔源&r从A处输送到B处。"
 		""
@@ -2555,11 +2555,11 @@
 	quest.35885A1220BB34FC.quest_subtitle: "一年四季"
 	quest.35885A1220BB34FC.title: "&a季节"
 	quest.3594EFD40D059EA3.quest_desc: [
-		"Another favorite of mine."
+		"我的另一个最爱。"
 		""
-		"Drive them with a &bThreshhold Switch&r on a &bVault&r to get a cool progress bar &6showing&r how full it is."
+		"在&b保险库&r上放一个&b存量传信器&r来驱动它，你就能得到一个超酷的进度条，&6显示&r保险库的装填程度。"
 	]
-	quest.3594EFD40D059EA3.quest_subtitle: "Totally, like, tubular."
+	quest.3594EFD40D059EA3.quest_subtitle: "辉常棒。"
 	quest.359A7C4C3C5E734F.quest_desc: ["无头鼠人可以偷取附近被击败的怪物的头颅。然后，会为你提供对该怪物类型的&6伤害加成&r。"]
 	quest.359A7C4C3C5E734F.quest_subtitle: "Getting ahead"
 	quest.35A5048875097D66.quest_desc: [
@@ -2627,13 +2627,13 @@
 	]
 	quest.36D6DCA2535410E0.title: "超质量 QIO 驱动器"
 	quest.36F22AA68C1841F6.quest_desc: [""]
-	quest.36F22AA68C1841F6.quest_subtitle: "You be gucci, armored, and lava proof!"
+	quest.36F22AA68C1841F6.quest_subtitle: "你将刀枪不入，熔岩不侵！"
 	quest.37001338052E8335.quest_desc: ["&b终极粉碎工厂&r能够同时进行最多&a九个&r粉碎任务，同样有“&e自动分类&r”功能。"]
 	quest.37001338052E8335.title: "终极粉碎工厂"
 	quest.3723D86B327384DB.quest_desc: [
-		"Two words: &olava train&r."
+		"四个字：&o熔岩列车&r。"
 		""
-		"(but really, with this you can &6transfer&r &9fluids&r to or from mobile contraptions and trains)"
+		"（但说真的，有了这个，你就可以向移动的机械装置和火车&6传输&r&9流体&r，或从中抽出流体）"
 	]
 	quest.373E9DFC1082CC1F.quest_desc: [
 		"用于搭建本模组的存储系统。"
@@ -2690,9 +2690,9 @@
 	]
 	quest.37F3ABF113A1D399.title: "低压能量输入仓"
 	quest.381C007F6EB3B389.quest_desc: [
-		"Very well may be, low key, the most &6enjoyed&r single block of Create."
+		"低调地说，很可能是机械动力里最受人喜欢的单个方块了。"
 		""
-		"I mean, come on—the first time you &6drove&r a train in Create felt awesome, didn’t it? Damn right."
+		"拜托，想想看——你第一次在机械动力里&6驾驶&r火车的时候，是不是感觉超棒？那可太对了！"
 	]
 	quest.3850B26FC78DD874.quest_desc: [
 		"&b基础烧炼工厂&r能够同时进行最多&a三个&r烧炼任务。"
@@ -2705,7 +2705,7 @@
 		""
 		"它还能管理可以接受升级的&b物品&r的&a升级&r。"
 	]
-	quest.38DF71D9CB5045F2.quest_desc: ["It’s brass, it &6spins,&r and it &6looks fly&r. ‘Nuff said."]
+	quest.38DF71D9CB5045F2.quest_desc: ["黄铜打造，&6旋转&r&6如飞&r。——无需多言"]
 	quest.38E1A4E0A032E377.quest_desc: [
 		"&b稳定虫洞&r作为可放置的访问端连接到&b存储促动器&r。物品可以从中输入输出，但建议在提取时使用魔精搬运工以减少延迟问题。"
 		""
@@ -2713,7 +2713,7 @@
 	]
 	quest.38E1A4E0A032E377.quest_subtitle: "远程交换"
 	quest.38E1A4E0A032E377.title: "存储访问"
-	quest.38EF4E7FE82B62A6.quest_subtitle: "Never be late, be late, for a very important date."
+	quest.38EF4E7FE82B62A6.quest_subtitle: "别迟到，别迟到，有个非常重要的约会。"
 	quest.392EC503FD52E32A.quest_desc: ["有着多种类别、多种&6品级&r的&b硫&r。"]
 	quest.392EC503FD52E32A.title: "硫"
 	quest.39460CB77E53D5FA.quest_desc: [
@@ -2912,11 +2912,11 @@
 	quest.3E165961635B0C4B.quest_subtitle: "找到神秘方块"
 	quest.3E165961635B0C4B.title: "神秘方块"
 	quest.3E1B0CBA0889C0AE.quest_desc: [
-		"&bGantrys&r: &6movement&r and &6power transmission&r: noice!"
+		"&b起重机&r：既能&6移动&r，又能&6传输动力&r：太酷啦！"
 		""
-		"Do check out the cascaded gantries, explained in the ponder."
+		"一定要看看思索演示里解释的级联起重机。"
 	]
-	quest.3E1B0CBA0889C0AE.quest_subtitle: "For the well-heeled landed Gantry"
+	quest.3E1B0CBA0889C0AE.quest_subtitle: "为大型落地起重机准备的"
 	quest.3E212B5DE277B73A.quest_subtitle: "哼 哼"
 	quest.3E41681892FA2E44.quest_desc: ["安装在&b样板供应器&r或&bME接口&r中，就能让它们给接触的方块/线缆提供能量。"]
 	quest.3E62028A2B03EEA4.quest_desc: ["&b精英热导线缆&r拥有&a1.0&r点&4热容&r，&e5.0&r点热导，但热阻为&c8000.0&r点。"]
@@ -2948,7 +2948,7 @@
 		""
 		"不同的&b食物&r（弹药）会触发不同的&6效果&r。"
 	]
-	quest.3F0B58522B009779.quest_subtitle: "Food Fighter!"
+	quest.3F0B58522B009779.quest_subtitle: "食物大战！"
 	quest.3F146A658E5A01F3.quest_subtitle: "在觉醒之门试炼中掉落。"
 	quest.3F3600B6701641E0.quest_desc: [
 		"&b安山合金&r是启程机械动力的关键，&c“机械基础”&r区域中的方块也是如此。"
@@ -3173,7 +3173,7 @@
 	]
 	quest.431FA8EF8194D39B.quest_subtitle: "🦀 大帽子 🦀 | 考古专家"
 	quest.434D7EDCDD954B40.quest_desc: ["除了作为合成材料，&b安山机壳&r还可以用来&6装饰&r&b传动轴&r和&b传送带&r，甚至&b齿轮&r和&b大齿轮&r。后者用途有助于让用来提升早期动力源转速的齿轮结构保持紧凑。"]
-	quest.434D7EDCDD954B40.quest_subtitle: "Basic yet Functional"
+	quest.434D7EDCDD954B40.quest_subtitle: "基础但实用"
 	quest.4351715A36CA0DA6.quest_desc: [
 		"&b营养液化器&r能够将几乎所有食物&6打碎&r成&d营养糊剂&r，可以食用，也可以大量储存。"
 		""
@@ -3316,7 +3316,7 @@
 	]
 	quest.454FF6E2926163F7.title: "放弃了？"
 	quest.4554EE3CC1F80F7D.quest_desc: ["让你最爱的生物来&6驾驶&r列车！"]
-	quest.45664AAC3ACCEF36.quest_desc: ["A much more &6capable&r &bObserver.&r"]
+	quest.45664AAC3ACCEF36.quest_desc: ["一个功能&6强大的多&r的&b侦测器。&r"]
 	quest.45692D06641029FD.quest_subtitle: "法术示例"
 	quest.45692D06641029FD.title: "战斗"
 	quest.456D933518B72DA2.quest_desc: [
@@ -3425,7 +3425,7 @@
 		"做一个&b钢材升级&r，然后&6用工作台或者打包机&r把它安装到任意青铜机器上。"
 	]
 	quest.475DC864A0BC0F1F.title: "更高速的机器？"
-	quest.4788E4092A488C9E.quest_desc: ["Simply a must have for the fast factory."]
+	quest.4788E4092A488C9E.quest_desc: ["对于高速工厂来说，这绝对是必备品。"]
 	quest.478A6A8ADA223AEF.quest_desc: [
 		"&b餐壶&r是用来盛&d营养糊剂&r的，你可以用餐壶&6吃掉&r营养糊剂。"
 		""
@@ -3479,13 +3479,13 @@
 		"如果要最大限度地利用&4热&r端，就用&c散热器&r对&b冷&r端&6散热&r，如果想要&6最大化&r&b冷&r，则相反操作。"
 	]
 	quest.488424BE711AE0F1.quest_desc: [
-		"Fairly flexible in &6placement&r—on the sides, top, or bottom."
+		"&6放置&r位置相当灵活——可以在侧面、顶部或底部。"
 		""
-		"You'll certainly want to check out the upgraded version, the &bBrass Funnel&r."
+		"你肯定会想看看它的升级版——&b黄铜漏斗&r。"
 		""
-		"[ tip: when &6placed&r on a &bBelt,&r &6hit&r with a &bWrench&r to &6expand&r them into their full block-width form ]"
+		"[ 提示：当&6放置&r在&b传送带&r上时，用&b扳手&r&6右击&r可以将其&6扩展&r为占据整个方块宽度的形态 ]"
 	]
-	quest.488424BE711AE0F1.quest_subtitle: "Create's I/O port"
+	quest.488424BE711AE0F1.quest_subtitle: "机械动力的I/O端口"
 	quest.489C1CE982BC1739.quest_desc: ["&dQIO输入端口&r可将其下方存储容器中的物品&c输入&r到系统中。"]
 	quest.489C1CE982BC1739.title: "QIO输入端口"
 	quest.48E96D243486D38E.quest_desc: [
@@ -3512,7 +3512,7 @@
 	]
 	quest.495EEAA73357FA60.quest_subtitle: "超能力"
 	quest.495EEAA73357FA60.title: "蚀空合金工具\\&武器"
-	quest.497660DB9611C67C.quest_desc: ["Like the regular &bChute,&r but with &6filtering&r and &6rate control&r."]
+	quest.497660DB9611C67C.quest_desc: ["就像普通的&b溜槽一样，&r但有&6过滤&r和&6速率控制&r功能。"]
 	quest.4980C231ECDB0BF2.quest_desc: ["  &b钢钻&r可产出其余的&6常用矿物&r，你在未来的自动化进程，乃至探索整个世界的旅程中都会用到的。你可以用EMI查看此钻头可能的产物。"]
 	quest.4980C231ECDB0BF2.title: "钢钻"
 	quest.49910F2EFEA1CDF2.quest_desc: [
@@ -3560,8 +3560,8 @@
 	quest.4A559B47D164D1BB.title: "&b咒翼&e灵骸"
 	quest.4A85523931A7D539.quest_desc: ["每个&b高级感应供应器&r可以为你的感应矩阵增加&e819.2 kFE/t&r的能量传输（输入/输出）速率。"]
 	quest.4A85523931A7D539.title: "高级感应供应器"
-	quest.4AAFD7E0D868844A.quest_desc: ["It &6ejects...&r this, that, cows, creepers, sheep, or even players."]
-	quest.4AAFD7E0D868844A.quest_subtitle: "Wheee!"
+	quest.4AAFD7E0D868844A.quest_desc: ["它能&6弹射……&r这个、那个、牛、苦力怕、羊，甚至玩家。"]
+	quest.4AAFD7E0D868844A.quest_subtitle: "呀呼！"
 	quest.4AC8B9FD75596EEF.quest_desc: ["&b高级压射工厂&r能够同时处理&a五个&r物品。"]
 	quest.4AC8B9FD75596EEF.title: "高级压射工厂"
 	quest.4ACA16837329BE5D.title: "甜椒"
@@ -3704,11 +3704,11 @@
 		"使用前需要分区。"
 	]
 	quest.4E3578FC24ACF39B.quest_desc: [
-		"You probably met this unassuming little guy while pressing your first plates in Create."
+		"在你第一次用机械动力压制板材时，你可能就已经见过这个不起眼的小东西了。"
 		""
-		"The &bDepot&r &6holds&r items in place for many other Create things to interact with them."
+		"&b置物台&r能将物品&6固定&r在原地，以便其他机械动力设备与其交互。"
 	]
-	quest.4E3578FC24ACF39B.quest_subtitle: "Items... Hold Still!"
+	quest.4E3578FC24ACF39B.quest_subtitle: "物品们……立正！"
 	quest.4E56C9A5F225A883.quest_subtitle: "用于加速某个方块。"
 	quest.4E56C9A5F225A883.title: "&6Gadgets Against Grind"
 	quest.4E6BB4279E8E793A.quest_desc: ["&8丰足&r材料往往无处不在且数量庞大。"]
@@ -3896,7 +3896,7 @@
 	]
 	quest.5143D5FD55C819CA.quest_subtitle: "目标已锁定"
 	quest.51542DCB5C8E5C3A.quest_desc: ["更高一级的法术书也只能容纳6个法术"]
-	quest.51649293068FE93D.quest_desc: ["可&6容纳&r多达八种不同的物品，能自定义颜色，且附近所有&b工具箱&r均可通过同一快捷键快速&6取用&r——利于让你专注于工作，而不是寻找工具。"]
+	quest.51649293068FE93D.quest_desc: ["&b径向底盘&r和&b轴向底盘&r可以让你在不用强力胶的情况下&6组装&r机械装置。"]
 	quest.516F2A1A1270D9DC.quest_desc: [
 		"  &b初级&r："
 		"    • 可&6破坏&r&b方块&r"
@@ -3954,7 +3954,7 @@
 		""
 		"如果要查看所有可用的&8燃料&r，请打开“&9可用燃料&r”标签页，该标签页按&a最高&r到&c最低&r效率排序。"
 	]
-	quest.52575C93CD6DD5D5.quest_desc: ["For &6packing&r and &6unpacking&r packages."]
+	quest.52575C93CD6DD5D5.quest_desc: ["用于&6打包&r和&6拆包&r。"]
 	quest.525D3BBD78692516.title: "灵魂果实"
 	quest.5299134A1144826F.quest_desc: [
 		"Can be &6(dis)charged&r using a &bCharging Station&r. "
@@ -4006,13 +4006,13 @@
 	quest.53DEE3EF1297B630.quest_subtitle: "新热源"
 	quest.53EC4A657655A7D5.title: "盐水"
 	quest.53ECE17FBD95392C.quest_desc: [
-		"Ah, the &bWindmill Bearing&r."
+		"啊，&b风车轴承&r。"
 		""
-		"- Good for self-powered small contraptions (often for farming)"
+		"- 适合用于自驱动的小型装置（通常用于农业）"
 		""
-		"- The common step between &bWater Wheels&r and &bSteam Engines&r, in the Create-or's quest for MOAR POWAH."
+		"- 在机械师追求“更多抛瓦”的道路上，这是从&b水车&r到&b蒸汽机&r的常见过渡阶段。"
 	]
-	quest.53ECE17FBD95392C.quest_subtitle: "Tilt at this, Don Quixote"
+	quest.53ECE17FBD95392C.quest_subtitle: "堂吉诃德，你的风车在这儿！"
 	quest.5401B18217772D6C.quest_desc: [
 		"  你可以用&b热交换机&r来，呃，交换热量。产生的&b高压水&r可以回收，用于另一个循环。 "
 		""
@@ -4068,7 +4068,7 @@
 		"记得用&b辞典&r查找方块的标签。"
 	]
 	quest.550B874D9F2D0D5A.title: "数字型采矿机"
-	quest.55359056540E1A96.quest_desc: ["Demand-side drivers at the heart of the modern smart Create factory."]
+	quest.55359056540E1A96.quest_desc: ["现代智能机械工厂的核心——需求侧驱动器。"]
 	quest.55391FF509DA53A5.quest_desc: [
 		"&3神通术&r的炼金技艺可以提供增加矿石产量的方法，将一种材料转化为另一种，以及生成无尽的各类资源。"
 		""
@@ -4173,8 +4173,8 @@
 		"{image:justdirethings:block/coalblock_t3 width:100 height:100 align:center fit:true}"
 	]
 	quest.573FAED7B35F6C86.quest_desc: ["有十个法术槽位的附魔法术书，更适合经验丰富的法师。"]
-	quest.5773319EE8B3D45C.quest_desc: ["Adds some &6speed control&r to &bChain Drives&r."]
-	quest.578394EC869C10AB.quest_desc: ["Simple point-to-point item transportation, power transmission, or low-key ski lift for players—you decide!"]
+	quest.5773319EE8B3D45C.quest_desc: ["为&b锁链传动&r添加&6速度控制&r功能。"]
+	quest.578394EC869C10AB.quest_desc: ["简单的点对点物品运输、动力传输，或是给玩家的简易滑雪缆车——由你决定！"]
 	quest.57852C27FD0C29AA.title: "升级"
 	quest.57A8D67858693F4A.quest_desc: ["&b基础压射工厂&r能够同时处理&a三个&r物品。"]
 	quest.57A8D67858693F4A.title: "基础压射工厂"
@@ -4334,7 +4334,7 @@
 	quest.5D584858B61E534B.quest_desc: ["这个&b催化器&f可以缓慢地将&d汞&r&f转化&r为&d汞流&r，它是炼金仪器的能量来源。"]
 	quest.5D584858B61E534B.quest_subtitle: "汞=汞流"
 	quest.5D5FC5420738FDE8.quest_desc: ["普通的&b纸板&r。如此基础，却是……&o机械动力&r最新功能的入口，这些功能展示在本画廊的&c“工厂智能”&r区域。"]
-	quest.5D852AA1930E1019.quest_desc: ["Captured blazes &6enjoy&r &beggs&r, like their distant forbear, Calcifer"]
+	quest.5D852AA1930E1019.quest_desc: ["被捕获的烈焰人&6喜欢&r&b鸡蛋&r，就像它们遥远的祖先卡西法一样"]
 	quest.5D92326B02E9DC0F.title: "腰带"
 	quest.5DBFD3F917C4E49C.quest_subtitle: "可使用机械之眼找到"
 	quest.5DBFD3F917C4E49C.title: "&4先驱者"
@@ -4434,7 +4434,7 @@
 	]
 	quest.6070283AEA8DFA7E.title: "精炼厂"
 	quest.607FFC2B7A0F972A.quest_desc: [""]
-	quest.607FFC2B7A0F972A.quest_subtitle: "Push and Pull"
+	quest.607FFC2B7A0F972A.quest_subtitle: "推与拉"
 	quest.60868DF852E6028B.quest_desc: [
 		"你可以用&b锇&r制作大量&7工具&r。"
 		""
@@ -4478,9 +4478,9 @@
 		"-设为&9低信号&f模式时，机器会在无&c红石&f信号时&6工作&f。接收到&c红石&f信号时机器就会关闭。"
 	]
 	quest.619BC1F1094F4EFA.quest_desc: [
-		"It's hover and SHIFT info says it all: "
+		"它的悬浮提示（按住SHIFT）说明了一切："
 		""
-		"\"Unidirectional powered rail with variable speed controlled by the signal strength supplied to it.\""
+		"“单向动力铁轨，速度由供给的信号强度控制。”"
 	]
 	quest.61A7F8B1C6ECEEA5.quest_desc: [
 		"低调的&b鼓风机&r……机械动力中人尽皆知的秘密武器。"
@@ -4696,7 +4696,7 @@
 		""
 		"可存储&a无限&r量的FE。"
 	]
-	quest.6711E72048BBDB08.quest_desc: ["&6Holds&r plenty of up to eight different things, color-able, and all nearby &bToolboxes&r can be &6accessed&r with one keybind—handy for keeping your eyes on your work, not your tools."]
+	quest.6711E72048BBDB08.quest_desc: ["可&6容纳&r多达八种不同物品，支持自定义颜色，且所有附近的&b工具箱&r均可通过一个快捷键&6访问&r——方便你在专注工作时无需分心查看工具。"]
 	quest.6716C1CE7B7FFA94.quest_desc: ["&b容量卡&f能够增加&b总线&f中过滤槽位的数量。"]
 	quest.6716C1CE7B7FFA94.title: "基础升级"
 	quest.67284079A941EF4B.quest_desc: [
@@ -5034,7 +5034,7 @@
 	quest.6A6C19E36893381B.title: "公式装配器"
 	quest.6A9DAB624949191E.quest_desc: ["&b精英富集工厂&r能够同时处理最多&a七个&r配方，同样有“&e自动分类&r”功能。"]
 	quest.6A9DAB624949191E.title: "精英富集工厂"
-	quest.6AB303BEA478C0F3.quest_desc: ["&6Programmable&r Rotation Control!"]
+	quest.6AB303BEA478C0F3.quest_desc: ["&6可编程&r旋转控制器！"]
 	quest.6ADBF1DFBDF45D7C.quest_desc: [
 		"使用&b逻辑处理器&f、&b红石&f以及&b石英玻璃&f制作而成。"
 		""
@@ -5090,15 +5090,15 @@
 		""
 		"在&d物质&a百科&r的搜索栏中，你可以使用以下操作："
 		""
-		"&l*&r &aearth>10&r 将显示所有含有大于10大地物质的物品"
+		"&l*&r &a大地>10&r 将显示所有含有大于10大地物质的物品"
 		""
-		"&l*&r &4nether=20&r 将显示所有恰好含有20下界物质的物品"
+		"&l*&r &4下界=20&r 将显示所有恰好含有20下界物质的物品"
 		""
-		"&l*&r &dquantum<6&r 将显示所有含有小于6量子物质的物品"
+		"&l*&r &d量子<6&r 将显示所有含有小于6量子物质的物品"
 		""
-		"&l*&r &2!earth&r 将显示所有不含有大地物质的物品"
+		"&l*&r &2!大地&r 将显示所有不含有大地物质的物品"
 		""
-		"&l*&r &7*metallic&r 将显示所有仅含有金属物质的物品"
+		"&l*&r &7*金属&r 将显示所有仅含有金属物质的物品"
 	]
 	quest.6B5431B3A107C9D5.quest_subtitle: "所有操作的界面。"
 	quest.6B5431B3A107C9D5.title: "复制终端"
@@ -5147,7 +5147,7 @@
 	]
 	quest.6CA941AE132445D9.quest_subtitle: "电子之心"
 	quest.6CA941AE132445D9.title: "机器框架"
-	quest.6CF338A73F212B79.quest_desc: ["Essentially an I/O port, like the &bAndesite Funnel&r, but with &6filtering&r!"]
+	quest.6CF338A73F212B79.quest_desc: ["本质上是个I/O端口，就像&b安山漏斗&r那样，只不过带有&6过滤功能&r！"]
 	quest.6D0926D173AA5D06.title: "蔓越莓"
 	quest.6D092A4BC4A22314.quest_desc: ["远古知识碎片在书架的战利品中很少见，更多出现在远古城市或流浪商人的交易。这些碎片被用来制作邪术手稿，这是解锁很久以前就遗失的古代知识的关键，现在只有监守者和少数敢于寻找这种古老魔法的人才会使用。"]
 	quest.6D18BFC48A82E53E.quest_desc: ["将&b1个金锭，1个青金石以及1个恩特罗粉&f&6丢入&f水中，借助万有引力之力，即可获得&b1个恩特罗融注锭&f。"]
@@ -5157,11 +5157,11 @@
 	quest.6DA3C5DEE0F6438D.quest_subtitle: "钻石猎人"
 	quest.6DDA86A3B4C0ACC1.title: "采掘小帮手"
 	quest.6DDD8661181840F1.quest_desc: [
-		"The shipping container for international shipping."
+		"集装箱之于国际航运，"
 		""
-		"The data packet for comunication networks."
+		"数据包之于通信网络，"
 		""
-		"And now… the humble &bCardboard Package&r packet-izes item &6transfer&r, underpinning Create’s new item &6requesting&r and &6delivery&r abilities"
+		"而现在……朴实无华的&b纸壳包裹&r将物品&6传输&r数据包化，为机械动力全新的物品&6请求&r和&6配送&r能力奠定了基础。"
 	]
 	quest.6DED76B2F4AFD02F.quest_desc: ["&b干冰&f在地下极为罕见，但如果你有足够的&b电力和冰&f，你可以制作它。"]
 	quest.6DED76B2F4AFD02F.quest_subtitle: "摸起来有点冷"
@@ -5244,7 +5244,7 @@
 	quest.6F9513334361D44E.quest_subtitle: "灵视剂"
 	quest.6FA1BD39E9BB9392.quest_desc: ["&b终极融合工厂&r能够同时融合&a九个&r物品。"]
 	quest.6FA1BD39E9BB9392.title: "终极融合工厂"
-	quest.6FD3C9B4EF558332.quest_desc: ["Brassy on the edges, but classy-not-brassy all over."]
+	quest.6FD3C9B4EF558332.quest_desc: ["边缘泛着黄铜光泽，整体透着不俗的优雅"]
 	quest.6FDE684299FEC954.quest_desc: ["每个&b精英机械管道&r可以提供&932,000mb&r流体容纳量，且“&a抽出&r”管道的抽出速率为&98,000mb/t&r。"]
 	quest.6FDE684299FEC954.title: "精英机械管道"
 	quest.6FE07EECD4579FD4.quest_desc: [
@@ -5522,17 +5522,17 @@
 		"同时，&b高级灌注工厂&r能够容纳最多&14,960 mb&r灌注材料。"
 	]
 	quest.754EC4FE62F454E8.quest_desc: [
-		"You know how &6placing&r one chest next to another can form a double chest?"
+		"你知道把一个箱子放在另一个旁边可以组成一个大箱子吧？"
 		""
-		"Well &bVaults&r are like that, but up to 81 vaults can be &6combined&r together."
+		"嗯，&b储物箱&r也是这样，但最多可以&6组合&r81个。"
 		""
-		"The catch? You can't look inside them directly."
+		"但有个问题：你不能直接查看它们内部。"
 		""
-		"&6Get&r things in and out with &bChutes&r, &bHatches&r, &bFunnels&r, and &bPackagers&r."
+		"用&b溜槽&r、&b舱口&r、&b漏斗&r和&b打包机&r来&6存取&r物品。"
 		""
-		"[ tip: see the &bInventory Ticker&r for Create's great take on a storage terminal ]"
+		"[ 提示：可以看看&b仓储发报机&r，那是机械动力对存储终端的绝佳诠释 ]"
 	]
-	quest.754EC4FE62F454E8.quest_subtitle: "It's all your Vault!"
+	quest.754EC4FE62F454E8.quest_subtitle: "都是你的“箱”中之物！"
 	quest.75810CDFB362E0CB.quest_desc: [
 		"量子缠绕态奇点由&b末影珍珠&r或&b末影粉&r与一个&b奇点&r进行&6反应产生&r。任何&6爆炸&r产生的冲击力都足以引发反应。"
 		""
@@ -5653,9 +5653,9 @@
 	quest.7921D6460E480F82.title: "锅炉阀门"
 	quest.79288A7251986136.quest_desc: [
 		""
-		"[ tip: even for contraptions not meant to travel on rails, &bCart Assemblers&r are handy for placing contraptions into the world, or converting back to contraption form—and then picking them up again in item form with a &bWrench&r. Hello, hammer-space! ]"
+		"[ 提示：即使对于不打算在铁轨上运行的装置，&b矿车装配站&r也非常方便，可以用来将装置放置到世界中，或者将其转换回装置形态——然后再用&b扳手&r将其收回成物品形态。你好啊，四次元口袋！]"
 	]
-	quest.79288A7251986136.quest_subtitle: "Contraptions on Minecraft Carts? Yes!"
+	quest.79288A7251986136.quest_subtitle: "在矿车上造机器？没错！"
 	quest.7931987BD172464D.title: "茴香"
 	quest.7938CF0A65011F0B.quest_desc: ["真空管、热离子管，亦称为&b电子管&r——无论名称如何，它都是外观酷炫的元件，同时也是打造各类机械动力“智能”组件的核心材料。"]
 	quest.7946DBB127444E4D.title: "黄瓜"
@@ -5927,7 +5927,7 @@
 		""
 		"享受吧！"
 	]
-	quest.7F4BD83F2D567FF0.quest_subtitle: "Choo Choo, Mister Farnsworth!"
+	quest.7F4BD83F2D567FF0.quest_subtitle: "呜呜呜，范斯沃斯先生！"
 	quest.7F4BFF2C6E887FCC.quest_desc: [
 		"   &b原初浆凝胶&r方块也会将&b煤炭块&r&6转化&r为&b粗原初煤炭&r "
 		""
