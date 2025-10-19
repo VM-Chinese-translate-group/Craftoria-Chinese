@@ -2690,7 +2690,7 @@
 	]
 	quest.37F3ABF113A1D399.title: "低压能量输入仓"
 	quest.381C007F6EB3B389.quest_desc: [
-		"低调地说，很可能是机械动力里最受人喜欢的单个方块了。"
+		"保守点说，很可能是机械动力里最受人喜欢的单方块了。"
 		""
 		"拜托，想想看——你第一次在机械动力里&6驾驶&r列车的时候，是不是感觉超棒？那可太对了！"
 	]
@@ -2914,7 +2914,7 @@
 	quest.3E1B0CBA0889C0AE.quest_desc: [
 		"&b起重机&r：既能&6移动&r，又能&6传输动力&r：太酷啦！"
 		""
-		"一定要看看思索演示里解释的级联起重机。"
+		"一定要看看思索演示里解释的串联起重机。"
 	]
 	quest.3E1B0CBA0889C0AE.quest_subtitle: "为大型落地起重机准备的"
 	quest.3E212B5DE277B73A.quest_subtitle: "哼 哼"
@@ -2944,14 +2944,14 @@
 	quest.3F0097CCBA02804C.quest_desc: ["The &bLarge Steam Furnace&r can &6smelt&r recipes in batches of up to 8 at a &a25%&r deduction of &eEU&r cost. Keep in mind, it &cwont&r do a mix of recipes, they &omust&r be the same type. If not, each type of recipe will be &6split&r into their batch of a max of 8."]
 	quest.3F0097CCBA02804C.quest_subtitle: "越大越好！"
 	quest.3F0B58522B009779.quest_desc: [
-		"可以&6双持&r和&6附魔&r。"
+		"可以&6双持&r并&6附魔&r。"
 		""
 		"不同的&b食物&r（弹药）会触发不同的&6效果&r。"
 	]
 	quest.3F0B58522B009779.quest_subtitle: "食物大战！"
 	quest.3F146A658E5A01F3.quest_subtitle: "在觉醒之门试炼中掉落。"
 	quest.3F3600B6701641E0.quest_desc: [
-		"&b安山合金&r是启程机械动力的关键，&c“机械基础”&r区域中的方块也是如此。"
+		"&b安山合金&r是启程机械动力的关键，&c“机械基础”&r画廊中的方块也是如此。"
 		""
 		"当你在游戏初期开始&6挖矿&r时，尽量多采集&b安山岩&r，并且别忘了收集&b锌&r，以便将&b铁&r留作其他用途，而不是去&6制作&r&b安山合金&r。"
 	]
@@ -3060,7 +3060,7 @@
 	]
 	quest.40FF154148BBAFF2.quest_subtitle: "哇哦，亮闪闪的！"
 	quest.41183734EB2C28FF.quest_desc: ["&6灌注&r原版&b流体容器&r或在序列合成中向&b物品&r&6注入&r&9流体&r。"]
-	quest.41183734EB2C28FF.quest_subtitle: "“那只小蜘蛛去哪儿了"
+	quest.41183734EB2C28FF.quest_subtitle: "小小蜘蛛爬水管"
 	quest.413557ECF489FD2C.quest_subtitle: "在末地浮岛的稀有结构中出现。"
 	quest.413557ECF489FD2C.title: "&5黑曜石柱"
 	quest.41604B0C59094F5E.quest_desc: [
@@ -3316,7 +3316,7 @@
 	]
 	quest.454FF6E2926163F7.title: "放弃了？"
 	quest.4554EE3CC1F80F7D.quest_desc: ["让你最爱的生物来&6驾驶&r列车！"]
-	quest.45664AAC3ACCEF36.quest_desc: ["一个功能&6强大的多&r的&b侦测器。&r"]
+	quest.45664AAC3ACCEF36.quest_desc: ["&6升级版&r&b侦测器。&r"]
 	quest.45692D06641029FD.quest_subtitle: "法术示例"
 	quest.45692D06641029FD.title: "战斗"
 	quest.456D933518B72DA2.quest_desc: [
