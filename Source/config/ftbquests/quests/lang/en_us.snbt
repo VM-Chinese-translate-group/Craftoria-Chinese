@@ -3,7 +3,9 @@
 	chapter.04AD21E8ACC60AFD.title: "PneumaticCraft"
 	chapter.0597AF3E8B286CFA.title: "Ars Nouveau"
 	chapter.0644AB97E8D8839B.title: "Create"
+	chapter.08639B8433F4CD50.title: "&2Nature's Blessing"
 	chapter.0CF7A598566497C7.title: "&6Completionist"
+	chapter.1910D05CD66EC477.title: "Fishing"
 	chapter.1CFBA632673ABBFD.title: "Organized Storage"
 	chapter.216D532684E20496.title: "Bosses"
 	chapter.26E59C8DBA7F6FE3.title: "Monster Mayhem"
@@ -385,6 +387,9 @@
 	quest.098C3858B4FFCE78.quest_subtitle: "280% More power"
 	quest.09B10C121C7E9023.quest_desc: ["Used to craft &bME Energy Storage Components&f and other accessories."]
 	quest.0A67575BAF8596B0.quest_desc: ["Better than you model train tracks: straights, curves (two kinds), and slopes—works across Nether portals and unloaded chunks too!"]
+	quest.0ABC6D5601DCD95F.quest_desc: ["Can be obtained through &6Treasure Chests&r or &3Goals&r reached through fishing."]
+	quest.0ABC6D5601DCD95F.quest_subtitle: "Aid you journey with these upgrades providing all kinds of different benefits."
+	quest.0ABC6D5601DCD95F.title: "Hooks and Bobbers"
 	quest.0AC7D844C55119E1.quest_desc: [
 		"  This is no &bMonkey Wrench&r, but you better hope you can move like one in the future."
 		""
@@ -494,7 +499,6 @@
 		"The block can be &6disabled&r with &bredstone,&r and the lamp's &bdurability&r can be &6measured&r by a &bcomparator.&r With some simple wiring, you can stop your miners' lamps from breaking before it is too late."
 	]
 	quest.0C91DF887A33A8E6.quest_subtitle: "It's not void mining; it's pocket dimension mining"
-	quest.0C9D9AFD7C5C9F97.quest_desc: ["The &bNetherite Stick&f does the same things, but with a block &6place&f maximum of 1024 blocks."]
 	quest.0D1AFCAD90FAA4F9.quest_desc: ["This Rod is pre-attuned to find a &aCommon&r material."]
 	quest.0D44F37BE787CA30.quest_desc: ["This &3substance&r can be &6processed&r in a &bThermopneumatic Processing Plant&r to produce &eLPG&r, which is an &aexcellent&r &7liquid fuel&r comparable in quality to &3Thermal Expansion’s&r &7Refined Fuel&r. "]
 	quest.0D44F37BE787CA30.title: "&6Gasoline"
@@ -561,7 +565,6 @@
 		""
 		"However, it can be &6crafted&r with a &bPotion&r to imbue the &bAmmo&r with the &cpotion's effects&r."
 	]
-	quest.0E8B36B67840AADD.quest_subtitle: "Gets rid of them pesky neighbors"
 	quest.0EA9EF2362AE52A2.quest_desc: ["The &bBasic Purifying Factory&r allows you to process &a3&r purifying recipes at once."]
 	quest.0EA9EF2362AE52A2.title: "Basic Purifying Factory"
 	quest.0EB8636489EB02DE.quest_desc: [
@@ -605,6 +608,7 @@
 		""
 		"&6Does&r things normally only a player can."
 	]
+	quest.0F0A89D4CEFB2275.quest_subtitle: "The bank, but stores fluids."
 	quest.0F121433B94D72D9.quest_desc: [
 		"   &6Hover&r &lJDT&r &bupgrades&r in EMI and &6hold shift&r for &9descriptons&r."
 		""
@@ -632,7 +636,6 @@
 	]
 	quest.0FA3C7049E71EA4A.quest_desc: ["You planning on owning a &bQuarry&f anytime soon?"]
 	quest.0FA3C7049E71EA4A.title: "64k Storage Component"
-	quest.0FB6106D73ABB512.title: "Pipe Upgrades"
 	quest.0FDA602713778AF0.title: "Tier 3, 1:3"
 	quest.0FE6DFF73BE7AA10.quest_desc: ["&aLime&r Chalk is needed to summon spirits greater than Foliot. It certifies your mastery of the basics of occultism."]
 	quest.0FE6DFF73BE7AA10.quest_subtitle: "Knowledge"
@@ -1108,7 +1111,6 @@
 		"&8(storage chest/barrel still needs to be set)"
 	]
 	quest.183EB573F8F1DC8C.quest_subtitle: "Potion | Crafting | Apparatus"
-	quest.18416E8B02E02817.quest_subtitle: "Harvest Crops In a 9x9"
 	quest.18680FEE2B6FF16F.quest_desc: [
 		"  Crops planted on &bBlazebloom Soil&r will &6harvest&r and &6replant&r themselves."
 		""
@@ -1892,6 +1894,7 @@
 	quest.286229410FA571B7.quest_desc: ["&6Prevents&r collisions and &6controls&r the flow of scheduled trains."]
 	quest.286229410FA571B7.quest_subtitle: "Keep them trains rollin’!"
 	quest.28724CA9F837F710.quest_desc: ["Amythyst Resonance Charm - when worn this charm will grant you a 15% mana regen boost."]
+	quest.287A6A75537FF79C.quest_subtitle: "&6&kCatch all the fishes."
 	quest.28A35996DE62CFA0.quest_desc: [
 		"&l1. Bigger storage&r"
 		"Checkout &5Ars Énergistique&r, an AE2 addon."
@@ -1933,6 +1936,7 @@
 		""
 		"- Deploying on the ground next to an &9inventory&r will tell the &bDrone&r to &6collect&r any &bitems&r within its area."
 	]
+	quest.29AD1060C129C86F.quest_subtitle: "Catch &a50&r total fishes."
 	quest.29B59876D04A3772.quest_desc: [
 		"This device &6spawns&r &2mobs&r using &7pressure&r, bypassing &elight-level&r restrictions and enabling &4redstone control&r. "
 		""
@@ -2105,7 +2109,9 @@
 		""
 		"But you don't need to &6mine every block&r ever again (&cunless you're crazy&r). "
 		""
-		"&aBy default&r, the squiggly line next to your \"&61&r\" key is the &abutton&r you want to hold down as you &6mine a block&r. "
+		"&3By default&r, the squiggly line next to your \"&61&r\" key is the &abutton&r you want to hold down as you &6mine a block&r. "
+		""
+		"A &8tool&r is required to activate Ultimine."
 		""
 		"It'll mine up to &664&r of that &bblock&r that is adjacent. "
 		""
@@ -2117,6 +2123,8 @@
 	]
 	quest.2BF835F8F73E8F06.quest_subtitle: "Diggy diggy hole!"
 	quest.2BF835F8F73E8F06.title: "&cVein Be Gone!"
+	quest.2C42A6E79A5242F0.quest_subtitle: "Used for biome specific fish."
+	quest.2C42A6E79A5242F0.title: "Baits"
 	quest.2C4CA092A557205E.quest_desc: [
 		"  1985 called from 2015, it wants it's anti-gravity technology back!"
 		""
@@ -2326,6 +2334,7 @@
 		"NOTE: &lONLY&r &bDense Cables&r transfer more than 8 channels, &bInterfaces&r, &bPattern Providers&r, etc. can only passthrough 8 channels, even if connected to a &bDense Cable&r."
 	]
 	quest.308640ACCC096431.title: "The Center of Storage"
+	quest.30A0D33361D77D7E.quest_subtitle: "Catch &a25&r total fishes."
 	quest.30BD7370506EBC6C.title: "Oxygen"
 	quest.30D584EAD9243548.quest_desc: [
 		"The &bFluidic Plenisher&r allows you to &6feed&r it a &7liquid&r and it will fill up open spaces under it with &7that liquid&r. "
@@ -2416,6 +2425,9 @@
 	quest.3288EB24E412AF9A.quest_subtitle: "Complete the quest chapter."
 	quest.3288EB24E412AF9A.title: "&dModern &bIndustrialization"
 	quest.328E672F6B43D93A.quest_desc: ["For both &6assembling&r your trains and, well, &6being&r train stations."]
+	quest.3295D859B01FA315.quest_desc: ["This &bbook&r is your &3collection log&r for anything fishing, from &5rare fish&r to &6shiny trophies&r."]
+	quest.3295D859B01FA315.quest_subtitle: "A Fisherman's Tale"
+	quest.3295D859B01FA315.title: "&bStarcatcher's Guide"
 	quest.32DC17E21BF26228.quest_desc: ["Use this to &6download&r saved &bSchematics&r into a new &bSchematic&r ready for use in the &bSchematicannon.&r"]
 	quest.3357A8B614D477B6.quest_desc: [
 		"  A new machine, the little sibling to the &bPacker&r! This one can only be made in steel; it really needs that extra strength."
@@ -2956,6 +2968,8 @@
 		""
 		"  When you start out &6mining&r in the early game, grab as much &bAndesite&r as possible and don't forget to gather &bZinc&r too, to save your &bIron&r for other uses than &6making&r &bAndesite Alloy&r."
 	]
+	quest.3F3C9A6F590496AD.quest_desc: ["To open the &6GUI&r to add different hooks, bobbers and baits &3sneak&r + &3right-click&r."]
+	quest.3F3C9A6F590496AD.quest_subtitle: "Can you catch them all?"
 	quest.3F581374C4DDD0A9.quest_desc: [
 		"The &bUnbreakable Upgrade&f does what it says on the tin, your &bConstruction Stick&f will &6never&f break!"
 		""
@@ -3027,6 +3041,7 @@
 		"Having blocks in your offhand will &6place&f those instead of the block you're looking at."
 		"Having containers like &bshulker boxes&f, &bbundles&f, and many other containers can provide building blocks for the stick."
 	]
+	quest.407FD46B5C5A1EC0.title: "&eConstruction Sticks"
 	quest.40915337B7E427F8.quest_desc: ["  A cable capable of transferring enough energy for your entire factory, &b10 times over&r, within a single cable. This is &bpeak&r power transfer."]
 	quest.40915337B7E427F8.quest_subtitle: "I'm a Real Live Wire"
 	quest.40915337B7E427F8.title: "Superconductor Cable"
@@ -3547,6 +3562,7 @@
 	quest.49E73DF03C8D28C7.quest_subtitle: "Afrit Control"
 	quest.4A0E862883FE42BB.quest_desc: ["This gem is able to &6store&r most &bmobs&r inside it, for easy transport."]
 	quest.4A0E862883FE42BB.quest_subtitle: "Gotta catch them all"
+	quest.4A25E60DD359F959.quest_subtitle: "Catch &d134&r unique fishes."
 	quest.4A476B25B5A3E88D.quest_desc: ["The radius (in blocks) that mobs can spawn in."]
 	quest.4A476B25B5A3E88D.quest_subtitle: "+2 Spawn Range"
 	quest.4A5466E364B85AEF.quest_desc: [
@@ -3576,6 +3592,8 @@
 	quest.4B0CDF7941199C8E.quest_subtitle: "Tread on Me"
 	quest.4B7C404E9118BE09.quest_desc: ["The &bAdvanced Purifying Factory&r allows you to process &a5&r purifying recipes at once."]
 	quest.4B7C404E9118BE09.title: "Advanced Purifying Factory"
+	quest.4B99345AECD80EC2.quest_subtitle: "Used to obtain Hooks and Bobbers through archaeology."
+	quest.4B99345AECD80EC2.title: "Brushing"
 	quest.4BDF01E28F247553.quest_desc: [
 		"One of the best mining options &5Ars&r has to offer."
 		""
@@ -3793,6 +3811,7 @@
 		"&bExtended Molecular Assembler&r does 8 crafting jobs at once at 2x the speed of a regular, totaling to a 16x increase in crafting speed."
 	]
 	quest.4EC894E7808440AC.quest_subtitle: "Quadruple The Patterns, 16x The Speed"
+	quest.4ED1400E2AAAAAE1.quest_subtitle: "Catch &a10&r total fishes."
 	quest.4EF9C36CED1EDDC4.quest_desc: ["&bFeathers&r, &bBooks&r, and &bBlack Dye&r can be &6transformed&r in &5Spiritfire&r to obtain versions more receptive to working with Spirits."]
 	quest.4EF9C36CED1EDDC4.quest_subtitle: "The Wright Writer's Right Rite"
 	quest.4EF9C36CED1EDDC4.title: "Occult Writing Materials"
@@ -3912,6 +3931,45 @@
 		"{image:justdirethings:block/blockbreakert2_side width:100 height:100 align:center}"
 	]
 	quest.51A8026A0F8A83B1.quest_desc: ["Emeralds can be found while mining, exploring, or trading with villagers and is used to craft the Evocation Scrolls."]
+	quest.51B59A987F916C7A.quest_desc: [
+		"A portable storage device that can store from &a256&r up to &c1 BILLION&r items per slot."
+		""
+		""
+		"&8&lFeatures:"
+		"- &3Larger slots: "
+		"Store more items per slot than normally possible. Up to 1 billion items in a single slot."
+		""
+		"- &3Different sizes: "
+		"From Bank &71&r with 9 slots to bank &c7&r with 108 slots each with increasing slot sizes."
+		""
+		""
+		"&8&lPickup Modes:"
+		"- &aPickup all&r: "
+		"All items picked up will automatically go into the &bBank&r instead of your inventory."
+		""
+		"- &1Filtered pickup&r: "
+		"Items will only go into &rBanks&r if they already contain matching items."
+		""
+		"- &5Void excess&r: "
+		"Similar to filtered pickup, but if there is no room left in the &bBank&r, the item gets voided."
+		""
+		"- &cNo pickup&r: "
+		"Items go straight into your inventory."
+		""
+		""
+		"&8&lBuild Modes:"
+		"- &aBuild mode&r: "
+		"Choose any block inside your &bBank&r and place directly from the &bBank&r item."
+		"Scroll while crouching to choose block."
+		""
+		"- &3Randomized build mode&r: "
+		"Similar to Build mode, but blocks get chosen randomly."
+		""
+		"- &eBag Mode: "
+		"Right click to open the &bBank&r inventory screen."
+		"Right click which crouching to change build mode."
+	]
+	quest.51B59A987F916C7A.quest_subtitle: "A portable storage solution!"
 	quest.51E386BC7692D06C.quest_desc: ["To &6establish&r a &6Mercurial Logistics network&r, these &bWires&r must be used to &6link&r between in- and outputs. &bConnection Nodes&r allow for multiple wires to converge to one point, if needed."]
 	quest.51E386BC7692D06C.title: "Mercurial Connections"
 	quest.51ECF72F223BDB3A.title: "Coffee"
@@ -4332,6 +4390,7 @@
 	]
 	quest.5CD12382792FA310.quest_subtitle: "Guess What This Does"
 	quest.5CEFB3C551971327.quest_desc: [""]
+	quest.5D0F6404B76F480E.quest_subtitle: "A handy tool displaying the fishes in your area."
 	quest.5D584858B61E534B.quest_desc: ["This &bCatalyst &fslowly turns &bMercury &finto &dMercury Flux&r, a source of &6Energy&r for alchemical devices."]
 	quest.5D584858B61E534B.quest_subtitle: "Mercury = Flux"
 	quest.5D5FC5420738FDE8.quest_desc: ["Plain ol' &bCardboard.&r So basic, and yet... the gateway to &oCreate's&r latest set of capabilities, represented in the &c\"Factory Smarts\"&r wing of this gallery."]
@@ -4442,8 +4501,8 @@
 		"The most important of which is the &bPaxel&r, so you can do everything in one!"
 	]
 	quest.60868DF852E6028B.title: "Extra Gear"
+	quest.60A38769895A0B14.quest_subtitle: "Dock your bank to easily access it in-world."
 	quest.60A38769895A0B14.title: "Bank's Dock and Link"
-	quest.60A4B6B0601C837C.quest_desc: ["The &bCopper Stick&f does the same things, but with a block &6place&f maximum of 9 blocks."]
 	quest.60AEE273431548B6.quest_desc: ["Place a &bPressure Disperser&r throughout a turbine and boiler to properly regulate the &7blowoff of pressure&r."]
 	quest.60AEE273431548B6.title: "Pressure Disperser"
 	quest.60F4F5FE0C3748C3.quest_desc: [
@@ -4506,6 +4565,7 @@
 	]
 	quest.6201E6DF709C29D0.quest_subtitle: "Upgradable Armor"
 	quest.6201E6DF709C29D0.title: "Ferricore Armor"
+	quest.621168DCC2A3B3F3.quest_subtitle: "Catch &d75&r unique fishes."
 	quest.6227304103E32C74.quest_desc: [
 		"The handy, dandy &bFluid Tank&r works alone or can be &6joined&r up in single-wide, 2-by-2,  3-by-3 wide columns, up to 30 blocks tall!"
 		""
@@ -4568,7 +4628,6 @@
 		"The &bCrushing Wheels&r may be faster, but the millstone &6fits&r better in many builds... and &dyou&r don't &6fit&r in &bit&r, so there's that."
 	]
 	quest.63756443B3FFDB48.quest_subtitle: "Mill-itary Operations"
-	quest.6385DB0FFD411ECB.quest_desc: ["The &bIron Stick&f does the same things, but with a block &6place&f maximum of 27 blocks."]
 	quest.6387004E98403CCE.quest_desc: ["The &bChemical Crystallizer&r uses &dpurified ore slurry&r and &9crystallizes&r it into crystals."]
 	quest.6387004E98403CCE.title: "Chemical Crystallizer"
 	quest.6392FB264D1B2E52.quest_subtitle: "Used within the &aIdentification Chamber"
@@ -4609,7 +4668,6 @@
 	quest.640DB4139DF8AFA4.title: "&dThe Endgame"
 	quest.64287B360B07BEBB.quest_desc: ["- &6Connect/Chain&r up to a &cmax&r of &a64&r machines of choice together."]
 	quest.64287B360B07BEBB.quest_subtitle: "Chain Them Up!"
-	quest.6441C36C63A59445.title: "&ePipeZ"
 	quest.644B280698D65076.quest_desc: ["The &bUltimate Universal Cable&r can hold &e3.27 MFE per cable&r in the network and each additional cable adds &e3.27 MFE/t&r to the total network trasmission rate."]
 	quest.644B280698D65076.title: "Ultimate Universal Cable"
 	quest.64D625C86F3AB75C.quest_desc: ["The Beholder makes nearby mobs &bglow&r, and &6shoots&r lasers at your &benemies&r."]
@@ -4716,6 +4774,8 @@
 	quest.67785FD77E880DDB.quest_subtitle: "Appears in rare caves at the bottom of the world. Void lilies will point the way."
 	quest.67785FD77E880DDB.title: "&dVoid Blossom"
 	quest.67792A4DE6EDBC37.quest_desc: ["The Eldritch Manuscript is made with Eight Knowlege Fragments and one Echo Shard. These are both found while looting Ancient Cities. Upon use it will give you the power of one Eldritch Scroll that you choose. You may unlock more but, a new Manuscript is needed per scroll."]
+	quest.678A65A6A3461CFC.quest_subtitle: "Complete the quest chapter."
+	quest.678A65A6A3461CFC.title: "&6Fishing"
 	quest.6794A40DE2A79575.quest_desc: [
 		"This mod has a &2villager&r. "
 		"&8(AE2 has one too if you haven't known)"
@@ -4801,8 +4861,6 @@
 		"  Speaking of sandwiches, it looks a bit &btasty&r, doesn't it?"
 	]
 	quest.67F2212453B81446.title: "Mixed Iridium Ingot"
-	quest.68107A111627BD77.quest_desc: ["&bMining Gadgets &fuse &4power&f to operate rather then &adurability&f. "]
-	quest.68107A111627BD77.title: "Mining Gadgets"
 	quest.681A718388A97FFC.quest_desc: [
 		"The &bMuffling Upgrade&r practically silences the machine it's applied on. "
 		""
@@ -4810,7 +4868,6 @@
 	]
 	quest.681A718388A97FFC.title: "Muffling Upgrade"
 	quest.682D1178AF51998C.quest_desc: ["Craft any Rune that goes best with the magic armor or upgrade orb that you want."]
-	quest.683EEA78F71AC153.quest_desc: ["The &bDiamond Stick&f does the same things, but with a block &6place&f maximum of 128 blocks."]
 	quest.68493CE96FD68EBA.title: "Cryomancer"
 	quest.68721F148E2805FB.quest_desc: [
 		"Your first &bSpell Book&r will allow you to start &6collecting&r and using &bspells&r."
@@ -5156,7 +5213,6 @@
 	quest.6D702C00A519AD12.title: "Elite Purifying Factory"
 	quest.6DA3C5DEE0F6438D.quest_desc: ["This Rod is pre-attuned to locate a &dPrecious&r material."]
 	quest.6DA3C5DEE0F6438D.quest_subtitle: "Diamond-Seeker"
-	quest.6DDA86A3B4C0ACC1.title: "Mining Gadget"
 	quest.6DDD8661181840F1.quest_desc: [
 		"The shipping container for international shipping."
 		""
@@ -5324,6 +5380,7 @@
 	]
 	quest.71A219DF9715D153.quest_desc: ["Using the Scroll Forge and a Frozen Bone to craft an Ice Scrolls."]
 	quest.71B6DA56399050E1.quest_desc: ["The &bPersonal Shrinking Device &fwill allow you to &ashrink &fwith the use of &4power&f."]
+	quest.71B6DA56399050E1.title: "&aPersonal Shrinking Device"
 	quest.71DD555551705B17.quest_desc: [
 		"One of the first uses of &8steel&r is to make a &bDynamic Tank&r. "
 		""
@@ -5783,8 +5840,6 @@
 		"See the following &7quest chapter&r for how logistics frames attached to &9blocks/inventories/tanks&r within its area are used."
 	]
 	quest.7BDBE300D4B0B1F7.quest_subtitle: "Bone Meal Overflow!"
-	quest.7BE64AF022E35ADE.quest_desc: ["&bMore Red&f is a mod that lets u run &bredstone &fanywhere u want, up walls, on top of ceilings, under ceilings. "]
-	quest.7BE64AF022E35ADE.title: "&cMore Red"
 	quest.7BEA5B1D1B410E82.quest.desc: ["The &3Advanced Solar Generator&r is an upgraded version of the small &3Solar Generator&r and provides much more &apower&r. You can &6place&r them in the top corners of the &3Thermal Evaporation Tower&r with the green power &aenergy output&r facing the &3Thermal Evaporation Block&r to &6increase&r the &cheat&r of the tower in the day."]
 	quest.7BEA5B1D1B410E82.quest_desc: [
 		"The &bAdvanced Solar Generator&r is an upgraded version of the small &3Solar Generator&r and provides much more &apower&r. "
@@ -6076,9 +6131,11 @@
 	task.65A43DD683FB39E4.title: "Summon a Foliot Lumberjack"
 	task.65B2D0E35B083E82.title: "Survival of the Fittest"
 	task.66BF2FED6B091A68.title: "Exploration!"
+	task.691E6AA922761E29.title: "Hooks"
 	task.6C6C366D034AF5C7.title: "Summon an Otherworld Sapling Trader"
 	task.708EE345AEBB270B.title: "Make ShadowPulse Soil"
 	task.7206B162C5B4E0B8.title: "Ores at Tier 1"
+	task.7376AAE3B45AD4B9.title: "Bobbers"
 	task.73B852C41DE1F864.title: "Any #c:crops/rice"
 	task.73DFBACC98E080BC.title: "Any Knife"
 	task.74C6D98426025A18.title: "Summon a Guardian Familiar"
