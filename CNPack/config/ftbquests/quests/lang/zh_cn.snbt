@@ -4,6 +4,7 @@
 	chapter.0597AF3E8B286CFA.title: "新生魔艺"
 	chapter.0644AB97E8D8839B.title: "机械动力"
 	chapter.0CF7A598566497C7.title: "&6成就奖杯"
+	chapter.1910D05CD66EC477.title: "Fishing"
 	chapter.1CFBA632673ABBFD.title: "井井有条的存储"
 	chapter.216D532684E20496.title: "Boss"
 	chapter.26E59C8DBA7F6FE3.title: "Monster Mayhem"
@@ -385,6 +386,9 @@
 	quest.098C3858B4FFCE78.quest_subtitle: "功率增加280%"
 	quest.09B10C121C7E9023.quest_desc: ["用于制作&bME能源存储组件&f与通量访问点。"]
 	quest.0A67575BAF8596B0.quest_desc: ["比你常见的列车轨道模型更强大：直轨、曲轨（两种类型）和坡道——即使是跨越下界传送门和未加载区块也能正常工作！"]
+	quest.0ABC6D5601DCD95F.quest_desc: ["Can be obtained through &6Treasure Chests&r or &3Goals&r reached through fishing."]
+	quest.0ABC6D5601DCD95F.quest_subtitle: "Aid you journey with these upgrades providing all kinds of different benefits."
+	quest.0ABC6D5601DCD95F.title: "Hooks and Bobbers"
 	quest.0AC7D844C55119E1.quest_desc: [
 		"  这个不是&b活动扳手&r，但是你可以期待未来能有差不多的。"
 		""
@@ -494,7 +498,6 @@
 		"这个方块可以用&b红石&r来&6禁用，&r神灯的&b耐久度&r可以用&b比较器&r来&6测量。&r通过一些简单的布线，你可以在为时已晚之前阻止矿工的神灯损坏。"
 	]
 	quest.0C91DF887A33A8E6.quest_subtitle: "这不是虚空采矿；这是在口袋维度中采矿"
-	quest.0C9D9AFD7C5C9F97.quest_desc: ["&b下界合金棒&f也有同样的功能，但其&6放置&f的最大数量限制为1024个方块。"]
 	quest.0D1AFCAD90FAA4F9.quest_desc: ["这根探测杖已经预同调，可以寻找&a常见&r材料。"]
 	quest.0D44F37BE787CA30.quest_desc: ["这种&3物质&r可以在&b热气动加工机&r中&6加工&r，以生产&e液化石油气&r，这是一种&a优秀&r的&7液体燃料&r，其品质相当于&3热力膨胀&r的&7精炼油&r。"]
 	quest.0D44F37BE787CA30.title: "&6汽油"
@@ -561,7 +564,6 @@
 		""
 		"不过，用&b药水&r来&6制作&r&b弹药&r，可以使其获得&c药水的效果&r。"
 	]
-	quest.0E8B36B67840AADD.quest_subtitle: "用于摆脱那些讨厌的邻居。"
 	quest.0EA9EF2362AE52A2.quest_desc: ["&b基础提纯工厂&r能够同时处理&a三个&r提纯配方。"]
 	quest.0EA9EF2362AE52A2.title: "基础提纯工厂"
 	quest.0EB8636489EB02DE.quest_desc: [
@@ -605,6 +607,7 @@
 		""
 		"能&6完成&r通常只有玩家才能做到的事。"
 	]
+	quest.0F0A89D4CEFB2275.quest_subtitle: "The bank, but stores fluids."
 	quest.0F121433B94D72D9.quest_desc: [
 		"   在EMI中，将鼠标&6悬停&r在&lJDT&r的&b升级&r上，&6按住Shift键&r可查看&9描述&r。"
 		""
@@ -1107,7 +1110,6 @@
 		"&8（不过仍然需要绑定木桶或箱子作为库存）"
 	]
 	quest.183EB573F8F1DC8C.quest_subtitle: "酿造 | 合成 | 附魔装置"
-	quest.18416E8B02E02817.quest_subtitle: "收获9x9范围内的作物。"
 	quest.18680FEE2B6FF16F.quest_desc: [
 		"  种植在&b烈焰蕾壤&r上的作物会自动&6收获&r并&6重新种植&r。"
 		""
@@ -1891,6 +1893,7 @@
 	quest.286229410FA571B7.quest_desc: ["&6防止&r列车相撞，并&6调控&r被调度的列车的运行。"]
 	quest.286229410FA571B7.quest_subtitle: "让列车永不停歇!"
 	quest.28724CA9F837F710.quest_desc: ["紫水晶共鸣护符——当佩戴此护符时，将为你提供15%的法力值恢复。"]
+	quest.287A6A75537FF79C.quest_subtitle: "&6&kCatch all the fishes."
 	quest.28A35996DE62CFA0.quest_desc: [
 		"&l1. 更大的储存容量&r"
 		"请查阅&5Ars Énergistique&r，这是与AE2的联动附属模组。"
@@ -1932,6 +1935,7 @@
 		""
 		"- 如果将&b无人机&r部署在&9容器&r旁边的地面，那么它会&6收集&r区域内的&b物品&r。"
 	]
+	quest.29AD1060C129C86F.quest_subtitle: "Catch &a50&r total fishes."
 	quest.29B59876D04A3772.quest_desc: [
 		"这个设备通过&7压力&r&6生成&r&2怪物&r，忽视&e光照强度&r限制，并可通过&4红石控制&r。"
 		""
@@ -2100,22 +2104,26 @@
 	quest.2BDE797C32E308D3.title: "终极加压管道"
 	quest.2BF12A2184F8E99D.title: "柿子"
 	quest.2BF835F8F73E8F06.quest_desc: [
-		"手动挖矿很乏味，我很清楚这一点。"
+		"Mining is a drag, I get it. "
 		""
-		"但是现在你不需要&6一块一块的挖矿&r了（&c除非你有一点不清醒&r）。"
+		"But you don't need to &6mine every block&r ever again (&cunless you're crazy&r). "
 		""
-		"在你&6挖矿&r的时候，你可以按下数字键&61&r旁边的&a波浪号键&r（&a默认&r），"
+		"&3By default&r, the squiggly line next to your \"&61&r\" key is the &abutton&r you want to hold down as you &6mine a block&r. "
 		""
-		"这样，它会自动挖掘矿物邻近的其他&b同类矿物&r，一次最多可挖&664&r块矿物。"
+		"A &8tool&r is required to activate Ultimine."
 		""
-		"&6按下按键&r时&6滚动&r鼠标中键，即可改变挖掘的&a模式&r。"
+		"It'll mine up to &664&r of that &bblock&r that is adjacent. "
 		""
-		"相关信息会显示在屏幕的左上角，这点需要注意。"
+		"By &6holding down&r the button and &6scrolling&r, you can change the &amodes&r. "
 		""
-		"我强烈建议试验一遍每一种&a模式&r，&c以免正式使用时破坏其他东西&r。"
+		"They show in the top left of your screen, so watch out there. "
+		""
+		"I'll let you experiment with the &amodes&r, &cjust don't break anything&r!"
 	]
 	quest.2BF835F8F73E8F06.quest_subtitle: "挖呀挖呀挖！"
 	quest.2BF835F8F73E8F06.title: "&c矿脉枯竭！"
+	quest.2C42A6E79A5242F0.quest_subtitle: "Used for biome specific fish."
+	quest.2C42A6E79A5242F0.title: "Baits"
 	quest.2C4CA092A557205E.quest_desc: [
 		"  1985年从2015年打来电话，它想要回它的反重力技术！"
 		""
@@ -2325,6 +2333,7 @@
 		"注意：&I只有&r&b致密线缆&r能传输8个以上的频道。&bME接口，&b样板供应器&r以及其他设备即便使用了&b致密线缆&r连接，也依然只能传输8个频道。"
 	]
 	quest.308640ACCC096431.title: "存储网络的中心"
+	quest.30A0D33361D77D7E.quest_subtitle: "Catch &a25&r total fishes."
 	quest.30BD7370506EBC6C.title: "氧"
 	quest.30D584EAD9243548.quest_desc: [
 		"向&b流体填充机&r&6注入&r&7流体&r，它就可以用&7其中的流体&r填满下方的空间。"
@@ -2415,6 +2424,9 @@
 	quest.3288EB24E412AF9A.quest_subtitle: "完成对应任务章节。"
 	quest.3288EB24E412AF9A.title: "&d现代&b工业化"
 	quest.328E672F6B43D93A.quest_desc: ["它既用于&6组装&r你的列车，同时，其本身也&6作为&r列车站使用。"]
+	quest.3295D859B01FA315.quest_desc: ["This &bbook&r is your &3collection log&r for anything fishing, from &5rare fish&r to &6shiny trophies&r."]
+	quest.3295D859B01FA315.quest_subtitle: "A Fisherman's Tale"
+	quest.3295D859B01FA315.title: "&bStarcatcher's Guide"
 	quest.32DC17E21BF26228.quest_desc: ["用于&6加载&r已保存的&b蓝图&r，制成可供&b蓝图加农炮&r使用的成品&b蓝图&r。"]
 	quest.3357A8B614D477B6.quest_desc: [
 		"  这个机器是&b打包机&r的兄弟！它必须由钢材制成，因为它确实需要这么大的力量。"
@@ -2955,6 +2967,8 @@
 		""
 		"当你在游戏初期开始&6挖矿&r时，尽量多采集&b安山岩&r，并且别忘了收集&b锌&r，以便将&b铁&r留作其他用途，而不是去&6制作&r&b安山合金&r。"
 	]
+	quest.3F3C9A6F590496AD.quest_desc: ["To open the &6GUI&r to add different hooks, bobbers and baits &3sneak&r + &3right-click&r."]
+	quest.3F3C9A6F590496AD.quest_subtitle: "Can you catch them all?"
 	quest.3F581374C4DDD0A9.quest_desc: [
 		"&b不毁升级&f的用途是不言自明的，你的&b建筑棒&f将&6永远不会&f损坏。"
 		""
@@ -3026,6 +3040,7 @@
 		"副手持有方块时，将会&6放置&f副手的方块，而不依据你所注视的方块来放置。"
 		"持有&b潜影盒&f、&b收纳袋&f以及许多其他容器时，可以为建筑棒提供建筑方块。"
 	]
+	quest.407FD46B5C5A1EC0.title: "&eConstruction Sticks"
 	quest.40915337B7E427F8.quest_desc: ["仅此一条电缆，就可以承担&b10个&r你的工厂的供电需求。这就是能量传输的&b巅峰&r。"]
 	quest.40915337B7E427F8.quest_subtitle: "一条真正的火线"
 	quest.40915337B7E427F8.title: "超导体电缆"
@@ -3546,6 +3561,7 @@
 	quest.49E73DF03C8D28C7.quest_subtitle: "御火"
 	quest.4A0E862883FE42BB.quest_desc: ["这块宝石能够将大部分&b生物&r&6存储&r在里面，便于运输。"]
 	quest.4A0E862883FE42BB.quest_subtitle: "目标是宝可梦大师！"
+	quest.4A25E60DD359F959.quest_subtitle: "Catch &d134&r unique fishes."
 	quest.4A476B25B5A3E88D.quest_desc: ["生物生成的范围半径（以格数为单位）。"]
 	quest.4A476B25B5A3E88D.quest_subtitle: "+2 生成范围"
 	quest.4A5466E364B85AEF.quest_desc: [
@@ -3792,6 +3808,7 @@
 		"&b扩展分子装配室&r能够一次进行8个合成工作，且速度是普通装配室的2倍，也就是说，合成速度总共快了16倍！"
 	]
 	quest.4EC894E7808440AC.quest_subtitle: "4倍的样板，16倍的速度。"
+	quest.4ED1400E2AAAAAE1.quest_subtitle: "Catch &a10&r total fishes."
 	quest.4EF9C36CED1EDDC4.quest_desc: ["可以在灵火中转化&b羽毛&b、&b书&r和&b黑色染料&r，使其变得更适配魔灵。"]
 	quest.4EF9C36CED1EDDC4.quest_subtitle: "笔须的仪式"
 	quest.4EF9C36CED1EDDC4.title: "神秘学的书写材料"
@@ -3911,6 +3928,45 @@
 		"{image:justdirethings:block/blockbreakert2_side width:100 height:100 align:center}"
 	]
 	quest.51A8026A0F8A83B1.quest_desc: ["绿宝石可以在采矿、探索或与村民交易时获取，并用于制作唤魔法术卷轴。"]
+	quest.51B59A987F916C7A.quest_desc: [
+		"A portable storage device that can store from &a256&r up to &c1 BILLION&r items per slot."
+		""
+		""
+		"&8&lFeatures:"
+		"- &3Larger slots: "
+		"Store more items per slot than normally possible. Up to 1 billion items in a single slot."
+		""
+		"- &3Different sizes: "
+		"From Bank &71&r with 9 slots to bank &c7&r with 108 slots each with increasing slot sizes."
+		""
+		""
+		"&8&lPickup Modes:"
+		"- &aPickup all&r: "
+		"All items picked up will automatically go into the &bBank&r instead of your inventory."
+		""
+		"- &1Filtered pickup&r: "
+		"Items will only go into &rBanks&r if they already contain matching items."
+		""
+		"- &5Void excess&r: "
+		"Similar to filtered pickup, but if there is no room left in the &bBank&r, the item gets voided."
+		""
+		"- &cNo pickup&r: "
+		"Items go straight into your inventory."
+		""
+		""
+		"&8&lBuild Modes:"
+		"- &aBuild mode&r: "
+		"Choose any block inside your &bBank&r and place directly from the &bBank&r item."
+		"Scroll while crouching to choose block."
+		""
+		"- &3Randomized build mode&r: "
+		"Similar to Build mode, but blocks get chosen randomly."
+		""
+		"- &eBag Mode: "
+		"Right click to open the &bBank&r inventory screen."
+		"Right click which crouching to change build mode."
+	]
+	quest.51B59A987F916C7A.quest_subtitle: "A portable storage solution!"
 	quest.51E386BC7692D06C.quest_desc: ["为了&6建立&r&6汞驱物流系统&r，必须使用这些&b线缆&r来&6连接&r输入和输出。如果需要，&b连接节点&r允许多条线缆汇聚到一个点。"]
 	quest.51E386BC7692D06C.title: "汞驱连接"
 	quest.51ECF72F223BDB3A.title: "咖啡"
@@ -4331,6 +4387,7 @@
 	]
 	quest.5CD12382792FA310.quest_subtitle: "猜猜它是干什么用的"
 	quest.5CEFB3C551971327.quest_desc: [""]
+	quest.5D0F6404B76F480E.quest_subtitle: "A handy tool displaying the fishes in your area."
 	quest.5D584858B61E534B.quest_desc: ["这个&b催化器&f可以缓慢地将&d汞&r&f转化&r为&d汞流&r，它是炼金仪器的能量来源。"]
 	quest.5D584858B61E534B.quest_subtitle: "汞=汞流"
 	quest.5D5FC5420738FDE8.quest_desc: ["普通的&b纸板&r。如此基础，却是……&o机械动力&r最新功能的入口，这些功能展示在本画廊的&c“工厂智能”&r区域。"]
@@ -4441,8 +4498,8 @@
 		"其中最值得注意的是&b镐尖斧&r，只用这一把工具就可以办到所有事情！"
 	]
 	quest.60868DF852E6028B.title: "更多装备"
+	quest.60A38769895A0B14.quest_subtitle: "Dock your bank to easily access it in-world."
 	quest.60A38769895A0B14.title: "Bank's Dock and Link"
-	quest.60A4B6B0601C837C.quest_desc: ["&b铜棒&f也有同样的功能，但其&6放置&f的最大数量限制为9个方块。"]
 	quest.60AEE273431548B6.quest_desc: ["在涡轮和锅炉里放置一层&b分压元件&r以更好地调节&7压力的释放&r。"]
 	quest.60AEE273431548B6.title: "分压元件"
 	quest.60F4F5FE0C3748C3.quest_desc: [
@@ -4505,6 +4562,7 @@
 	]
 	quest.6201E6DF709C29D0.quest_subtitle: "可升级的盔甲"
 	quest.6201E6DF709C29D0.title: "核源铁盔甲"
+	quest.621168DCC2A3B3F3.quest_subtitle: "Catch &d75&r unique fishes."
 	quest.6227304103E32C74.quest_desc: [
 		"便捷实用的&b流体储罐&r既可单独使用，也能通过&6组合&r形成1x1、2x2、3x3的平面结构，最高可搭建30格！"
 		""
@@ -4567,7 +4625,6 @@
 		"&b粉碎轮&r可能更快，但石磨在许多结构中更&6合适&r……而且另一方面，&d你&r和&b粉碎轮&r也&6合&r不到一块。"
 	]
 	quest.63756443B3FFDB48.quest_subtitle: "好事多磨"
-	quest.6385DB0FFD411ECB.quest_desc: ["&b铁棒&f也有同样的功能，但其&6放置&f的最大数量限制为27个方块。"]
 	quest.6387004E98403CCE.quest_desc: ["&b化学结晶器&r能够将&d纯净矿石浆液&r&9结晶&r为晶体。"]
 	quest.6387004E98403CCE.title: "化学结晶器"
 	quest.6392FB264D1B2E52.quest_subtitle: "在&a鉴定室&r中使用"
@@ -4715,6 +4772,8 @@
 	quest.67785FD77E880DDB.quest_subtitle: "深居于主世界底部的稀有洞穴，虚空百合会指引方向。"
 	quest.67785FD77E880DDB.title: "&d虚空之花"
 	quest.67792A4DE6EDBC37.quest_desc: ["邪术手稿由八个远古知识碎片和一个回响碎片制成。这些碎片都可以在远古城市里找到。使用后，它将赋予你选择的一个邪术法术卷轴的力量。你可以解锁更多，但每解锁一个卷轴就需要一个新的手稿。"]
+	quest.678A65A6A3461CFC.quest_subtitle: "Complete the quest chapter."
+	quest.678A65A6A3461CFC.title: "&6Fishing"
 	quest.6794A40DE2A79575.quest_desc: [
 		"本模组添加了一种新的&2村民&r。 "
 		"&8（以防你不知道，AE2也加了一种）"
@@ -4800,8 +4859,6 @@
 		"  说到三明治，这个锭看起来好像也有点&b好吃&r了……不是吗？"
 	]
 	quest.67F2212453B81446.title: "混合铱锭"
-	quest.68107A111627BD77.quest_desc: ["&b采掘小帮手&f消耗&4能量&f而非&a耐久度&f。"]
-	quest.68107A111627BD77.title: "采掘小帮手"
 	quest.681A718388A97FFC.quest_desc: [
 		"&b降噪升级&r能够几乎完全静音机器。"
 		""
@@ -4809,7 +4866,6 @@
 	]
 	quest.681A718388A97FFC.title: "降噪升级"
 	quest.682D1178AF51998C.quest_desc: ["制作任一符文，用于最适配的魔法盔甲或升级你想要的法球。"]
-	quest.683EEA78F71AC153.quest_desc: ["&b钻石棒&f也有同样的功能，但其&6放置&f的最大数量限制为128个方块。"]
 	quest.68493CE96FD68EBA.title: "冰霜术士"
 	quest.68721F148E2805FB.quest_desc: [
 		"这是你的第一本&b法术书&r，自此你可以开始&6收集&r并使用&b法术&r了。"
@@ -5155,7 +5211,6 @@
 	quest.6D702C00A519AD12.title: "精英提纯工厂"
 	quest.6DA3C5DEE0F6438D.quest_desc: ["这根探测杖已经预同调，可以定位&d珍贵&r材料。"]
 	quest.6DA3C5DEE0F6438D.quest_subtitle: "钻石猎人"
-	quest.6DDA86A3B4C0ACC1.title: "采掘小帮手"
 	quest.6DDD8661181840F1.quest_desc: [
 		"集装箱之于国际航运，"
 		""
@@ -5323,6 +5378,7 @@
 	]
 	quest.71A219DF9715D153.quest_desc: ["使用卷轴撰写台和冰封骨头来制作冰霜法术卷轴。"]
 	quest.71B6DA56399050E1.quest_desc: ["&b个人缩小装置&f通过消耗&4能量&f来将你&a缩小&f。"]
+	quest.71B6DA56399050E1.title: "&aPersonal Shrinking Device"
 	quest.71DD555551705B17.quest_desc: [
 		"&8钢&r首先的用处就是搭建&b动态储罐&r。"
 		""
@@ -6075,9 +6131,11 @@
 	task.65A43DD683FB39E4.title: "召唤魔精伐木工"
 	task.65B2D0E35B083E82.title: "适者生存"
 	task.66BF2FED6B091A68.title: "探索世界！"
+	task.691E6AA922761E29.title: "Hooks"
 	task.6C6C366D034AF5C7.title: "召唤异界树苗交易者"
 	task.708EE345AEBB270B.title: "制作暗影脉壤"
 	task.7206B162C5B4E0B8.title: "一阶矿石"
+	task.7376AAE3B45AD4B9.title: "Bobbers"
 	task.73B852C41DE1F864.title: "任意#c:crops/rice"
 	task.73DFBACC98E080BC.title: "任意刀"
 	task.74C6D98426025A18.title: "召唤守护者使魔"
