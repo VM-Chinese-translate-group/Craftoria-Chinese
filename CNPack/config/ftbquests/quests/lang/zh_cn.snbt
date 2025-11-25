@@ -3040,7 +3040,7 @@
 		"副手持有方块时，将会&6放置&f副手的方块，而不依据你所注视的方块来放置。"
 		"持有&b潜影盒&f、&b收纳袋&f以及许多其他容器时，可以为建筑棒提供建筑方块。"
 	]
-	quest.407FD46B5C5A1EC0.title: "&eConstruction Sticks"
+	quest.407FD46B5C5A1EC0.title: "&建筑棒"
 	quest.40915337B7E427F8.quest_desc: ["仅此一条电缆，就可以承担&b10个&r你的工厂的供电需求。这就是能量传输的&b巅峰&r。"]
 	quest.40915337B7E427F8.quest_subtitle: "一条真正的火线"
 	quest.40915337B7E427F8.title: "超导体电缆"
@@ -5378,7 +5378,7 @@
 	]
 	quest.71A219DF9715D153.quest_desc: ["使用卷轴撰写台和冰封骨头来制作冰霜法术卷轴。"]
 	quest.71B6DA56399050E1.quest_desc: ["&b个人缩小装置&f通过消耗&4能量&f来将你&a缩小&f。"]
-	quest.71B6DA56399050E1.title: "&aPersonal Shrinking Device"
+	quest.71B6DA56399050E1.title: "&a个人缩放设备"
 	quest.71DD555551705B17.quest_desc: [
 		"&8钢&r首先的用处就是搭建&b动态储罐&r。"
 		""
