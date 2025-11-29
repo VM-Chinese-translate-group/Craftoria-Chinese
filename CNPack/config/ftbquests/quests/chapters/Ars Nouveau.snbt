@@ -3214,8 +3214,8 @@
 											duration: 3600
 											id: "minecraft:wither"
 											"neoforge:cures": [
-												"protected_by_totem"
 												"milk"
+												"protected_by_totem"
 											]
 											show_icon: 1b
 										}
@@ -3226,8 +3226,8 @@
 											duration: 3600
 											id: "minecraft:poison"
 											"neoforge:cures": [
-												"protected_by_totem"
 												"milk"
+												"protected_by_totem"
 											]
 											show_icon: 1b
 										}
@@ -3238,8 +3238,8 @@
 											duration: 3600
 											id: "minecraft:hunger"
 											"neoforge:cures": [
-												"protected_by_totem"
 												"milk"
+												"protected_by_totem"
 											]
 											show_icon: 1b
 										}
@@ -3250,8 +3250,8 @@
 											duration: 3600
 											id: "minecraft:mining_fatigue"
 											"neoforge:cures": [
-												"protected_by_totem"
 												"milk"
+												"protected_by_totem"
 											]
 											show_icon: 1b
 										}
