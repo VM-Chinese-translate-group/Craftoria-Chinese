@@ -4,7 +4,7 @@
 	chapter.0597AF3E8B286CFA.title: "新生魔艺"
 	chapter.0644AB97E8D8839B.title: "机械动力"
 	chapter.0CF7A598566497C7.title: "&6成就奖杯"
-	chapter.1910D05CD66EC477.title: "Fishing"
+	chapter.1910D05CD66EC477.title: "垂钓"
 	chapter.1CFBA632673ABBFD.title: "井井有条的存储"
 	chapter.216D532684E20496.title: "Boss"
 	chapter.26E59C8DBA7F6FE3.title: "Monster Mayhem"
@@ -4772,7 +4772,7 @@
 	quest.67785FD77E880DDB.quest_subtitle: "深居于主世界底部的稀有洞穴，虚空百合会指引方向。"
 	quest.67785FD77E880DDB.title: "&d虚空之花"
 	quest.67792A4DE6EDBC37.quest_desc: ["邪术手稿由八个远古知识碎片和一个回响碎片制成。这些碎片都可以在远古城市里找到。使用后，它将赋予你选择的一个邪术法术卷轴的力量。你可以解锁更多，但每解锁一个卷轴就需要一个新的手稿。"]
-	quest.678A65A6A3461CFC.quest_subtitle: "Complete the quest chapter."
+	quest.678A65A6A3461CFC.quest_subtitle: "完成对应任务章节。"
 	quest.678A65A6A3461CFC.title: "&6Fishing"
 	quest.6794A40DE2A79575.quest_desc: [
 		"本模组添加了一种新的&2村民&r。 "
