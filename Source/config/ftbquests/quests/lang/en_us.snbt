@@ -1271,6 +1271,7 @@
 		""
 		"The &bBasic Infusing Factory&r can hold up to &92,960 mb&r of infusing material."
 	]
+	quest.1B65CA6898CC3F9E.title: "Tier Installers"
 	quest.1C25114D2AF71C35.quest_desc: [
 		"  Using &bIndustrial TNT&r, the &bImplosion Compressor&r is able to compress the dusts and ingots of the most resistant materials. This includes &bTungsten&r, &bBlast-proof Alloy&r, &bBeryllium&r and finally &bDiamonds&r! Some of those materials will be very important for your journey into nuclear fission."
 		""
@@ -4611,6 +4612,8 @@
 	quest.62FCB2F06126B622.quest_desc: ["The &bWireless Terminal&f is a &bregular Terminal&f that can be used to access an&b ME System&b wirelessly. Use an &bAccess Point&f to connect up your &bTerminal&f and use &bBooster Cards&b to increase the total distance from that &bAccess Point&f you want to be able to use your system. Using multiple &bAccess Points&f on the same network in different locations can help you cover a larger footprint."]
 	quest.62FCB2F06126B622.title: "Wireless Terminal"
 	quest.6307E15FAAF30712.quest_desc: ["Allows you to &6make&b patterns&f that need to be&6 inserted&f specific direction to tell it through the &bpattern &fwhat side of the machine its importing/exporting."]
+	quest.630EF1A8715E2D90.quest_subtitle: "Found by using the Eye of Storm"
+	quest.630EF1A8715E2D90.title: "&eScylla"
 	quest.632BE5724D2120EB.quest_desc: [
 		"&bReinforced Alloy&r is an elite material made by &6infusing&r diamond into the infused alloy."
 		""
@@ -6056,6 +6059,7 @@
 	task.013281B2076D21ED.title: "Helpful Tips \\& Tricks"
 	task.02D1703C79A7F3EF.title: "Any #c:logs/archwood"
 	task.04FBCF96BB8F176A.title: "Vein be gone!"
+	task.0B2C0AF7B7B4B841.title: "Thermodynamic Conductors"
 	task.0BA54BE324AE1978.title: "How Delightful!"
 	task.0D974A2537B460E2.title: "Upgrades AAAAAAAAAAAAHHHHHHHHH"
 	task.0FA270C84C6558F4.title: "Clean Slurry"
@@ -6085,7 +6089,9 @@
 	task.2836DAFB8BAF8D7B.title: "Summon a Headless Ratman Familiar"
 	task.296A456AF1F00270.title: "Summon an Otherstone Trader"
 	task.2A1C946A44A39D6F.title: "Make Primogel Soil"
+	task.2A344C35DC371D0C.title: "Tier Installers"
 	task.2DCC056348E9BB4B.title: "Summon a Demonic Wife"
+	task.2E011A6CEC3FE9F6.title: "Pressurized Tubes"
 	task.2FA7F24545E1C37E.title: "Start Here"
 	task.3033BCAB98641150.title: "Advanced Pattern Provider"
 	task.310C3BFD53972F70.title: "Sushi Go! Go! Go!"
@@ -6095,6 +6101,7 @@
 	task.339C2D373170BE2F.title: "Be a Fashion Icon!"
 	task.33DEB184944AC7D0.title: "Water"
 	task.3404171FB712C24D.title: "Tier 5 Ores, 1:5"
+	task.341F7CB191A0790A.title: "Universal Cables"
 	task.3716986BD12061AA.title: "Any #c:raw_materials/gold"
 	task.37DECFA02129E0B8.title: "Summon a Deer Familiar"
 	task.3BC634992A1E9BAD.title: "Observe: &2Any Entro Budding&r"
@@ -6138,10 +6145,12 @@
 	task.7376AAE3B45AD4B9.title: "Bobbers"
 	task.73B852C41DE1F864.title: "Any #c:crops/rice"
 	task.73DFBACC98E080BC.title: "Any Knife"
+	task.741F21CA04FBCB90.title: "Logistical Transporters"
 	task.74C6D98426025A18.title: "Summon a Guardian Familiar"
 	task.7537E40C4FAB6D5C.title: "Welcome To Powah"
 	task.7A0371393E813129.title: "Observe: &2Any Certus Budding&r"
 	task.7AB3BAEAA2E50F06.title: "Archevoker"
 	task.7C14A87514F74DF9.title: "Make VoidShimmer Soil"
+	task.7DFBA79EE9616973.title: "Mechanical Pipes"
 	task.7E36340AFD8F91C6.title: "Summon a Greedy Familiar"
 }
