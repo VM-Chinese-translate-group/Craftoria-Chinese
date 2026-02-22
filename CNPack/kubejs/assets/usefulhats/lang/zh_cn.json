@@ -18,7 +18,7 @@
   "item.usefulhats.chopping_hat.desc.chopping_speed": "用斧头砍伐的效率快§2%s%%§9。（可与附魔和药水效果叠加）",
 
   "item.usefulhats.ender_helmet": "末影头盔",
-  "item.usefulhats.ender_helmet.desc.define_teleport": "手持头盔并潜行右键来确定传送点。",
+  "item.usefulhats.ender_helmet.desc.define_teleport": "手持头盔并潜行右击来确定传送点。",
   "item.usefulhats.ender_helmet.desc.teleport": "使用一颗末影珍珠来传送至点位。",
   "item.usefulhats.ender_helmet.desc.teleport_position": "X：%s，Y：%s，Z：%s",
   "item.usefulhats.ender_helmet.message.position_saved": "位置已保存",
