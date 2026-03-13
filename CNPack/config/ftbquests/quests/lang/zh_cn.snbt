@@ -1838,7 +1838,6 @@
 	quest.286229410FA571B7.quest_desc: ["&6防止&r列车相撞，并&6调控&r被调度的列车的运行。"]
 	quest.286229410FA571B7.quest_subtitle: "让列车永不停歇!"
 	quest.28724CA9F837F710.quest_desc: ["紫水晶共鸣护符——当佩戴此护符时，将为你提供15%的法力值恢复。"]
-	quest.287A6A75537FF79C.quest_subtitle: "&6&kCatch all the fishes."
 	quest.28A35996DE62CFA0.quest_desc: [
 		"&l1. 更大的储存容量&r"
 		"请查阅&5Ars Énergistique&r，这是与AE2的联动附属模组。"
@@ -3476,7 +3475,6 @@
 	quest.49E73DF03C8D28C7.quest_subtitle: "御火"
 	quest.4A0E862883FE42BB.quest_desc: ["这块宝石能够将大部分&b生物&r&6存储&r在里面，便于运输。"]
 	quest.4A0E862883FE42BB.quest_subtitle: "目标是宝可梦大师！"
-	quest.4A25E60DD359F959.quest_subtitle: "Catch &d134&r unique fishes."
 	quest.4A476B25B5A3E88D.quest_desc: ["生物生成的范围半径（以格数为单位）。"]
 	quest.4A476B25B5A3E88D.quest_subtitle: "+2 生成范围"
 	quest.4A5466E364B85AEF.quest_desc: [
@@ -4459,7 +4457,6 @@
 	]
 	quest.6201E6DF709C29D0.quest_subtitle: "可升级的盔甲"
 	quest.6201E6DF709C29D0.title: "核源铁盔甲"
-	quest.621168DCC2A3B3F3.quest_subtitle: "Catch &d75&r unique fishes."
 	quest.6227304103E32C74.quest_desc: [
 		"便捷实用的&b流体储罐&r既可单独使用，也能通过&6组合&r形成1x1、2x2、3x3的平面结构，最高可搭建30格！"
 		""
