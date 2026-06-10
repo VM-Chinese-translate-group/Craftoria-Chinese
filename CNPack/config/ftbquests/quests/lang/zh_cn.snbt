@@ -10,6 +10,7 @@
 	chapter.26E59C8DBA7F6FE3.title: "Monster Mayhem"
 	chapter.2A4C06811555B5D0.title: "遗物与饰品"
 	chapter.2B64DA0213E9FC7B.title: "私人存储"
+	chapter.2D12E0E71DEC99E9.title: "MI: Steam Age"
 	chapter.2E72024B18414A17.title: "&d永恒"
 	chapter.3188AC6C440F7520.title: "&a新手上路"
 	chapter.33E8845C982DC0F2.title: "通用机械：矿石处理"
@@ -19,6 +20,8 @@
 	chapter.40CEA39FE5F5225D.title: "通用机械"
 	chapter.5158EB105DEA1F80.title: "沉浸式飞机"
 	chapter.51BB74521F2334FA.title: "烹饪"
+	chapter.53A9F74C4BFE02D2.title: "MI: Electric Age"
+	chapter.587D73D979FA9D28.title: "MI: Quantum Age"
 	chapter.5A3894BACC5E8994.title: "神通术"
 	chapter.5BF964A2F3CAA6E8.title: "物流系统"
 	chapter.679ED31B5B1D91DA.title: "Replication"
@@ -79,16 +82,16 @@
 	]
 	quest.01E8A006742F7A00.quest_subtitle: "还不够"
 	quest.02272D430F08B1DC.quest_desc: [
-		"现在你可以造大型储罐了！这个多方块储罐中的&o每个&r方块都有64,000mb的存储空间，总储量就是总体积（包括构成它的固体方块和空气方块）乘以64,000mb。"
+		"  Now you can make a large tank! This is a tank multi-block that can store 64,000mb &oper&r block within the total volume the tank takes up, air blocks and solid."
 		""
-		"造好大型储罐后，打开它的GUI，看看左上角，那里可以调整储罐的大小。"
+		"  When you place down a Large Tank, open it's GUI and check out the top left. It'll let you choose which size you want. "
 		""
-		"调好之后，拿上你可爱的扳手，按照全息影像搭建吧。"
+		"  Once you've chosen, hold out your trusty wrench and a hologram will show you where to place blocks."
 		""
-		"另外，你还需要用到大型储罐仓。它的工作方式和其他的仓差不多，但是它只是作为大型储罐的一个交互口，把其他的仓放在它上面，就可以从储罐输入/输出了。"
+		"  Use a Large Tank Hatch too. It works just like other hatches, aside from it only being a point of access to the tank. It'll input and output from any hatches you put on it."
 	]
 	quest.023A420F24C515EB.quest_desc: ["这是一种&8强化版的&r&b基础压力管道&r，这些管道可由伪装涂敷器给予&2伪装&r，也可以安装&b管道模块&r以提供&e额外功能&r。"]
-	quest.026C88446512DDB8.quest_subtitle: "可批量执行&e焦炉&r配方。"
+	quest.026C88446512DDB8.quest_subtitle: "Can run &eCoke Oven&r recipes in batches."
 	quest.02AE5771A57BC6BE.quest_subtitle: "完成对应任务章节。"
 	quest.02AE5771A57BC6BE.title: "&3应用能源"
 	quest.02D3AFC713077502.quest_desc: ["使发酵过程更加&6高效&r。&a你可能会想要自动化这个过程&r。"]
@@ -175,11 +178,11 @@
 	]
 	quest.048328EEBEEC9C94.title: "防辐射服"
 	quest.04A69DE982F47E64.quest_desc: [
-		"  又一个重大升级！现在你可以造出&6能达到512EU/t&r的全新&b高压蒸汽涡轮机&r了！除了产能（又）翻了四倍以外，其他的就和低压、&b中压蒸汽涡轮机&r一样了。"
+		"  Time for another major upgrade! Now you'll be able to make a &6maximum of 512 eu/t&r out of the new &bHV Steam Turbine&r! Aside from the increase in energy production four-fold (again), it acts just like the LV and &bMV Steam Turbine&r."
 		""
-		"  你的电缆也需要换成适配高压的。&b铝&r或者&b铁铬铝&r电缆可传输这种全新的高压能量。"
+		"  You'll need to use a new set of cables for HV now. You'll need to use &bAluminum&r or &bKanthal&r cables to be able to transfer this new HV tier of power."
 	]
-	quest.04A69DE982F47E64.title: "高压蒸汽涡轮机"
+	quest.04A69DE982F47E64.title: "HV Steam Turbine"
 	quest.04BCA6A8AE60D817.quest_desc: [
 		"紧挨着炮塔放置一个容器，然后在容器上放置一个&b物品展示框&r，最后将所需的&b方块&r放进展示框与容器内。"
 		"&8如此一来，炮塔的“放置方块”法术就只会放置展示框内的方块了。（对抽屉也生效）"
@@ -203,6 +206,7 @@
 		""
 		"这个&b能源炉&r还会&6产生&r&4热量&r，需要处理产生的热量以防止&a效率&r&c损失&r。"
 	]
+	quest.04F6F95B5880770D.quest_subtitle: "Catch &a200&r total fishes and &d10&r unique legendary fishes."
 	quest.0541F90AD95B4B5E.quest_desc: ["请注意：同一种材料在&b置物台&r与&b工作盆&r中&6制作&r的产物可能不同。"]
 	quest.0541F90AD95B4B5E.quest_subtitle: "我能为你压一份黄瓜三明治吗？"
 	quest.0547229FF5334CF5.quest_desc: ["&bME接口&f就像一个箱子，你可以在&bME接口&的GUI中&a标记物品或者流体&r，这样它就会自动从&5网络&f中拉取物品来维持库存。"]
@@ -253,22 +257,22 @@
 	quest.0633D2B1E1DB778B.title: "硅"
 	quest.06573610058AE660.title: "红色发光甘蔗"
 	quest.069382B7A2FC7D35.quest_desc: [
-		"不使用&b蒸馏水&r的情况下，它会逐渐&6钙化&r，效率逐渐&c下降&r，最低下降至&e33%&r。 "
+		"Will &6calcify&r and &close&r efficiency over time to a minimum of &e33%&r efficiency when not using &bDistilled Water&r. "
 		""
-		"用&b斧子&r右击&b锅炉&r可清除钙化。"
+		"Using an &bAxe&r on the &bBoiler&r will reset its calcification."
 	]
-	quest.069382B7A2FC7D35.quest_subtitle: "用太阳能代替化石燃料。"
+	quest.069382B7A2FC7D35.quest_subtitle: "Uses Solar Energy instead of Fossil Fuel."
 	quest.0696635896D223CA.quest_desc: ["长者手杖可以把你变成长者……开玩笑的，这个法杖会帮助你恢复魔力，同时增强卷轴的威力。这是比较容易制作的法杖之一。"]
 	quest.06D66E791A9939DD.quest_desc: ["制作一台&b充能器&r，并用&b谐振仓&r或其他模组的发电机给它供电。"]
 	quest.06D66E791A9939DD.quest_subtitle: "一种通过ME网络给其支持的工具充电的方式"
 	quest.06D66E791A9939DD.title: "充能器"
 	quest.06F1E4885CE3C0C9.quest_desc: ["可在&b抄写台&r将&d法术&r注入&b空白羊皮纸&r，使其变为&6法术羊皮纸&r。"]
 	quest.0729CB454B970201.quest_desc: [
-		"  这是&b青铜钻&r。它可以采集各种主要矿物，供日后发展使用。"
+		"  This is the &bBronze Drill&r. This will give you the main ores that you'll need to expand further."
 		""
-		"  你可以在&6EMI&r中查看它采集的产物。另外，钻头有一定几率损坏，所以最好多做几个备用。"
+		"  Check the outputs in &6EMI&r and make sure you know that the drill has a chance of breaking, so don't just make 1."
 	]
-	quest.0729CB454B970201.title: "青铜钻"
+	quest.0729CB454B970201.title: "Bronze Drill"
 	quest.077658D04D0D4AB3.quest_desc: [
 		"&b硇砂储罐&r必须放置在硇砂蓄积器&6下方&r。这两个设备协同工作，可以从&9水&r中制造出&d硇砂溶剂&r。"
 		""
@@ -287,19 +291,19 @@
 	]
 	quest.07F1FA5EF3E6A7F3.title: "&c柴油"
 	quest.07FE9074247583EE.quest_desc: [
-		"  你可能已经注意到了，我在描述控制器的交互性时用的词是“通常”。也就是说，虽然物品和&6流体不能通过控制器输入/输出&r，但是信息可以——以参数的形式。打开控制器，你会看到这些东西：结构有效性、状态、进度、配方基础和当前配方。"
+		"  Now, you might have noticed I said \"usually\" when talking about interacting with the controller. This means items and &6fluids cannot be inputted or outputted from the controller&r, but information can; in the sense of statistics. Looking into the controller you will see a few things: Shape Validity, Status, Progress, Recipe Base, and Recipe Current."
 		""
-		"  结构有效性是指示该&6多方块结构搭建是否正确&r的。但它不会告诉你多方块结构中是否缺少或者有太多的仓，所以这个得靠你自己。还有请记住，多个多方块结构之间&o可以&r共用一些方块，前提是共用部分不包含仓。"
+		"  The Shape Validation will let you know if the &6multiblock is built correctly or not&r. It will not tell you if you are missing or have too many hatches on the multiblock, so you need to decide that for yourself. Keep in mind that multiblock structures &omay&r share blocks with one another so long as these overlapping block do NOT contain a hatch."
 		""
-		"  状态可以指示该多方块结构现在处于空闲还是工作状态。"
+		"  Status will let you know the current status of the Multiblock. If it's idle or if it's active."
 		""
-		"  进度可指示当前进程的进度，它会慢慢达到100%，百分比上升的速度取决于当前进程的速度。"
+		"  Progress will show you the progress, slowly building a percent to 100%. Depending on the speed of the process, the faster the percent will rise."
 		""
-		"  配方基础可指示&6当前配方的基础能量/蒸汽消耗量&r。这是当前配方的最低能耗，你可以提高能耗来加速进程。不过这不适用于蒸汽机，所以我就先不展开讲了。"
+		"  Recipe Base shows the &6base recipe energy/steam consumption&r. Depending on what you're making, it uses a minimum amount of energy/steam, but it can use more to speed up the process. This doesn't happen on steam machines so I won't got too far into it now."
 		""
-		"  当前配方可指示&6当前实际的能量/蒸汽消耗量&r。"
+		"  Recipe Current is the&6 current amount of energy/steam being actually consumed&r."
 	]
-	quest.07FE9074247583EE.title: "多方块结构控制器"
+	quest.07FE9074247583EE.title: "Multiblock Controllers"
 	quest.0807F0094282C2D5.quest_desc: [
 		"&b安山隧道&r非常基础，可以&6遮盖&r&b传送带&r，并能对传送带上的物品进行简单的&6分流&r。"
 		""
@@ -326,9 +330,9 @@
 	]
 	quest.08B17C05B2111477.quest_subtitle: "四阶：已解锁"
 	quest.08C3213E848BFD0C.quest_desc: [
-		"&b超频模块&f会将&b电动机器&f的功率&6锁定在&f最大，但是机器会&6一直&f以&c满功率消耗能量&f，即使它并不在&6工作&f。"
+		"The &bOverdrive Module&f will &6prevent&f the efficiency of an &belectric machine&f from going down, but &6force&f the machine to use &cfull power&f all the time, even if it isn't &6processing&f anything."
 		""
-		"机器&6执行的&r配方更换时功率&o会&f重置。"
+		"The effiency &owill&r reset if the recipe the machine is &6processing&f changes."
 	]
 	quest.08DD0CB24FD0B193.quest_desc: [
 		"- &6旋转&r组件任意角度"
@@ -352,15 +356,15 @@
 	]
 	quest.0910D85DD68AFD64.quest_subtitle: "传输物品/药水"
 	quest.091C2772ED417247.quest_desc: [
-		"  现在你已经可以生产&6中压&r能量了，因此你的机器也需要适配这种新的能源。"
+		"  Now that you're producing energy in the &6medium voltage tier&r, you'll need to make sure your machines can accept that new found power."
 		""
-		"  通常而言，&6如果电缆和机器的等级不同，它们甚至都不会连在一起&r。但是呢，你可以在机器右上角的槽位中放一个&b进阶机器框架&r（或者更高级的），这样机器就可以接受更高级的能量了。"
+		"  Normally, &6cables wont even connect to machines if they aren't of the same tier&r. But, by placing an &bAdvanced Machine Hull&r (or higher tier) into the slot in the top right of the machine, you'll have upgraded the machine to the tier of power it associates with it."
 		""
-		"  默认情况下，电动机器已经是&b基础机器框架&r的等级了，因此没必要再往里放&b基础机器框架&r了。框架和能量等级的对应关系我等下会讲。"
+		"  By default, electric machines are already at the &bBasic Machine Hull&r tier and there is no need to put &bBasic Machine Hulls&r into the slot. I'll show you which hulls are for which power tier."
 		""
-		"  &6记得先看看有哪些机器是&o真的&r&6需要升级的&r，以免浪费你的资源。"
+		"  &6Make sure you check for which machines &oactually&r&6 need the upgrades&r so you aren't wasting resources on machines that don't really need the extra boost."
 	]
-	quest.091C2772ED417247.title: "框架升级"
+	quest.091C2772ED417247.title: "Hull Upgrades"
 	quest.098C3858B4FFCE78.quest_desc: ["使用&b热力发电机&f时，可在其下方放置一个&b烈焰晶体块&f，它将以&b280%的效率发电。"]
 	quest.098C3858B4FFCE78.quest_subtitle: "功率增加280%"
 	quest.09B10C121C7E9023.quest_desc: ["用于制作&bME能源存储组件&f与通量访问点。"]
@@ -369,24 +373,24 @@
 	quest.0ABC6D5601DCD95F.quest_subtitle: "Aid you journey with these upgrades providing all kinds of different benefits."
 	quest.0ABC6D5601DCD95F.title: "Hooks and Bobbers"
 	quest.0AC7D844C55119E1.quest_desc: [
-		"  这个不是&b活动扳手&r，但是你可以期待未来能有差不多的。"
+		"  This is no &bMonkey Wrench&r, but you better hope you can move like one in the future."
 		""
-		"  &b扳手&r可以&6旋转&r&o几乎&r&b所有的机器&r（&6右击&r即可），还能&r拆卸&r&o几乎&r所有的&b管道&r。"
+		"  Using a &bWrench&r, you can &6rotate&r &oalmost&r &bany machine&r by &6right-clicking&6 and &rpick up&r&o almost&r any &bpipe&r, &bfluid&r or &bnot&r."
 		""
-		"  手持扳手&6潜行右击&o&b机器&r可&6调整&r其&b输出面&r。&6手持&r&b扳手&r&6对准&r&b机器&r的任意面，你会看到一个类似&b网格&r的东西。&6潜行右击&o&b中心的方块&r即可将&b输出面&r设置为&b网格&r所在的面。如果点击周围的那些长方形，就会&6将输出面&r设为与该长方形&690&r度相邻的那个面，这样就可以&6配置&r那些难以够到的面了。最后是角落上的&b方块&r，点击它们可将输出面设为网格&b对面&r的那个面。"
+		"  You can &6shift-right-click&o on a &bmachine&r to &6configure&r the &boutput side&r. When you're &6holding&r the &bWrench&r, you can &6hover&r over any face of the &bmachine&r and you'll get a &bgrid&r of sorts. &6Shift-rick-clicking&o on the &bmiddle square&r will set the &boutput face&r to the side the &bgrid&r is on. Doing so to the rectangles will &6place the output&r to the face &690&r degrees relative to the corner elected to allow for &6configuration&r in hard to reach spaces. Finally the small &bsquares&r in each corner will set the output to the &bopposite&r side of the grid."
 		""
-		"  请谨记，你不能用&b扳手&r&6破坏&r机器，因为这样做会把机器&6毁坏&r掉，然后你就&6可以&r跟你的机器说拜拜了。还是用你值得信赖的&b镐子&r拆吧。"
+		"  Remember, you cannot &6break&r the machine using the &bWrench&r, it WILL &6destroy&r it and you &6wont&r get it back. Just use your trusty &bPickaxe&r instead."
 	]
-	quest.0AC7D844C55119E1.title: "扳手"
+	quest.0AC7D844C55119E1.title: "Wrench"
 	quest.0B2FF8169FD3812D.quest_desc: [
-		"  &b钢仓&r的&6容量是青铜仓的两倍&r，即里面的格子从1个变成了2个。而且，它可将多方块结构的最大能耗从2EU/t提升至4EU/t。也就是说，只是单独把提供蒸汽的流体输入仓升级成钢制的，就相当于把整个多方块结构升级到“钢制级别”了。"
+		"  &bSteel Hatches&r have &6double the capacity of bronze hatches&r, increasing one inventory slot to 2, and increasing a multi-block's max steam usage rate from 2 EU/t to 4 EU/t. As long as there is a single steel fluid input hatch receiving steam, your entire multi-block is upgraded to a \"steel tier.\""
 		""
-		"  让多方块结构可以以4EU/t的能耗运行，这意味着进程的最大速度翻倍了。"
+		"  Allowing multiblocks to use 4 EU/t means exactly what you think it does, it doubles the top speed of the processes."
 		""
-		"  &b钢锅炉&r可以产生两倍于青铜锅炉的蒸汽，其最大速率从8EU/t提高到了&o16EU/t&r。&b钢水泵&r也一样，可以产生两倍于青铜水泵的&b水&r，即最大输出速率为每个相邻水源250mb&b水&r，总计为每5秒2000mb&b水&r。"
+		"  A &bSteel Boiler&r will produce twice as much steam as a bronze one. That means it will max out at &o16 EU/t&r instead of 8. The &bSteel Water Pump&r will also produce twice as much &bWater&r as it's bronze counterpart, so a max of 250mb of &bWater&r fro every adjacent water source for up to 2000mb of &bWater&r every 5 seconds."
 	]
-	quest.0B2FF8169FD3812D.quest_subtitle: "等着“仓”东西吗？"
-	quest.0B2FF8169FD3812D.title: "钢仓"
+	quest.0B2FF8169FD3812D.quest_subtitle: "Waiting for Something to Hatch?"
+	quest.0B2FF8169FD3812D.title: "Steel Hatches"
 	quest.0B4D059EDFD90B5B.quest_desc: [
 		"用&2蚀刻酸&r填满&b蚀刻器&r，并将已在&e紫外线灯箱&r中曝光过的&7空印刷电路板&r放入其中。"
 		""
@@ -459,16 +463,16 @@
 	quest.0C37E9D8A7823264.quest_desc: ["匠师之杖专为年迈的老伙计们助行——再次开个玩笑，这根法杖可以提供法术冷却缩减和法术吟唱缩减，并增加你的法术强度。虽比长者手杖昂贵些许，但施展更强大的法术时绝对物超所值（依据特性善加利用这些法杖）。"]
 	quest.0C53E42899D3D271.quest_desc: ["红石&6控制&r的简单装置，可用于驱动&b传动杆&r或&b齿轮&r。"]
 	quest.0C6D0B1C1AF75292.quest_desc: [
-		"  温斯顿？对，没错。"
+		"  Winston? You're god damn right."
 		""
-		"  &b化学反应釜&r是一个封闭的容器，可利用这个世界上&6不同物质间的化学反应&r来制造新的东西。"
+		"  The &bChemical Reactor&r can be used as an enclosed machine to take advantage of the&6 chemical reaction between substances&r in this world to make new things."
 		""
-		"  &b化学反应釜&r可促进这些反应，并将反应物质隔绝在其中，避免你接触到释放出来的气体、液体或固体而受伤或者生病。"
+		"  The &bChemical Reactor&r will encourage these reactions and keep them isolated so you won't be hurt or get sick from released fumes, liquids, or solids."
 		""
-		"  那怎么说？咱们开始“烹饪”吧。"
+		"  Now, what do you say? Let's get cookin'."
 	]
-	quest.0C6D0B1C1AF75292.quest_subtitle: "说出我的名字！"
-	quest.0C6D0B1C1AF75292.title: "化学反应釜"
+	quest.0C6D0B1C1AF75292.quest_subtitle: "Say My Name!"
+	quest.0C6D0B1C1AF75292.title: "Chemical Reactor"
 	quest.0C91DF887A33A8E6.quest_desc: [
 		"&o还记得我说过魔灵可以为你采矿吗？&r"
 		""
@@ -564,17 +568,17 @@
 		"{image:justdirethings:item/celestigem_paxel_active width:100 height:100 align:center fit:true}"
 	]
 	quest.0ED4263270D37EF6.quest_desc: [
-		"&e柴油工具&r"
+		"&eDiesel Accessories&r"
 		""
-		"  这里有几种强大的&6柴油动力&r工具，可以帮你进一步扩建你的工厂。就是下面这些："
+		"  There's a few powerful &6diesel fueled&r tools and accessories that you can use to assist you in expanding your factory even more. Here there are:"
 		""
-		" &#8226; 第一个是&b柴油钻头&r，这可比你的老蒸汽钻头先进多了。二者的区别在于，这个不能3x3挖掘了，但是可以&6在精准采集和时运III之间切换&r（Shift右击即可）。它装载的燃料越强大，挖掘的速度就越快。"
+		" &#8226; First is a &bDiesel Drill&r, a huge upgrade from your old steam drill. The difference is, this one you can't use a 3x3 function anymore, but you can &6toggle between Silk Touch and Fortune III&r with a simple shift right-click. The more powerful the fuel in it, the faster it'll mine."
 		""
-		" &#8226; 第二个是&b柴油链锯&r。链锯呢，功能和钻头差不多，区别在于它是干砍树之类的斧头的活的。"
+		" &#8226; Second is a &bDiesel Chainsaw&r. The chainsaw has the exact same functionality as the drill, but instead it's for cutting down trees and the like to replace your axe."
 		""
-		" &#8226; 第三个是&b柴油喷气背包&r。对，你没听错，是喷气背包。它装载的&6燃料越强大&r，&6你飞得就越快&r。你可以按“V”键开关喷气背包。用科技的力量解放你的翅膀吧！&o当然，还需要一点点燃料……&r"
+		" &#8226; Third is a &bDiesel Jetpack&r. Yes, you heard me right. A jetpack. The &6stronger the fuel&r in it the &6faster you'll fly&r. Use your \"V\" key to toggle the jetpack on and off. Let your wings free and fly with the power of technology! &oAnd a bit of fuel...&r"
 	]
-	quest.0ED4263270D37EF6.title: "柴油工具"
+	quest.0ED4263270D37EF6.title: "Diesel Accessories"
 	quest.0ED5CB1120D1BD6E.quest_desc: ["探索时，你可以在世界各地找到卷轴，但如果你不小心用掉了，卷轴就会被消耗。"]
 	quest.0ED5CB1120D1BD6E.title: "卷轴"
 	quest.0EFB32C64C146682.quest_desc: [
@@ -625,23 +629,23 @@
 	quest.103CFBF5C4599A7B.title: "挖矿"
 	quest.10534DA1BD464834.quest_subtitle: "在觉醒之门试炼中掉落。"
 	quest.1081BFCAB3F07FFF.quest_desc: [
-		"  需要蒸汽升级吗？是的我需要！&b大型蒸汽锅炉&r是小青铜/钢锅炉的升级版。&6它消耗燃料的速度是熔炉的8倍&r，达到最高温度时可产生&6256mb/t的蒸汽&r。还有，要记得给它供&b水&r！"
+		"  Need a steamy upgrade? I know I do! The &bLarge Steam Boiler&r is an upgraded version of the smaller bronze and steel boilers. &6It uses fuel 8 times faster&r than the Furnace, but it produces &6256 mb/t of steam&r when at max temperature. Make sure you don't forget to provide it &bWater&r!"
 		""
-		"  你主要会用到很多&b镀青铜砖块&r，以及一些其他的方块，EMI里有写。&b大型蒸汽锅炉&r由一层&b耐热机器外壳&r和几层&6镀青铜砖块&r以及&6管道机器外壳&r组成。"
+		"  The main block you'll need is &bBronze Plated Bricks&r, but you'll also need other blocks shown in your EMI. The &bLarge Steam Boiler&r is comprised of one layer of &bHeatproof Machine Casings&r with layers of &6Bronze Plated Bricks&r and &6Pipe Machine Casings&r."
 		""
-		"  控制器在第二层，&b耐热机器外壳&r的上面。&6别忘了用&b扳手&r&6可以显示多方块结构的形状和各个方块的位置&r。所需的仓必须放在最底层。你需要输入水和固体燃料，还要输出&b蒸汽&r。"
+		"  The Controller is on the second layer, on top of the &bHeatproof Machine Casings&r. &6Don't forget you can use your &bWrench&r &6to show the shape of the multiblock and placement of the blocks needed for it&r. The required hatches must be placed on the bottom layer. You'll need a way to input water and a solid fuel, as well as a way to extract &bSteam&r."
 	]
-	quest.1081BFCAB3F07FFF.title: "大型蒸汽锅炉"
+	quest.1081BFCAB3F07FFF.title: "Large Steam Boiler"
 	quest.1094111FB9512D75.quest_desc: [
-		"  这里一共有三种&b小型柴油发电机&r，作为流体/气体发电的入门。你可以用EMI查看每毫桶各种燃料可以产生多少EU。"
+		"  There are three &bSmall Diesel Generators&r that are the beginning of power generation via fluids or gases. You can use your EMI to check for how much EU will be produced per millibucket of each type of fuel."
 		""
-		"  &b低压柴油发电机&r最大发电速率为64EU/t，&b中压柴油发电机&r为256EU/t，&b高压柴油发电机&r为1024EU/t。"
+		"  The &bLV Diesel Generator&r will produce up to 64 eu/t, the &bMV Diesel Generator&r will produce up to 256 eu/t, and the &bHV Diesel Generator&r will produce up to 1024 eu/t."
 		""
-		"  &b柴油发电机&r&6只会在有需求的时候消耗燃料&r，所以不用担心它在你不需要能量的时候浪费燃料。不过如果你需要持续的能量供应，液体燃料也可以输入&b大型蒸汽锅炉&r（或者更高级的）作为燃料。"
+		"  &bDiesel Generators&r &6will only use fuel when they need to&r, so don't worry about wasting fuel when you aren't actually using any power. Although, if you need a constant supply of energy, you can put these fluid fuels into the &bLarge Steam Boiler&r (and higher tiers of of it) instead of only items."
 		""
-		"  消耗同样多的燃料，达到最高温度的&b大型蒸汽锅炉&r&6与&b中压柴油发电机&r产生的能量是一样多的。"
+		"  A fully heated &bLarge Steam Boiler&r &6will produce the same amount of energy as a &bMV Diesel Generator&r would produce using the same quantity of fuel."
 	]
-	quest.1094111FB9512D75.title: "柴油发电机"
+	quest.1094111FB9512D75.title: "Diesel Generator"
 	quest.110B0C8DD2FD5BE7.quest_desc: [
 		"欢迎来到这个由&7固体&r、&b液体&r、&9气体&r和&e电力&r构成的世界！"
 		""
@@ -717,11 +721,11 @@
 		"你可以用这个来&6复活&r它，如果你想的话。"
 	]
 	quest.135FBE79D4415F15.quest_desc: [
-		"  不用问了，它不能。这些&b核弹&r&o不&r会爆炸，因为没有起爆装置。 "
+		"  Before you even ask, the answer is no. These &bnukes&r do &onot&r explode. These are nukes without it's detonator. "
 		""
-		"  它们是专用于&b内爆压缩机&r的。"
+		"  These are used explicitly for use in the &bImplosion Compressor&r."
 	]
-	quest.135FBE79D4415F15.title: "合法的核弹"
+	quest.135FBE79D4415F15.title: "Legalized Nuclear Bomb"
 	quest.13600E981D85B79D.quest_desc: ["自动合成需要合成存储器才能进行，它们负责储存自动合成中使用的物品和流体。"]
 	quest.13600E981D85B79D.title: "合成存储器"
 	quest.138DC280BDD0622B.title: "氢"
@@ -740,11 +744,11 @@
 	]
 	quest.13C735FBB47EDCB2.title: "大法师法术书（级）"
 	quest.141E3D92CBA9F1B3.quest_desc: [
-		"  这个新机器可利用离心力&6分离多组分的混合物和物品&r。"
+		"  This is a new electric machine that uses centripetal force to &6separate mixtures and items made of multiple materials into separate items&r."
 		""
-		"  简而言之，就是通过高速旋转将物品拆分开。举个例子，你可以离心&b煤粉&r获得&b碳粉&r，解锁更好的获取&b钢&r和&b硅&r的配方。"
+		"  In simple terms, it splits items by spinning them very fast. For example, you can use it to make &bCarbon Dust&r by centrifuging &bCoal Dust&r to unlock a better recipe for &bSteel&r and &bSilicon&r."
 	]
-	quest.141E3D92CBA9F1B3.title: "离心机"
+	quest.141E3D92CBA9F1B3.title: "Centrifuge"
 	quest.1439B72B421AF009.quest_subtitle: "甜甜的派"
 	quest.14F545E632726FEE.quest_desc: ["生成的生物将处于燃烧状态。"]
 	quest.14F545E632726FEE.quest_subtitle: "+燃烧"
@@ -760,20 +764,20 @@
 	quest.15325B16AFE33D5C.quest_subtitle: "必备工具"
 	quest.15325B16AFE33D5C.title: "刀"
 	quest.156575F76CAB51A0.quest_desc: [
-		" 你已经到达&d无限&r了。 "
+		" You have reached &dINFINITY&r. "
 		""
-		"你不再受能否制作某物的制约了。 "
+		"You are not bound by what you can and cannot make any longer. "
 		""
-		"你几乎已经&b无所不能&r。"
+		"Your &6capabilities&r are now near &blimitless&r. "
 		""
-		"你可以用&dUU物质&r&6复制&r任何你想要的东西——只有一个&d限制&r。 "
+		"Use your &dUniversally Useable Matter&r to &6duplicate&r anything you desire; with one &dlimits&r. "
 		""
-		"记住，&d物质&r不能&b无中生有&r，因此尝试&6复制&r多重&b压缩&r的方块，或是塞满&b物品&r的&b背包&r是不会有结果的。 "
+		"Remember, &dmatter&r cannot be created from &bnothing&r, so trying to &6duplicate&r highly &bcompressed&r blocks or a &bbackpack&r full of &bitems&r will be a fruitless endeavor. "
 		""
-		"除此以外，你大可以随心所欲了。好好利用这份新的&6力量&r吧！"
+		"Other than that, you are free to do as you please. Use this new found &6power&r wisely!"
 	]
-	quest.156575F76CAB51A0.quest_subtitle: "合法复制"
-	quest.156575F76CAB51A0.title: "&d复制器（MK I）"
+	quest.156575F76CAB51A0.quest_subtitle: "Legal Duplication"
+	quest.156575F76CAB51A0.title: "&dReplicator (MK I)"
 	quest.157239360F696AF7.quest_subtitle: "完成对应任务章节。"
 	quest.157239360F696AF7.title: "&5神秘学"
 	quest.159FD866444D704A.quest_desc: [
@@ -810,6 +814,7 @@
 	quest.15C38E0D2B205FB4.title: "用于气液转换机的水"
 	quest.15D18F5637F6382E.quest_subtitle: "完成对应任务章节。"
 	quest.15D18F5637F6382E.title: "&a通用机械"
+	quest.15FC55072AB16B86.quest_subtitle: "Catch all &6140&r fishes and all &e140&r golden fishes."
 	quest.16052CFE597B57F7.title: "化学灌注为H2SO4"
 	quest.160740771654F4E6.quest_desc: [
 		"   &b虚炎煤炭&r块可以被&6转化&c为&b粗蚀空烬质&r"
@@ -824,65 +829,65 @@
 	quest.1610E88D5231E670.quest_desc: ["&b热力蒸馏控制器&r是热力蒸馏塔的大脑。热力蒸馏塔可以接收&7流体&r，&6蒸发&r其中的&7水分&r，&9浓缩&r&3其中的溶质&r。&6EMI&r中可以查看能够得到的物品。你&o也许&r需要多建几个……"]
 	quest.1610E88D5231E670.title: "热力蒸馏控制器"
 	quest.162DD68C3B91FC5E.quest_desc: [
-		"  这里有好多要讲的。"
+		"  We have a lot to cover."
 		""
-		"  电缆网络的最大能量输入速率由其等级严格限制。部分数据如下……"
+		"  Cable networks have hard limitations on the amount of energy they will pull into the network depending on the tier. you can see a few stats below..."
 		""
-		"    最大传输速率：256EU/t"
-		"    材质：锡"
-		""
-		""
-		"    最大传输速率：1024EU/t"
-		"    材质：琥珀金"
+		"    Max Transfer Rate: 256 EU/t"
+		"    Material: Tin"
 		""
 		""
-		"    最大传输速率：8192EU/t"
-		"    材质：铝"
+		"    Max Transfer Rate: 1024 EU/t"
+		"    Material: Electrum"
 		""
 		""
-		"    最大传输速率：65536EU/t"
-		"    材质：退火铜"
+		"    Max Transfer Rate: 8192 EU/t"
+		"    Material: Aluminum"
 		""
 		""
-		"  虽然输入速率被限制死了，但是输出速率可没有。也就是说，举个例子，低压电缆其实是可以在短时间内提供超过256EU/t 的能量的。电缆网络越大，其内部可缓存的能量就越多。如果给它们一个去处，这些“储存”的能量就会瞬间被释放。"
+		"    Max Transfer Rate: 65536 EU/t"
+		"    Material: Annealed Copper"
 		""
-		"  请记住，&6不同等级的电缆&o只能&r&6与相应等级的机器相连&r。低压电缆不会连上蒸汽机器、中压机器或者高压机器。每个机器工作和使用电能的方式都依其接受的能量强度而有所不同。"
 		""
-		"  如果你想突破当前等级电缆的传输速率限制，你可以多造几个电缆网络，或者使用&b变压器&r。&b变压器&r可以升高或降低电压。也就是说，举个例子，&6你可以将低压能量变为高压能量，反之亦然&r。"
+		"  Now, the input and transfer rate is hard capped, but the discharge rate is infinite. This mean, for example, a LV cable network can provide more than 256 EU/t for a short amount of time. The larger the cable network, the larger the internal cable buffer. All this \"stored\" energy can be discharged almost instantaneously if given a place to go to."
 		""
-		"  &oX&r至&oY&r变压器的输出面可连接&oY&r电缆，其余5个输入面可连接&oX&r电缆。&6用&b扳手&r&6可更改输出面位置&r。"
+		"  Do keep in mind that &6each tier of cable will &oonly&r &6connect to it's respective tier electric machine&r. A LV cable will not connect to steam machines, MV machines, or HV machines. The method that each machine uses to process and use electricity is different depending on the strength of the power it receives."
 		""
-		"  电缆也遵循流体和物品管道遵循的规则。用&b扳手&r右击电缆可断开连接，shift右击可将电缆拆卸下来，但其内部缓存的能量会丢失。"
+		"  If you want to transfer more energy than the cable tier allows you to, you can either create multiple cable networks or use &bTransformers&r. &bTransformers&r allow you to step up or step down your power. This means, for example, &6you can take LV power and turn it into HV power and vice versa&r."
 		""
-		"  P.S.现代工业化模组的电缆如果连接到任何使用FE能量的东西，就会将EU以十倍的比率转化为FE。之后这个会有所升级，还请留意一下！"
+		"  As you'll see, an &oX&r to &oY&r transformer will connect to &oY&r cables on its output side and &oX&r cables on its 5 input sides. &6You can use your &bWrench&r &6to configure which side the output is&r."
+		""
+		"  Cables follow the same rules that fluid and item pipes follow. Using a &bWrench&r on them will disconnect connections and shift right clicking will break them, this time losing the power in that specific section of cable network."
+		""
+		"  P.S. Cables from Modern Industrialization, connected to any medium that accepts FE power, will 10x the power from EU to FE. There is an upgrade to this down the line, so look out for it!"
 	]
-	quest.162DD68C3B91FC5E.title: "能量传输"
+	quest.162DD68C3B91FC5E.title: "Energy Transfer"
 	quest.163BCEEEE08F3898.quest_desc: [
-		"  &b电磁偏振器&r可以磁化东西！就是把金属中的||电子||定向排列，使它变得有磁性。"
+		"  The &bPolarizer&r, well, polarizes stuff! What this means is that it's ||electrons|| are lined up and thus the metal you feed into it becomes magnetic."
 		""
-		"  &b磁化杆&r的用途不多，但是&6用于电动机的自动化是极好的&r！"
+		"  &bPolarized Rods&r don't have the most uses, but &6using them for the automation of motors is perfect&r!"
 		"{image:modern_industrialization:block/machines/polarizer/overlay_front_active width:32 height:32 align:center}"
 	]
-	quest.163BCEEEE08F3898.title: "电磁偏振器"
+	quest.163BCEEEE08F3898.title: "Polarizer"
 	quest.1646940008F2A109.quest_desc: [
 		"&b辞典&r用于查找&b物品&r和&b方块&r的&9标签&r。"
 		""
 		"在&6配置&r过滤器时非常有用。"
 	]
 	quest.164F4710E109F7F2.quest_desc: [
-		"  现在该做这些美丽闪亮的&b橙色金属锭&r啦。你需要从&b锻压台&r上弄一点&b铜&r粉和&b锡&r粉，然后把它们在工作台中按照&b铜&r：&b锡&r=&63：1&r的比例混合即可。随着游戏进程的&6推进&r，还会有更&6高效&r的生产这种混合物的方法，毕竟用手工的话，难免会有些&b粉&r沾到手上而损耗掉。"
+		"  Time for that beautifully shining &bOrange Ingot&r? You'll need to grab some of the &bCopper&r and &bTin&r dust you get from the &bForge Hammer&r to make it. It's a simple mixture of &63:1&r &bCopper&r to &bTin&r in your crafting grid. Once you &6progress&r, you'll find a way to produce this mixture more &6efficiently&r since you're spilling some &bdust&r making it on hand."
 		""
-		"  有了&b青铜&r，你就踏入&a蒸汽时代&r了。我来给你一些有关你接下来会用到的&b机器&r的&6提示&r。&b物品、蒸汽或者其他流体&r可以从&b蒸汽机&r的&6任意面&r输入。你可以&6点击&r蒸汽机&bGUI&r中的&b锁头&r按钮来&6锁定&r它的槽位。 "
+		"  Now that you're entering the &aSteam Age&r with this &bBronze&r, I'll give you some &6tips&r on the &bmachines&r you'll be making. Remember that &bSteam Machines&r will accept inputs from &6any side&r, be it&b items, steam or another fluid&r. You can &6lock&r their slots by &6clicking&r on the &bpadlock&r looking button in the &binterface&r. "
 		""
-		"槽位&6锁定&r后，机器的每个槽位就&6只能&r接受一种&b物品&r或者&b流体&r。"
+		"&6Locked&r slots will make sure the machine &6only&r accepts one type of &bitem&r or &bfluid&r per slot."
 		""
-		"  每个&b机器&r也都有一个&b输出面&r，你可以在机器的&rGUI&r中&6开启&b自动推出&b。你可以用你可靠的&b扳手&r来轻松地&6调整&r输出面！"
+		"  Every &bmachine&r has an &boutput side&r as well, and you can &6enable&r &bauto-output&b from inside the &rinterface&r. Using your trusty &bWrench&r you can &6adjust&r the output side with ease!"
 		""
-		"  如果你不希望槽位里堆叠&b太多物品&r的话，可以&6用&b鼠标滚轮&r来&6调整&b物品&r的最大堆叠数量。"
+		"  If you don't want so &bmany items&r in the slots at a time, &6use&r that &bScroll Wheel&r of yours to &6adjust&r the maximum number of &bitems&r stored at a time."
 		""
-		"  &cP.S.&r 用&7火药&r右击&b蒸汽机&r可以让它的&6运行速度&r翻倍，同时&6蒸汽的消耗量&r也会翻倍。看配方的时候请牢记这一点，这个&7火药&r可能会帮大忙！"
+		"  &cP.S.&r Right clicking on a &bsteam machine&r with &7gunpowder&r will double it's &6speed&r and &6steam consumption&r. Keep that in mind when looking at recipes. That &7gunpowder&r may just save you a trip to hell."
 	]
-	quest.164F4710E109F7F2.title: "你的第一块青铜"
+	quest.164F4710E109F7F2.title: "Your First Bronze"
 	quest.166CEF9F03DA14F6.quest_desc: [
 		"- 它的&c伤害&r比&b普通弹药&r&4高得多&r。"
 		""
@@ -897,11 +902,11 @@
 	quest.168AB4DADB1CA2D9.quest_subtitle: "第一阵基"
 	quest.16AAEB122CDC1A46.quest_desc: [
 		"{image:modern_industrialization:block/machines/mixer/overlay_top_active width:32 height:32 align:center}"
-		"  这是一个外壳光滑的青铜机器，顶部嵌着一个闪闪发光的金属碗，碗里是搅拌机的叶片。它可以&6混合&r各种各样的东西！你可以用它来&6混合粉末&r，产率比手工更高，因为这样就不会把粉撒得到处都是了。"
+		"  A sleek bronze Casing with a shining metal bowl where mixing blades are lowered into to &6mix&r up a plethora of different things! You can &6mix dusts&r with a higher output since you wont be spilling any anymore."
 		""
-		"  它不只可以混合粉末，还可以混合流体。例如：&e润滑剂&r！"
+		"  It doesn't only mix dusts, but also fluids. Example: &eLubricant&r!"
 	]
-	quest.16AAEB122CDC1A46.title: "青铜搅拌机"
+	quest.16AAEB122CDC1A46.title: "Bronze Mixer"
 	quest.16B74C92EB86AD0C.quest_desc: [
 		"将&7液体&r&6倒在&r世界中，或者在装有&c导热框架&r的&3物品容器&r中&b冷却&r它，以将其&6固化&r成&b塑料板&r。"
 		""
@@ -935,14 +940,14 @@
 		"- &2可再激活仪式&r&8：飞行之板、收容之板……"
 	]
 	quest.16E5B09AA7E6A487.quest_desc: [
-		"  &b传送带&r是机器中用于移动物品的部件。"
+		"  &bConveyor Belts&r are used to move items around within your machines."
 		""
-		"  它依靠&b电动机&r来旋转，以&b橡胶布&r作为传送平台。"
+		"  They use &bMotors&r to turn and &bRubber Sheets&r as a platform to move."
 		""
-		"  &6这个需要自动化生产&r。"
+		"  &6You should automate these&r."
 	]
-	quest.16E5B09AA7E6A487.quest_subtitle: "都来搭乘物品快车吧！"
-	quest.16E5B09AA7E6A487.title: "传送带"
+	quest.16E5B09AA7E6A487.quest_subtitle: "All Aboard the Item Express!"
+	quest.16E5B09AA7E6A487.title: "Conveyor Belts"
 	quest.16F37A3E31EBDA50.quest_desc: [
 		"速度很快的单座飞机，开起来可能比较费劲，但还挺有趣的，伙计！"
 		""
@@ -989,13 +994,13 @@
 	]
 	quest.16F7C881B4CED163.title: "树场构想"
 	quest.176524D0E4475298.quest_desc: [
-		"  有了刚挖出来的&b原油&r，你现在又有好多新东西可以做了，不过在此之前，&6原油还需要精炼才能使用&r。现在的这玩意从工业的角度来说，没有什么卵用。"
+		"  With your freshly drilled &bCrude Oil&r you can make a large array of items, however &6you will need to refine it to use it&r. Currently it's pretty useless in an industrial sense."
 		""
-		"  那么这就轮到&b蒸馏室&r发挥作用了！&6你可以精炼，或者说&o蒸馏&r&6一种流体，获取其中更轻的部分&r。这个&b蒸馏室&r每次只能精炼一种流体。"
+		"  That's where the &bDistillery&r comes into play! &6You can refine or &odistill&r &6fluids into it's lighter parts&r. With this &bDistillery&r you can only refine down to one fluid at a time."
 		""
-		"  先这么用着吧，很快你就可以一次性提炼好几种了。"
+		"  Just keep working, soon enough you'll be able to extract many fluids at once."
 	]
-	quest.176524D0E4475298.title: "蒸馏室"
+	quest.176524D0E4475298.title: "Distillery"
 	quest.1794E588334CB478.quest_desc: [
 		"这台机器使用&6先进的技术&r将&b物品&r&7压缩&r到&d原子大小&r，使其能够直接&6访问&r和&6操作&r玩家的&9物品栏&r。"
 		""
@@ -1086,8 +1091,8 @@
 		"{image:justdirethings:block/goofarmland_tier2_moist width:100 height:100 align:center fit:true}"
 	]
 	quest.18680FEE2B6FF16F.quest_subtitle: "自动作物"
-	quest.186F257352F2E844.quest_desc: ["  这个机器需要一种全新的力量……你刚获得的&b钛&r就挺适合的。&b增压器&r可将&b水&r&6加压为&bHP&r，&6或者说&b高压水&r，将&b蒸汽&r&6加压为&bHP蒸汽&r。它也可以逆向运行，将流体减压。&6加装了&b进气口&r的&b增压器&r还&6可以制取&b液态空气&r，这可比&b真空冷却机&r高效多了。"]
-	quest.186F257352F2E844.title: "增压器"
+	quest.186F257352F2E844.quest_desc: ["  This machine calls for a whole 'nother level of strength. Time to put that new &bTitanium&r you've made to use. The &bPressurizer&r allows you to pressurize &bWater&r &6into &bHP&r&6, or &bhigh pressure, water&6 and &r&bSteam&r &6into &bHP Steam&r. It also works the other way around to depressurize the fluids. The &bPressurizer&r also &6allows you to collect &bLiquid Air&r &6via the &bAir Intake&r, plus it's much more efficient than the &bVacuum Freezer&r."]
+	quest.186F257352F2E844.title: "Pressurizer"
 	quest.188CF922D562E21A.quest_desc: [
 		"&l1. 记录&r"
 		"&6主手&r持有此书时&6右击&r，此书就会记录所有&5你已学习的魔符。&r"
@@ -1117,29 +1122,29 @@
 		""
 		"如果你想要把物品&a压缩&f进&b存储元件&f中，或是将&b存储元件&f中的东西清理出来，制作更大的存储元件，那这个端口就会派上用场的。"
 	]
-	quest.18DED87B3E23350F.quest_subtitle: "可批量执行任何提供给它的多方块电动机器的配方。"
+	quest.18DED87B3E23350F.quest_subtitle: "Can run recipes of any electric multiblock machine provided to it in batches."
 	quest.18E944F145FEBB8C.quest_desc: [
 		"- 可以&4点燃&r它的&c目标&r"
 		""
 		"小心- 它也可能&6点燃&r&a周围环境&r！"
 	]
 	quest.1910E0D1BB24E94D.quest_desc: [
-		"你需要在&b太阳能板&r的&6物品栏&r中放入对应等级的&b光伏电池&r，它才能开始发&e电&r。"
+		"To produce &eenergy&r, the &bSolar Panel&r needs a matching tier &bPhotovoltaic Cell&r in its &6inventory&r."
 		""
-		"向&b太阳能板&r供应&9蒸馏水&r可使其中的&b光伏电池&r的寿命延长至原来的&a2倍&r！"
+		"By supplying &9Distilled Water&r to the &bSolar Panel&r, the &bPhotovoltaic Cell&r in its slot will last &a2x&r as long!"
 		""
-		"&e发电&r速率取决于当前&6太阳&r的高度角，以及太阳能板上方是否&a有遮挡物&r。"
+		"&eEnergy generation&r rates are determined by how high the &6sun&r is in the &bsky&r and if the &bsky&r is &avisible&r."
 	]
-	quest.1910E0D1BB24E94D.quest_subtitle: "对&a环境&r更友好！"
-	quest.1910E0D1BB24E94D.title: "太阳能板"
+	quest.1910E0D1BB24E94D.quest_subtitle: "Be better for the &aenvironment&r!"
+	quest.1910E0D1BB24E94D.title: "Solar Panels"
 	quest.1987DF7742136DC4.quest_desc: [
-		"  还记得我说&b蒸馏室&r一次只能输出一种流体吗？现在升级来了！"
+		"  Remember when I said the &bDistillery&r could only output one type of fluid per cycle? Well, this is your upgrade!"
 		""
-		"  &6你至多可以搭建9层&r，&o每层&r都可以输出一种流体！"
+		"  &6You can choose how many layers you'd like to, up to 9&r, and it'll output one fluid &oper layer&r!"
 		""
-		"  你可以在&b蒸馏塔&r界面左上角设置它的层数。祝你蒸馏快乐！"
+		"  To choose which size you want to have the &bDistillation Tower&r set to, use the selector in the top left of it's screen. Happy Distilling!"
 	]
-	quest.1987DF7742136DC4.title: "蒸馏塔"
+	quest.1987DF7742136DC4.title: "Distillation Tower"
 	quest.19A2B9A9862C59F2.quest_desc: [
 		"用了它，你就可以将&bME驱动器&f整个&a打包带走&f，而不会让里面装的&b存储元件&r都&a掉出来&f。"
 		""
@@ -1204,11 +1209,11 @@
 	]
 	quest.1AD1C99F9C383632.quest_subtitle: "八倍桶"
 	quest.1AE719655A757BF1.quest_desc: [
-		"  这个钻头将带你前往科技的边界……"
+		"  The drill that will push you into the far bounds of technology."
 		""
-		"  它由轻而坚固的&b钛&r制成，为你点亮反应堆，推开量子时代的大门。"
+		"  Made of that super light yet strong &bTitanium&r from before, you'll be able to power your reactors and enter the quantum age."
 	]
-	quest.1AE719655A757BF1.title: "钛钻"
+	quest.1AE719655A757BF1.title: "Titanium Drill"
 	quest.1AEF6E844F39155D.quest_desc: [
 		"  &6转化&b："
 		""
@@ -1232,11 +1237,11 @@
 	]
 	quest.1B65CA6898CC3F9E.title: "Tier Installers"
 	quest.1C25114D2AF71C35.quest_desc: [
-		"  利用&b工业TNT&r，&b内爆压缩机&r可压缩那些极其坚硬的材料粉末和锭，包括&b钨&r、&b防爆合金&r、&b铍&r甚至&b钻石&r！这其中有些材料是发展核裂变而言的关键。"
+		"  Using &bIndustrial TNT&r, the &bImplosion Compressor&r is able to compress the dusts and ingots of the most resistant materials. This includes &bTungsten&r, &bBlast-proof Alloy&r, &bBeryllium&r and finally &bDiamonds&r! Some of those materials will be very important for your journey into nuclear fission."
 		""
-		"  你可能已经发现了，&b防爆合金板&b和&r钨粒&r在普通的压缩机里也能造，就是效率低得抠脚。现在你有了&b内爆压缩机&r，生产这些东西的速度和效率都会大大提升！！"
+		"  Now, you've probably noticed that in your journey, you've been able to make &bBlast-proof Alloy Plates&b and &rTungsten Nuggets&r within your everyday compressor, despite it being a pretty inefficient process. Well now, using the &bImplosion Compressor&r, you'll be able to do it faster and even more efficient!"
 	]
-	quest.1C25114D2AF71C35.title: "内爆压缩机"
+	quest.1C25114D2AF71C35.title: "Implosion Compressor"
 	quest.1C4ADA8B75FBBED1.quest_subtitle: "可以将你传送到个人出生点或世界出生点。"
 	quest.1C699E7F615D68A7.quest_desc: [
 		"机械动力全新DIY仓储系统套件中的终端。"
@@ -1258,27 +1263,27 @@
 	quest.1C7918099D5A55E2.quest_desc: ["&b并发压印模板&f用于在&b压印器&f中制作&b并发处理器&f。"]
 	quest.1C99FD35D2C4EAF7.title: "橘子"
 	quest.1CA2825FFA775BBE.quest_desc: [
-		"  这个新机器可利用强大的电流分解材料。"
+		"  This is a new electric machine that uses strong electric currents to split materials into different parts."
 		""
-		"  最重要的是，它可以&6把&b水&r&6分解成它的两种构成成分：&b氢&r&6和&b氧&r。"
+		"  Most notably, you can &6split &bWater&r &6into it's two major components: &bHydrogen&r &6and &bOxygen&r."
 		""
-		"  这个过程被称为&6电解&r，原理就是利用电流将||离子化合物||分解为构成它的元素。"
+		"  This process is called&6 Electrolysis&r and it works by using electric current to split ||ionic compounds|| into their elements."
 	]
-	quest.1CA2825FFA775BBE.title: "电解机"
+	quest.1CA2825FFA775BBE.title: "Electrolyzer"
 	quest.1CACDF56CB395997.quest_desc: ["想拿走我的&b伸缩机械手&r？……除非我死了，否则你休想从我手里&6把它撬走&r！xD"]
 	quest.1CACDF56CB395997.quest_subtitle: "向天空伸手！"
 	quest.1CC910880728D896.quest_desc: [
-		"  玩&b核裂变&r玩得开心不？嘿嘿，来搞&b核聚变&r吧！"
+		"  Did you have fun with &bNuclear Fission&r? Well, it's time for &bNuclear Fusion&r!"
 		""
-		"  与核裂变不同，&b核聚变&r不是将一个不稳定的重原子核分裂为两个更轻的原子核，而是将两个轻核融合，同时放出巨大的能量。"
+		"  Instead of splitting a heavy, unstable nucleus into two lighter nuclei, &bfusion&r will combine together two light nuclei which in turn releases vast amounts of energy."
 		""
-		"  这些能量可被收集起来，用于制造&b氦等离子体&r——一种能量密度极高的流体，世界上最好的能源。"
+		"  This energy can be contained and used to produce &bHelium Plasma&r, an extremely energy dense fluid that can be used as the best power source in the world."
 		""
-		"  你可以聚变&b氘&r、&b氚&r和/或&b氦-3&r，得到各种氦等离子体、氚、氘和氢的混合物。"
+		"  You can combine gaseous fuels such as &bDeuterium&r, &bTritium&r and/or &bHelium-3&r to produce various combinations of Helium Plasma, Tritium, Deuterium, and Hydrogen."
 		""
-		"  记住啊，启动聚变需要消耗很多能量，但聚变产生的能量会比消耗的多得多。"
+		"  Keep in mind, this fusion takes a lot of energy to start going, but can produce much more as a result."
 	]
-	quest.1CC910880728D896.title: "聚变反应堆"
+	quest.1CC910880728D896.title: "Fusion Reactor"
 	quest.1CD1F5A08AE6E557.quest_desc: [
 		"从&6海平面&r附近常见的&3矿石&r中提取，&b硇砂&r是一种满是有用特性的晶体。"
 		""
@@ -1318,18 +1323,18 @@
 	]
 	quest.1D482F0D9AF8D17E.title: "原子合金"
 	quest.1D57C823A1F0203C.quest_desc: [
-		"  我这里有&b超好用的工具&r，不过需要你&6花点时间做出来&r。看，&b蒸汽采矿钻头&r！它一次可以&6挖掘&r一片区域，比普通的&b镐子&6大多了&r，准确来说，&63x3&r。除了&6高效采矿&r之外，这玩意还可以用来挖漂亮的&b隧道&r。"
+		"  I've got the &bperfect tool&r for you, it'll just take a bit of &6time to craft&r. It's a &bSteam Mining Drill&r! These can &6mine&r in a &6much larger&r grid than regular ol' &bPickaxes&r can; &63x3&r to be exact. Not only will you be able to &6mine more efficiently&r, but you'll be able to make beautiful &btunnels&r with ease."
 		""
-		"  还有更厉害的，这个&b钻头&r还可以&6&o精准采集&r哦！哼哼，超棒的对吧？这样一来，配合上&b锻压台&r，直接从&b矿石&r，而不是从&b粗矿&r开始&6加工&r，就可以&6&o提高&r产矿量！"
+		"  Want to know something cool? This &bdrill&r &6&osilk touches&r blocks as well! I know right? It's awesome! This way you'll get &6&oway&r more bang for your buck when you pair it with the &bForge Hammer&r since you can &6crush&r &bFull Ores&r instead of starting from &bRaw Ores&r."
 		""
-		"  有个小小的……也许是&6缺点&r吧？就是它需要&6用电&r。这个&b钻头&r本身&6不会&r真的&6损坏&r，但是你需要给它装&b水&r和&b燃料&r，比如&b煤炭&r或者&b褐煤&r。在&b物品栏&r中用&b燃料&6右击&b钻头&r即可&6装填&r！"
+		"  One small... would you call it a &6downside&r? You need to &6power&r it. For some reason, the &bdrill&r itself &6never&r actually &6breaks&r, but you'll need to feed it &bWater&r and some type of &bBurnable Fuel&r; for example &bCoal&r or &bLignite&r. Just &6Right Click&r the &bfuel items&r into your &bdrill&r within your &binventory&r to&6 fill it up&r!"
 		""
-		"  &a提示&r：记得&6随身带个&b水桶&r。它不仅能&6规避摔落伤害&r（但是需要有点操作），还能随时给你的&b钻头&r加&b水&r。由于某些原因，这个世界的&b水资源&r是无限的。好好利用这一点。"
+		"  &aTips&r: &6Carry around&r a &bWater Bucket&r. Not only will this allow you to &6negate fall damage&r if you're skilled enough, but also as a source of &bWater&r to run your &bdrill&r off of. For some reason, depending on the use case, this world's &bWater Sources&r are infinite; use this to your advantage."
 		""
-		"  &a更多提示&r：&6潜行可挖掘&b单个方块&r，如果你想的话！&6精准采集&r此时依然有效，只是不会一次挖掉&63x3&r的方块了，这样你就可以更精细地挖掘&b方块&r了。"
+		"  &aMore Tips&r: &6Crouch to mine&r &bsingle blocks&r, if you need! They'll still be in their &6Silktouch&r form, but it wont do the &63x3&r, incase you need to mine &bblocks&r more delicately."
 	]
-	quest.1D57C823A1F0203C.quest_subtitle: "叮铃，当啷，叮铃，当啷！"
-	quest.1D57C823A1F0203C.title: "蒸汽采矿钻头"
+	quest.1D57C823A1F0203C.quest_subtitle: "Cling, Clang, Cling, Clang!"
+	quest.1D57C823A1F0203C.title: "Steam Mining Drill"
 	quest.1DB0824C333DDA8E.quest_desc: [
 		"用&b能量升级&r来对抗&b速度升级&r吧！"
 		""
@@ -1485,11 +1490,11 @@
 	quest.209744C68891F1DA.quest_desc: ["蝙蝠使魔可以让你在&b黑暗&r中&6看清楚&r。"]
 	quest.209744C68891F1DA.quest_subtitle: "回声定位"
 	quest.20A093E5684D2E30.quest_desc: [
-		"  更先进的电子设备！这些电路板是铝制的，可用于构建更复杂的机器。"
+		"  Even more advanced electronics! These circuit boards are aluminum based and allow for more complex machinery."
 		""
-		"  我建议最好&6自动化&r&b电子电路&r的生产，因为未来你在各种&b中压升级&r和新机器的制造中都要&6用到它&r。"
+		"  I'd recommend &6automating&r the &bElectronic Circuit&r as you'll &6need them&r for many of the &bMV upgrades&r as well as the new machines you'll be able to make."
 	]
-	quest.20A093E5684D2E30.title: "&b游戏中期！"
+	quest.20A093E5684D2E30.title: "&bThe Midgame Age!"
 	quest.20B9E6F51A4F9789.quest_desc: [
 		"&l0.5 确认范围&r"
 		"可用范围：&93格&r。（无论任何方向）"
@@ -1556,21 +1561,21 @@
 	]
 	quest.21286633DE0F586E.quest_subtitle: "刷取生物掉落物"
 	quest.215606B3A894512E.quest_desc: [
-		"  你看到采石场产物列表中每种矿石都有的产物概率了吗？"
+		"  Do you see those percents on each ore in the quarry outputs?"
 		""
-		"  这些概率都是&o互相独立&r的。&6每种矿石都有独立的产出概率&r。 "
+		"  Those are &oindividual&r percents. &6Each ore has it's own individual chance&r. "
 		""
-		"  如果你安装的是青铜物品输出仓，那你就只能得到一种矿石。实际上其他的矿石并不是就不会产出了，而是因为你没有足够的槽位容纳它们，所以遗失了。"
+		"  If you place a bronze item output hatch, you'll only get one ore, but the chance that another ore is produced is still there, and thus it could be lost if there is no space for it."
 		""
-		"  &6你可以多安装几个物品输出仓来增加你获得的产物种类，最好用钢制的。&r"
+		"  &6Place multiple item output hatches, preferably steel, to increase maximum possible outputs.&r"
 	]
-	quest.215606B3A894512E.title: "有关采石场的小提示"
+	quest.215606B3A894512E.title: "Quarry Tips"
 	quest.21584ECDBB6907DE.quest_desc: [
-		" &a冷静冷静！&btick&r就是游戏中&6可记录的&6最小&r的时间单位。"
+		" &aCalm down, Calm down!&r A &btick&r is the &6shortest amount&r of time that can be &6recorded&r."
 		""
-		"  它大约是&6二十分之一&b秒&r。这个世界就是按照这些“&btick&r”来运行的，你可以&6好好利用&r它！"
+		"  It's about a &620th&r of a &bsecond&r. The world runs off these \"&bticks&r\" and you can &6use them&r to &byour&r advantage!"
 	]
-	quest.21584ECDBB6907DE.title: "什么是tick？"
+	quest.21584ECDBB6907DE.title: "What's a Tick?"
 	quest.21586F8B123BFCC3.quest_desc: ["&b放射性废料桶&r能够使存储其中的各种&2放射性流体&r以固定的速率缓慢&7衰变&r。"]
 	quest.21586F8B123BFCC3.title: "真正的能源，真正的痛苦"
 	quest.217C5C65AFC95842.quest_desc: [
@@ -1581,7 +1586,7 @@
 	quest.2190034B6F3E2768.quest_desc: ["这两个物品是&b输入与输出设备&f的主要部件。"]
 	quest.2190034B6F3E2768.title: "计算之心"
 	quest.21939E58707A7756.quest_desc: ["The &bLarge Macerator&r can &6macerate&r recipes in batches of up to 8 at a &a25%&r deduction of &eEU&r cost. Keep in mind, it &cwont&r do a mix of recipes, they &omust&r be the same type. If not, each type of recipe will be &6split&r into their batch of a max of 8."]
-	quest.21939E58707A7756.quest_subtitle: "可以批量执行配方。"
+	quest.21939E58707A7756.quest_subtitle: "Can run recipes in batches."
 	quest.219AFCECD9D006A2.quest_desc: ["守护者使魔可以通过舍弃自身的一条肢体来&6避免&r其主人&b死亡&r。"]
 	quest.219AFCECD9D006A2.quest_subtitle: "不朽"
 	quest.21AE41FA52DB561D.quest_desc: [
@@ -1613,8 +1618,8 @@
 		"将&8碳&r&6灌注&r进&7铁&r中&6两次&r，&6烧炼&r最终的产物，就能得到钢。"
 	]
 	quest.21E51BEA3B8E3EDC.title: "钢锭"
-	quest.21EDEEE1A1B82B53.quest_desc: ["  加工&b钛钻&r采集的&b铱矿石&r获得，可用于生产&b铱粉&r，再制成&b超导体粉&r——一种超级强大的能量传输与存储材料。"]
-	quest.21EDEEE1A1B82B53.title: "粗铱"
+	quest.21EDEEE1A1B82B53.quest_desc: ["  Processing the &bIridium Ore&r from your &bTitanium Drills&r, you can begin to produce &bIridium Dust&r which will be needed for &bSuperconductor Dust&r, a material capable of extraordinary power transfer and storage."]
+	quest.21EDEEE1A1B82B53.title: "Raw Iridium"
 	quest.21EE3862F6DA8E09.quest_desc: ["&b精密锯木机&r能够以&e极高的效率&r处理&9原木&r及其他木质材料，同时产生副产物&9锯末&r。"]
 	quest.21EE3862F6DA8E09.title: "精密锯木机"
 	quest.220163965130D8C7.quest_desc: ["能&6破坏&r没有固体碰撞箱的&b方块&r……比如&b轨道&r、&b拉杆&r、&b按钮&r等等。"]
@@ -1629,8 +1634,8 @@
 	quest.2209DC294580BF3D.title: "&b雪怪首领"
 	quest.222793DF035B167C.quest_desc: ["最容易制作的一种&b线缆&f，能够为你的网络&6传输&b能量&f与&b频道&f。"]
 	quest.222793DF035B167C.title: "福鲁伊克斯色玻璃线缆"
-	quest.22420EF3089DD7F6.quest_desc: ["  从这里开始，你才真正推开了完全&4自&r&a动&r&d化&r的大门！这大概也是第一个你想要大量制造的机器。&b装配机&r可以实现几乎所有使用机器的配方的&6自动化&r。你可以使用&bEMI&r查看&b装配机&r可以自动化的配方。利用&6锁定编辑&r，你可以在&6一个装配机&r中设置多达&63个配方&r。但是记住，它只有在材料耗尽无法继续合成当前配方时，才会进入下一个配方。&6因此，最好不要把几个高需求量的配方塞进一个装配机里&r。"]
-	quest.22420EF3089DD7F6.title: "装配机"
+	quest.22420EF3089DD7F6.quest_desc: ["  Your first taste of true &4a&r&6u&r&et&r&2o&r&am&r&ba&r&3t&r&9i&r&do&r&5n&r! This is also the first machine you'll want to make a lot of. The &bAssembler&r allows you to &6automate&r almost all recipes related to the machines. Check your &bEMI&r to see which recipes you are allowed to automate using the &bAssembler&r. You can setup up to &63 recipes in one assembler&r by using &6slot locking&r. Just remember that it will make as many of the first recipe before it moves onto the next, &6so never put multiple high demand recipes into a single assembler&r."]
+	quest.22420EF3089DD7F6.title: "Assembler"
 	quest.22488BFDDB85DB29.quest_desc: ["不少人觉得，这是游戏里最好看的&b流体管道&r——甚至还有透明观察窗来&6展示&r在内部流动的&9流体&r。"]
 	quest.22822DD2E10F65EA.quest_desc: ["当这个仪器&6放置&r在&b汞催化器&r上时，可以为&b重塑阵列&r提供动力。"]
 	quest.22A2121A25A010AB.quest_desc: ["每个&b基础感应元件&r可以为你的感应矩阵增加&e3.2 GFE&r的存储容量。"]
@@ -1670,13 +1675,13 @@
 	quest.23CC2667A1269C9C.quest_desc: ["目前为止，你所用的&b存储组件&f都是以0和1的形式存储&6二维数据&f的。现在，让我们存储&6三维数据&f吧——直接以原物质的形式。这种&b存储组件&f比之前那些复杂得多，因此造价颇为昂贵，你大概没法一步到位地大量存储空间。"]
 	quest.23CC2667A1269C9C.title: "小型空间组件"
 	quest.2472B23BC0C28C6C.quest_desc: [
-		"  还记得我们之前讲的“tick”吗？为什么1tick是二十分之一秒？"
+		"  Remember those \"ticks\" we talked about? How each one is a twentieth of a second?"
 		""
-		"  嗯，你的机器已经达到了&o这样的&r时间尺度。只要提供配方和足够多的能量，任何机器——只要是电动的——都只需要1tick，就能完成进程。"
+		"  Well you've reached &othat&r level of machine processing. Given enough power input, each machine recipe, no matter the machine, as long as it's electric, will only take a single tick."
 		""
-		"  请谨记，这样的话机器会消耗巨量的能量，还请你明智使用。"
+		"  Do be aware that the amount of power these machines can use will be immense, so use them wisely."
 	]
-	quest.2472B23BC0C28C6C.title: "量子升级"
+	quest.2472B23BC0C28C6C.title: "Quantum Upgrade"
 	quest.2476BE69FBC0681D.quest_desc: [
 		"&b反应堆&f是一种非常高效的&b能量&f来源，能够产生成千上万的&bFE&f。它们需要&b红石&f来减缓燃料消耗，用&b煤炭&f提升效率，通过&b冰和水&f进行冷却，当然还需要&b晶质铀&f作为&b反应堆&f的燃料。"
 		""
@@ -1693,16 +1698,16 @@
 	quest.248175A1E0825C2F.quest_desc: ["这根探测杖可以定位&d珍贵&r材料。"]
 	quest.248CD41AE2A92573.quest_desc: ["如其名：用于将仓储&6连接&r到其他特定的机械动力组件上。"]
 	quest.24A4F1AA0BFFE867.quest_desc: [
-		"  这是&b蒸汽高炉&r的电动版。&b电力高炉（简称EBF）&r利用感应加热产生极端高温。它解锁了许多新配方，&6默认情况下超频限制为128EU/t&r，就像其他的多方块电力机器一样。"
+		"  This is the electric version of the &bSteam Blast Furnace&r. The &bElectric Blast Furnace (aka EBF)&r uses induction heating to produce extreme temperatures, unlocking a plethora of new recipes. Plus, it's &6overclock is bounded to 128 EU/t by default&r, just like other multi-block electric machines."
 		""
-		"  &b电力高炉&r或者说&bEBF&r完全由&b耐热机器外壳&r和&b白铜线圈&r构成。&6你可以用&b扳手&r&6查看该多方块结构的形状和各方块的位置&r。控制器需要装在最底层，仓装在最底层或最顶层。"
+		"  The &bElectronic Blast Furnace&r or &bEBF&r is made out of purely &bHeatproof Machine Casings&r and &bCupronickel Coils&r. &6Use your &bWrench&r &6to see the mutliblock's shape and block placement&r. The controller is placed on the bottom layer and hatches and be placed on the top or bottom layer."
 		""
-		" &6别忘了装上能量输入仓&r，不然它没有能量怎么工作呀！你可以先装最基础的&b低压能量输入仓&r，随着你电力系统的升级，再换成更高级的&b能量输入仓&r。记住了，&b低压能量输入仓&r只能连接&b低压电缆&r。"
+		" &6Don't forget to add an Energy Input Hatch(es)&r or the EBF won't have any energy to run! Start with a &bLV Energy Input Hatch&r and you can upgrade to higher tier &bEnergy Input Hatches&r when you have the appropriate power tiers. Remember, the &bLV Energy Input Hatch&r will only connect to &bLV cables&r."
 		""
-		" 你还需要物品或流体输入仓，和物品或流体输出仓，取决于你打算用这个&bEBF&r做什么。你可以用EMI查看可用的新配方，按照配方来选择合适的仓吧。"
+		"  You'll also need item or fluid input hatches and item or fluid output hatches based off of the use case of the &bEBF&r. Check your EMI for it's new recipes and choose hatches based off your needs."
 	]
-	quest.24A4F1AA0BFFE867.quest_subtitle: "越来越&c热&r了"
-	quest.24A4F1AA0BFFE867.title: "电力高炉"
+	quest.24A4F1AA0BFFE867.quest_subtitle: "It's Getting &cHot&r In Here"
+	quest.24A4F1AA0BFFE867.title: "Electric Blast Furnace"
 	quest.24A9E9A5E3B7B041.quest_desc: [
 		"&a鉴定室&r可以&6扫描&r物品，了解它们的物质值并将它们存储到&c芯片&r中。"
 		""
@@ -1759,14 +1764,14 @@
 	quest.24E5FA9129987168.quest_desc: ["与&b无线终端&f相同，但是多了一个&b合成界面&f！"]
 	quest.24E5FA9129987168.title: "无线合成终端"
 	quest.250D1E2BFE6E0D50.quest_desc: [
-		"  升级！&b大型蒸汽锅炉&r！ "
+		"  Upgrade those &bLarge Steam Boilers&r already! "
 		""
-		"  这个升级版的锅炉&6达到最高温度时，&b蒸汽&6产量可以翻四倍，达到1024mb/t&r。"
+		"  This advanced version can &6quadruple the &bSteam&r &6production to 1024 mb/t of steam at full temperature&r."
 		""
-		"  它比原来的稍微高一点儿，记得用&b扳手&r看看它的结构。"
+		"  It's a little taller so remember to use the &bWrench&r to see multiblock shape and block placement."
 	]
-	quest.250D1E2BFE6E0D50.quest_subtitle: "效率翻倍！"
-	quest.250D1E2BFE6E0D50.title: "进阶大型蒸汽锅炉"
+	quest.250D1E2BFE6E0D50.quest_subtitle: "Double Efficiency!"
+	quest.250D1E2BFE6E0D50.title: "Advanced Large Steam Boiler"
 	quest.253FA8D6C09E2BD5.quest_desc: ["生成实体将不会发出任何声音。"]
 	quest.253FA8D6C09E2BD5.quest_subtitle: "+ 静音"
 	quest.2571BC62616A45AB.quest_desc: [
@@ -1803,8 +1808,8 @@
 		"它是一种&e更好的&7液体燃料&r，也可以&6放入&r&8熔炉&r中。"
 	]
 	quest.2689A56675E12245.title: "&e液化石油"
-	quest.268B0F87CC431A51.quest_desc: ["- 需要放入用于转换的电缆等级的&b外壳&r（默认为&e低压&r）。"]
-	quest.268B0F87CC431A51.quest_subtitle: "变压更方便！"
+	quest.268B0F87CC431A51.quest_desc: ["- Needs &bCasing&r for cable tier to convert from (&eLV&r by default)."]
+	quest.268B0F87CC431A51.quest_subtitle: "Easier Conversion!"
 	quest.2697B8077174B870.quest_desc: ["[ 记得也去看看这些装备的下界合金版本以及&b背罐&r。 ]"]
 	quest.2697B8077174B870.quest_subtitle: "雅克·库斯托在你面前也要黯然失色。"
 	quest.26A44EDA4AABFF6F.quest_desc: [
@@ -1824,8 +1829,8 @@
 		"这些框架搭建的墙壁可将&4极其强大&r的聚变反应束缚于其中。"
 	]
 	quest.272E31F15A39517B.title: "聚变反应堆框架"
-	quest.27A396E8628B269E.quest_desc: ["  &b金钻&r可产出下界的建筑方块和矿物。"]
-	quest.27A396E8628B269E.title: "金钻"
+	quest.27A396E8628B269E.quest_desc: ["  The &bGold Drill&r produces ores and building blocks that you'd expect to find in the confines of the Nether Region."]
+	quest.27A396E8628B269E.title: "Gold Drill"
 	quest.27B6C6079B5FE918.quest_desc: ["&b回旋式气液转换机&r能够将&e气体&r&6冷凝&r成&7液体&r，也可以反过来，按GUI左上角的按钮就可以切换。"]
 	quest.27B6C6079B5FE918.title: "回旋式气液转换机"
 	quest.2805DA3A1F411588.quest_desc: ["用于&a存储&f&4能量&f，你会需要一个&bFE元件外壳&f的。"]
@@ -1879,7 +1884,7 @@
 		""
 		"- 如果将&b无人机&r部署在&9容器&r旁边的地面，那么它会&6收集&r区域内的&b物品&r。"
 	]
-	quest.29AD1060C129C86F.quest_subtitle: "Catch &a50&r total fishes."
+	quest.29AD1060C129C86F.quest_subtitle: "Catch &a100&r total fishes, &d2&r unique legendary fishes, &62&r unique golden fishes."
 	quest.29B59876D04A3772.quest_desc: [
 		"这个设备通过&7压力&r&6生成&r&2怪物&r，忽视&e光照强度&r限制，并可通过&4红石控制&r。"
 		""
@@ -1892,8 +1897,8 @@
 		""
 		"请确保&b量子环&f所处的区块保持加载，否则它不会奏效的。"
 	]
-	quest.29D05998ADC8ACF5.quest_desc: ["  一个超级先进的处理器，可以将机器超频到极限。不过很快还有东西可以更进一步……&c核能&r。"]
-	quest.29D05998ADC8ACF5.title: "处理单元"
+	quest.29D05998ADC8ACF5.quest_desc: ["  A super advanced processor to push the overclocking capabilities of your machine to it's limits and soon enough, something a bit more... &cNuclear&r."]
+	quest.29D05998ADC8ACF5.title: "Processing Unit"
 	quest.29DE74B144E0A85F.quest_desc: ["&6橙色&r粉笔非常适合用来召唤火灵，尽管并不能控制它们。"]
 	quest.29DE74B144E0A85F.quest_subtitle: "芬香"
 	quest.29E3DC274AF5DAFA.quest_desc: [
@@ -1907,11 +1912,11 @@
 	]
 	quest.29E3DC274AF5DAFA.quest_subtitle: "Not Monkey Business"
 	quest.29E6ED5067027F08.quest_desc: [
-		"- 可批量执行任何单方块&e电动&r合成&b机器&r提供给它的&6配方&r。"
+		"- Can run &6recipes&r of any single block &eelectric&r crafting &bmachine&r provided to it in batches."
 		""
-		"- 批处理数量由提供给它的&b机器&r数量决定。"
+		"- Batch size is determined by the amount of &bmachines&r provided to it."
 		""
-		"- 放入多个&e电动&r合成机器以实现&6并行&r运行。"
+		"- Insert &eelectric&r crafting machines to run in &6parallel&r."
 	]
 	quest.29EB6FA48EDBE556.quest_desc: ["&7淡灰色&r粉笔是一种比白色更好的基础粉笔，用它绘制的五芒星更加稳定。"]
 	quest.29EB6FA48EDBE556.quest_subtitle: "第二阵基"
@@ -1969,19 +1974,19 @@
 	quest.2ACF8F5EFD3C4AF7.title: "靴子"
 	quest.2ADDD30536A7FF68.quest_desc: ["&b强化玻璃&r是一种&3超强的透明材料&r，可用于搭建&b聚变反应堆&r的核心墙体。人人都喜欢&6看&r漂亮的颜色（虽然它可能会&4抹杀&r你，也可能不会）。"]
 	quest.2B1717F5D6E20B79.quest_desc: [
-		"  消耗大量能量，用&b电解机&r长时间电解刚刚制得的&b奇点&r，你就可以通过&b量子霍金辐射&r以&b通用物质&r——即&dUU物质&r的形式，提取大量能量。"
+		"  With an &bElectrolyzer&r, enough time and power, and your freshly made &bSingularity&r, you can extract large amounts of energy through &bQuantum Hawking Radiation&r in the form of &bUniversally Usable Matter&r, also known simply as &dUU Matter&r."
 		""
-		"  这，便是&9宇宙&r的底层&o结构&r。"
+		"  This is, the very &ofabric&r of the &9universe&r."
 	]
-	quest.2B1717F5D6E20B79.title: "UU物质桶"
+	quest.2B1717F5D6E20B79.title: "UU Matter Bucket"
 	quest.2B2D3B338662F02C.quest_desc: ["可以用纯化金来&6改变&r&b硫&r的&a品级&r。"]
 	quest.2B3B96DDFE5D3ACA.quest_desc: ["你可以用&b锅炉外壳&r搭建&b热力锅炉&r，利用&c外部热源&r&6产出&r更多&7蒸汽&r，比如&b裂变反应堆&r产生的&9过热钠&r。"]
 	quest.2B3B96DDFE5D3ACA.title: "锅炉外壳"
 	quest.2B41DC5E4D733C9C.quest_subtitle: "在觉醒之门试炼中掉落。"
 	quest.2B482168EC0C6EB8.quest_subtitle: "潜行，并保持风度。"
-	quest.2B4BFD88DF1A934D.quest_desc: ["  它的重量只有钢的三分之一，而且延展性和可塑性都非常好。用你刚造好的&b电力高炉&r加热&b铝土&r，即可获得铝。&b铝&r的生产最好实现&6自动化&r，因为这玩意未来的用量可是很大的。"]
-	quest.2B4BFD88DF1A934D.quest_subtitle: "让我铝一铝"
-	quest.2B4BFD88DF1A934D.title: "铝"
+	quest.2B4BFD88DF1A934D.quest_desc: ["  It is a third the weight of steel, yet ductile and highly malleable. It's made from heating up and extracting it from &bBauxite&r. You can do this in your newly formed &bEBF&r. &6Make sure to automate &bAluminum&r production as you'll end up using A LOT of it&r."]
+	quest.2B4BFD88DF1A934D.quest_subtitle: "It's Gonna be Al, Right?"
+	quest.2B4BFD88DF1A934D.title: "Aluminum"
 	quest.2B8DFC9987083AF7.quest_desc: [
 		"这台机器可以&6生产&r&7压缩空气&r。"
 		""
@@ -2027,13 +2032,13 @@
 	quest.2BBC228E24D5EF05.quest_subtitle: "多建几个基地？"
 	quest.2BBC228E24D5EF05.title: "折跃门"
 	quest.2BC64E1EB1BCE14D.quest_desc: [
-		"  &b不锈钢钻&r&o既&6可用于&b采石场&r&o又&6可用于&b石油钻机&r。"
+		"  The &bStainless Steel Drill&r is a new drill that &6can be used in &oboth&r&6 the &bQuarry&r &6and the &bOil Drilling Rig&r."
 		""
-		"  用于采石场时，可获取某些新的稀有资源，它们在未来会很有用。"
+		"  For the quarry, you'll obtain some new rare resources that will be extremely beneficial for the future."
 		""
-		"  用于钻机时，可采集&b页岩油&r，蒸馏可得到&b氦&r、&b含硫原油&r和&b硫酸石脑油&r。"
+		"  In the drilling rig, you'll be able to pump out &bShale Oil&r which can be distilled into &bHelium&r, &bSulfuric Crude Oil&r, and &bSulfuric Naphtha&r."
 	]
-	quest.2BC64E1EB1BCE14D.title: "不锈钢钻"
+	quest.2BC64E1EB1BCE14D.title: "Stainless Steel Drill"
 	quest.2BF12A2184F8E99D.title: "柿子"
 	quest.2BF835F8F73E8F06.quest_desc: [
 		"手动挖矿很乏味，我很清楚这一点。"
@@ -2055,17 +2060,17 @@
 	quest.2BF835F8F73E8F06.quest_subtitle: "挖呀挖呀挖！"
 	quest.2BF835F8F73E8F06.title: "&c矿脉枯竭！"
 	quest.2C42A6E79A5242F0.quest_subtitle: "Used for biome specific fish."
-	quest.2C42A6E79A5242F0.title: "Baits"
+	quest.2C42A6E79A5242F0.title: "鱼饵"
 	quest.2C4CA092A557205E.quest_desc: [
-		"  1985年从2015年打来电话，它想要回它的反重力技术！"
+		"  1985 called from 2015, it wants it's anti-gravity technology back!"
 		""
-		"  &b重力胸甲&r利用铂芯超导体线圈，在玩家周围制造一个扭曲空间的场，反转重力，将玩家抬离地面。"
+		"  The &bGravi-chestplate&r uses a superconductor cable coiled around a platinum core to produce a space altering field around the player, inverting the gravitational pull, enough so to lift a player off the floor."
 		""
-		"  它是通过调节不同方向线圈的功率来实现操控的。它会影响引力场，所以你不会受到摔落伤害，但是制造&b重力胸甲&r的材料十分脆弱而复杂，无法为你抵挡其他类型的伤害。"
+		"  It's controlled by regulating the power to the coils facing in multiple directions. Since it affects the gravitational field, you wont take any fall damage, though due to the components that make up the &bGravi-chestplate&r being fragile and complex, it won't protect against other types of damage."
 		""
-		"  &6它消耗EU（大量）来工作&r，右击可输出能量的方块即可给它充能。"
+		"  &6It uses EU (and a lot of it) to function&r, so it can be charged by right clicking a block that can output energy."
 	]
-	quest.2C4CA092A557205E.title: "重力胸甲"
+	quest.2C4CA092A557205E.title: "Gravi-chestplate"
 	quest.2C4E81B5F427DECD.quest_desc: ["巧制寿司模组添加了几种作物和食材，专门用来制作……没错，寿司！"]
 	quest.2C67C22D74F097A3.quest_desc: [
 		"有些&b仪式&r值得一提："
@@ -2121,11 +2126,11 @@
 	]
 	quest.2CE7390F7567D9E2.quest_subtitle: "机器形态的传送门"
 	quest.2D4170B5AD28DCBF.quest_desc: [
-		"  你能造的最好的单方块&b柴油发电机&r。&6它的最高速率为1024EU/t&r，可用于发电的流体详见EMI。"
+		"  The best single block &bDiesel Generator&r you can make. &6It'll output up to 1024 eu/t&r from any of the various fluids listed in your EMI."
 		""
-		"  嗯，但这并不是最好的液体燃料发电机，还有诸如&b大型柴油发电机&r之类的需要&b高级机器框架&r的东西，不过你会觉得值的，因为&6它的发电速率可以达到16,384EU/t&r！"
+		"  Now, this isn't the best generator that'll take fluid fuels. There's such thing as a &bLarge Diesel Generator&r which will ask for &bHighly Advanced Machine Hulls&r; though it's worth it when you hear &6it'll generate up to 16,384 eu/t&r!"
 	]
-	quest.2D4170B5AD28DCBF.title: "高压柴油发电机"
+	quest.2D4170B5AD28DCBF.title: "HV Diesel Generator"
 	quest.2D5A0399B7FFA5DB.quest_desc: ["克苏鲁使魔可以让你&b在水下&r&6呼吸&r。"]
 	quest.2D5A0399B7FFA5DB.quest_subtitle: "今天收养了个古怪的东西"
 	quest.2D8FB52E37D7D96C.quest_desc: ["无论附近是否有玩家都激活。"]
@@ -2187,11 +2192,11 @@
 	quest.2F53567C34E86536.quest_desc: ["这是最基础的法术书，它只能容纳五个法术"]
 	quest.2F66F85A601AC908.quest_desc: [
 		"{image:modern_industrialization:block/machines/macerator/overlay_top_active width:32 height:32 align:center}"
-		"  现在你的矿产已经可以&6翻上半个四倍了&r！什么意思呢？就是在把&b粗矿&r制成粉的时候，你有50%的机率多获得一个粉。你还可以把&b完整的矿石&r直接放进&b研磨机&r，提取出大量&b粗矿&r。"
+		"  Now you can &6hemiquadruple your ores&r! This means you'll have a 50% chance to extract an extra dust from your &bRaw Ore&r. You can also turn a &bFull Ore&r and extract a lot of &bRaw Ore&r from it using the &bMacerator&r."
 		""
-		"  有了&b研磨机&r，你还可以把各种不要的金属物品丢进去，&6回收成粉&r。这样你就能从各种战利品和老旧工具中搞点好处了。"
+		"  Being a &bMacerator&r, you can throw some metal items in to &6recycle them back into dusts&r, good way to get a little bit out of an adventuring trip or an old tool."
 	]
-	quest.2F66F85A601AC908.title: "青铜研磨机"
+	quest.2F66F85A601AC908.title: "Bronze Macerator"
 	quest.2F6C16939D136BF0.quest_desc: ["&b破坏面板&f能够&6破坏&f/&6拾取&f它面对的&6方块&f/&b掉落物&f。"]
 	quest.2F6C16939D136BF0.title: "ME面板"
 	quest.2F7A213261682E1B.quest_desc: [
@@ -2223,13 +2228,13 @@
 	quest.2F993B0F106DB883.quest_desc: ["可使用各种&b压印模板&f制作物品。"]
 	quest.2F993B0F106DB883.title: "压印器"
 	quest.2FB2FE782B1103D6.quest_desc: [
-		"  你的第二个多方块结构：&b蒸汽高炉&r来喽！它跟焦炉长得差不多，但是比焦炉高一层，而且用的是&b耐火黏土砖块&r而不是普通的&b红砖块&r。"
+		"  Your second multi-block: The &bSteam Blast Furnace&r! This one is nearly the same, with the only difference being it's one taller and uses &bFire Clay Bricks&r instead of regular &bBricks&r."
 		""
-		"  你还是可以用&b扳手&6来辅助搭建&r。这次你只需要&63个仓&r，也就是比&b焦炉&r少了一个流体输出仓——至少现在是这样！"
+		"  Use the same trick with the &bWrench&r &6to show you the block placements&r and don't forget you'll need only &63 hatches&r this time. They're the same as the &bCoke Oven&r, without the fluid output hatch, not yet anyway!"
 		""
-		"  这个&b蒸汽高炉&r将会炼出你的第一块&b钢&r！"
+		"  You will use this &bSteam Blast Furnace&r to make your first &bSteel&r!"
 	]
-	quest.2FB2FE782B1103D6.title: "蒸汽高炉"
+	quest.2FB2FE782B1103D6.title: "Steam Blast Furnace"
 	quest.2FC0A2D07CC2DFC7.quest_desc: [
 		"注意："
 		""
@@ -2261,7 +2266,7 @@
 		"注意：&I只有&r&b致密线缆&r能传输8个以上的频道。&bME接口，&b样板供应器&r以及其他设备即便使用了&b致密线缆&r连接，也依然只能传输8个频道。"
 	]
 	quest.308640ACCC096431.title: "存储网络的中心"
-	quest.30A0D33361D77D7E.quest_subtitle: "Catch &a25&r total fishes."
+	quest.30A0D33361D77D7E.quest_subtitle: "Catch &535&r unique fishes."
 	quest.30BD7370506EBC6C.title: "氧"
 	quest.30D584EAD9243548.quest_desc: [
 		"向&b流体填充机&r&6注入&r&7流体&r，它就可以用&7其中的流体&r填满下方的空间。"
@@ -2275,11 +2280,11 @@
 	quest.30FC83AF65C13591.quest_desc: ["类似&b安山隧道&r，不过带有&6过滤&r和&6分配&r物品的功能"]
 	quest.31203D3E004E1DAB.title: "氯气"
 	quest.3143EA7DF096CE61.quest_desc: [
-		"  啊，新机器！它必须由钢材制成，因为它确实需要这么大的力量。"
+		"  A new machine! This one can only be made in steel; it really needs that extra strength."
 		""
-		"  &b打包机&r可以帮你进行简单的合成，比如&6自动化制作双层锭、管道、各种砖等等&r！你可以在EMI中查看所有可执行的配方。"
+		"  The &bPacker&r can perform simple crafts for you. You can &6automate double ingots, pipes, many types of bricks, and more&r! Check your EMI for more recipes."
 	]
-	quest.3143EA7DF096CE61.title: "钢打包机"
+	quest.3143EA7DF096CE61.title: "Steel Packer"
 	quest.314F299A677D92A6.quest_desc: [
 		"主要用途：存储药水（至多存储&9100瓶&r同类药水）。"
 		"&8（也可以用作&b药水散布器&8和&b药水混合器&8的存储容器，供其取用）"
@@ -2337,11 +2342,11 @@
 		"&c失败的印刷电路板&r可以在&8高炉&r中&2回收&r，以便再次尝试。"
 	]
 	quest.325D7C592E2FB05A.quest_desc: [
-		"  固体物质的&b终极&r形态，它被压缩得如此紧密，以至于成为了一个密度与引力都无穷大的点。"
+		"  The &bultimate&r state of solid matter, compressed so tightly until it is a point of infinite density and gravity."
 		""
-		"  尽管如此，你还是可以掌控它，开发它的各种应用。&b无限&r……此刻就在你的手中。"
+		"  Although, you can contain this to use it for various applications. You are holding... &bInfinity&r."
 	]
-	quest.325D7C592E2FB05A.title: "奇点"
+	quest.325D7C592E2FB05A.title: "Singularity"
 	quest.32677D1F144A1184.quest_desc: ["恶魔配偶可以帮助你并提供陪伴。它们有两种类别——为什么不都召唤呢？"]
 	quest.32677D1F144A1184.quest_subtitle: "……"
 	quest.32677D1F144A1184.title: "召唤恶魔配偶"
@@ -2355,22 +2360,22 @@
 	quest.3295D859B01FA315.title: "&bStarcatcher's Guide"
 	quest.32DC17E21BF26228.quest_desc: ["用于&6加载&r已保存的&b蓝图&r，制成可供&b蓝图加农炮&r使用的成品&b蓝图&r。"]
 	quest.3357A8B614D477B6.quest_desc: [
-		"  这个机器是&b打包机&r的兄弟！它必须由钢材制成，因为它确实需要这么大的力量。"
+		"  A new machine, the little sibling to the &bPacker&r! This one can only be made in steel; it really needs that extra strength."
 		""
-		"  &6拆包机可以帮你进行简单的合成，比如将粉变成小堆粉&r。你可以在EMI中查看所有可执行的配方。"
+		"  &6The unpacker can perform simple crafts for you, such as converting dusts into tiny dusts&r. Check your EMI for more recipes."
 	]
-	quest.3357A8B614D477B6.title: "钢拆包机"
+	quest.3357A8B614D477B6.title: "Steel Unpacker"
 	quest.335BFE2345DAFE03.quest_desc: [
-		"对于&b电动链锯&r："
-		"- &6左Shift&r+&6右击&r可切换&b时运/抢夺&r和&b精准采集&r。"
+		"For the &bElectric Chain Saw&r:"
+		"- Press &6Left Shift&r and &6Right Click&r to swap between &bFortune/Looting&r and &bSilk Touch&r."
 		""
-		"对于&b电动采矿钻&r："
-		"- &6左Shift&r+&6右击&r可切换&b时运&r和&b精准采集&r。"
+		"For the &bElectric Mining Drill&r:"
+		"- Press &6Left Shift&r and &6Right Click&r to swap between &bFortune&r and &bSilk Touch&r."
 		""
-		"对于&b二者&r："
-		"- 使用&6Alt&r+&6鼠标滚轮&r改变挖掘速度。"
+		"For &bBoth&r:"
+		"- Use &6Alt&r and &6Mouse Scroll&r to change mining speeds."
 	]
-	quest.335BFE2345DAFE03.title: "电动工具"
+	quest.335BFE2345DAFE03.title: "Electric Accessories"
 	quest.3392424E7E1B68C4.quest_desc: [
 		"需要&b离心机&r吗？"
 		"需要&a更快的&r吗？"
@@ -2413,13 +2418,13 @@
 	quest.33CDCAD12E8F6828.quest_subtitle: "-10 最大生成延迟"
 	quest.33CEED6232901CE5.quest_desc: ["&6Used&r with the &bVaccum Trap&r, this machine will &6suck up&r any &7mobs&r near it and put them in a &bSpawner Core&r, for that too work you must first &6craft&r a &bSpawner Core&r and &6insert&r into the a &bVaccum Trap&r."]
 	quest.33D0760B5FEF7C46.quest_desc: [
-		"  &o这&r是终极的发电机。"
+		"  &oThis&r is the ultimate generator."
 		""
-		"  &b等离子涡轮机&r使用&b氦等离子体&r发电，&6速率至高达到1,048,576EU/t&r。也就是说，每毫桶&b氦等离子体&r可产生大约100,000EU，&6消耗速率约为11mb/t&r。"
+		"  The &bPlasma Turbine&r uses &bHelium Plasma&r to produce energy, &6up to 1,048,576 EU/t&r. This is about 100,000 EU per millibucket of &bHelium Plasma&r, and a &6consumption rate of about 11 mb/t&r."
 		""
-		"  只要你还记得好好维护你的工厂，你就&o再也不用&r担心能量的问题了。"
+		"  As long as you know how to care for your factory, you will &onever&r need to worry about power ever again."
 	]
-	quest.33D0760B5FEF7C46.title: "等离子涡轮机"
+	quest.33D0760B5FEF7C46.title: "Plasma Turbine"
 	quest.33EEBDD0730C020E.quest_desc: ["使用卷轴撰写台和猩红精华来制作猩红法术卷轴。"]
 	quest.33F07E292A9B14B1.quest_desc: ["&b传送核心&r是&6传送&r功能（可传送资源和人）的核心材料。"]
 	quest.33F07E292A9B14B1.title: "传送核心"
@@ -2587,16 +2592,16 @@
 	quest.375B2C2D89889153.quest_subtitle: "完成对应任务章节。"
 	quest.375B2C2D89889153.title: "&e气动工艺"
 	quest.3761B64135EA94C0.quest_desc: [
-		"  你终于可以搭建&b核反应堆&r了。核反应堆可使用不同种类的&b流体&r和&b燃料棒&r，产出多种气体燃料、很多很多&b蒸汽&r，以及一些放射性物质。"
+		"  You'll finally be able to construct a &bNuclear Reactor&r that uses different types of &bFluid&r and &bFuel Rods&r to produce various gaseous fuels, &bSteam&r in massive quantities, and radioactive materials."
 		""
-		"  &b核反应堆&r可不是胆小鬼的玩具。在搭建反应堆时（共有四种规格），你必须时刻密切关注热量和中子相互作用。"
+		"  The &bNuclear Reactor&r is not for the faint of heart. You'll need to keep watch on the gauges for thermal and neutron interaction when constructing one of four different sized reactors."
 		""
-		"  如果你不想自己研究自己搓反应堆了，回来找我，我会给你讲解它的工作原理的。"
+		"  If you give up with developing your knowledge and patterns on the reactor, come back to me and I'll explain all about how it works."
 		""
-		"  那么现在，祝你好运吧！"
+		"  For now, I wish you luck!"
 	]
-	quest.3761B64135EA94C0.quest_subtitle: "这是你的“聚变先生（Mr. Fusion）”！"
-	quest.3761B64135EA94C0.title: "核反应堆"
+	quest.3761B64135EA94C0.quest_subtitle: "That's Mr. Fusion to You!"
+	quest.3761B64135EA94C0.title: "Nuclear Reactor"
 	quest.376DD70A2C14F9A9.quest_desc: ["&a常见&r材料相对于同类的&8丰足&r材料来说稍微稀缺一些，但仍然容易找到。"]
 	quest.376DD70A2C14F9A9.title: "常见硫"
 	quest.377DAEFC2CA2C122.title: "山楂"
@@ -2620,11 +2625,11 @@
 		"（每当你受击时，进行治疗）"
 	]
 	quest.37F3ABF113A1D399.quest_desc: [
-		"  &b低压能量输入仓&r就像个巨大的插座。我之前说过，你的多方块电动机器需要&b能量输入仓&r提供能量。"
+		"  The &bLV Energy Input Hatch&r is like a giant electrical inlet. As I've stated before, you need an &bEnergy Input Hatch&r to power multi-block electrical machines."
 		""
-		"  还记得吗，你只需要把&b能量输入仓&r换成更高级的，就相当于把整个多方块机器升级了，因为这样它的最大能耗就会提升，从而解锁新配方，提升超频速率。"
+		"  Do remember that you can upgrade the multiblock machine by replacing the &bEnergy Input Hatch&r with an upgraded tier, increasing the maximum power rate for recipes and increasing overall overclocking capabilities."
 	]
-	quest.37F3ABF113A1D399.title: "低压能量输入仓"
+	quest.37F3ABF113A1D399.title: "LV Energy Input Hatch"
 	quest.381C007F6EB3B389.quest_desc: [
 		"保守点说，很可能是机械动力里最受人喜欢的单方块了。"
 		""
@@ -2685,21 +2690,21 @@
 	quest.39A4FF688D140EC2.quest_desc: ["&b物流分类机&r是一台&6基于过滤自动分类的机器&r，不仅可以将&3物品&r&b过滤&r后进行点对点&6输送&r，还可以控制经过过滤（或者未经过过滤）的物品被输送到网络的何处。用&b辞典&r可以查找物品和方块的标签，帮你更&6轻松&r地编辑特定的过滤器。"]
 	quest.39A4FF688D140EC2.title: "物流分类机"
 	quest.39CF27CAC4EE33DB.quest_desc: [
-		"- &6右击&9水源&r或者&9流动的水&r来给它装水。"
+		"- Press &6Right Click&r on &9Still Water&r or &9Flowing Water&r to fill."
 		""
-		"- &6右击&b链锯&r以添加&8燃料。（译注：在物品栏中用燃料右击链锯即可）"
+		"- Place &8Fuel&r inside the &bChainsaw&r using &6Right Click&r."
 		""
-		"- &6潜行右击&r可开关&e精准采集&r。"
+		"- Toggle &eSilk Touch&r with &6Left Shift&r + &6Right Click&r."
 	]
-	quest.39CF27CAC4EE33DB.quest_subtitle: "嗡嗡嗡嗡！"
+	quest.39CF27CAC4EE33DB.quest_subtitle: "Brrrr!"
 	quest.39FCE3168C26B863.quest_desc: [
-		"  手上有了不少这种&b超能煤炭&r之后，你就可以脱离青铜机器的束缚了。它们太慢，而且橙色的外壳简直亮瞎眼。"
+		"  Once you have a stockpile of this &bSuper Powered Coal&r, you can start diverting away from you bronze machines. They're slow and such a bright orange; blinding to the eyes."
 		""
-		"  制造&b焦炭&r就是在无氧环境下加热&b煤炭&r，它在这种情况下无法燃烧，只能被分解蒸馏。有了焦炭，你就可以开始炼&b钢&r，然后制造钢制机器了。钢机器的速度更快，但是消耗的蒸汽也更多。"
+		"  Making &bCoal Coke&r is just heating &bCoal&r with the absence of oxygen. It doesn't allow it to burn and thus puts it through a destructive distillation process. Once you have it though, you'll be able to start working on &bSteel&r and steel machines speeding up processing times at the cost of more steam being used."
 		""
-		"  &6你很快就可以造出&b采石场&r了，然后天天躺在家里，让它帮你挖矿！"
+		"  &6You'll be aiming for the creation of a &bQuarry&r soon so that it can dig for you&r. Imagine never needing to go mining for ores ever again!"
 	]
-	quest.39FCE3168C26B863.title: "焦炭"
+	quest.39FCE3168C26B863.title: "Coke"
 	quest.3A20D522302FE7B9.quest_desc: [
 		"&b逻辑处理器&f用于制作你最初的存储元件，并为其升级。"
 		""
@@ -2774,12 +2779,12 @@
 	quest.3C1D103FCEF249C8.title: "&e组装机械？"
 	quest.3C2B6ABA8420BF3B.title: "芒果"
 	quest.3C3519AFEBBAEC70.quest_desc: [
-		"  &b活塞&r将旋转力转化为活塞杆向前伸出时巨大的力。"
+		"  &bPistons&r use rotational force to extend a rod out with a lot of possible force."
 		""
-		"  这用来压缩或者打包物品非常合适。&6这个需要自动化生产&r。"
+		"  This is very useful for compressing things, as well as packing things. &6You should automate these&r."
 	]
-	quest.3C3519AFEBBAEC70.quest_subtitle: "金属冲压"
-	quest.3C3519AFEBBAEC70.title: "活塞"
+	quest.3C3519AFEBBAEC70.quest_subtitle: "Metal Punch"
+	quest.3C3519AFEBBAEC70.title: "Pistons"
 	quest.3C6E442CEB73191F.quest_desc: [
 		"&b燃气发电机&r可以使用各种&c可燃气体&r发&e电&r。"
 		""
@@ -2835,8 +2840,8 @@
 	quest.3DC47060EEAB8975.quest_subtitle: "杰作"
 	quest.3DC47060EEAB8975.title: "重塑阵列"
 	quest.3DE966D73F4FF5A4.quest_subtitle: "阻止入侵者进入你的基地。"
-	quest.3DF6354F7AC8D4A4.quest_desc: ["  既然你已经可以探索那些以&b原油&r为基础的化学品了，那你现在也就可以给机器制作升级了！目前为止，你用的所有电动机器都只能超频到32EU/t。现在，你可以用升级提升这个上限了。具体的提升量取决于升级的等级，你可以在EMI中查看每种升级的提升量。"]
-	quest.3DF6354F7AC8D4A4.title: "升级"
+	quest.3DF6354F7AC8D4A4.quest_desc: ["  Now that you can start your journey into the chemicals branching off from &bCrude Oil&r, you can produce upgrades for your machines! All of the electric machines you've used up until now have has a maximum overclock of 32 eu/t. Now, you can increase that maximum, depending on the tier of upgrade you use. Check your EMI to see how much EU each upgrade raises."]
+	quest.3DF6354F7AC8D4A4.title: "Upgrades"
 	quest.3DFE128A74C32B45.title: "用于合成HCl的氢"
 	quest.3E165961635B0C4B.quest_desc: ["每个&6陨石&r中必定包含一个&b神秘方块&r，找到&b神秘方块&f后，破坏它就能获得基础的&b压印模板&f。"]
 	quest.3E165961635B0C4B.quest_subtitle: "找到神秘方块"
@@ -2864,13 +2869,13 @@
 		""
 		"念力——是否有过想要将烦人的生物或朋友扔到虚无中，使用这个法术，你可以举起一个实体并将它们扔来扔去，直到法术结束。不过要小心，如果让他们撞到墙上，他们会受到动能伤害。"
 	]
-	quest.3E903D71F66D3DB4.quest_subtitle: "氮气加速！"
-	quest.3E903D71F66D3DB4.title: "&6复制器（MK II）"
+	quest.3E903D71F66D3DB4.quest_subtitle: "N2O Turbo-Charged!"
+	quest.3E903D71F66D3DB4.title: "&6Replicator (MK II)"
 	quest.3E9D2DA07E8617EA.quest_subtitle: "完成对应任务章节。"
 	quest.3E9D2DA07E8617EA.title: "&6Theurgy"
 	quest.3EFED58FAE46B366.quest_desc: ["将方块&6粘合&r成任意大小的结构，无论是小型还是超大型。"]
 	quest.3F0097CCBA02804C.quest_desc: ["The &bLarge Steam Furnace&r can &6smelt&r recipes in batches of up to 8 at a &a25%&r deduction of &eEU&r cost. Keep in mind, it &cwont&r do a mix of recipes, they &omust&r be the same type. If not, each type of recipe will be &6split&r into their batch of a max of 8."]
-	quest.3F0097CCBA02804C.quest_subtitle: "越大越好！"
+	quest.3F0097CCBA02804C.quest_subtitle: "The Bigger, The Better!"
 	quest.3F0B58522B009779.quest_desc: [
 		"可以&6双持&r并&6附魔&r。"
 		""
@@ -2905,14 +2910,14 @@
 	quest.3FB60EC2EE4D0435.title: "巫师工具"
 	quest.400274581B9BD5FC.quest_desc: ["&b激光聚焦矩阵&r可将&c激光&r束直接聚焦到反应堆的核心，给&b聚变反应堆&r点火。"]
 	quest.40148704F9175B05.quest_desc: [
-		"绑定好键位以后，将鼠标悬停在&b头盔&r上，按shift即可查看按哪个键可以启用&5夜视&r。"
+		"Ensuring you have keybinds set, &rhold&r shift over the &bHelmet&r piece to see which key you must press to enable &5Night Vision&r."
 		""
-		"&b护腿&r和&b靴子&r也是一样的操作，二者分别对应&5速度提升&r和&5步行辅助&r。"
+		"Do the same for the &bLeggings&r and &bBoots&r for &5Speed Boost&r and &5Step Boost&r respectively."
 		""
-		"这套盔甲还可以&6染色&r和&6添加纹饰&r。"
+		"The armor can also be &6Dyed&r and &6Trimmed&r."
 	]
-	quest.40148704F9175B05.quest_subtitle: "高科技时尚！"
-	quest.40148704F9175B05.title: "&a纳米套装"
+	quest.40148704F9175B05.quest_subtitle: "Tech Fashion!"
+	quest.40148704F9175B05.title: "&aNano Suit"
 	quest.4047F3E2AD081915.quest_desc: ["&b网络工具&f是升级版的&b扳手&f，它能显示&6网络诊断信息&f，还能存储升级卡。&6右击&f&b网络&f的任意一处就会显示像&bME控制器&f那样的诊断信息。它还能使&b伪装板&f暂时隐藏，以便你能找到隐藏的线缆。"]
 	quest.4047F3E2AD081915.title: "网络工具"
 	quest.404A9FFCA3DF600D.quest_desc: [
@@ -2957,9 +2962,9 @@
 		"持有&b潜影盒&f、&b收纳袋&f以及许多其他容器时，可以为建筑棒提供建筑方块。"
 	]
 	quest.407FD46B5C5A1EC0.title: "&建筑棒"
-	quest.40915337B7E427F8.quest_desc: ["仅此一条电缆，就可以承担&b10个&r你的工厂的供电需求。这就是能量传输的&b巅峰&r。"]
-	quest.40915337B7E427F8.quest_subtitle: "一条真正的火线"
-	quest.40915337B7E427F8.title: "超导体电缆"
+	quest.40915337B7E427F8.quest_desc: ["  A cable capable of transferring enough energy for your entire factory, &b10 times over&r, within a single cable. This is &bpeak&r power transfer."]
+	quest.40915337B7E427F8.quest_subtitle: "I'm a Real Live Wire"
+	quest.40915337B7E427F8.title: "Superconductor Cable"
 	quest.40EB78C0AF30096E.quest_desc: [
 		"&b冶金灌注机&r是你要制作并使用的第一台机器，你可以将各种&7物质&r，包括&b其他金属&r，&6灌注&r进&b金属&r中。"
 		""
@@ -3022,15 +3027,15 @@
 	quest.4184B4182CFEF694.quest_subtitle: "信号已捕获"
 	quest.418659818AD0712B.quest_desc: ["&b大宗存储元件&f能够&a无限量&f地存储单种物品。"]
 	quest.41D1344A31FEA6DF.quest_desc: [
-		"  &b铁铬铝合金线圈&r是可用于&b电力高炉&r的新线圈，它的&6功率更大&r，可以产生更多热能。小心，别被烫着了。嗷！"
+		"  &bKanthal Coils&r are a new type of coiling for your &bEBF&r, &6allowing for a higher power draw&r and the capability to generate even more heat. Be careful, don't want to get burned. Ouch!"
 		""
-		"&b铁铬铝合金线圈&r不会自动让你的&b电力高炉&r&6升温&r。你需要在控制电脑中调整设定，方可充分利用这个升级。"
+		"&bKanthal Coils&r wont automatically cause your &bEBF&r to start heating up to the &6higher temperatures&r. The controlling computer has the capabilities, you just need to adjust values to allow it to take full advantage of the upgrade."
 		""
-		"  简化流程在此：打开&b控制器GUI&r，在&6左上角&r有一些箭头。按指向右边的那个就可以将模式从&b白铜&r改为&b铁铬铝&r。"
+		"  In this case, it's been simplified for you. Enter the &bcontroller GUI&r and in the &6top left corner&r, you'll see a set of arrows. Press the one pointing to the right and it will change the settings from &bCupronickel&r tier to &bKanthal&r tier."
 		""
-		"  很简单吧？"
+		"  Easy, right?"
 	]
-	quest.41D1344A31FEA6DF.title: "铁铬铝合金线圈"
+	quest.41D1344A31FEA6DF.title: "Kanthal Coils"
 	quest.4207ADF2CB254C6B.quest_desc: ["&b上色机&r能够&6自动&r用颜料为&3方块和物品&r&6上色&r。"]
 	quest.4207ADF2CB254C6B.title: "上色机"
 	quest.423B29BD8DAC8C3D.quest_desc: ["如果可能，生成的生物将为幼年形态。"]
@@ -3038,13 +3043,13 @@
 	quest.427B70B9D14A1A51.title: "操作升级"
 	quest.42AC14C7D41F0CAB.quest_desc: ["使用卷轴撰写台和烈焰棒制作炽焰法术卷轴，它们非常适合灼烧你的敌人……有时甚至灼烧你的朋友……只是确保不要不小心把火球术施放在他们的宠物身上，这样你就安全了！"]
 	quest.42D6CC67AB29D7DA.quest_desc: [
-		"  你终于可以造&b数字电路&r了！"
+		"  You've finally reached &bDigital Circuits&r!"
 		""
-		"  从这里开始，你才会真正领略到什么是强大。你的机器可以进一步超频，你的采石场也可以开采出全新的矿物。"
+		"  This is where the true power begins. Increase the overclocking capabilities of your machines even further than before, brand new ores from the quarries."
 		""
-		"  &6建议你自动化此物品的生产&r。"
+		"  &6You should automate these&r."
 	]
-	quest.42D6CC67AB29D7DA.title: "&9游戏后期"
+	quest.42D6CC67AB29D7DA.title: "&9The Lategame Age"
 	quest.42EC7168ADC6AF76.quest_desc: [
 		"  &b烈焰推进手杖&r具有以下&6功能&r："
 		""
@@ -3126,27 +3131,27 @@
 	]
 	quest.43985FE38B0EBCB5.title: "基础机械管道"
 	quest.439D48E9647FC8C2.quest_desc: [
-		"  蒸汽机嘛肯定需要——&b蒸汽&r！获得蒸汽的方法就是造一个&b蒸汽锅炉&r！&b蒸汽锅炉&r会缓慢消耗你提供的各种&6燃料&r来加热，当它的温度足够高时，就会产生&b蒸汽&r，前提是它的&6内部储罐&r里有&b水&r。如果没有的话，那就是浪费燃料咯。"
+		"  Steam machines need, well, &bSteam&r! The way to get it is to make a &bSteam Boiler&r! The &bSteam Boiler&r will gradually consume almost any &6fuel&r you give it to heat up. When it's at a high enough temperature, it will begin to produce &bSteam&r so long as there is &bWater&r in it's &6internal tank&r; if not, you'd be wasting fuel."
 		""
-		"  或者呢，你也可以把&b水桶&r放进&b熔炉&r烧炼，得到&b蒸汽桶&r。在这个世界里，流体容器可以将任何流体保存起来，维持恒定的温度，并且是密闭的。所以你不用担心蒸汽会跑掉或者液化变回水。有了制造&b蒸汽&r的锅炉，你就可以造出&b压缩机&r，它可以节省你的&b青铜板&r。"
+		"  Or you can put a &bWater Bucket&r into a &bFurnace&r to obtain a &bSteam Bucket&r. In this world is seems that fluid containers keep any fluid inside of them, having a persistent temperature and bound to the confined container; so don't worry about it condensing down into water or escaping. With &bSteam&r pre-boiler, you can make a &bCompressor&r to save on &bBronze Plates&r."
 		""
-		"  这玩意也许现在看来有点小贵，不过别忘了你有&b锻压台&r，可以让你的矿产翻三倍。而且，当你有了前两台机器之后，它的造价还会便宜两倍不止！"
+		"  It might seem a bit expensive at this current moment, but remember that you can practically triple your ores using the &bForge Hammer&r. Not to mention that in due time, when you have your first two machines, it will become more than twice less expensive than before!"
 		""
-		"  &b锅炉&r会自动开始产生&b蒸汽&r，并把它输送到相邻的机器或者相连的管道中，产量&6至多能达到8毫桶/tick。&r"
+		"  The &bBoiler&r will automatically begin to produce and send the &bSteam&r to adjacent machines or connected pipes, &6up to 8 millibuckets per tick.&r"
 		""
-		"  青铜机器只能执行耗能速率小于等于2EU/tick的配方。使用机器的时候，你会看到“2EU/t”的字样。1毫桶蒸汽相当于1EU——这么简单的换算对我太友好了，毕竟我不喜欢数学。&b锅炉&r达到最高温度时，可以同时给4个机器提供&b蒸汽&r！&o真&r够热的。"
+		"  Bronze machines can only process recipes up to 2 energy unit per tick. You might see it as \"2 EU/t\" when using the machines. 1 millibucket of steam is the same as 1 EU; I for one am really glad it's a very simple conversion cause I'm not a fan of math. Once your &bBoiler&r is at maximum temperature, it can supply 4 machines with &bSteam&r simultaneously! Now &othat's&r hot."
 	]
-	quest.439D48E9647FC8C2.title: "青铜锅炉"
+	quest.439D48E9647FC8C2.title: "Bronze Boiler"
 	quest.43ACFDB5CD949C74.quest_desc: ["使用卷轴撰写台和毒马铃薯来制作自然法术卷轴，这些卷轴能造成中毒伤害或定身敌人。"]
 	quest.43CC79E605DA3F6E.title: "茄子"
 	quest.43DB398322EF99BD.quest_desc: [
-		"&b钢合金熔炉&r可将两种不同的锭直接制成&9合金&r，而&o不&r需要先在&b搅拌机&r中&6混合&r两种粉末。你可以查看&dEMI&r了解哪些合金可以通过这种方法制成。"
+		"The &bSteel Alloy Smelter&r allows you to create &9alloys&r from two different ingots &owithout&r needing to &6mix&r the dusts in a &bMixer&r first. Check your &dEMI&r to see which alloys can be made this way."
 		""
-		"你可以&6组合&r不同形式的原料，烧炼合金，只要数量是对等的就行，比如&a9个&r小堆粉末+&a9个&r粒。"
+		"You can also use any &6combination&r of equal amounts of resources to create an alloy, such as &anine&r tiny dust + &anine&r nuggets."
 		""
-		"但是这样的&o不行&r：&a9个&r小堆粉末+&a1个&r锭，因为二者的数量不同。"
+		"What you &ocannot&r do is &anine&r tiny dust + &aone&r ingot, as the amounts are different."
 	]
-	quest.43DB398322EF99BD.quest_subtitle: "混合&e两种&r材料，制成&6合金&r。"
+	quest.43DB398322EF99BD.quest_subtitle: "Mixing &etwo&r materials together for &6alloys&r."
 	quest.43EFE64785AE50B4.title: "四阶 1:4"
 	quest.442CDC27ADFA34E4.quest_desc: ["如果想要&6撤回&f某项修改，可以将&b下界石英&6放于副手&f，再将原本用于增加那项修改的物品放于主手对刷怪笼使用即可。这将&a消耗&f用于增加那项修改的物品，而非&6下界石英&f。"]
 	quest.443DFD3FB9E0BA2F.quest_desc: ["先弄明白自己需要种什么，再去找种子就好办多了！试试打几棵草，或者到处走走，找找有趣的植物！"]
@@ -3215,37 +3220,37 @@
 	]
 	quest.45402DE880D9EF58.title: "时间膨胀 QIO 驱动器"
 	quest.454FF6E2926163F7.quest_desc: [
-		"  好吧，这也怪不得你。不过，如果你是在靠自己的好奇心搓出了超酷的反应堆之后才来这儿的，那我得表扬表扬你了。但是对于那些真的需要帮助的人，我们开始吧。注意听！"
+		"  Honestly, I cant blame you. Though if you've come here after you've made your super awesome reactor out of curiosity, I commend you. But for those of you that needed the help, why don't we begin? Pay attention!"
 		""
-		"  &核反应堆&r的发电速率是柴油机的100倍。它有几种不同的规格，从&b小型&r到&b超大型&r都有。"
+		"  The &bNuclear Reactor&r can produce 100s of times more EU/t than diesel can. It comes in several sizes from &bsmall&r to &bextreme&r."
 		""
-		"  这玩意内部的工作原理可能有点烧脑了，不过没关系，设计反应堆并不需要你知道这么多细节。"
+		"  How it works under the hood can be a bit overwhelming, nevertheless, you don't need to understand the details to be able to design a powerful reactor."
 		""
-		"  &6请记住，在这个世界里，&b核反应堆&r&6&o不会&r&6爆炸、释放辐射，或者以任何形式破坏周围的环境&r。它只会因为温度过高而摧毁你放进去的物品，这点我等会会讲。所以你可以尽情搞实验，享受作为核科学家的生活！"
+		"  &6Note that in this world, the &bNuclear Reactor&r &6&ocannot&r &6explode, emit radiation, or otherwise damage the surrounding area&r. The only thing that it can damage is the items you put in it if the temperature gets too high, which I'll elaborate on more later. You should feel free to experiment, and enjoy your new life as a nuclear scientist!"
 		""
-		"  核反应堆的主要部分是&b核外壳&r，由&b核合金&r——一种&b镉&r、&b铍&r和&b防爆合金&r的混合物——制成。"
+		"  The main component is the &bNuclear Casing&r which is made with &bNuclear Alloy&r; a mix of &bcadmium&r, &bberyllium&r and &bblast-proof alloy&r."
 		""
-		"  它的上部可安装&b核物品仓&r、&b核流体仓&r或者只用核外壳搭建也行。&6这是反应堆的输入与输出端口&r。"
+		"  The upper part of the structure accepts &bNuclear Item&r or &bFluid Hatches&r or just simple casings. &6Those are the inputs and outputs of the reactor&r."
 		""
-		"  每个仓都有一个输入槽位和两个输出槽位。输入槽位会在反应堆的控制面板（右击控制器打开）上显示为一个网格。"
+		"  Each hatch has one input, whether that be either item or fluid, and two outputs. The input slots will form a grid, displayed in the reactor's control panel (accessible by right-clicking on the controller)."
 		""
-		"  &6每个仓都有自己的温度&r，也都会存储热量。这些热量有几种散失方式：热量会自发地传导至相邻的仓，或者进入外部环境（如果该仓位于反应堆边缘），不过这样的话那些热量就流失了。热量传导的速度等于该仓内容物的热传导系数（可在EMI中查看）乘以温差。热量也可以在流体仓中以&b产生蒸汽&r的方式离开。&6如果某物品的温度大于其最高温度，该物品就会被摧毁&r。"
+		"  &6Each hatch has a temperature&r and stores heat which can be dissipated in several ways. The heat will naturally move to an adjacent hatch or to the outside if the hatch is on the edge, though this  will cause the heat to be lost. The speed of this process is equal to the hatch's content's heat transfer coefficient, which can be found in your EMI, multiplied by the temperature difference. The heat can also be extracted in a fluid hatch by &bproducing steam&r. &6A temperature above an item's maximum temperature will destroy it&r."
 		""
-		"  反应堆的核心元素是&b中子&r，它们由&b核燃料&r产生。中子有两种，&b快中子&r 和&b热中子&r：快中子具有较高的能量，而热中子没有。中子一直保持直线运动，直到与其他元素碰撞或者逸出反应堆，这会使快中子失去它的能量。中子流会显示在反应堆的控制面板上。"
+		"  The core nuclear reactor elements are &bneutrons&r. Those are produced by the &bnuclear fuel&r. There are two type of neutrons, &bfast&r and &bthermal&r: the fast carry energy while the thermal do not. Neutrons move in a straight line until they encounter an element or exit the reactor, though for fast neutrons, their energy is then lost. The flow of neutrons is shown in the reactor control panel."
 		""
-		"  当中子碰见非空的仓时，可能出现两种情况：该中子可能会被&b吸收&r或&b散射&r。&6被散射的中子会随机改变运动方向&r。如果被散射的中子为快中子，则它有一定概率会慢下来，变为热中子。这个过程会将中子的能量以热量的形式传递给仓。&6被吸收的中子会停止运动，如果该中子为快中子，则同样会发生能量传递&r。"
+		"  When a neutron encounters a non-empty hatch, two things can happen, being either the neutron is &babsorbed&r or &bscattered&r. &6A scattered neutron will randomly change direction&r. If the scattered neutron is fast, it has a chance of slowing down, becoming a thermal one. This transfers the energy from the neutron to the hatch in the form of heat. An &6absorbed neutron stops its course and also transfers its energy if it was a fast neutron&r."
 		""
-		"  控制面板上会显示单个仓吸收的中子数。这些过程发生的概率可在EMI中查看。它们很大程度上取决于仓内容物和中子类型，是快中子还是热中子。&6核燃料吸收热中子的能力要强得多&r。"
+		"  The number of absorbed neutrons in a single hatch can be seen in the control panel. The probability for each processes is shown in your EMI. Those will strongly depend on the hatch's content and the neutron type, either fast or thermal.&6 Nuclear fuels absorb thermal neutrons far better&r."
 		""
-		"  当一个中子，无论是快的还是热的，被核燃料吸收时，会产生更多的中子。这些新的中子基本都是快中子，而且运动方向随机。&6它们的产生会伴随着能量的直接释放，这些能量会转变为仓中额外的热量&r。"
+		"  When a neutron, either fast or thermal, is absorbed in nuclear fuel, more neutrons are generated. Those are always fast neutrons and have random direction. &6Their generation is accompanied by the direct release of energy in the form of additional heat in the hatch&r."
 		""
-		"  在一定的温度阈值以上，中子的产量会随温度的升高而下降，直到降为0。&6这会导致部分能量被浪费，但是提升了反应堆的稳定性&r。中子产量、有效效率、直接能量和温度阈值都可在EMI中查看。"
+		"  Above a certain threshold, the number of generated neutrons will decrease with the temperature until reaching zero. &6This process wastes some energy, but guarantees the stability of the reactor&r. The number of generated neutrons, effective efficiency, the direct energy and temperature threshold are all shown in your EMI."
 		""
-		"  每种核组件都有最大吸收数。&6达到最大吸收数时，该物品会被摧毁，或者变为枯竭形式&r。这一点对于核燃料而言十分有用，因为&6其枯竭形式中&r有部分&bU238&r&6会转化为&b钚&r，也就是说其中有一部分还可以再当燃料用。"
+		"  Each nuclear component has maximum number of absorptions. &6When reached, the item is either destroyed or transformed into a depleted variant&r. This is particularly useful for nuclear fuel because some part of &6the &bU238&r &6is transformed into &bPlutonium&r &6in its depleted variant&r, meaning some of it can be transformed back into fuel."
 		""
-		"  流体也是一样，每次吸收中子后，都会有一点儿流体发生转变。这可用于大规模生产有用的同位素，例如&b氘&r和&b氚&r。两种情况的产物EMI中都可以查看。"
+		"  The same thing happens for fluids, where a bit of fluid is transformed after each neutron absorption. This can be used to mass produce useful isotopes like &bdeuterium&r and &btritium&r. In both cases, the outcome is shown in your EMI."
 	]
-	quest.454FF6E2926163F7.title: "放弃了？"
+	quest.454FF6E2926163F7.title: "Give up?"
 	quest.4554EE3CC1F80F7D.quest_desc: ["让你最爱的生物来&6驾驶&r列车！"]
 	quest.45664AAC3ACCEF36.quest_desc: ["&6升级版&r&b侦测器。&r"]
 	quest.45692D06641029FD.quest_subtitle: "法术示例"
@@ -3259,13 +3264,13 @@
 	quest.45E16D69D7099581.quest_desc: ["欢迎来到&b钢制机壳&r时代！从此以后，基本所有&b机器&r都需要钢制机壳来&6支撑&r容纳其中的&c电路&r和&7机械结构&r。这是你游戏&6进程&r的核心部分。"]
 	quest.45E16D69D7099581.title: "钢质机壳"
 	quest.45F0194CF3DCA5DD.quest_desc: [
-		"  &b褐煤&r是这个世界中存量非常丰富的一种&b燃料&r。差不多就是&b煤炭&r，只是是褐色的。 "
+		"  &bLignite&r is a truly abundant &bfuel source&r that can be &6found&r in the world. It's pretty much &bCoal&r, but brown. "
 		""
-		"  比起同等质量的&b煤炭&r，它的碳含量更低，但是却能&6烧炼&r同样多的物品。"
+		"  It has a lower carbon content despite &6burning&r the same amount as &bCoal&r; created the same way too."
 		""
-		"  也就是说，你可以把&b煤炭&r留着用于其他的&6操作&r或者&6配方&r，用&b褐煤&r来当你&b蒸汽采矿钻头&r的&6燃料&r。"
+		"  This means you can keep your real &bCoal&r for other &6projects&r or &6recipes&r, keep &bLignite&r to &6fuel&r your &bSteam Mining Drill&r instead."
 	]
-	quest.45F0194CF3DCA5DD.title: "褐煤"
+	quest.45F0194CF3DCA5DD.title: "Lignite Coal"
 	quest.4628ABEE13B276A9.quest_desc: [
 		" 破坏&b粗烈焰金矿簇&r可&6掉落&r&b粗烈焰金&r。"
 		""
@@ -3301,7 +3306,7 @@
 		""
 		"  &6P.S&r. If you ever get stumped up with a machine, go ahead and hold that &bGuide Book&r of yours while &6hovering&r over a &bMachine&r or &bMultiblock&r. It'll give you some &bextra info&r."
 	]
-	quest.469641436BC858D3.title: "现代工业化"
+	quest.469641436BC858D3.title: "Modern Industrialization"
 	quest.46C3D171AB4AA489.quest_desc: [
 		"这种&3物质&r可以在&b热气动加工机&r中&6加工&r，以&6生产&r&8汽油&r，那是一种&a高品质&r的&7液体燃料&r。"
 		""
@@ -3311,11 +3316,11 @@
 	quest.470BC1F9873D4852.quest_desc: ["这枚戒指的内部可以&6存储&r一个&b使魔&r，无需它待在你身边也能提供一些它的增益。"]
 	quest.470BC1F9873D4852.quest_subtitle: "形影不离"
 	quest.4722157BC8D3B965.quest_desc: [
-		"  这是一个外壳光滑的青铜机器，里面装有残暴旋转着的刀片——它可以进一步&6提升切割产率&r，这可比你之前用&b锻压台&r的时候好太多了。&a来多搓点螺栓、齿轮，环和杆之类的东西吧！&r"
+		"  A sleek bronze casing with a vicious spinning blade inside will give you even &6better cutting ratios&r than you ever experienced using your &bForge Hammer&r. &aTime for extra bolts, gears, rings, and rods!&r"
 		""
-		"  不过呢，这切割也不是完全免费的。这个机器需要&b蒸汽&r才能运行，而且还需要&b润滑剂&r，否则切割的时候就会过热。&b搅拌机&r可以生产&b润滑剂&r，原料是&b红石粉&r加上任意一种烃。去看看&b焦炉&r的产物，那里也许有可以跟&b红石粉&6混合&r的东西！"
+		"  Just remember that you can't cut for free. This machine runs off &bSteam&r and uses &bLubricant&r to make clean cuts without overheating. &bLubricant&r can be produced inside of the &bMixer&r, using &bRedstone&r and one of the various hydrocarbons. I suggest checking out the &bCoke Oven's&r products. You may find something to &6mix&r with &bRedstone&r!"
 	]
-	quest.4722157BC8D3B965.title: "青铜切割机"
+	quest.4722157BC8D3B965.title: "Bronze Cutting Machine"
 	quest.473F20C25AAAF017.quest_desc: [
 		"&c世界层级&r需要达成特定的进度才可解锁，可以在&3世界层级选择&r菜单中&a激活&r已解锁的世界层级（按&6Ctrl + T&r打开菜单）。"
 		""
@@ -3351,11 +3356,11 @@
 	quest.473F20C25AAAF017.quest_subtitle: "随着你在世界中不断探索，你将解锁更高的世界层级，这将让你获得更好的战利品（以及更强大的敌人！）"
 	quest.473F20C25AAAF017.title: "&c世界层级"
 	quest.475DC864A0BC0F1F.quest_desc: [
-		"之前提到过，你可以将你的青铜机器升级为钢制机器。"
+		"  As stated before, you can upgrade your bronze machines into steel machines."
 		""
-		"做一个&b钢材升级&r，然后&6用工作台或者打包机&r把它安装到任意青铜机器上。"
+		"  Create the &bSteel Upgrade&r and install it onto any bronze machine &6using a smithing table or packer&r."
 	]
-	quest.475DC864A0BC0F1F.title: "更高速的机器？"
+	quest.475DC864A0BC0F1F.title: "Faster Machines?"
 	quest.4788E4092A488C9E.quest_desc: ["对于高速工厂来说，这绝对是必备品。"]
 	quest.478A6A8ADA223AEF.quest_desc: [
 		"&b餐壶&r是用来盛&d营养糊剂&r的，你可以用餐壶&6吃掉&r营养糊剂。"
@@ -3377,9 +3382,9 @@
 		""
 		"  You can also use the &bForge Hammer&r as a way of getting more &bRaw Ore&r out of your &bOres&r. Again, using the &bHammer&r will give you &6more&r at the cost of durability."
 	]
-	quest.47A8E5DC11E846C5.title: "丐版压缩机"
-	quest.47C1108CF46C81FC.quest_desc: ["  &b铝钻&r&6可采集&b原油&r。它会自动勘探地下的油田，把原油抽上来。"]
-	quest.47C1108CF46C81FC.title: "铝钻"
+	quest.47A8E5DC11E846C5.title: "Poor Man's Compressor"
+	quest.47C1108CF46C81FC.quest_desc: ["  &6The &bAluminum Drill&r &6allows you to drill for &bCrude Oil&r. It'll find pockets of oil in the ground and automatically pump it up through the drill and to the surface."]
+	quest.47C1108CF46C81FC.title: "Aluminum Drill"
 	quest.47E6E91E526B6D34.quest_desc: [
 		" 破坏&b粗苍穹晶矿簇&r会&6掉落&r&b苍穹晶&r。"
 		""
@@ -3444,8 +3449,8 @@
 	quest.495EEAA73357FA60.quest_subtitle: "超能力"
 	quest.495EEAA73357FA60.title: "蚀空合金工具\\&武器"
 	quest.497660DB9611C67C.quest_desc: ["就像普通的&b溜槽一样，&r但有&6过滤&r和&6速率控制&r功能。"]
-	quest.4980C231ECDB0BF2.quest_desc: ["  &b钢钻&r可产出其余的&6常用矿物&r，你在未来的自动化进程，乃至探索整个世界的旅程中都会用到的。你可以用EMI查看此钻头可能的产物。"]
-	quest.4980C231ECDB0BF2.title: "钢钻"
+	quest.4980C231ECDB0BF2.quest_desc: ["  The &bSteel Drill&r gives you the rest of the &6more commonly used ores&r that you'll need for further progression in your journey to total automation, but also in your journey of the world itself. Check your EMI for all the possible outputs."]
+	quest.4980C231ECDB0BF2.title: "Steel Drill"
 	quest.49910F2EFEA1CDF2.quest_desc: [
 		"  &b初级&r："
 		"    • 可&6收集&r&b流体&r"
@@ -3478,13 +3483,13 @@
 	quest.4A476B25B5A3E88D.quest_desc: ["生物生成的范围半径（以格数为单位）。"]
 	quest.4A476B25B5A3E88D.quest_subtitle: "+2 生成范围"
 	quest.4A5466E364B85AEF.quest_desc: [
-		"  比铁更深暗更冰冷……而且强度是前者的1000倍。快来炼&b钢&r！就用你之前制得的焦炭，把它弄成粉末，然后跟铁粉混合在一起，得到&b生钢粉&r。别忘了&6用&b搅拌机&r，它可以提升产率。"
+		"  Darker and cooler than Iron... Plus about 1000 times stronger. It's time to make some &bSteel&r! Use that coal coke you produced earlier and crush it down to a pile of dust. Then, combine that with iron dust to get your &bUncooked Steel Dust&r. Remember, &6using the &bMixer&r will increase your output.&r"
 		""
-		"  好钢还需烈火炼，所以我们需要&6蒸汽高炉&r提供极端的高温，来熔合这些混合物粉末。"
+		"  Now, remember the finest steel has to go through the hottest fire; so we'll be using the &6Steam Blast Furnace&r to reach the extreme temperatures required to melt down the powdered mixture and fuse them together."
 		""
-		"  既然你已经有钢了，那快去用&b钢材升级&r升级你的青铜机器吧。钢机器可以执行能耗小于等于4EU/t的配方，而且&6运行速度是原来的两倍&r，只要能耗不超过4EU/t。现在你可以承受更高的能耗了，应该有些新东西可以做了。"
+		"  Now that you have obtained steel, you can upgrade your bronze machines with &bSteel Machine Upgrades&r. Steel machines can process recipes up to 4 EU/t and will &6process recipes at twice the speed than normal&r as long as the energy usage doesn't go above 4 EU/t. With this higher roof of energy usage, you might be able to make new things now."
 	]
-	quest.4A5466E364B85AEF.title: "&7第一块钢！"
+	quest.4A5466E364B85AEF.title: "&7Your First Steel!"
 	quest.4A559B47D164D1BB.quest_subtitle: "可使用诅咒之眼找到"
 	quest.4A559B47D164D1BB.title: "&b咒翼&e灵骸"
 	quest.4A85523931A7D539.quest_desc: ["每个&b高级感应供应器&r可以为你的感应矩阵增加&e819.2 kFE/t&r的能量传输（输入/输出）速率。"]
@@ -3577,11 +3582,11 @@
 	]
 	quest.4D1B83E147CC16AE.quest_subtitle: "自动作物，出列！"
 	quest.4D5787F48ECCB000.quest_desc: [
-		"&b钢酿造厂&r可以同时&6自动&r酿造&a4&r瓶药水，而且比普通的酿造台速度快不少。"
+		"The &bSteel Brewery&r can &6automatically&r brew &afour&r potions at a time at a considerably quicker rate than a regular brewing stand."
 		""
-		"需要使用&e烈焰精华&r代替&6烈焰粉&r。"
+		"Remember it needs &eBlazing Essence&r in place of &6Blaze Powder&r."
 	]
-	quest.4D5787F48ECCB000.quest_subtitle: "一次酿&e4&r瓶。"
+	quest.4D5787F48ECCB000.quest_subtitle: "Brews &e4&r potions at a time."
 	quest.4D59020A532C4E92.quest_desc: [
 		"   我打赌你肯定能&6弄明白&r&b这个&r怎么用。xD"
 		""
@@ -3717,7 +3722,7 @@
 		"&b扩展分子装配室&r能够一次进行8个合成工作，且速度是普通装配室的2倍，也就是说，合成速度总共快了16倍！"
 	]
 	quest.4EC894E7808440AC.quest_subtitle: "4倍的样板，16倍的速度。"
-	quest.4ED1400E2AAAAAE1.quest_subtitle: "Catch &a10&r total fishes."
+	quest.4ED1400E2AAAAAE1.quest_subtitle: "Catch &a25&r common fishes."
 	quest.4EF9C36CED1EDDC4.quest_desc: ["可以在灵火中转化&b羽毛&b、&b书&r和&b黑色染料&r，使其变得更适配魔灵。"]
 	quest.4EF9C36CED1EDDC4.quest_subtitle: "笔须的仪式"
 	quest.4EF9C36CED1EDDC4.title: "神秘学的书写材料"
@@ -3779,21 +3784,21 @@
 	quest.508E110FF82365E3.quest_desc: ["在&6汞驱物流系统&r中，&b输入器&r和&b输出器&r可以分别将&6物品存入或取出&r容器。"]
 	quest.508E110FF82365E3.title: "汞驱物流系统"
 	quest.50BFFEAF92B72965.quest_desc: [
-		"  &b焦炉&r是一个大型结构，比一个方块要大。这个&6多方块结构&r是用来在隔绝空气的条件下加热&b煤炭&r或者&b煤粉&r，获取&b焦炭&r的装置。有时这个过程还会产生一些&b杂酚油&r。&b杂酚油&r可用于生产&b润滑剂&r，&b焦炭&r可用于炼&b钢锭&r，或者单纯作为一种强大的&6燃料&r使用，它的燃烧时间可是煤炭的4倍！"
+		"  The &bCoke Oven&r is a large structure, larger than only a single block. This &6multiblock structure&r is used to take &bCoal&r or &bCoal Dust&r and heat it in a location with the absence of air and producing &bCoal Coke&r and occasionally some &bCreosote Oil&r. You can use &bCreosote Oil&r for the production of &bLubricant&r and &bCoal Coke&r for &bSteel Ingots&r or just a powerful &6fuel&r lasting 4x as long!"
 		""
-		"  这里的&b焦炉&r方块是作为&6中央控制器&r的，你需要在它周围按照特定形状摆上别的方块，建成完整的多方块结构。"
+		"  The &bCoke Oven&r block here is the role of the &6central controller&r. You will place other blocks surrounding it in a pattern that will eventually construct the full multiblock."
 		""
-		"  每个多方块结构都需要一个控制器来控制，但是用于交互的通常不是控制器，而是你安装在多方块结构中的&6输入仓和输出仓&r。 "
+		"  Every multiblock is managed by a controller, but you usually cannot interact with the controller directly but instead through &6input and output hatches&r that you place in certain spots of the multiblock. "
 		""
-		"  你需要一个&b流体输入仓&r来输入&b蒸汽&r，作为&b焦炉&r的能源，一个&b物品输入仓&r来放入&b煤炭&r，以及一个&b物品输出仓&r来取出&b焦炭&r。&b流体输出仓&r不是必要的，你的多方块结构没有它也能工作，但是如果安装了，你就可以获得&b煤炭&r产生的&6杂酚油&r。正常情况下，如果你的多方块结构没有包含上述必要的仓，它就不会工作。"
+		"  You'll need a &bFluid Input Hatch&r to handle an input of &bSteam&r to power the &bCoke Oven&r, an &bItem Input Hatch&r as a way to input the &bCoal&r and an &bItem Output Hatch&r to output the &bCoke&r. A &bFluid Output Hatch&r is not required and will allow the multiblock to run without it, but with it you can extract the &6Creosote  Oil&r from the &bCoal&r. Normally if you don't have enough of the correct hatches required, the multiblock will not function."
 		""
-		"  当你放下控制器方块后，如果你拿着&b扳手&r，就会看到一个该多方块结构的投影。如果你在其中某个位置放置了正确的方块，该位置的全息方块就会消失；如果你放在那个位置的方块不对，它就会变红。"
+		"  If you hold a &bWrench&r, a projection of the blocks needed for the rest of the multiblock will show after you've placed down the controller block. The specific holographic block will disappear if the correct block is placed, or will turn red if the block in that location is incorrect."
 		""
-		"  手持仓方块时，可以放置它们的位置就会出现绿色框框。多方块结构不会识别放在框外的仓。"
+		"  If you hold a hatch in your hand, there will be green highlighted location where the hatches can go. If you placed the hatch outside of those highlighted locations, the multiblock will not recognize the hatch."
 		""
-		"  &b焦炉&r控制器确认结构有效后，你就可以向&b流体输入仓&r&6输入&b蒸汽&r了。然后将&b煤炭&r或者&b煤粉&r放入&b物品输入仓&r，&b焦炉&r就会点火，开始运行。如果它没有开始工作，你就得回头想想是不是有哪里搞错了。"
+		"  One the &bCoke Oven&r controller states that it's shape is valid, you can &6insert&r &bSteam&r though the &bFluid Input Hatch&r. Puting &bCoal&r or &bCoal Dust&r into the &bItem Input Hatch&r will allow the &bCoke Oven&r to fire up and start producing. If it doesn't work, retrace your steps and find out what went wrong."
 	]
-	quest.50BFFEAF92B72965.title: "焦炉"
+	quest.50BFFEAF92B72965.title: "Coke Oven"
 	quest.50D1398BBF8DBBB2.quest_desc: ["&b电解分离器&r通过一种被称为“&6电解&r”的方式，用&e电&r将分子解离，把各种&7流体&r&6分解&r成构成它们的核心元素。"]
 	quest.50D1398BBF8DBBB2.title: "电解分离器"
 	quest.510EAAAA3E08FCD5.quest_desc: ["这种矿工魔灵无与伦比，能够获得&b大部分矿石&r。它偶尔还会产出一件&6特殊&r物品……"]
@@ -3979,20 +3984,20 @@
 	]
 	quest.53ECE17FBD95392C.quest_subtitle: "堂吉诃德，你的风车在这儿！"
 	quest.5401B18217772D6C.quest_desc: [
-		"  你可以用&b热交换机&r来，呃，交换热量。产生的&b高压水&r可以回收，用于另一个循环。 "
+		"  You can use the &bHeat Exchanger&r to, well, exchange heat. You can recover the &bHigh Pressure Water&r to be used for another cycle. "
 		""
-		"  你要知道，&6给&b水&r&6加压变成&b高压水&r&6会消耗很多能量&r，但涡轮机可不一定会把这些能量还给你。"
+		"  Remember that &6pressurizing &bWater&r &6into &bHigh Pressure Water&r &6costs a lot of energy&r, but the turbine wont necessarily give it back."
 	]
-	quest.5401B18217772D6C.title: "热交换机"
+	quest.5401B18217772D6C.title: "Heat Exchanger"
 	quest.5408EFD0B9CA0527.quest_desc: ["每个&b终极感应供应器&r可以为你的感应矩阵增加&e52.42 MFE/t&r的能量传输（输入/输出）速率。"]
 	quest.5408EFD0B9CA0527.title: "终极感应供应器"
 	quest.54BCC1A0203B2351.quest_desc: ["如果你希望给&b水晶&f的&6生长&f打点鸡血的话，可以在&b母岩&f的六个面旁边放上&b催生器&f。&b催生器&f需要从底部或者顶部输入能量。"]
 	quest.54BF53CB70636C3F.quest_desc: [
-		"  将冬季囚禁于冰冷的铝制框架中……为什么抽走空气可以冷却物品？我用水举个例子："
+		"  Enslave the Winter season in a supercooled aluminum frame. How does removing air cool something down? I'll give an example using water:"
 		""
-		"  把仓内空气抽走，压强就会下降，水的沸点也会下降，于是水就会沸腾汽化，而汽化过程会吸走热量，所以物品就冷却了。"
+		"  By evacuating the chamber, pressure drops below the boiling point; but the water then loses energy through boiling and evaporation, then freezes."
 	]
-	quest.54BF53CB70636C3F.title: "真空冷却机"
+	quest.54BF53CB70636C3F.title: "Vacuum Freezer"
 	quest.54D178C57E788506.quest_desc: [
 		"&bME装罐器&f可以把东西&a装桶或装罐&f，包括&b流体、通用机械的化学品、植物魔法的魔力，甚至是能量都可以！！！&f"
 		""
@@ -4107,12 +4112,12 @@
 	quest.56723AEFD93C17F1.quest_subtitle: "可使用沙漠之眼找到"
 	quest.56723AEFD93C17F1.title: "&6远古遗魂"
 	quest.5676B5FD97FB10C3.quest_desc: [
-		"  这是&b青铜炉&r，虽然这玩意跟普通的&b熔炉&r一样慢，但是它可以&6节省&o20倍&r&6燃料&r！"
+		"  This is the &bBronze Furnace&r and despite it being just as slow as your regular &bFurnace&r, the difference is that this one &6uses &o20&r&6 times less fuel&r!"
 		""
-		"  感谢&b蒸汽&r带来的效率！"
+		"  Thank &bSteam&r for being so efficient!"
 	]
-	quest.5676B5FD97FB10C3.quest_subtitle: "烧炼时间到！"
-	quest.5676B5FD97FB10C3.title: "青铜炉"
+	quest.5676B5FD97FB10C3.quest_subtitle: "It's Smelting Time!"
+	quest.5676B5FD97FB10C3.title: "Bronze Furnace"
 	quest.569CE57C377AB1B7.title: "油菜"
 	quest.56A515610D242E28.quest_desc: ["墨水有不同的稀有度，你需要更高等级的墨水来制作更高等级的卷轴。"]
 	quest.56A515610D242E28.title: "墨水"
@@ -4148,9 +4153,9 @@
 	quest.5855D8361A2C6623.quest_desc: ["&b模板&f可以在&b模板管理器&f中使用。"]
 	quest.5855D8361A2C6623.title: "&b建筑小帮手"
 	quest.58CA2853D9620919.quest_desc: [
-		"&b基本升级&f&6制造&f起来不需要什么复杂的零件，它可以&9加速&f你的机器。"
+		"The &bBasic Upgrade&f is an upgrade you can &6create&f with only simple components to &9speed&f up your machines."
 		""
-		"每个升级可将&e能量&f上限提高&62EU/t&f。"
+		"Each adds to the max &eenergy&f cap by &62EU/t&f."
 	]
 	quest.58E5ADE9A50BDF29.quest_desc: ["这根探测杖已经预同调，可以寻找&b紫水晶母岩&r。&b紫水晶&r在炼金术中使用得相当多，并对于更好的探测杖是&6必需的&r材料。"]
 	quest.58ED87D90B7F7168.quest_desc: [
@@ -4261,14 +4266,14 @@
 	]
 	quest.5C56A0938613CBC0.quest_subtitle: "How do you say it?"
 	quest.5C8D7BD3DA61109F.quest_desc: [
-		"  现在你可以造电动版本的&b采石场&r了！这个产矿速度更快，&o还&r有更多钻头可选。"
+		"  You've reached the electric version of the &bQuarry&r! This one allows you to produce ores at an even faster rate than before &oand&r gives you more options for drills."
 		""
-		"  &6你现在可以用上&b钢&r&6、&b金&r&6、&b不锈钢&r&6和&b钛钻&r，采集剩下的矿物了，真正实现我给你的承诺：再也不用自己下矿了！"
+		"  &6Now you'll be able to use &bSteel&r&6, &bGold&r&6, &bStainless Steel&r&6, and &bTitanium Drills&r to finish off the rest of the ore production and truly fulfill my promise of never needing to mine for ores ever again!"
 		""
-		"  它的结构和&b蒸汽采石场&r&o完全一致&r，只要把&b流体输入仓&r换成&b能量输入仓&r就行了。&6自动化制造&b青铜钻&r，请，否则维持采石场运营可是个痛苦的差事了。"
+		"  The structure is &oexactly&r the same as the &bSteam Quarry's&r aside from needing an &bEnergy Input Hatch&r instead of a &bFluid Input Hatch&r.&6 Make sure you've automated your &bBronze Drills&r&r by now or else it'll be a pain to keep your quarries running."
 	]
-	quest.5C8D7BD3DA61109F.quest_subtitle: "资源BRRR！"
-	quest.5C8D7BD3DA61109F.title: "电动采石机"
+	quest.5C8D7BD3DA61109F.quest_subtitle: "Resources Go BRRR!"
+	quest.5C8D7BD3DA61109F.title: "Electric Quarry"
 	quest.5C98D9127F4CEB74.quest_desc: [
 		"有几种不同类型的&b盐&r，每种最终都用于制作&6不同类型的资源&r。"
 		""
@@ -4282,7 +4287,7 @@
 	]
 	quest.5CD12382792FA310.quest_subtitle: "猜猜它是干什么用的"
 	quest.5CEFB3C551971327.quest_desc: [""]
-	quest.5D0F6404B76F480E.quest_subtitle: "A handy tool displaying the fishes in your area."
+	quest.5D0F6404B76F480E.quest_subtitle: "一件趁手的工具，能显示范围内的鱼类。"
 	quest.5D584858B61E534B.quest_desc: ["这个&b催化器&f可以缓慢地将&d汞&r&f转化&r为&d汞流&r，它是炼金仪器的能量来源。"]
 	quest.5D584858B61E534B.quest_subtitle: "汞=汞流"
 	quest.5D5FC5420738FDE8.quest_desc: ["普通的&b纸板&r。如此基础，却是……&o机械动力&r最新功能的入口，这些功能展示在本画廊的&c“工厂智能”&r区域。"]
@@ -4291,13 +4296,13 @@
 	quest.5DBFD3F917C4E49C.quest_subtitle: "可使用机械之眼找到"
 	quest.5DBFD3F917C4E49C.title: "&4先驱者"
 	quest.5DD99224F29419C1.quest_desc: [
-		"  现在该用&b蒸汽&r生产出真正的&6电&r了。&b低压蒸汽涡轮机&r可将&61mb蒸汽转化为1EU&r能量，每tick至多转化32次，即&6产能速率至多达到32EU/t&r。"
+		"  This is your moment to produce true &6electricity&r using the &bSteam&r you've been making up until now. The &bLV Steam Turbine&r will convert every &61 mb of Steam into 1 EU&r of energy and will do this up to 32 times a tick, making a &6maximum energy production rate of 32 EU/t&r."
 		""
-		"  &b蒸汽涡轮机&r会自动将电能输入与其输出面相邻的机器，它也只有输出面可以连接电缆。"
+		"  The &bSteam Turbine&r will automatically send electricity to any machine connected directly to its output side. It will also only connect to cables placed on its output side."
 		""
-		"  你能造的第一个涡轮机是低压等级的，还有更高级的蒸汽涡轮机，但你现在还搞不出来。"
+		"  The first one you'll make is of the Low Voltage tier. There are higher tier steam turbines, but you aren't quite there yet."
 	]
-	quest.5DD99224F29419C1.title: "低压蒸汽涡轮机"
+	quest.5DD99224F29419C1.title: "LV Steam Turbine"
 	quest.5DF4A4E6D5E448D0.title: "用于电解分离器的水"
 	quest.5E9F30ADD242C764.quest_desc: [
 		"&4立刻拨打热线，即可享受买一送一超值优惠！！！ "
@@ -4423,11 +4428,11 @@
 	quest.614E49D8AA7F85FC.quest_desc: ["每个&b精英感应供应器&r可以为你的感应矩阵增加&e9.55 MFE/t&r的能量传输（输入/输出）速率。"]
 	quest.614E49D8AA7F85FC.title: "精英感应供应器"
 	quest.61748279816F2D7F.quest_desc: [
-		"&b红石控制模块&f的功能是让机器可被&c红石&f控制！手持模块&6右击&f即可&6切换&f模式，有&9高信号&f和&9低信号&f两种。然后把它放进&c红石&f模块槽位即可。"
+		"The &bRedstone Control Module&f is meant to let you control your machines with &credstone&f! &6Right Clicking&f the module in your hand will &6change&f it's setting from the machine requiring a &9High Signal&f to &9Low Signal&f and vice versa. Then place it into the &credstone&f module slot."
 		""
-		"这些模式是什么意思呢？"
-		"-设为&9高信号&f模式时，机器会在接收到&c红石&f信号时&6工作&f。无&c红石&f信号时机器就会关闭。"
-		"-设为&9低信号&f模式时，机器会在无&c红石&f信号时&6工作&f。接收到&c红石&f信号时机器就会关闭。"
+		"What this means is:"
+		"- While the setting is on &9High Signal&f, the machine will only &6function&f if it is given a &credstone&f signal. No &credstone&f signal will turn it off."
+		"- While the setting is on &9Low Signal&f, the machine will only &6function&f if it is not given a &credstone&f signal. A &credstone&f signal will turn it off."
 	]
 	quest.619BC1F1094F4EFA.quest_desc: [
 		"它的悬浮提示（按住SHIFT）说明了一切："
@@ -4479,19 +4484,19 @@
 	quest.62B0913266F48F45.quest_desc: ["The Fairy heals and &6supports&r other fa&bmiliars&r while draining your enemies' life."]
 	quest.62B0913266F48F45.quest_subtitle: "萨尼铁塔！"
 	quest.62B245A23CA62678.quest_desc: [
-		"  你现在&6合成&r的这些&b管道&r是用于&6运输&r各种&b流体&r和&b气体&r的。它不能同时运输一种以上的&b流体&r，而且它&6不会&r自动连接到附近的&6空&b管道&r、&b容器&r或者&b机器&r，所以你需要用&b扳手&r来&6配置&r它。"
+		"  The &bpipes&r you'll &6craft&r to &6transport&r the many &bliquids&r and &bgasses&r &6can only contain a single&r type of &bfluid&r at a time and they &6wont&r connect directly to &6empty&r &bpipes&r or &bcontainers&r and &bmachines&r automatically, so make sure to use that &bWrench&r to &6configure&r them properly."
 		""
-		"  手持&b扳手&6右击&b管道&r的中心处，或者&b手持管道&6右击&b方块&r，即可&6强制&r建立连接。这&6不会额外消耗&b管道&r，只是会把它连上而已。"
+		"  You can &6forcefully&r initiate a connection by &6right-clicking&r the center of the &bpipe&r with your &bWrench&r, or by &6right-clicking&r a &bblock&r with a &bpipe&r in &byour hand&r; thought it *6won't consume&r the &bpipe&r, just connect it."
 		""
-		"  &a每tick&r，"
-		"&b流体管道&r都会&6尝试&r从所有&b相连的方块&r处&6抽取&r均等流体，然后尝试将流体&6输入&r所有其他&b相连的方块&r中。 "
+		"  &aEvery tick&r, "
+		"the &bFluid Pipe&r will &6attempt&r to evenly &6extract&r from all &bconnected blocks&r and then attempt to &6insert&r that into all other &bconnected blocks&r. "
 		""
-		"  &a另外一些你可能想知道的小提示&r："
-		"你可以&6好好利用&r这些机制：你可以把至多&63&r个&b管道&r塞进&b一个方块&r内，构建出超级紧凑的物流网络！而且，&b不同颜色&r的&b管道&6&o不会&r&6连接在一起&r。还有，手持&b扳手&6右击&b管道&r可以&6改变&r连接方式，&6潜行右击&r可拆除管道。"
+		"  &aFew other tips you might enjoy&r:"
+		"Use them wisely and abuse them to your &6complete advantage&r: You can have up to &63&r &bpipes&r in a&b single block&r for ultimate compact-ness! Luckily, &bpipes&r of &bdifferent color&r will &6&onever&r &6connect&r. Finally, &6right-clicking&r a &bpipe&r with a &bWrench&r will &6change&r the connection type and &6shift-right-clicking&r will drop the pipe."
 		""
-		"  &c要来点意大利面吗？&r"
+		"  &cTime for some spaghetti?&r"
 	]
-	quest.62B245A23CA62678.title: "流体运输"
+	quest.62B245A23CA62678.title: "Fluid Transportation"
 	quest.62F43B936E236071.quest_desc: [
 		"   可&6收集&r指定区域（可设置偏移与范围）内的&b物品&r，并将它们&6放入&r其&b附属的容器&r中。"
 		""
@@ -4552,15 +4557,15 @@
 	quest.63F26CC561D0B80D.quest_subtitle: "可在森林中的&6巫妖塔&r中找到，其主塔还延伸出了许多小塔。"
 	quest.63F26CC561D0B80D.title: "&e巫妖"
 	quest.640DB4139DF8AFA4.quest_desc: [
-		"  &b量子电路&r。计算技术的巅峰。"
+		"  The &bQuantum Circuit&r. The pinnacle of computing technology."
 		""
-		"  你能想象的最先进的机器就要来了。"
+		"  The beginning to the most advanced machines you could possibly imagine."
 		""
-		"  从这里开始，&a尽情解放你的想象力吧&r。"
+		"  From here on out, &athere are no limits to your imagination&r."
 	]
-	quest.640DB4139DF8AFA4.title: "&d终局"
-	quest.64287B360B07BEBB.quest_desc: ["- 可将&c至多&r&a64&r个机器&6链接&r起来。"]
-	quest.64287B360B07BEBB.quest_subtitle: "连起来！"
+	quest.640DB4139DF8AFA4.title: "&dThe Endgame"
+	quest.64287B360B07BEBB.quest_desc: ["- &6Connect/Chain&r up to a &cmax&r of &a64&r machines of choice together."]
+	quest.64287B360B07BEBB.quest_subtitle: "Chain Them Up!"
 	quest.6441C36C63A59445.title: "&ePipeZ"
 	quest.64D625C86F3AB75C.quest_desc: ["眼魔可以使附近的生物&b发光&r，并向&b敌人&r&6发射&r激光。"]
 	quest.64D625C86F3AB75C.quest_subtitle: "电眼逼人！"
@@ -4597,11 +4602,11 @@
 	quest.65AA8B8D22954941.title: "&5Boss终结者"
 	quest.65F98AFE7EC4CE62.title: "猴面包果"
 	quest.660EFAF144F70749.quest_desc: [
-		"  来吧，大升级！之前你只能用&b低压蒸汽涡轮机&r以32EU/t的速率发电，但现在，用这个全新的&b中压蒸汽涡轮机&r，你&6可以达到最高128EU/t&r了！除了产能翻四倍之外，它跟&b低压蒸汽涡轮机&r就没有太大区别了。"
+		"  Time for a major upgrade! Previously you've only been able to produce electricity at 32 eu/t per turbine using the &bLV Steam Turbine&r, but now you'll be &6able to make a maximum of 128 eu/t&r out of the brand new &bMV Steam Turbine&r! Aside from the increase in energy production four-fold, it acts just like the &bLV Steam Turbine&r."
 		""
-		"  还有啊，&6你的之前的电缆都需要换一换了&r。这种新的中压能量需要用&b白铜&r或者&b琥珀金&r电缆传输。"
+		"  One thing to keep in mind is that &6you wont be able to use the same cables as you were able to before&r. Now you'll need to use &bCupronickel&r or &bElectrum&r cables to be able to transfer this new MV tier of power."
 	]
-	quest.660EFAF144F70749.title: "中压蒸汽涡轮机"
+	quest.660EFAF144F70749.title: "MV Steam Turbine"
 	quest.6618D7F353A6FFAD.quest_desc: [
 		"&b装配矩阵&r每tick能够进行数以千百计的合成任务，具体速度取决于你如何配置它。"
 		""
@@ -4617,13 +4622,13 @@
 	quest.66683CAE8F6FB81E.quest_subtitle: "让你的背包自带磁力，或者为什么不让它自动为你喂食？"
 	quest.66683CAE8F6FB81E.title: "升级"
 	quest.668453E081A6C57B.quest_desc: [
-		"  诞生于超新星之中的&b钛&r，有着最高的比强度。它能与钢达到一样的强度，而质量却比后者小45%，对于其质量而言，这无疑是一种极其强大的材料。"
+		"  Forged in the heart of supernovas, &bTitanium&r has the highest strength to weight ratio. It's as strong as steel for 45% less mass, making it extremely powerful for its weight."
 		""
-		"  它没有磁性、不会被腐蚀，也不导电，作为某些机器部件太好不过了。"
+		"  It isn't magnetic, corrosive, nor does it conduct electricity so using it for parts of a machine can be extremely beneficial."
 		""
-		"  它为什么粉嫩嫩的？"
+		"  Its pink color comes from something?"
 	]
-	quest.668453E081A6C57B.title: "钛"
+	quest.668453E081A6C57B.title: "Titanium"
 	quest.66855DBE37DB5CD1.quest_desc: ["沿直线&6传递&r旋转应力：任务完成。"]
 	quest.66855DBE37DB5CD1.quest_subtitle: "旋转，跳跃，我闭着眼"
 	quest.66A4DD110F0E66D1.quest_desc: ["是时候去&6管管&r机械动力的……管道了。"]
@@ -4748,11 +4753,11 @@
 		"&b陨青铜锭&f用于制作&bMEGA流体存储&f元件，制作方法是将&b充能赛特斯石英水晶、铜锭以及陨石&f&6丢入&f水中。"
 	]
 	quest.67F2212453B81446.quest_desc: [
-		"  将一块&b铱&r锭向三明治一样夹在两块&b防爆合金&r锭之间制成的混合锭，是极其坚固的&b铱板&r的前体。"
+		"  A mixed ingot containing an ingot of &bIridium&r sandwiched between two ingots of &bBlast-proof Alloy Ingots&r, ready to produce an extremely strong &bIridium Plate&r."
 		""
-		"  说到三明治，这个锭看起来好像也有点&b好吃&r了……不是吗？"
+		"  Speaking of sandwiches, it looks a bit &btasty&r, doesn't it?"
 	]
-	quest.67F2212453B81446.title: "混合铱锭"
+	quest.67F2212453B81446.title: "Mixed Iridium Ingot"
 	quest.681A718388A97FFC.quest_desc: [
 		"&b降噪升级&r能够几乎完全静音机器。"
 		""
@@ -4938,11 +4943,11 @@
 	quest.69767F69C84AC701.quest_subtitle: "大师球！"
 	quest.69767F69C84AC701.title: "使魔"
 	quest.698235E8EC974A7F.quest_desc: [
-		"这个机器比&6压缩机&r更擅长制造&b弯曲板&r和&b环&r。"
+		"This machine does a better job at making &bCurved Plates &rand &bRings&r than the &6Compressor."
 		""
-		"它真是&6又快又好&r，制造速度直接翻了一倍！"
+		"It's &6speedier&r and &6better&r. Does crafts at double the speeds!"
 	]
-	quest.698235E8EC974A7F.quest_subtitle: "这是健身器材么？"
+	quest.698235E8EC974A7F.quest_subtitle: "Is this gym equipment?"
 	quest.698594BEA9750A4E.quest_desc: ["&8灰色&r粉笔比上一种粉笔更能稳定五芒星。"]
 	quest.698594BEA9750A4E.quest_subtitle: "第三阵基"
 	quest.69B079DABB860AEF.quest_desc: ["用&5强化黑曜石&r加强的&b电路板&r，可承受极端的工作负荷和冲击。"]
@@ -5053,13 +5058,13 @@
 	quest.6B61D20396D57CB8.quest_desc: ["&b钻石&r被&6投入&r&5灵火&r中后，它就变成了一颗魔灵同调宝石。你可能会需要几颗的。"]
 	quest.6B61D20396D57CB8.quest_subtitle: "千面万灵"
 	quest.6BD625E5CA469914.quest_desc: [
-		"  全面超频之前的最后一步，平平无奇但十分有益的升级——独一无二的&b高级升级&r！"
+		"  The last step before total overclock, the most tame but beneficial upgrade, the one and only &bHighly Advanced Upgrade&r!"
 		""
-		"  每安装一个高级升级，机器的&6最大能耗可提升512EU/t&r。这小玩意儿只装一个就能让你的机器飞起来！"
+		"  Each and every one of these added to your machine &6increases its max possible power consumption by 512 eu/t&r. Only a single one of these bad boys will boost your machine to the moon!"
 		""
-		"  你最好明智地使用它，这东西造起来还挺贵的。"
+		"  Use them wisely, they are pretty pricey to make."
 	]
-	quest.6BD625E5CA469914.title: "高级升级"
+	quest.6BD625E5CA469914.title: "Highly Advanced Upgrade"
 	quest.6BE08185BB44CEF8.quest_desc: [
 		"超大接口与&b扩展接口&f的槽位数相同，但是&a每个槽位能够容纳的物品数量是后者的16倍（1024）&f。"
 		""
@@ -5079,20 +5084,20 @@
 	quest.6C8AB8E9A547D1C9.quest_desc: [""]
 	quest.6C8AB8E9A547D1C9.title: "ME总线"
 	quest.6C96992416059AC4.quest_desc: [
-		"这是&b终极激光钻&r："
-		"- 可以&6染色&r！"
-		"- &6左Shift&r+&6右击&r可切换&5时运/抢夺&r和&5精准采集&r。"
-		"- 使用&6Alt&r+&6鼠标滚轮&r改变挖掘速度。"
-		"- 手持时按&6Y&r，或在物品栏中&6右击&r，可开关&53x3挖掘&r。"
+		"For the &bUltimate Laser Drill&r:"
+		"- It can be &6dyed&r!"
+		"- Press &6Left Shift&r + &6Right Button&r to swap between &5Fortune/Looting&r and &5Silk Touch&r."
+		"- Use &6Alt&r + &6Mouse Scroll&r to change mining speed."
+		"- Press &6Y&r while held or &6Right Button&r while hovered to toggle &53x3 mining&r."
 	]
-	quest.6C96992416059AC4.quest_subtitle: "什么都能干的工具！"
+	quest.6C96992416059AC4.quest_subtitle: "The \"Do It All\" Tool!"
 	quest.6CA941AE132445D9.quest_desc: [
-		"  &b机器框架&r含有机器运行所需的主要电子设备。机器框架有不同的等级，相应的，机器也可以升级。&b基础机器框架&r是所有低压机器的基础。"
+		"  &bMachine Hulls&r contain the main electronics to allow machines to run. There are different tiers to machine hulls, each allowing you to upgrade your machines. The &bBasic Machine Hull&r is the base of every machine that takes LV power."
 		""
-		"  如果你想让你的机器直接使用中压能源，你就必须用&b进阶机器框架&r升级它。只需要手持&6更高级的机器框架右击机器&r，或将它放入机器GUI右上角画有小立方体图案的槽位即可升级。你可以继续用更高级的框架升级机器，这样就可以使用更高级的能源了。"
+		"  If you want your machine to accept MV power, you must upgrade it using an &bAdvanced Machine Hull&r. You can do this by &6right clicking the machine with the upgraded hull&r in your hand or by placing it in the top right slot of the machine's GUI that seems to have a small isometric cube depiction. You can do the same with higher tier hulls as they will allow for higher tier power sources."
 	]
-	quest.6CA941AE132445D9.quest_subtitle: "电子之心"
-	quest.6CA941AE132445D9.title: "机器框架"
+	quest.6CA941AE132445D9.quest_subtitle: "The Electronic Heart"
+	quest.6CA941AE132445D9.title: "Machine Hulls"
 	quest.6CF338A73F212B79.quest_desc: ["本质上是个I/O端口，就像&b安山漏斗&r那样，只不过带有&6过滤功能&r！"]
 	quest.6D0926D173AA5D06.title: "蔓越莓"
 	quest.6D092A4BC4A22314.quest_desc: ["远古知识碎片在书架的战利品中很少见，更多出现在远古城市或流浪商人的交易。这些碎片被用来制作邪术手稿，这是解锁很久以前就遗失的古代知识的关键，现在只有监守者和少数敢于寻找这种古老魔法的人才会使用。"]
@@ -5124,11 +5129,11 @@
 	]
 	quest.6EA29403BF85B19C.title: "QIO 驱动器"
 	quest.6EBFFFB567687A1E.quest_desc: [
-		"  &b不锈钢&r的强度和普通钢差不多，但是&b不锈钢&r永远不会腐蚀生锈。它是你遇见的第一个，不是简单丢进炉子里就能美美炼好的金属喽。"
+		"  &bStainless Steel&r is just about as strong as regular steel, but &bStainless Steel&r will never corrode, rust, or stain. This is the first metal that you can't just throw into a furnace and call it a day."
 		""
-		"  &6首先你需要制造不锈钢粉&r，它需要四种原料：&b铁&r、&b铬&r、&b锰&r和&b镍&r。然后，丢进电力高炉里加热，得到的红热的锭还需要再用&b真空冷却机&r冷却，才能使用。 "
+		"  &6You need to create its dust&r from four ingredients: &bIron&r, &bChromium&r, &bManganese&r, and &bNickel&r. Then, after you heat it up to extreme temperatures in your EBF, you need to use the &bVacuum Freezer&r to cool down the red hot ingot to be usable. "
 	]
-	quest.6EBFFFB567687A1E.title: "不锈钢"
+	quest.6EBFFFB567687A1E.title: "Stainless Steel"
 	quest.6EC57118E3771D72.quest_subtitle: "-5% 初始生命值"
 	quest.6EDBFB47B2F8E6BA.quest_desc: ["&b魔王&r是所有绑定魔灵中最强大的，可以为其主人提供许多好处。"]
 	quest.6EDBFB47B2F8E6BA.quest_subtitle: "精通"
@@ -5140,11 +5145,11 @@
 	quest.6EDFD510DC096B12.title: "改造站"
 	quest.6EEAF4D9F3BF6414.quest_desc: ["&b建筑小帮手&f可用于建筑工作。"]
 	quest.6EF133E0EC49BC33.quest_desc: [
-		"  柔性、绝缘、强韧的材料。&b橡胶&r是电动机器不可或缺的重要组分。将&b纸&r与&b合成油&r或者&b合成橡胶&r&6混合&r即可制得橡胶。在&b搅拌机&r中混合&b焦炭粉&r和&b水&r可制得&b粗制合成油&r，再用&b蒸汽高炉&r处理即可得到合成油。制造&b合成橡胶&r稍微麻烦一点，&6但是它可以用一张纸制成更多的橡胶布&r。"
+		"  Flexible, non-conductive, and strong. &bRubber&r will be a major part of every electric machine. You can produce it by &6mixing&r &bPaper&r with either &bSynthetic Oil&r or &bSynthetic Rubber&r. Mix the &bCoke Dust&r you made with &bWater&r in a &bMixer&r to produce &bRaw Synthetic Oil&r. Use a &bSteam Blast Furnace&r to produce these two fluids. &bSynthetic Rubber&r is more difficult to obtain, &6but will yield more rubber per sheet of paper&r."
 		""
-		"  你未来会需要&o很多&r的&b橡胶布&r，因此你需要持续地生产它。你可以&6研磨&r&b原木&r得到&b木浆&r，再制成&b纸&r，这种方法产量比较高。"
+		"  Remember that you'll need a &olot&r of &bRubber Sheets&r in the long run, so you'll need to make them constantly. Note that you can use &bWood&r to &6grind down&r and turn into &bWood Pulp&r which can then be turned into &bPaper&r with a high output yield."
 	]
-	quest.6EF133E0EC49BC33.title: "橡胶"
+	quest.6EF133E0EC49BC33.title: "Rubber"
 	quest.6F07EDE7A819467B.quest_subtitle: "完成对应任务章节。"
 	quest.6F07EDE7A819467B.title: "&cPowah"
 	quest.6F1F240CD3A5CB1F.title: "柠檬"
@@ -5155,31 +5160,31 @@
 	]
 	quest.6F5731A4490A537F.title: "&2蚀刻酸"
 	quest.6F57A2A5AA6E3F49.quest_desc: [
-		"  石油是一种黑色的可燃液体，它的形成需要在地底埋上很久&o很久&r。&6你可以用&b钻机&r&6钻开岩层，采集这些石油&r。"
+		"  Oil is a black flammable liquid that forms in the ground over a very &overy&r long time. &6Using a &bDrilling Rig&r&6, you can drill into the ground and extract this oil&r."
 		""
-		"  当然，你从地下弄上来的可不只有石油。用不同的钻头可以采集不同的流体，你可以在EMI中查看。"
+		"  Oil isn't the only thing that can be pumped from the floor though. Using different types of drills decide which fluid to mine for. Use your EMI to see which drills mine for which fluid."
 		""
-		"  P.S.别忘了，这是多方块结构，你可以&6用&b扳手&r&6看看怎么建&r！"
+		"  P.S. Don't forget, this is one of those very complex multiblocks. &6Use your &bWrench&r &6to show you how to build it&r!"
 	]
-	quest.6F57A2A5AA6E3F49.quest_subtitle: "石油，嘿嘿"
-	quest.6F57A2A5AA6E3F49.title: "石油钻机"
+	quest.6F57A2A5AA6E3F49.quest_subtitle: "Sweet, Sweet Oil"
+	quest.6F57A2A5AA6E3F49.title: "Oil Drilling Rig"
 	quest.6F63B60042A7F6AE.quest_desc: [
 		"{image:modern_industrialization:block/machines/compressor/overlay_front_active width:32 height:32 align:center}"
-		"  这是&b压缩机&r，它大概是你最先想造的机器了。它可以&6将锭加工成板&r，而且一个锭就可以做一个板，这对于蒸汽时代的玩家太友好了。"
+		"  This is the &bCompressor&r and probably the first machine you'd want to build. Being able to &6turn ingots into plates&r at a 1:1 ratio is extremely helpful during the steam age."
 		""
-		" 这样可以大大地节省你的资源，你不用再为了制造足够多的板子把锤子都抡冒烟喽。"
+		"  You save on resources and won't need to burn through hammers just to collect enough plates for your first project."
 		""
-		"  它也可以加工你在锻压台上制造的&b双层锭&r，得到&o2&r个板，这样就更节约蒸汽和时间了。"
+		"  It can also take those &bDouble Ingots&r that you can stack with the forge hammer into &o2&r plates, saving steam and time."
 	]
-	quest.6F63B60042A7F6AE.title: "青铜压缩机"
+	quest.6F63B60042A7F6AE.title: "Bronze Compressor"
 	quest.6F6898DC529D1120.quest_desc: [
-		"  你还记不记得我之前跟你说，你可以造一个&b采石场&r，这样就不再需要亲自去挖矿了？对，现在就可以造了！当然它不能给你提供&o所有的东西&r，但至少主要的矿物还是管够的。至于&o所有的东西&r，以后会有的。"
+		"  Remember when I told you that you could build a &bQuarry&r so that you'd never need to go mining for resources again? Well, this is the time! It wont get you &oeverything&r, but it will get you a lot of the main ores. &oEverything&r comes later."
 		""
-		"  &b蒸汽采石场&r是一个蒸汽动力的多方块机器，可以安装不同的&6钻头&r，它会一直挖到基岩层之下，然后把那下面有的矿物采集上来。"
+		"  The &bSteam Quarry&r is a steam powered multiblock machine that uses different &6drills&r that you install onto it to dig deeper than bedrock and retrieves ores straight from the below, whatever might be under there."
 		""
-		"  你可以在EMI中查看这种方法能获取的矿物。我建议你在搭建&b采石场&r之前，先多搞几个&b蒸汽高炉&r，因为&6它真的很费&r&b钢&r。"
+		"  You can check which ores this method will provide by checking EMI. I recommend that you have multiple&b Steam Blast Furnaces&r running before you begin putting together the &bQuarry&r because &6this will use a LOT of &r&bSteel&r."
 	]
-	quest.6F6898DC529D1120.title: "无限资源？"
+	quest.6F6898DC529D1120.title: "Infinite Resources?"
 	quest.6F760612E07E3CBA.title: "大豆"
 	quest.6F7A998802C99AD4.quest_desc: ["空间塔用于勾勒出你想要存进空间存储元件的空间体积。你需要用空间塔搭建出你所想捕获空间的3条边，每条空间塔需要占用1个频道，最短为2格长。试试测量一下空间塔条数与消耗的能量的关系！也许你能找到一个最优的方案。"]
 	quest.6F7A998802C99AD4.title: "空间塔"
@@ -5224,12 +5229,12 @@
 		"要移除一个&b卷轴，&6点击&f你想&6移除&f的法术，然后&6点击&f&6右侧&f的&b卷轴&f。"
 	]
 	quest.707EBB99AA8F4C57.quest_desc: [
-		"  是时候造点用导电性良好的金属制成的用于输送电能的长线——电线了。&6你可以将这些裸露的线和&b橡胶布&r合成，&6制成&b电缆&r。"
+		"  Time to make your first wire; long strings of highly conductive metals for the transfer of electricity. &6You can combine these plain wires with your &bRubber Sheets&r &6to make &bCables&r. "
 		""
-		"  外面缠绕的橡胶一定要够多，别触电了！"
+		"  Make sure you put enough rubber around those wires, don't want to get shocked!"
 	]
-	quest.707EBB99AA8F4C57.quest_subtitle: "电线！滋啦！"
-	quest.707EBB99AA8F4C57.title: "钢线材轧机"
+	quest.707EBB99AA8F4C57.quest_subtitle: "Wire! Zap!"
+	quest.707EBB99AA8F4C57.title: "Steel Wiremill"
 	quest.7080BD0EC57359A6.quest_desc: [
 		"&b支配之杖&r即为&5新生魔艺&r中的“扳手”。"
 		""
@@ -5251,11 +5256,11 @@
 	quest.70E5F2E588EFEC0D.title: "新生魔艺自动居中"
 	quest.70EA0BAAB50E32BF.quest_desc: ["&b电路切片器&f与&b压印器&f作用相同，不过电路切片器&a更快&f，而且一次能够生产&a9个物品&f。它甚至还有升级槽位可以安装升级。"]
 	quest.71776A6A96EB037C.quest_desc: [
-		"  &b耐火黏土&r是将河里普通的&b黏土&r和回火剂&b红砖粉&6混合&r，然后&6再次烧制&r硬化，使其能够承受极端的温度。"
+		"  &bFire Clay&r is a &6mixture&r of plain river &bClay&r and &bBrick Dust&r as a tempering agent, then &6re-fired&r to harden it to make it withstand extreme temperatures."
 		""
-		"  &b红砖粉&r可以用你的好兄弟&b锻压台&r制得，用它&6粉碎&r普通的&b红砖&r即可。你也可以用别的机器，比如&b研磨机&r，来更高效地制取它。 "
+		"  To make the &bBrick Dust&r you can use your good ol' &bForge Hammer&r and use it to &6crush&r plain &bBricks&r. You can also use other machines like the &bMacerator&r to make this process more efficient. "
 	]
-	quest.71776A6A96EB037C.title: "耐火黏土"
+	quest.71776A6A96EB037C.title: "Fire Clay"
 	quest.71897BF955F73585.quest_desc: [
 		"- &b增强药水烧瓶：延长时效&r"
 		"&8（此物与&b薇克精之纤维&8均可&5延长药水时效&8）"
@@ -5306,6 +5311,7 @@
 	quest.72481CA0AC8AFD6A.title: "福鲁伊克斯色智能线缆"
 	quest.72539873C7201A47.quest_desc: ["毒马铃薯用于制作自然法术卷轴。"]
 	quest.7277A0413086D71A.quest_desc: ["用&b恩特罗种子&f&6右击&f&b福鲁伊克斯块&f可将它转变为&b恩特罗化的福鲁伊克斯母岩&f。"]
+	quest.7283C1B759AF0F5F.quest_subtitle: "Catch all &6140&r fishes."
 	quest.7290F8670BBBF12E.quest_desc: ["&bME主动成型面板&f与普通的&b成型面板&r作用相同，不过它可以主动拉取网络中的方块/物品，这真的方便到爆不是吗？"]
 	quest.72CBC6171104037F.quest_desc: [
 		"我个人认为，说真的，这堪称模组界最炫酷的门之一。"
@@ -5359,24 +5365,24 @@
 	]
 	quest.7342ABDAD6467123.title: "物流框架"
 	quest.7342F6461382E839.quest_desc: [
-		"你&a马上&r就要&b无敌&r了。 "
+		"You have &areached&r the final step to &binvincibility&r. "
 		""
-		"这是注入了&d量子技术&r的&b盔甲&r，可以&6抵挡&r一切&c物理&r和&5魔法&r攻击。 "
+		"&bArmor&r infused with &dQuantum Technology&r to &6repel&r all &cphysical&r and &5magical&r attacks. "
 		""
-		"你永远不会死掉，即使&6老天爷让你死&r也不行。"
+		"You cannot die, not even by a &6God's Smite&r. "
 		""
-		"你可以&6自由地飞行&r，不再依赖&e电能&r。 "
+		"You can now &6fly freely&r without the need of &eelectricity&r. "
 		""
-		"&b这套盔甲&r可直接与&d量子领域&r相互作用，扭曲你周围的空间和时间。 "
+		"This &bset of armor&r interacts directly with the &dquantum realm&r to alter space and time surrounding you. "
 		""
-		"理论上来说，你是保持&6静止&r的，是空间相对于你在&6移动&r。- 这- 就是你所掌握的&6力量&r。"
+		"Theoretically, you sitll be &6stationary&r, and space will just be &6moving&r relative to you. --This-- is the &6power&r you wield."
 		""
-		" 这把&b剑&r&b神挡杀神，佛挡杀佛&r。 "
+		" This &bsword&r can and will slice through &banything&r in it's path. "
 		""
-		"它的剑刃&a能够&r撕裂时间，抹去任何被你选中的&e实体&r。还请承担起这份&6力量&r的责任。"
+		"The edge of it's blade has the &aability&r to cleave through time and erase any &eentity&r you choose from existence. Use this &6power&r responsibly."
 	]
-	quest.7342F6461382E839.quest_subtitle: "真正的力量！"
-	quest.7342F6461382E839.title: "&d量子盔甲"
+	quest.7342F6461382E839.quest_subtitle: "True Power!"
+	quest.7342F6461382E839.title: "&dQuantum Armory"
 	quest.734DD2AA16A5FBEC.quest_desc: [
 		"   &b破坏粗核源铁矿簇可&6掉落&b粗核源铁&r。"
 		""
@@ -5427,19 +5433,19 @@
 	quest.7422BD3C0F060AC5.quest_desc: ["这些是经验丰富的法师能够获得的最高等级的法术书"]
 	quest.7422BD3C0F060AC5.title: "秘法魔典"
 	quest.742A5BB44F257D8E.quest_desc: [
-		"  &b物品管道&r的工作方式和&b流体管道&r大差不差，但&6它运的是物品，而且更加灵活&r。和&b流体管道&r一样，它也是默认不与容器连接的，但是你可以强制连接。如果你手中不拿&b扳手&r，点击连接处，就可以打开过滤器界面。"
+		"  &bItem Pipes&r work just about the same as &bFluid Pipes&r, aside from &6they will transport items and is much more configurable&r. Just like &bFluid pipes&r, they will not connect to inventories by default, but you still can force a connection. If you right click a connection without a &bWrench&r, you'll see a filter."
 		""
-		"  这个过滤器可以添加多个物品，默认为白名单模式。也就是说，只有过滤器包含的物品可以通过连接处。黑名单模式相反，就是不允许过滤器包含的物品通过。"
+		"  This filter can be set to many different items at the same time and by default is set to whitelist. This means only items in the filter will be transported through the connection. Blacklist will disallow any items set to the filter to be transported through the connection."
 		""
-		"  物品管道会优先将物品传输至优先级更高的地方，速率为&6每3秒&r16个物品，可用&b电动机&r升级。"
+		"  Item pipes will insert items into higher priorities first, and transfer 16 items &6every 3 seconds&r, but can be upgraded with &bMotors&r for higher thoughput."
 	]
-	quest.742A5BB44F257D8E.title: "物品运输"
+	quest.742A5BB44F257D8E.title: "Item Transportation"
 	quest.7436F6599E2D79C1.quest_desc: [
-		"- 可&6染色&r，可&6添加纹饰&r！"
+		"- Can by &6Dyed&r and &6Trimmed&r!"
 		""
-		"- 按&eN&r键开关&6创造模式飞行&r。"
+		"- Toggle &6Creative Flight&r by pressing &eN&r."
 	]
-	quest.7436F6599E2D79C1.quest_subtitle: "重力胸甲，但是黑色的！"
+	quest.7436F6599E2D79C1.quest_subtitle: "Gravi-chestplate but in black!"
 	quest.745ECCC690C1AD23.quest_desc: ["&b烈焰水晶&f由你永远猜不到的材料制成。没错，&b烈焰棒&r。"]
 	quest.745ECCC690C1AD23.quest_subtitle: "从烈焰中来"
 	quest.745ECCC690C1AD23.title: "&6烈焰水晶"
@@ -5447,15 +5453,15 @@
 	quest.746C3046F10DDD71.quest_subtitle: "大容量线缆，能够传输32个频道"
 	quest.746C3046F10DDD71.title: "福鲁伊克斯色致密线缆"
 	quest.74C5FDC3B1E74586.quest_desc: [
-		"&b通量转换器&r是一种强大的机器，它可以将&eEU&r能量&6成倍地&r转化为&eFE&r能量。准确来说，是将能量&6翻&r&a50&r&6倍&r输出（也就是默认转换倍率的5倍）！"
+		"The &bFlux Transformer&r is a powerful machine that let's you practically &6multiply&r the type of energy called &eEU&r into the energy of &eFE&r. It's so powerful infact, it &6multiplies&r the power output by &a50&r (5x more than default)!"
 		""
-		"不过小心，这是个&c不可逆&r的过程，你无法再将&a能量&r转换回去了。"
+		"Keep in mind, you can't loop the &aenergy&r back around, it's a &cone-way&r process."
 	]
-	quest.74C5FDC3B1E74586.title: "通量转换器"
+	quest.74C5FDC3B1E74586.title: "Flux Transformer"
 	quest.74D9B681E8EFE064.quest_desc: ["末影珍珠由末影人掉落，用于制作末影法术卷轴。"]
 	quest.7529F840525E5BDF.quest_desc: ["每个&b终极感应元件&r可以为你的感应矩阵增加&e1.6 TFE&r的存储容量。"]
 	quest.7529F840525E5BDF.title: "终极感应元件"
-	quest.7533E0212EFE326D.quest_subtitle: "面向&e蜂箱&r放置时，可将&6蜂蜜&r以&b流体形式&r抽取出来。"
+	quest.7533E0212EFE326D.quest_subtitle: "When placed facing into a &ebeehive&r, &6honey&r will be extracted in &bfluid form&r."
 	quest.754EC4FE62F454E8.quest_desc: [
 		"你知道把一个箱子放在另一个旁边可以组成一个大箱子吧？"
 		""
@@ -5480,11 +5486,11 @@
 	quest.75810CDFB362E0CB.quest_subtitle: "连接！"
 	quest.75810CDFB362E0CB.title: "奇点"
 	quest.7593E582FA928061.quest_desc: [
-		"  这是&b铜钻&r。它可以采集&6石头和泥土&r，用来当建筑材料。"
+		"  This is the &bCopper Drill&r. This will give you &6stones and dirts&r, mostly used as building materials."
 		""
-		"  你可以在EMI中查看它采集的产物。另外，&6钻头有一定几率损坏&r，所以最好多做几个备用。"
+		"  Check the outputs in EMI and make sure you know that &6the drill has a chance of breaking&r, so don't just make one."
 	]
-	quest.7593E582FA928061.title: "铜钻"
+	quest.7593E582FA928061.title: "Copper Drill"
 	quest.75C95D894C3B3428.quest_desc: [
 		"  恭喜！"
 		""
@@ -5504,8 +5510,8 @@
 		"显然，&6太阳&r一落山，它就不会产生&e能量&r了。"
 	]
 	quest.7610F9A545A15194.title: "太阳能发电机"
-	quest.768973710C811CB1.quest_subtitle: "二型——更多配件，更加新潮！"
-	quest.768973710C811CB1.title: "&a量子纳米套装"
+	quest.768973710C811CB1.quest_subtitle: "Mark 2, Fashion and more Gadgets!"
+	quest.768973710C811CB1.title: "&aQuantum Nano Set"
 	quest.76BA847F28ACE170.title: "二阶 1:2"
 	quest.76C83F5BB91BA6A4.title: "白色马勃菌"
 	quest.7723EF8CE359646F.quest_desc: ["这种魔灵会带回&b随机矿石&r- 包括&b深层矿石&r。"]
@@ -5524,16 +5530,16 @@
 	quest.77968A26B3D90399.quest_subtitle: "我敢说，这是游戏中最好用的扳手。"
 	quest.77978ED3AC1DFA26.quest_desc: ["&aAE扩展&f是一个能够给&aAE2加速扩产&f的附属模组。"]
 	quest.779C3C6B89AD2526.quest_desc: [
-		"  电力机器的工作方式和蒸汽机器大差不差，只是&6它们消耗电能来工作，而不是蒸汽&r，而且可以将配方超频到最高32EU/t（目前如此）。"
+		"  Electric machines work exactly the same as steam machines, except from the fact &6they require electricity to function instead of steam&r and they can progressively overclock recipes to up to 32 EU/t (for now)."
 		""
-		" 你可以使用EMI查看常用机器电动版本的配方。它们制作起来更复杂，需要许多奇奇怪怪的零件。"
+		"  You can use your EMI to view the recipes for the electric versions of the machines you are already familiar with. The recipes are more complex and will require more specific machine oriented parts."
 		""
-		" 你的第一个核心零件就是这个&b模拟电路&r。它是低压机器的主要电路，也是高级机器和电路的基础材料。&6你最好尽快搭建出它的自动化产线&r。"
+		"  Your first main part will be the &bAnalog Circuits&r. This will be the main circuit for the LV machines as well as the base for high tier circuits and machines. &6You should automate this as soon as possible&r."
 		""
-		"  我强烈建议你尽快开始自动化这些零件的生产。我会在任务中告诉你哪些零件是需要自动化生产的。搞好了自动化，制造这些电力机器就跟免费的似的了，因为所有的零件都不需要你自己手搓了！"
+		"  I strongly suggest that you begin to automate parts as soon as you possibly can. I'll let you know which parts you should automate as we come across them. Doing so will make electric machines practically free as you wont need to manually craft any components by yourself!"
 	]
-	quest.779C3C6B89AD2526.quest_subtitle: "大飞跃"
-	quest.779C3C6B89AD2526.title: "&e电气时代！"
+	quest.779C3C6B89AD2526.quest_subtitle: "Time for a Major Upgrade"
+	quest.779C3C6B89AD2526.title: "&eThe Electric Age!"
 	quest.7806DD85D325C01C.quest_desc: [
 		"   &b多态催化剂&r是解锁JDT模组中更好的&b燃料&r的关键。"
 		""
@@ -5575,9 +5581,9 @@
 	]
 	quest.78EDBDED3BFEC145.quest_subtitle: "你的旅途，从此开始。"
 	quest.78EDBDED3BFEC145.title: "欢迎来到&aCraftoria&r！"
-	quest.791CAEBAE57EF0E1.quest_desc: ["  &b电动机&r利用电能产生旋转力。以后许多机器和零件的制作都会用到电动机。&6这个需要自动化生产&r。"]
-	quest.791CAEBAE57EF0E1.quest_subtitle: "你耍得我团团转"
-	quest.791CAEBAE57EF0E1.title: "电动机"
+	quest.791CAEBAE57EF0E1.quest_desc: ["  &bMotors&r take electricity and produce a rotational force. You'll use motors to create many of the machines and other components in the future. &6You should automate these&r."]
+	quest.791CAEBAE57EF0E1.quest_subtitle: "You Spin Me Right 'Round"
+	quest.791CAEBAE57EF0E1.title: "Motors"
 	quest.7921D6460E480F82.quest_desc: [
 		"使用&b锅炉阀门&r来&c输入热量&r和&9水&r。"
 		""
@@ -5655,17 +5661,17 @@
 	]
 	quest.7AC17F66BB030623.title: "母岩方块"
 	quest.7AF270EF635B11CF.quest_desc: [
-		"  由你目前拥有的最坚固的三种材料&6压缩&r而来。"
+		"  Created by &6compressing&r three of the strongest materials you've used in your journey up until now."
 		""
-		"- &b钨&r，一种&6熔点极高、密度极高&r的金属。"
+		"- &bTungsten&r, a metal with an &6extremely high melting point and a density&r that cannot be beaten."
 		""
-		"- &b钛&r，一种&6耐腐蚀&r、&6坚固而轻巧&6的材料。"
+		"- &bTitanium&r, a &6corrosion resistant&r, &6strong yet light weight&6 material."
 		""
-		"- &b不锈钢&r，非常&6耐锈&r。"
+		"- &bStainless Steel&r, &6rust resistant&r to the extreme."
 		""
-		"  这便是你能制造的最坚固的板子了。 "
+		"  This is the strongest plate you will ever forge. "
 	]
-	quest.7AF270EF635B11CF.title: "防爆合金板"
+	quest.7AF270EF635B11CF.title: "Blast-proof Alloy Plate"
 	quest.7AFED4254BA881B2.title: "杨梅"
 	quest.7B81E0A800E42F1F.quest_subtitle: "无穷无尽！"
 	quest.7B81E0A800E42F1F.title: "&d无限元件"
@@ -5712,7 +5718,7 @@
 		""
 		"请参阅下文的&7任务章节&r，以了解如何使用其区域内附属于&9方块/容器/储罐&r的物流框架。"
 	]
-	quest.7BDBE300D4B0B1F7.quest_subtitle: "骨粉堆成山！"
+	quest.7BDBE300D4B0B1F7.quest_subtitle: "Bone Meal Overflow!"
 	quest.7BE64AF022E35ADE.quest_desc: ["你可以使用&b更多红石&f模组来&b自由设计&f你的红石系统。例如贴在墙壁上，放置在屋顶上，或是吸附在天花板上。"]
 	quest.7BE64AF022E35ADE.title: "&c更多红石"
 	quest.7BEA5B1D1B410E82.quest.desc: "&3高级太阳能发电机&r是小型&3太阳能发电机&r的升级版，能够提供更多的&a能量&r。你可以将其&6放置&r在&3热力蒸馏塔&r的顶角，将绿色的&a能量输出口&r对准&3热力蒸馏方块&r，这样白天它就可以为蒸馏塔&6提供&r&c热量&r。"
@@ -5723,14 +5729,14 @@
 	]
 	quest.7BEA5B1D1B410E82.title: "高级太阳能发电机"
 	quest.7C0FA555C5FE00D1.quest_desc: [
-		"  &b机械臂&r是机器中用于自动移动物品的部件。"
+		"  &bRobotic Arms&r are ways to automatically move things around within a machine."
 		""
-		"  这玩意是个很复杂的东西，所以得用&b钢&r制成，以保证它的强度，避免内部损伤。"
+		"  These can be very complex components and thus are made of &bSteel&r to stay strong and prevent internal damage."
 		""
-		"  &6这个需要自动化生产&r。"
+		"  &6You should automate these&r."
 	]
-	quest.7C0FA555C5FE00D1.quest_subtitle: "哔啵"
-	quest.7C0FA555C5FE00D1.title: "机械臂"
+	quest.7C0FA555C5FE00D1.quest_subtitle: "Beep Boop"
+	quest.7C0FA555C5FE00D1.title: "Robotic Arms"
 	quest.7C201074DDBAE831.quest_desc: ["我感觉你的&bME存储网络&r都能塞下一整个生物群系了……"]
 	quest.7C201074DDBAE831.title: "256k 存储组件"
 	quest.7C31082BB88384BF.quest_desc: [
@@ -5759,11 +5765,11 @@
 	quest.7D0CF81F7E703B71.quest_desc: [
 		"{image:modern_industrialization:block/machines/water_pump/overlay_front_active width:32 height:32 align:center}"
 		""
-		"  你想要自动泵&b水&r吗？现在就可以实现哦！&b水泵&r会自动吸取&b水&r，并&6泵送到相邻的方块中&r。在水泵水平方向周围放上水源，再给它提供&b蒸汽&r，它就会开始以1EU/t的能耗产&b水&r了。"
+		"  Wondering about automatic &bWater&r pumping are you? Good thing you can do nearly anything you want! A &bWater Pump&r will automatically collect &bWater&r and &6transfer it to adjacent blocks&r. Make sure to place water sources surrounding the pump horizontally, give it &bSteam&r, and it will start producing &bWater&r for 1 EU/t."
 		""
-		"  每有一个相邻的水源，&b青铜水泵&r每5秒就会生产&6125mb的&b水&r，最大输出速率为每5秒1000mb。"
+		"  The &bBronze Water Pump&r will produce &6125mb of &bWater&r for every adjacent water source every 5 seconds&r, allowing for a maximum output of 1000mb every 5 seconds."
 	]
-	quest.7D0CF81F7E703B71.title: "青铜水泵"
+	quest.7D0CF81F7E703B71.title: "Bronze Water Pump"
 	quest.7D155344A5A6CEF7.quest_desc: [
 		"A &bThermal Compressor&r uses &etemperature differences&r on opposite sides of the block to compress &7air&r. "
 		""
@@ -5898,13 +5904,13 @@
 	]
 	quest.7FD2368444636E93.quest_subtitle: "强化"
 	quest.7FD5FCEFE3697A7C.quest_desc: [
-		"&b蒸汽农耕机&r只需要&o微不足道的&r&e8EU/t&r，就可以实现："
-		"-&6耕地&r：启用时，可将泥土变为耕地。需要提供水才能工作。"
-		"-&6灌溉&r：供水时可将耕地变得湿润。"
-		"-&6收获&r：当输出空间足够时，收获成熟的作物和树木。"
-		"-&6种植&r：提供作物或树苗时，自动在合适的方块上种植它们。选择不同的种植模式，即可按照不同的排列方式种植。"
+		"For only a &omeasly&r &e8EU/t&r, the &bSteam Farmer&r can perform the following things:"
+		"- &6Tilling&r: When enabled, dirt blocks will be turned into farmland. This will not work unless water is supplied."
+		"- &6Hydrating&r: When supplied with water, tilled soil will be hydrated."
+		"- &6Harvesting&r: When there is enough output space provided, it will harvest fully grown crops and trees."
+		"- &6Plating&r: When supplied with crops or saplings, it will plant them on valid soil. Using different plating modes will plant them in different arrangements."
 	]
-	quest.7FD5FCEFE3697A7C.quest_subtitle: "&e谷子&r宝宝对&e谷子&r妈妈说了什么？"
+	quest.7FD5FCEFE3697A7C.quest_subtitle: "What did the baby &ecorn&r say to the mama &ecorn&r?"
 	quest.7FEBDFAE021B3C56.quest_desc: ["很适合那些&o超级庞大&r的合成任务。"]
 	quest.7FEBDFAE021B3C56.title: "Mega合成存储器"
 	reward_table.0DF6EBF90213BF49.title: "沉浸式飞机"
