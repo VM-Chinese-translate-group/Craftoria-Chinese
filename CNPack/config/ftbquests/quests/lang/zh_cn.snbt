@@ -371,7 +371,7 @@
 	quest.0A67575BAF8596B0.quest_desc: ["比你常见的列车轨道模型更强大：直轨、曲轨（两种类型）和坡道——即使是跨越下界传送门和未加载区块也能正常工作！"]
 	quest.0ABC6D5601DCD95F.quest_desc: ["Can be obtained through &6Treasure Chests&r or &3Goals&r reached through fishing."]
 	quest.0ABC6D5601DCD95F.quest_subtitle: "Aid you journey with these upgrades providing all kinds of different benefits."
-	quest.0ABC6D5601DCD95F.title: "Hooks and Bobbers"
+	quest.0ABC6D5601DCD95F.title: "鱼钩和浮漂"
 	quest.0AC7D844C55119E1.quest_desc: [
 		"  This is no &bMonkey Wrench&r, but you better hope you can move like one in the future."
 		""
@@ -2356,7 +2356,7 @@
 	quest.3288EB24E412AF9A.title: "&d现代&b工业化"
 	quest.328E672F6B43D93A.quest_desc: ["它既用于&6组装&r你的列车，同时，其本身也&6作为&r列车站使用。"]
 	quest.3295D859B01FA315.quest_desc: ["This &bbook&r is your &3collection log&r for anything fishing, from &5rare fish&r to &6shiny trophies&r."]
-	quest.3295D859B01FA315.quest_subtitle: "A Fisherman's Tale"
+	quest.3295D859B01FA315.quest_subtitle: "钓鱼佬的传说"
 	quest.3295D859B01FA315.title: "&bStarcatcher's Guide"
 	quest.32DC17E21BF26228.quest_desc: ["用于&6加载&r已保存的&b蓝图&r，制成可供&b蓝图加农炮&r使用的成品&b蓝图&r。"]
 	quest.3357A8B614D477B6.quest_desc: [
@@ -3722,7 +3722,7 @@
 		"&b扩展分子装配室&r能够一次进行8个合成工作，且速度是普通装配室的2倍，也就是说，合成速度总共快了16倍！"
 	]
 	quest.4EC894E7808440AC.quest_subtitle: "4倍的样板，16倍的速度。"
-	quest.4ED1400E2AAAAAE1.quest_subtitle: "Catch &a25&r common fishes."
+	quest.4ED1400E2AAAAAE1.quest_subtitle: "累计捕获&a10&r条普通品质鱼类。"
 	quest.4EF9C36CED1EDDC4.quest_desc: ["可以在灵火中转化&b羽毛&b、&b书&r和&b黑色染料&r，使其变得更适配魔灵。"]
 	quest.4EF9C36CED1EDDC4.quest_subtitle: "笔须的仪式"
 	quest.4EF9C36CED1EDDC4.title: "神秘学的书写材料"
@@ -4507,8 +4507,8 @@
 	quest.62FCB2F06126B622.quest_desc: ["&b无线终端&f就是一个可以&b无线&f访问&bME网络&的&b普通终端&f。使用&bME无线访问点&f来连接你的&b无线终端&f，如果你觉得无线覆盖范围太小了，还可以给&bME无线访问点&f安装&b无线信号增幅器&f来增加覆盖范围。在同一个网络的不同地方多放置几个&bME无线访问点&f也能够有效地增加覆盖范围。"]
 	quest.62FCB2F06126B622.title: "无线终端"
 	quest.6307E15FAAF30712.quest_desc: ["高级样板编码器可&6设定&b样板&f中不同物品的输入/输出面。"]
-	quest.630EF1A8715E2D90.quest_subtitle: "Found by using the Eye of Storm"
-	quest.630EF1A8715E2D90.title: "&eScylla"
+	quest.630EF1A8715E2D90.quest_subtitle: "可使用风暴之眼找到"
+	quest.630EF1A8715E2D90.title: "&e斯库拉"
 	quest.632BE5724D2120EB.quest_desc: [
 		"&b强化合金&r是一种精英材料，通过将钻石&6灌注&r进灌注合金制作而成。"
 		""
@@ -4672,7 +4672,7 @@
 	quest.67785FD77E880DDB.title: "&d虚空之花"
 	quest.67792A4DE6EDBC37.quest_desc: ["邪术手稿由八个远古知识碎片和一个回响碎片制成。这些碎片都可以在远古城市里找到。使用后，它将赋予你选择的一个邪术法术卷轴的力量。你可以解锁更多，但每解锁一个卷轴就需要一个新的手稿。"]
 	quest.678A65A6A3461CFC.quest_subtitle: "完成对应任务章节。"
-	quest.678A65A6A3461CFC.title: "&6Fishing"
+	quest.678A65A6A3461CFC.title: "&6垂钓"
 	quest.6794A40DE2A79575.quest_desc: [
 		"本模组添加了一种新的&2村民&r。 "
 		"&8（以防你不知道，AE2也加了一种）"
@@ -5311,7 +5311,7 @@
 	quest.72481CA0AC8AFD6A.title: "福鲁伊克斯色智能线缆"
 	quest.72539873C7201A47.quest_desc: ["毒马铃薯用于制作自然法术卷轴。"]
 	quest.7277A0413086D71A.quest_desc: ["用&b恩特罗种子&f&6右击&f&b福鲁伊克斯块&f可将它转变为&b恩特罗化的福鲁伊克斯母岩&f。"]
-	quest.7283C1B759AF0F5F.quest_subtitle: "Catch all &6140&r fishes."
+	quest.7283C1B759AF0F5F.quest_subtitle: "捕获全部&6140&r种鱼类。"
 	quest.7290F8670BBBF12E.quest_desc: ["&bME主动成型面板&f与普通的&b成型面板&r作用相同，不过它可以主动拉取网络中的方块/物品，这真的方便到爆不是吗？"]
 	quest.72CBC6171104037F.quest_desc: [
 		"我个人认为，说真的，这堪称模组界最炫酷的门之一。"
@@ -6012,11 +6012,11 @@
 	task.65A43DD683FB39E4.title: "召唤魔精伐木工"
 	task.65B2D0E35B083E82.title: "适者生存"
 	task.66BF2FED6B091A68.title: "探索世界！"
-	task.691E6AA922761E29.title: "Hooks"
+	task.691E6AA922761E29.title: "鱼钩"
 	task.6C6C366D034AF5C7.title: "召唤异界树苗交易者"
 	task.708EE345AEBB270B.title: "制作暗影脉壤"
 	task.7206B162C5B4E0B8.title: "一阶矿石"
-	task.7376AAE3B45AD4B9.title: "Bobbers"
+	task.7376AAE3B45AD4B9.title: "浮漂"
 	task.73B852C41DE1F864.title: "任意#c:crops/rice"
 	task.73DFBACC98E080BC.title: "任意刀"
 	task.741F21CA04FBCB90.title: "Logistical Transporters"
