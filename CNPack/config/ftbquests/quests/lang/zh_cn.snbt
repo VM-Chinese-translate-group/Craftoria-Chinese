@@ -471,8 +471,8 @@
 		""
 		"  Now, what do you say? Let's get cookin'."
 	]
-	quest.0C6D0B1C1AF75292.quest_subtitle: "Say My Name!"
-	quest.0C6D0B1C1AF75292.title: "Chemical Reactor"
+	quest.0C6D0B1C1AF75292.quest_subtitle: "说出我的名字！"
+	quest.0C6D0B1C1AF75292.title: "化学反应釜"
 	quest.0C91DF887A33A8E6.quest_desc: [
 		"&o还记得我说过魔灵可以为你采矿吗？&r"
 		""
@@ -568,17 +568,17 @@
 		"{image:justdirethings:item/celestigem_paxel_active width:100 height:100 align:center fit:true}"
 	]
 	quest.0ED4263270D37EF6.quest_desc: [
-		"&eDiesel Accessories&r"
+		"&e柴油工具&r"
 		""
-		"  There's a few powerful &6diesel fueled&r tools and accessories that you can use to assist you in expanding your factory even more. Here there are:"
+		"  这里有几种强大的&6柴油动力&r工具，可以帮你进一步扩建你的工厂。就是下面这些："
 		""
-		" &#8226; First is a &bDiesel Drill&r, a huge upgrade from your old steam drill. The difference is, this one you can't use a 3x3 function anymore, but you can &6toggle between Silk Touch and Fortune III&r with a simple shift right-click. The more powerful the fuel in it, the faster it'll mine."
+		" &#8226; 第一个是&b柴油钻头&r，这可比你的老蒸汽钻头先进多了。二者的区别在于，这个不能3x3挖掘了，但是可以&6在精准采集和时运III之间切换&r（Shift右击即可）。它装载的燃料越强大，挖掘的速度就越快。"
 		""
-		" &#8226; Second is a &bDiesel Chainsaw&r. The chainsaw has the exact same functionality as the drill, but instead it's for cutting down trees and the like to replace your axe."
+		" &#8226; 第二个是&b柴油链锯&r。链锯呢，功能和钻头差不多，区别在于它是干砍树之类的斧头的活的。"
 		""
-		" &#8226; Third is a &bDiesel Jetpack&r. Yes, you heard me right. A jetpack. The &6stronger the fuel&r in it the &6faster you'll fly&r. Use your \"V\" key to toggle the jetpack on and off. Let your wings free and fly with the power of technology! &oAnd a bit of fuel...&r"
+		" &#8226; 第三个是&b柴油喷气背包&r。对，你没听错，是喷气背包。它装载的&6燃料越强大&r，&6你飞得就越快&r。你可以按“V”键开关喷气背包。用科技的力量解放你的翅膀吧！&o当然，还需要一点点燃料……&r"
 	]
-	quest.0ED4263270D37EF6.title: "Diesel Accessories"
+	quest.0ED4263270D37EF6.title: "柴油工具"
 	quest.0ED5CB1120D1BD6E.quest_desc: ["探索时，你可以在世界各地找到卷轴，但如果你不小心用掉了，卷轴就会被消耗。"]
 	quest.0ED5CB1120D1BD6E.title: "卷轴"
 	quest.0EFB32C64C146682.quest_desc: [
@@ -629,13 +629,13 @@
 	quest.103CFBF5C4599A7B.title: "挖矿"
 	quest.10534DA1BD464834.quest_subtitle: "在觉醒之门试炼中掉落。"
 	quest.1081BFCAB3F07FFF.quest_desc: [
-		"  Need a steamy upgrade? I know I do! The &bLarge Steam Boiler&r is an upgraded version of the smaller bronze and steel boilers. &6It uses fuel 8 times faster&r than the Furnace, but it produces &6256 mb/t of steam&r when at max temperature. Make sure you don't forget to provide it &bWater&r!"
+		"  需要蒸汽升级吗？是的我需要！&b大型蒸汽锅炉&r是小青铜/钢锅炉的升级版。&6它消耗燃料的速度是熔炉的8倍&r，达到最高温度时可产生&6256mb/t的蒸汽&r。还有，要记得给它供&b水&r！"
 		""
-		"  The main block you'll need is &bBronze Plated Bricks&r, but you'll also need other blocks shown in your EMI. The &bLarge Steam Boiler&r is comprised of one layer of &bHeatproof Machine Casings&r with layers of &6Bronze Plated Bricks&r and &6Pipe Machine Casings&r."
+		"  你主要会用到很多&b镀青铜砖块&r，以及一些其他的方块，EMI里有写。&b大型蒸汽锅炉&r由一层&b耐热机器外壳&r和几层&6镀青铜砖块&r以及&6管道机器外壳&r组成。"
 		""
-		"  The Controller is on the second layer, on top of the &bHeatproof Machine Casings&r. &6Don't forget you can use your &bWrench&r &6to show the shape of the multiblock and placement of the blocks needed for it&r. The required hatches must be placed on the bottom layer. You'll need a way to input water and a solid fuel, as well as a way to extract &bSteam&r."
+		"  控制器在第二层，&b耐热机器外壳&r的上面。&6别忘了用&b扳手&r&6可以显示多方块结构的形状和各个方块的位置&r。所需的仓必须放在最底层。你需要输入水和固体燃料，还要输出&b蒸汽&r。"
 	]
-	quest.1081BFCAB3F07FFF.title: "Large Steam Boiler"
+	quest.1081BFCAB3F07FFF.title: "大型蒸汽锅炉"
 	quest.1094111FB9512D75.quest_desc: [
 		"  There are three &bSmall Diesel Generators&r that are the beginning of power generation via fluids or gases. You can use your EMI to check for how much EU will be produced per millibucket of each type of fuel."
 		""
@@ -946,8 +946,8 @@
 		""
 		"  &6You should automate these&r."
 	]
-	quest.16E5B09AA7E6A487.quest_subtitle: "All Aboard the Item Express!"
-	quest.16E5B09AA7E6A487.title: "Conveyor Belts"
+	quest.16E5B09AA7E6A487.quest_subtitle: "都来搭乘物品快车吧！"
+	quest.16E5B09AA7E6A487.title: "传送带"
 	quest.16F37A3E31EBDA50.quest_desc: [
 		"速度很快的单座飞机，开起来可能比较费劲，但还挺有趣的，伙计！"
 		""
@@ -994,13 +994,13 @@
 	]
 	quest.16F7C881B4CED163.title: "树场构想"
 	quest.176524D0E4475298.quest_desc: [
-		"  With your freshly drilled &bCrude Oil&r you can make a large array of items, however &6you will need to refine it to use it&r. Currently it's pretty useless in an industrial sense."
+		"  有了刚挖出来的&b原油&r，你现在又有好多新东西可以做了，不过在此之前，&6原油还需要精炼才能使用&r。现在的这玩意从工业的角度来说，没有什么卵用。"
 		""
-		"  That's where the &bDistillery&r comes into play! &6You can refine or &odistill&r &6fluids into it's lighter parts&r. With this &bDistillery&r you can only refine down to one fluid at a time."
+		"  那么这就轮到&b蒸馏室&r发挥作用了！&6你可以精炼，或者说&o蒸馏&r&6一种流体，获取其中更轻的部分&r。这个&b蒸馏室&r每次只能精炼一种流体。"
 		""
-		"  Just keep working, soon enough you'll be able to extract many fluids at once."
+		"  先这么用着吧，很快你就可以一次性提炼好几种了。"
 	]
-	quest.176524D0E4475298.title: "Distillery"
+	quest.176524D0E4475298.title: "蒸馏室"
 	quest.1794E588334CB478.quest_desc: [
 		"这台机器使用&6先进的技术&r将&b物品&r&7压缩&r到&d原子大小&r，使其能够直接&6访问&r和&6操作&r玩家的&9物品栏&r。"
 		""
