@@ -2266,7 +2266,7 @@
 		"注意：&I只有&r&b致密线缆&r能传输8个以上的频道。&bME接口，&b样板供应器&r以及其他设备即便使用了&b致密线缆&r连接，也依然只能传输8个频道。"
 	]
 	quest.308640ACCC096431.title: "存储网络的中心"
-	quest.30A0D33361D77D7E.quest_subtitle: "Catch &535&r unique fishes."
+	quest.30A0D33361D77D7E.quest_subtitle: "累计捕获&535&r种不同鱼类。"
 	quest.30BD7370506EBC6C.title: "氧"
 	quest.30D584EAD9243548.quest_desc: [
 		"向&b流体填充机&r&6注入&r&7流体&r，它就可以用&7其中的流体&r填满下方的空间。"
