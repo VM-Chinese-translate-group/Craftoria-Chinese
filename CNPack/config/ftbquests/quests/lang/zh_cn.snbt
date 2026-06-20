@@ -10,7 +10,7 @@
 	chapter.26E59C8DBA7F6FE3.title: "Monster Mayhem"
 	chapter.2A4C06811555B5D0.title: "遗物与饰品"
 	chapter.2B64DA0213E9FC7B.title: "私人存储"
-	chapter.2D12E0E71DEC99E9.title: "MI: Steam Age"
+	chapter.2D12E0E71DEC99E9.title: "现代工业化：蒸汽时代"
 	chapter.2E72024B18414A17.title: "&d永恒"
 	chapter.3188AC6C440F7520.title: "&a新手上路"
 	chapter.33E8845C982DC0F2.title: "通用机械：矿石处理"
@@ -272,7 +272,7 @@
 		""
 		"  Check the outputs in &6EMI&r and make sure you know that the drill has a chance of breaking, so don't just make 1."
 	]
-	quest.0729CB454B970201.title: "Bronze Drill"
+	quest.0729CB454B970201.title: "青铜钻"
 	quest.077658D04D0D4AB3.quest_desc: [
 		"&b硇砂储罐&r必须放置在硇砂蓄积器&6下方&r。这两个设备协同工作，可以从&9水&r中制造出&d硇砂溶剂&r。"
 		""
@@ -291,19 +291,19 @@
 	]
 	quest.07F1FA5EF3E6A7F3.title: "&c柴油"
 	quest.07FE9074247583EE.quest_desc: [
-		"  Now, you might have noticed I said \"usually\" when talking about interacting with the controller. This means items and &6fluids cannot be inputted or outputted from the controller&r, but information can; in the sense of statistics. Looking into the controller you will see a few things: Shape Validity, Status, Progress, Recipe Base, and Recipe Current."
+		"  你可能已经注意到了，我在描述控制器的交互性时用的词是“通常”。也就是说，虽然物品和&6流体不能通过控制器输入/输出&r，但是信息可以——以参数的形式。打开控制器，你会看到这些东西：结构有效性、状态、进度、配方基础和当前配方。"
 		""
-		"  The Shape Validation will let you know if the &6multiblock is built correctly or not&r. It will not tell you if you are missing or have too many hatches on the multiblock, so you need to decide that for yourself. Keep in mind that multiblock structures &omay&r share blocks with one another so long as these overlapping block do NOT contain a hatch."
+		"  结构有效性是指示该&6多方块结构搭建是否正确&r的。但它不会告诉你多方块结构中是否缺少或者有太多的仓，所以这个得靠你自己。还有请记住，多个多方块结构之间&o可以&r共用一些方块，前提是共用部分不包含仓。"
 		""
-		"  Status will let you know the current status of the Multiblock. If it's idle or if it's active."
+		"  状态可以指示该多方块结构现在处于空闲还是工作状态。"
 		""
-		"  Progress will show you the progress, slowly building a percent to 100%. Depending on the speed of the process, the faster the percent will rise."
+		"  进度可指示当前进程的进度，它会慢慢达到100%，百分比上升的速度取决于当前进程的速度。"
 		""
-		"  Recipe Base shows the &6base recipe energy/steam consumption&r. Depending on what you're making, it uses a minimum amount of energy/steam, but it can use more to speed up the process. This doesn't happen on steam machines so I won't got too far into it now."
+		"  配方基础可指示&6当前配方的基础能量/蒸汽消耗量&r。这是当前配方的最低能耗，你可以提高能耗来加速进程。不过这不适用于蒸汽机，所以我就先不展开讲了。"
 		""
-		"  Recipe Current is the&6 current amount of energy/steam being actually consumed&r."
+		"  当前配方可指示&6当前实际的能量/蒸汽消耗量&r。"
 	]
-	quest.07FE9074247583EE.title: "Multiblock Controllers"
+	quest.07FE9074247583EE.title: "多方块结构控制器"
 	quest.0807F0094282C2D5.quest_desc: [
 		"&b安山隧道&r非常基础，可以&6遮盖&r&b传送带&r，并能对传送带上的物品进行简单的&6分流&r。"
 		""
@@ -373,24 +373,24 @@
 	quest.0ABC6D5601DCD95F.quest_subtitle: "Aid you journey with these upgrades providing all kinds of different benefits."
 	quest.0ABC6D5601DCD95F.title: "鱼钩和浮漂"
 	quest.0AC7D844C55119E1.quest_desc: [
-		"  This is no &bMonkey Wrench&r, but you better hope you can move like one in the future."
+		"  这个不是&b活动扳手&r，但是你可以期待未来能有差不多的。"
 		""
-		"  Using a &bWrench&r, you can &6rotate&r &oalmost&r &bany machine&r by &6right-clicking&6 and &rpick up&r&o almost&r any &bpipe&r, &bfluid&r or &bnot&r."
+		"  &b扳手&r可以&6旋转&r&o几乎&r&b所有的机器&r（&6右击&r即可），还能&r拆卸&r&o几乎&r所有的&b管道&r。"
 		""
-		"  You can &6shift-right-click&o on a &bmachine&r to &6configure&r the &boutput side&r. When you're &6holding&r the &bWrench&r, you can &6hover&r over any face of the &bmachine&r and you'll get a &bgrid&r of sorts. &6Shift-rick-clicking&o on the &bmiddle square&r will set the &boutput face&r to the side the &bgrid&r is on. Doing so to the rectangles will &6place the output&r to the face &690&r degrees relative to the corner elected to allow for &6configuration&r in hard to reach spaces. Finally the small &bsquares&r in each corner will set the output to the &bopposite&r side of the grid."
+		"  手持扳手&6潜行右击&o&b机器&r可&6调整&r其&b输出面&r。&6手持&r&b扳手&r&6对准&r&b机器&r的任意面，你会看到一个类似&b网格&r的东西。&6潜行右击&o&b中心的方块&r即可将&b输出面&r设置为&b网格&r所在的面。如果点击周围的那些长方形，就会&6将输出面&r设为与该长方形&690&r度相邻的那个面，这样就可以&6配置&r那些难以够到的面了。最后是角落上的&b方块&r，点击它们可将输出面设为网格&b对面&r的那个面。"
 		""
-		"  Remember, you cannot &6break&r the machine using the &bWrench&r, it WILL &6destroy&r it and you &6wont&r get it back. Just use your trusty &bPickaxe&r instead."
+		"  请谨记，你不能用&b扳手&r&6破坏&r机器，因为这样做会把机器&6毁坏&r掉，然后你就&6可以&r跟你的机器说拜拜了。还是用你值得信赖的&b镐子&r拆吧。"
 	]
-	quest.0AC7D844C55119E1.title: "Wrench"
+	quest.0AC7D844C55119E1.title: "扳手"
 	quest.0B2FF8169FD3812D.quest_desc: [
-		"  &bSteel Hatches&r have &6double the capacity of bronze hatches&r, increasing one inventory slot to 2, and increasing a multi-block's max steam usage rate from 2 EU/t to 4 EU/t. As long as there is a single steel fluid input hatch receiving steam, your entire multi-block is upgraded to a \"steel tier.\""
+		"  &b钢仓&r的&6容量是青铜仓的两倍&r，即里面的格子从1个变成了2个。而且，它可将多方块结构的最大能耗从2EU/t提升至4EU/t。也就是说，只是单独把提供蒸汽的流体输入仓升级成钢制的，就相当于把整个多方块结构升级到“钢制级别”了。"
 		""
-		"  Allowing multiblocks to use 4 EU/t means exactly what you think it does, it doubles the top speed of the processes."
+		"  让多方块结构可以以4EU/t的能耗运行，这意味着进程的最大速度翻倍了。"
 		""
-		"  A &bSteel Boiler&r will produce twice as much steam as a bronze one. That means it will max out at &o16 EU/t&r instead of 8. The &bSteel Water Pump&r will also produce twice as much &bWater&r as it's bronze counterpart, so a max of 250mb of &bWater&r fro every adjacent water source for up to 2000mb of &bWater&r every 5 seconds."
+		"  &b钢锅炉&r可以产生两倍于青铜锅炉的蒸汽，其最大速率从8EU/t提高到了&o16EU/t&r。&b钢水泵&r也一样，可以产生两倍于青铜水泵的&b水&r，即最大输出速率为每个相邻水源250mb&b水&r，总计为每5秒2000mb&b水&r。"
 	]
-	quest.0B2FF8169FD3812D.quest_subtitle: "Waiting for Something to Hatch?"
-	quest.0B2FF8169FD3812D.title: "Steel Hatches"
+	quest.0B2FF8169FD3812D.quest_subtitle: "等着“仓”东西吗？"
+	quest.0B2FF8169FD3812D.title: "钢仓"
 	quest.0B4D059EDFD90B5B.quest_desc: [
 		"用&2蚀刻酸&r填满&b蚀刻器&r，并将已在&e紫外线灯箱&r中曝光过的&7空印刷电路板&r放入其中。"
 		""
@@ -3880,7 +3880,7 @@
 		"Right click to open the &bBank&r inventory screen."
 		"Right click which crouching to change build mode."
 	]
-	quest.51B59A987F916C7A.quest_subtitle: "A portable storage solution!"
+	quest.51B59A987F916C7A.quest_subtitle: "便携存储解决方案！"
 	quest.51E386BC7692D06C.quest_desc: ["为了&6建立&r&6汞驱物流系统&r，必须使用这些&b线缆&r来&6连接&r输入和输出。如果需要，&b连接节点&r允许多条线缆汇聚到一个点。"]
 	quest.51E386BC7692D06C.title: "汞驱连接"
 	quest.51ECF72F223BDB3A.title: "咖啡"
