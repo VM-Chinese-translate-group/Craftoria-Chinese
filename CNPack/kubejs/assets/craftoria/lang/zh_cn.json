@@ -944,7 +944,7 @@
 
   "block.modern_industrialization.replicator": "复制器Mk II",
 
-  "curios.identifier.qio": "Terminal",
+  "curios.identifier.qio": "终端",
 
   "item.industrialforegoing.iron_gear": "粗制铁齿轮",
   "item.industrialforegoing.gold_gear": "粗制金齿轮",
@@ -993,7 +993,7 @@
   "block.xycraft_world.aluminum_pillar_green": "嵌绿铁柱",
   "block.xycraft_world.aluminum_pillar_light": "嵌亮铁柱",
   "block.xycraft_world.aluminum_pillar_red": "嵌红铁柱",
-  "block.xycraft_world.aluminum_storage": "Iron Storage",
+  "block.xycraft_world.aluminum_storage": "铁质存储",
   "block.xycraft_world.aluminum_tiles": "铁瓦",
   "block.xycraft_world.aluminum_tiles_cloud_blue": "嵌蓝铁瓦",
   "block.xycraft_world.aluminum_tiles_cloud_dark": "嵌暗铁瓦",
