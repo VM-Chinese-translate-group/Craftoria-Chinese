@@ -887,7 +887,7 @@
 		""
 		"  &cP.S.&r Right clicking on a &bsteam machine&r with &7gunpowder&r will double it's &6speed&r and &6steam consumption&r. Keep that in mind when looking at recipes. That &7gunpowder&r may just save you a trip to hell."
 	]
-	quest.164F4710E109F7F2.title: "Your First Bronze"
+	quest.164F4710E109F7F2.title: "你的第一块青铜"
 	quest.166CEF9F03DA14F6.quest_desc: [
 		"- 它的&c伤害&r比&b普通弹药&r&4高得多&r。"
 		""
@@ -902,11 +902,11 @@
 	quest.168AB4DADB1CA2D9.quest_subtitle: "第一阵基"
 	quest.16AAEB122CDC1A46.quest_desc: [
 		"{image:modern_industrialization:block/machines/mixer/overlay_top_active width:32 height:32 align:center}"
-		"  A sleek bronze Casing with a shining metal bowl where mixing blades are lowered into to &6mix&r up a plethora of different things! You can &6mix dusts&r with a higher output since you wont be spilling any anymore."
+		"  这是一个外壳光滑的青铜机器，顶部嵌着一个闪闪发光的金属碗，碗里是搅拌机的叶片。它可以&6混合&r各种各样的东西！你可以用它来&6混合粉末&r，产率比手工更高，因为这样就不会把粉撒得到处都是了。"
 		""
-		"  It doesn't only mix dusts, but also fluids. Example: &eLubricant&r!"
+		"  它不只可以混合粉末，还可以混合流体。例如：&e润滑剂&r！"
 	]
-	quest.16AAEB122CDC1A46.title: "Bronze Mixer"
+	quest.16AAEB122CDC1A46.title: "青铜搅拌机"
 	quest.16B74C92EB86AD0C.quest_desc: [
 		"将&7液体&r&6倒在&r世界中，或者在装有&c导热框架&r的&3物品容器&r中&b冷却&r它，以将其&6固化&r成&b塑料板&r。"
 		""
@@ -1323,18 +1323,18 @@
 	]
 	quest.1D482F0D9AF8D17E.title: "原子合金"
 	quest.1D57C823A1F0203C.quest_desc: [
-		"  I've got the &bperfect tool&r for you, it'll just take a bit of &6time to craft&r. It's a &bSteam Mining Drill&r! These can &6mine&r in a &6much larger&r grid than regular ol' &bPickaxes&r can; &63x3&r to be exact. Not only will you be able to &6mine more efficiently&r, but you'll be able to make beautiful &btunnels&r with ease."
+		"  我这里有&b超好用的工具&r，不过需要你&6花点时间做出来&r。看，&b蒸汽采矿钻头&r！它一次可以&6挖掘&r一片区域，比普通的&b镐子&6大多了&r，准确来说，&63x3&r。除了&6高效采矿&r之外，这玩意还可以用来挖漂亮的&b隧道&r。"
 		""
-		"  Want to know something cool? This &bdrill&r &6&osilk touches&r blocks as well! I know right? It's awesome! This way you'll get &6&oway&r more bang for your buck when you pair it with the &bForge Hammer&r since you can &6crush&r &bFull Ores&r instead of starting from &bRaw Ores&r."
+		"  还有更厉害的，这个&b钻头&r还可以&6&o精准采集&r哦！哼哼，超棒的对吧？这样一来，配合上&b锻压台&r，直接从&b矿石&r，而不是从&b粗矿&r开始&6加工&r，就可以&6&o提高&r产矿量！"
 		""
-		"  One small... would you call it a &6downside&r? You need to &6power&r it. For some reason, the &bdrill&r itself &6never&r actually &6breaks&r, but you'll need to feed it &bWater&r and some type of &bBurnable Fuel&r; for example &bCoal&r or &bLignite&r. Just &6Right Click&r the &bfuel items&r into your &bdrill&r within your &binventory&r to&6 fill it up&r!"
+		"  有个小小的……也许是&6缺点&r吧？就是它需要&6用电&r。这个&b钻头&r本身&6不会&r真的&6损坏&r，但是你需要给它装&b水&r和&b燃料&r，比如&b煤炭&r或者&b褐煤&r。在&b物品栏&r中用&b燃料&6右击&b钻头&r即可&6装填&r！"
 		""
-		"  &aTips&r: &6Carry around&r a &bWater Bucket&r. Not only will this allow you to &6negate fall damage&r if you're skilled enough, but also as a source of &bWater&r to run your &bdrill&r off of. For some reason, depending on the use case, this world's &bWater Sources&r are infinite; use this to your advantage."
+		"  &a提示&r：记得&6随身带个&b水桶&r。它不仅能&6规避摔落伤害&r（但是需要有点操作），还能随时给你的&b钻头&r加&b水&r。由于某些原因，这个世界的&b水资源&r是无限的。好好利用这一点。"
 		""
-		"  &aMore Tips&r: &6Crouch to mine&r &bsingle blocks&r, if you need! They'll still be in their &6Silktouch&r form, but it wont do the &63x3&r, incase you need to mine &bblocks&r more delicately."
+		"  &a更多提示&r：&6潜行可挖掘&b单个方块&r，如果你想的话！&6精准采集&r此时依然有效，只是不会一次挖掉&63x3&r的方块了，这样你就可以更精细地挖掘&b方块&r了。"
 	]
-	quest.1D57C823A1F0203C.quest_subtitle: "Cling, Clang, Cling, Clang!"
-	quest.1D57C823A1F0203C.title: "Steam Mining Drill"
+	quest.1D57C823A1F0203C.quest_subtitle: "叮铃，当啷，叮铃，当啷！"
+	quest.1D57C823A1F0203C.title: "蒸汽采矿钻头"
 	quest.1DB0824C333DDA8E.quest_desc: [
 		"用&b能量升级&r来对抗&b速度升级&r吧！"
 		""
@@ -1561,21 +1561,21 @@
 	]
 	quest.21286633DE0F586E.quest_subtitle: "刷取生物掉落物"
 	quest.215606B3A894512E.quest_desc: [
-		"  Do you see those percents on each ore in the quarry outputs?"
+		"  你看到采石场产物列表中每种矿石都有的产物概率了吗？"
 		""
-		"  Those are &oindividual&r percents. &6Each ore has it's own individual chance&r. "
+		"  这些概率都是&o互相独立&r的。&6每种矿石都有独立的产出概率&r。 "
 		""
-		"  If you place a bronze item output hatch, you'll only get one ore, but the chance that another ore is produced is still there, and thus it could be lost if there is no space for it."
+		"  如果你安装的是青铜物品输出仓，那你就只能得到一种矿石。实际上其他的矿石并不是就不会产出了，而是因为你没有足够的槽位容纳它们，所以遗失了。"
 		""
-		"  &6Place multiple item output hatches, preferably steel, to increase maximum possible outputs.&r"
+		"  &6你可以多安装几个物品输出仓来增加你获得的产物种类，最好用钢制的。&r"
 	]
-	quest.215606B3A894512E.title: "Quarry Tips"
+	quest.215606B3A894512E.title: "采石场小提示"
 	quest.21584ECDBB6907DE.quest_desc: [
-		" &aCalm down, Calm down!&r A &btick&r is the &6shortest amount&r of time that can be &6recorded&r."
+		" &a冷静冷静！&btick&r就是游戏中&6可记录的&6最小&r的时间单位。"
 		""
-		"  It's about a &620th&r of a &bsecond&r. The world runs off these \"&bticks&r\" and you can &6use them&r to &byour&r advantage!"
+		"  它大约是&6二十分之一&b秒&r。这个世界就是按照这些“&btick&r”来运行的，你可以&6好好利用&r它！"
 	]
-	quest.21584ECDBB6907DE.title: "What's a Tick?"
+	quest.21584ECDBB6907DE.title: "什么是tick？"
 	quest.21586F8B123BFCC3.quest_desc: ["&b放射性废料桶&r能够使存储其中的各种&2放射性流体&r以固定的速率缓慢&7衰变&r。"]
 	quest.21586F8B123BFCC3.title: "真正的能源，真正的痛苦"
 	quest.217C5C65AFC95842.quest_desc: [
@@ -2696,13 +2696,13 @@
 		""
 		"- Toggle &eSilk Touch&r with &6Left Shift&r + &6Right Click&r."
 	]
-	quest.39CF27CAC4EE33DB.quest_subtitle: "Brrrr!"
+	quest.39CF27CAC4EE33DB.quest_subtitle: "嗡嗡嗡嗡！"
 	quest.39FCE3168C26B863.quest_desc: [
-		"  Once you have a stockpile of this &bSuper Powered Coal&r, you can start diverting away from you bronze machines. They're slow and such a bright orange; blinding to the eyes."
+		"  手上有了不少这种&b超能煤炭&r之后，你就可以脱离青铜机器的束缚了。它们太慢，而且橙色的外壳简直亮瞎眼。"
 		""
-		"  Making &bCoal Coke&r is just heating &bCoal&r with the absence of oxygen. It doesn't allow it to burn and thus puts it through a destructive distillation process. Once you have it though, you'll be able to start working on &bSteel&r and steel machines speeding up processing times at the cost of more steam being used."
+		"  制造&b焦炭&r就是在无氧环境下加热&b煤炭&r，它在这种情况下无法燃烧，只能被分解蒸馏。有了焦炭，你就可以开始炼&b钢&r，然后制造钢制机器了。钢机器的速度更快，但是消耗的蒸汽也更多。"
 		""
-		"  &6You'll be aiming for the creation of a &bQuarry&r soon so that it can dig for you&r. Imagine never needing to go mining for ores ever again!"
+		"  &6你很快就可以造出&b采石场&r了，然后天天躺在家里，让它帮你挖矿！"
 	]
 	quest.39FCE3168C26B863.title: "Coke"
 	quest.3A20D522302FE7B9.quest_desc: [
@@ -2875,7 +2875,7 @@
 	quest.3E9D2DA07E8617EA.title: "&6Theurgy"
 	quest.3EFED58FAE46B366.quest_desc: ["将方块&6粘合&r成任意大小的结构，无论是小型还是超大型。"]
 	quest.3F0097CCBA02804C.quest_desc: ["The &bLarge Steam Furnace&r can &6smelt&r recipes in batches of up to 8 at a &a25%&r deduction of &eEU&r cost. Keep in mind, it &cwont&r do a mix of recipes, they &omust&r be the same type. If not, each type of recipe will be &6split&r into their batch of a max of 8."]
-	quest.3F0097CCBA02804C.quest_subtitle: "The Bigger, The Better!"
+	quest.3F0097CCBA02804C.quest_subtitle: "越大越好！"
 	quest.3F0B58522B009779.quest_desc: [
 		"可以&6双持&r并&6附魔&r。"
 		""
@@ -3131,25 +3131,25 @@
 	]
 	quest.43985FE38B0EBCB5.title: "基础机械管道"
 	quest.439D48E9647FC8C2.quest_desc: [
-		"  Steam machines need, well, &bSteam&r! The way to get it is to make a &bSteam Boiler&r! The &bSteam Boiler&r will gradually consume almost any &6fuel&r you give it to heat up. When it's at a high enough temperature, it will begin to produce &bSteam&r so long as there is &bWater&r in it's &6internal tank&r; if not, you'd be wasting fuel."
+		"  蒸汽机嘛肯定需要——&b蒸汽&r！获得蒸汽的方法就是造一个&b蒸汽锅炉&r！&b蒸汽锅炉&r会缓慢消耗你提供的各种&6燃料&r来加热，当它的温度足够高时，就会产生&b蒸汽&r，前提是它的&6内部储罐&r里有&b水&r。如果没有的话，那就是浪费燃料咯。"
 		""
-		"  Or you can put a &bWater Bucket&r into a &bFurnace&r to obtain a &bSteam Bucket&r. In this world is seems that fluid containers keep any fluid inside of them, having a persistent temperature and bound to the confined container; so don't worry about it condensing down into water or escaping. With &bSteam&r pre-boiler, you can make a &bCompressor&r to save on &bBronze Plates&r."
+		"  或者呢，你也可以把&b水桶&r放进&b熔炉&r烧炼，得到&b蒸汽桶&r。在这个世界里，流体容器可以将任何流体保存起来，维持恒定的温度，并且是密闭的。所以你不用担心蒸汽会跑掉或者液化变回水。有了制造&b蒸汽&r的锅炉，你就可以造出&b压缩机&r，它可以节省你的&b青铜板&r。"
 		""
-		"  It might seem a bit expensive at this current moment, but remember that you can practically triple your ores using the &bForge Hammer&r. Not to mention that in due time, when you have your first two machines, it will become more than twice less expensive than before!"
+		"  这玩意也许现在看来有点小贵，不过别忘了你有&b锻压台&r，可以让你的矿产翻三倍。而且，当你有了前两台机器之后，它的造价还会便宜两倍不止！"
 		""
-		"  The &bBoiler&r will automatically begin to produce and send the &bSteam&r to adjacent machines or connected pipes, &6up to 8 millibuckets per tick.&r"
+		"  &b锅炉&r会自动开始产生&b蒸汽&r，并把它输送到相邻的机器或者相连的管道中，产量&6至多能达到8毫桶/tick。&r"
 		""
-		"  Bronze machines can only process recipes up to 2 energy unit per tick. You might see it as \"2 EU/t\" when using the machines. 1 millibucket of steam is the same as 1 EU; I for one am really glad it's a very simple conversion cause I'm not a fan of math. Once your &bBoiler&r is at maximum temperature, it can supply 4 machines with &bSteam&r simultaneously! Now &othat's&r hot."
+		"  青铜机器只能执行耗能速率小于等于2EU/tick的配方。使用机器的时候，你会看到“2EU/t”的字样。1毫桶蒸汽相当于1EU——这么简单的换算对我太友好了，毕竟我不喜欢数学。&b锅炉&r达到最高温度时，可以同时给4个机器提供&b蒸汽&r！&o真&r够热的。"
 	]
-	quest.439D48E9647FC8C2.title: "Bronze Boiler"
+	quest.439D48E9647FC8C2.title: "青铜锅炉"
 	quest.43ACFDB5CD949C74.quest_desc: ["使用卷轴撰写台和毒马铃薯来制作自然法术卷轴，这些卷轴能造成中毒伤害或定身敌人。"]
 	quest.43CC79E605DA3F6E.title: "茄子"
 	quest.43DB398322EF99BD.quest_desc: [
-		"The &bSteel Alloy Smelter&r allows you to create &9alloys&r from two different ingots &owithout&r needing to &6mix&r the dusts in a &bMixer&r first. Check your &dEMI&r to see which alloys can be made this way."
+		"&b钢合金熔炉&r可将两种不同的锭直接制成&9合金&r，而&o不&r需要先在&b搅拌机&r中&6混合&r两种粉末。你可以查看&dEMI&r了解哪些合金可以通过这种方法制成。"
 		""
-		"You can also use any &6combination&r of equal amounts of resources to create an alloy, such as &anine&r tiny dust + &anine&r nuggets."
+		"你可以&6组合&r不同形式的原料，烧炼合金，只要数量是对等的就行，比如&a9个&r小堆粉末+&a9个&r粒。"
 		""
-		"What you &ocannot&r do is &anine&r tiny dust + &aone&r ingot, as the amounts are different."
+		"但是这样的&o不行&r：&a9个&r小堆粉末+&a1个&r锭，因为二者的数量不同。"
 	]
 	quest.43DB398322EF99BD.quest_subtitle: "Mixing &etwo&r materials together for &6alloys&r."
 	quest.43EFE64785AE50B4.title: "四阶 1:4"
