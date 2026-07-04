@@ -699,7 +699,7 @@
 			click: "#53A9F74C4BFE02D2"
 			color: 16755200
 			height: 1.5d
-			hover: ["MI: The Electric Age"]
+			hover: ["现代工业化：电力时代"]
 			image: "modern_industrialization:textures/gui/milogo.png"
 			order: 2010
 			rotation: 0.0d
@@ -711,7 +711,7 @@
 			alpha: 128
 			click: "#2D12E0E71DEC99E9"
 			height: 1.5d
-			hover: ["MI: The Steam Age"]
+			hover: ["现代工业化：蒸汽时代"]
 			image: "modern_industrialization:textures/gui/milogo.png"
 			order: 2000
 			rotation: 0.0d
@@ -723,7 +723,7 @@
 			click: "#587D73D979FA9D28"
 			color: 16733695
 			height: 1.5d
-			hover: ["MI: The Quantum Age"]
+			hover: ["现代工业化：量子时代"]
 			image: "modern_industrialization:textures/gui/milogo.png"
 			order: 2020
 			rotation: 0.0d
