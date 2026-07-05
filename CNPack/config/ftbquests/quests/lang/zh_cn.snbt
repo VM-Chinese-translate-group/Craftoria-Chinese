@@ -814,7 +814,7 @@
 	quest.15C38E0D2B205FB4.title: "用于气液转换机的水"
 	quest.15D18F5637F6382E.quest_subtitle: "完成对应任务章节。"
 	quest.15D18F5637F6382E.title: "&a通用机械"
-	quest.15FC55072AB16B86.quest_subtitle: "Catch all &6140&r fishes and all &e140&r golden fishes."
+	quest.15FC55072AB16B86.quest_subtitle: "捕获全部&6140种&r鱼类和全部&e140种&r金色鱼类。"
 	quest.16052CFE597B57F7.title: "化学灌注为H2SO4"
 	quest.160740771654F4E6.quest_desc: [
 		"   &b虚炎煤炭&r块可以被&6转化&c为&b粗蚀空烬质&r"
@@ -2059,7 +2059,7 @@
 	]
 	quest.2BF835F8F73E8F06.quest_subtitle: "挖呀挖呀挖！"
 	quest.2BF835F8F73E8F06.title: "&c矿脉枯竭！"
-	quest.2C42A6E79A5242F0.quest_subtitle: "Used for biome specific fish."
+	quest.2C42A6E79A5242F0.quest_subtitle: "用于特定生物群系的鱼类。"
 	quest.2C42A6E79A5242F0.title: "鱼饵"
 	quest.2C4CA092A557205E.quest_desc: [
 		"  1985年从2015年打来电话，它想要回它的反重力技术！"
@@ -2357,7 +2357,7 @@
 	quest.328E672F6B43D93A.quest_desc: ["它既用于&6组装&r你的列车，同时，其本身也&6作为&r列车站使用。"]
 	quest.3295D859B01FA315.quest_desc: ["This &bbook&r is your &3collection log&r for anything fishing, from &5rare fish&r to &6shiny trophies&r."]
 	quest.3295D859B01FA315.quest_subtitle: "钓鱼佬的传说"
-	quest.3295D859B01FA315.title: "&bStarcatcher's Guide"
+	quest.3295D859B01FA315.title: "&b捕星者指南"
 	quest.32DC17E21BF26228.quest_desc: ["用于&6加载&r已保存的&b蓝图&r，制成可供&b蓝图加农炮&r使用的成品&b蓝图&r。"]
 	quest.3357A8B614D477B6.quest_desc: [
 		"  这个机器是&b打包机&r的兄弟！它必须由钢材制成，因为它确实需要这么大的力量。"
@@ -2889,7 +2889,7 @@
 		"当你在游戏初期开始&6挖矿&r时，尽量多采集&b安山岩&r，并且别忘了收集&b锌&r，以便将&b铁&r留作其他用途，而不是去&6制作&r&b安山合金&r。"
 	]
 	quest.3F3C9A6F590496AD.quest_desc: ["To open the &6GUI&r to add different hooks, bobbers and baits &3sneak&r + &3right-click&r."]
-	quest.3F3C9A6F590496AD.quest_subtitle: "Can you catch them all?"
+	quest.3F3C9A6F590496AD.quest_subtitle: "你能把它们都捉上来吗？"
 	quest.3F581374C4DDD0A9.quest_desc: [
 		"&b不毁升级&f的用途是不言自明的，你的&b建筑棒&f将&6永远不会&f损坏。"
 		""
