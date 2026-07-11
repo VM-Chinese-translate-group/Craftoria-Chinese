@@ -679,7 +679,7 @@
 				item: {
 					components: {
 						"ftbfiltersystem:filter": "or(item(sophisticatedbackpacks:copper_backpack)item(sophisticatedbackpacks:iron_backpack))"
-						"minecraft:custom_name": "\"Cu or Fe, You Decide\""
+						"minecraft:custom_name": "“铜还是铁，你来决定”"
 					}
 					count: 1
 					id: "ftbfiltersystem:smart_filter"

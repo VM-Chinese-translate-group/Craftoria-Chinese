@@ -369,8 +369,8 @@
 	quest.098C3858B4FFCE78.quest_subtitle: "功率增加280%"
 	quest.09B10C121C7E9023.quest_desc: ["用于制作&bME能源存储组件&f与通量访问点。"]
 	quest.0A67575BAF8596B0.quest_desc: ["比你常见的列车轨道模型更强大：直轨、曲轨（两种类型）和坡道——即使是跨越下界传送门和未加载区块也能正常工作！"]
-	quest.0ABC6D5601DCD95F.quest_desc: ["Can be obtained through &6Treasure Chests&r or &3Goals&r reached through fishing."]
-	quest.0ABC6D5601DCD95F.quest_subtitle: "Aid you journey with these upgrades providing all kinds of different benefits."
+	quest.0ABC6D5601DCD95F.quest_desc: ["可通过&6宝箱&r或达成钓鱼&3目标&r获得。"]
+	quest.0ABC6D5601DCD95F.quest_subtitle: "这些升级能提供各种不同的加成，助力你的旅途。"
 	quest.0ABC6D5601DCD95F.title: "鱼钩和浮漂"
 	quest.0AC7D844C55119E1.quest_desc: [
 		"  这个不是&b活动扳手&r，但是你可以期待未来能有差不多的。"
@@ -586,7 +586,7 @@
 		""
 		"能&6完成&r通常只有玩家才能做到的事。"
 	]
-	quest.0F0A89D4CEFB2275.quest_subtitle: "The bank, but stores fluids."
+	quest.0F0A89D4CEFB2275.quest_subtitle: "银行，但用于储存流体。"
 	quest.0F121433B94D72D9.quest_desc: [
 		"   在EMI中，将鼠标&6悬停&r在&lJDT&r的&b升级&r上，&6按住Shift键&r可查看&9描述&r。"
 		""
@@ -1884,7 +1884,7 @@
 		""
 		"- 如果将&b无人机&r部署在&9容器&r旁边的地面，那么它会&6收集&r区域内的&b物品&r。"
 	]
-	quest.29AD1060C129C86F.quest_subtitle: "Catch &a100&r total fishes, &d2&r unique legendary fishes, &62&r unique golden fishes."
+	quest.29AD1060C129C86F.quest_subtitle: "累计钓起&a100&r条鱼、&d2&r种不同的传奇鱼，以及&62&r种不同的金色鱼。"
 	quest.29B59876D04A3772.quest_desc: [
 		"这个设备通过&7压力&r&6生成&r&2怪物&r，忽视&e光照强度&r限制，并可通过&4红石控制&r。"
 		""
@@ -2355,7 +2355,7 @@
 	quest.3288EB24E412AF9A.quest_subtitle: "完成对应任务章节。"
 	quest.3288EB24E412AF9A.title: "&d现代&b工业化"
 	quest.328E672F6B43D93A.quest_desc: ["它既用于&6组装&r你的列车，同时，其本身也&6作为&r列车站使用。"]
-	quest.3295D859B01FA315.quest_desc: ["This &bbook&r is your &3collection log&r for anything fishing, from &5rare fish&r to &6shiny trophies&r."]
+	quest.3295D859B01FA315.quest_desc: ["这本&b手册&r是你的钓鱼&3收集图鉴&r，记录了从&5稀有鱼类&r到&6闪光奖杯&r的一切。"]
 	quest.3295D859B01FA315.quest_subtitle: "钓鱼佬的传说"
 	quest.3295D859B01FA315.title: "&b捕星者指南"
 	quest.32DC17E21BF26228.quest_desc: ["用于&6加载&r已保存的&b蓝图&r，制成可供&b蓝图加农炮&r使用的成品&b蓝图&r。"]
@@ -2888,7 +2888,7 @@
 		""
 		"当你在游戏初期开始&6挖矿&r时，尽量多采集&b安山岩&r，并且别忘了收集&b锌&r，以便将&b铁&r留作其他用途，而不是去&6制作&r&b安山合金&r。"
 	]
-	quest.3F3C9A6F590496AD.quest_desc: ["To open the &6GUI&r to add different hooks, bobbers and baits &3sneak&r + &3right-click&r."]
+	quest.3F3C9A6F590496AD.quest_desc: ["&3潜行右击&r即可打开&6GUI&r来装配不同的鱼钩、浮漂和鱼饵。"]
 	quest.3F3C9A6F590496AD.quest_subtitle: "你能把它们都捉上来吗？"
 	quest.3F581374C4DDD0A9.quest_desc: [
 		"&b不毁升级&f的用途是不言自明的，你的&b建筑棒&f将&6永远不会&f损坏。"
