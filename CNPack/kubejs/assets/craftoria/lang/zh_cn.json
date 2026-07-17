@@ -952,9 +952,9 @@
 
   "craftoria.endless/boss": "无尽Boss之门",
   "craftoria.bomd": "觉醒试炼",
-  "desc.gateway.craftoria.reward.mythic_item": "Mythic Item",
-  "desc.gateway.craftoria.reward.perfect_gem": "Perfect Gem",
-  "desc.gateway.craftoria.reward.affix_item": "Affix Item",
+  "desc.gateway.craftoria.reward.mythic_item": "神话物品",
+  "desc.gateway.craftoria.reward.perfect_gem": "完美宝石",
+  "desc.gateway.craftoria.reward.affix_item": "词缀物品",
   "message.gateway.open": "Gates cannot be opened in this dimension.",
 
   "chemical.mekanism_extras.radiance": "辐光",
