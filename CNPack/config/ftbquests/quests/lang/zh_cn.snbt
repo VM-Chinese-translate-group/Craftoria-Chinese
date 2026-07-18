@@ -515,7 +515,7 @@
 		""
 		"此外，可以将&b管道模块&r放置在这些&b管道&r上，以提供&a额外特性&r或&e功能&r。"
 	]
-	quest.0E30CFA6C5B58BEA.quest_desc: ["This &bVat&r allows you to convert your &bAlchemical Niter&r from one tier to another."]
+	quest.0E30CFA6C5B58BEA.quest_desc: ["这个&b釜&r可以将&b炼金硝&r从一个品级转换为另一个品级。"]
 	quest.0E30CFA6C5B58BEA.quest_subtitle: "升级？"
 	quest.0E3A8954B2AAF9F7.quest_desc: [
 		"使用&b仪式火盆&r召唤&4荒野奇美拉&r，然后将其击败。"
@@ -586,7 +586,7 @@
 		""
 		"能&6完成&r通常只有玩家才能做到的事。"
 	]
-	quest.0F0A89D4CEFB2275.quest_subtitle: "银行，但用于储存流体。"
+	quest.0F0A89D4CEFB2275.quest_subtitle: "库，但储存流体。"
 	quest.0F121433B94D72D9.quest_desc: [
 		"   在EMI中，将鼠标&6悬停&r在&lJDT&r的&b升级&r上，&6按住Shift键&r可查看&9描述&r。"
 		""
@@ -1159,7 +1159,7 @@
 	quest.19B550F54950E253.title: "&b暗夜巫妖"
 	quest.19C33613F2811BAA.quest_desc: ["通过这个&b基础的终端&f，你可以访问你ME网络的&b库存&f。这个终端还能进一步升级。"]
 	quest.19C33613F2811BAA.title: "终端"
-	quest.19F7B6A670D4A707.quest_desc: ["从&b蒸馏器&r中获取的，这是最原始形态的&b汞&r。"]
+	quest.19F7B6A670D4A707.quest_desc: ["从&b汞蒸馏器&r中获取的，这是最原始形态的&b汞&r。"]
 	quest.19F7B6A670D4A707.quest_subtitle: "生汞"
 	quest.19F7B6A670D4A707.title: "晶化汞"
 	quest.1A1C915A4A1F7741.quest_desc: [
@@ -1465,7 +1465,7 @@
 	quest.1FF9FB01DBE735FC.quest_desc: [
 		"&b硫&r的本质能够&6改变&r。这就是元素转变的根本。"
 		""
-		"在这个&b大桶&r中加入正确的原料后，能够将硫&6转化&r成一种更可塑的状态- &b炼金硝&r。"
+		"在这个&b釜&r中加入正确的原料后，能够将硫&6转化&r成一种更可塑的状态- &b炼金硝&r。"
 	]
 	quest.1FF9FB01DBE735FC.quest_subtitle: "等价交换？"
 	quest.202149DADCC786EE.quest_desc: [
@@ -4398,7 +4398,7 @@
 		"其中最值得注意的是&b镐尖斧&r，只用这一把工具就可以办到所有事情！"
 	]
 	quest.60868DF852E6028B.title: "更多装备"
-	quest.60A38769895A0B14.quest_subtitle: "Dock your bank to easily access it in-world."
+	quest.60A38769895A0B14.quest_subtitle: "将库放入其中，即可在世界中轻松访问。"
 	quest.60A38769895A0B14.title: "库坞与库接口"
 	quest.60AEE273431548B6.quest_desc: ["在涡轮和锅炉里放置一层&b分压元件&r以更好地调节&7压力的释放&r。"]
 	quest.60AEE273431548B6.title: "分压元件"
