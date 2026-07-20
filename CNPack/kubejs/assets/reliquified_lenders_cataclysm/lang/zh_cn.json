@@ -21,11 +21,11 @@
   "tooltip.relics.void_cloak.ability.void_invulnerability.description": "免疫虚空伤害。",
   "tooltip.relics.void_cloak.ability.void_rune": "虚空呼唤",
   "tooltip.relics.void_cloak.ability.void_rune.description": "每隔%1$s秒，在附近的随机目标脚下生成一个虚空符文，造成%2$s点伤害。",
-  "tooltip.relics.void_cloak.ability.seismic_zone": "Final Cry",
+  "tooltip.relics.void_cloak.ability.seismic_zone": "终焉之泣",
   "tooltip.relics.void_cloak.ability.seismic_zone.description": "当玩家或玩家控制的生物死亡时，在其脚下生成一个半径%1$s格的地震带，激发至多%2$s次虚空符文，每次造成%3$s点伤害。",
   "tooltip.relics.void_cloak.leveling_source.void_rune.title": "虚空呼唤",
   "tooltip.relics.void_cloak.leveling_source.void_rune.description": "每次激活%2$s能力获得%1$s点经验。",
-  "tooltip.relics.void_cloak.leveling_source.seismic_zone.title": "Final Cry",
+  "tooltip.relics.void_cloak.leveling_source.seismic_zone.title": "终焉之泣",
   "tooltip.relics.void_cloak.leveling_source.seismic_zone.description": "每次激活%2$s能力获得%1$s点经验。",
 
   "item.reliquified_lenders_cataclysm.vacuum_glove": "真空手套",
