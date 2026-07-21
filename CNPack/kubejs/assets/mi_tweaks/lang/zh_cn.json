@@ -22,7 +22,7 @@
   "text.mi_tweaks.machine_tier_multiblock_electric": "电力（多方块）",
   "text.mi_tweaks.machine_tier_singleblock_electric": "电力（单方块）",
   "text.mi_tweaks.machine_tier_steel": "钢",
-  "text.mi_tweaks.machine_tier_unlimited": "Unlimited",
+  "text.mi_tweaks.machine_tier_unlimited": "无限",
   "text.mi_tweaks.machine_voltage_recipes": "允许机器运行%s配方",
   "text.mi_tweaks.recipe_requires_coil": "需要线圈：%s",
   "text.mi_tweaks.recipe_requires_machine_tier": "需要等级：%s",
