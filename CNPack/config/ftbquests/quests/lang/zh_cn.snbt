@@ -7,7 +7,7 @@
 	chapter.1910D05CD66EC477.title: "垂钓"
 	chapter.1CFBA632673ABBFD.title: "井井有条的存储"
 	chapter.216D532684E20496.title: "Boss"
-	chapter.26E59C8DBA7F6FE3.title: "Monster Mayhem"
+	chapter.26E59C8DBA7F6FE3.title: "骚动怪群"
 	chapter.2A4C06811555B5D0.title: "遗物与饰品"
 	chapter.2B64DA0213E9FC7B.title: "私人存储"
 	chapter.2D12E0E71DEC99E9.title: "现代工业化：蒸汽时代"
@@ -155,7 +155,7 @@
 		""
 		"{image:justdirethings:block/blockplacert2_side width:100 height:100 align:center}"
 	]
-	quest.03F624101CDF5291.quest_subtitle: "( noun verb, not verb noun )"
+	quest.03F624101CDF5291.quest_subtitle: "（能放方块，不是妨方块）"
 	quest.0442AA6067606DA8.quest_subtitle: "命运之轮？"
 	quest.044EA6B07D6C3E41.title: "青苹果"
 	quest.045942C709C63044.quest_desc: [
@@ -284,9 +284,9 @@
 	quest.07D88A0ABF82A39A.quest_desc: ["使用&b刀&f从&6动物&f身上获取。"]
 	quest.07D88A0ABF82A39A.quest_subtitle: "完美的蜡烛材料"
 	quest.07F1FA5EF3E6A7F3.quest_desc: [
-		"This &3substance&r can be &6processed&r in a &bThermopneumatic Processing Plant&r to &6produce&r &bKerosene&r or, by adding &4Redstone, Lubricant&r. "
+		"在&b热气动加工机&r中，可以&6加工&r这种&3物质&r，以&6生产&r&b煤油&r，或通过添加&4红石&r来制作&4润滑剂&r。"
 		""
-		"It serves as a &areasonable&r &7liquid fuel&r and can also be &6placed&r in a &8Furnace&r."
+		"它也可以作为一种&a合理的&r&7液体燃料&r，&6放置&r在&8熔炉&r中。"
 	]
 	quest.07F1FA5EF3E6A7F3.title: "&c柴油"
 	quest.07FE9074247583EE.quest_desc: [
@@ -1459,7 +1459,7 @@
 	quest.1FAB4634116B6EC8.title: "这次行动的中坚力量"
 	quest.1FD59C1147BCE34F.quest_desc: ["刷怪笼将忽略生成条件。"]
 	quest.1FD59C1147BCE34F.quest_subtitle: "+ 忽略条件"
-	quest.1FDE63D5EA5DA3CB.quest_desc: ["If Internet Protocol has ports, than &bPackage Frogports&r must be part of CCP: Chain Conveyor Protocol."]
+	quest.1FDE63D5EA5DA3CB.quest_desc: ["既然端口（Port）是互联网协议（IP）的一部分，那么我们的&b货物蛙港&r（Frogport）自然就属于链式传送带协议（CCP）了。"]
 	quest.1FDE63D5EA5DA3CB.quest_subtitle: "这可不是青蛙起降的平台。"
 	quest.1FF9FB01DBE735FC.quest_desc: [
 		"&b硫&r的本质能够&6改变&r。这就是元素转变的根本。"
@@ -1483,7 +1483,7 @@
 		"{image:justdirethings:item/totem_of_death_recall width:100 height:100 align:center fit:true}"
 	]
 	quest.206C9BCE1D67C3B8.quest_desc: ["手工清理&b粉笔&r确实有点麻烦。幸亏这个问题已经解决了：使用&b粉笔擦&r！"]
-	quest.206C9BCE1D67C3B8.quest_subtitle: "Don't got any soap?"
+	quest.206C9BCE1D67C3B8.quest_subtitle: "不洗洗再擦吗？"
 	quest.207613A34C3F10FA.title: "用于化学灌注器的氧气"
 	quest.2085CB41244C2783.quest_desc: ["你需要前往下界击杀疣猪兽，并获取疣猪皮。"]
 	quest.209744C68891F1DA.quest_desc: ["蝙蝠使魔可以让你在&b黑暗&r中&6看清楚&r。"]
@@ -1812,13 +1812,13 @@
 	quest.2697B8077174B870.quest_desc: ["[ 记得也去看看这些装备的下界合金版本以及&b背罐&r。 ]"]
 	quest.2697B8077174B870.quest_subtitle: "雅克·库斯托在你面前也要黯然失色。"
 	quest.26A44EDA4AABFF6F.quest_desc: [
-		"&bCompressed Steel &fis crafted with an &bIron Ingot &f&6thrown &fon the ground and &6blown up &fby&b TNT&f, but you wont always get your return on it. "
+		"&b压缩铁锭&f是把&b铁锭&f&6扔到&f地面上，并使用&bTNT&f&6爆炸&f制成的，但你并不总能成功。"
 		""
-		"Expected loss is &c25%&r of your &7Iron&r thrown."
+		"预计损失&c25%&r的&7铁锭&r。"
 		""
-		"- Needs &bCasing&r for cable tier to convert to (&eLV&r by default)."
+		"——需要&b外壳&r来转换电缆层（默认为&e低压&r）。"
 		""
-		"Note: By holding &6SHIFT&r over any &aPNC&r item will give a description of the item."
+		"注意：在任意&a气动工艺&r物品上按住&6Shift键&r将显示该物品的描述。"
 	]
 	quest.26A44EDA4AABFF6F.title: "&c欢迎&e游玩&a气动工艺"
 	quest.26AC949F1C3C6214.quest_desc: ["黄铜镶边，黑钢为侧，尽显非凡格调。"]
@@ -1909,7 +1909,7 @@
 		""
 		"{image:justdirethings:item/ferricore_wrench width:100 height:100 align:center fit:true}"
 	]
-	quest.29E3DC274AF5DAFA.quest_subtitle: "Not Monkey Business"
+	quest.29E3DC274AF5DAFA.quest_subtitle: "不会捣乱"
 	quest.29E6ED5067027F08.quest_desc: [
 		"- 可批量执行任何单方块&e电动&r合成&b机器&r提供给它的&6配方&r。"
 		""
@@ -2415,7 +2415,7 @@
 	quest.33CD5343AFBF853C.quest_subtitle: "魔源传输"
 	quest.33CDCAD12E8F6828.quest_desc: ["两次生成之间的最大时间间隔。"]
 	quest.33CDCAD12E8F6828.quest_subtitle: "-10 最大生成延迟"
-	quest.33CEED6232901CE5.quest_desc: ["&6Used&r with the &bVaccum Trap&r, this machine will &6suck up&r any &7mobs&r near it and put them in a &bSpawner Core&r, for that too work you must first &6craft&r a &bSpawner Core&r and &6insert&r into the a &bVaccum Trap&r."]
+	quest.33CEED6232901CE5.quest_desc: ["这台机器可以&6吸取&r附近的&7怪物&r并将它们放入&b刷怪笼核心&r中，为了使其能工作，你必须首先&6制作&r一个&b刷怪笼核心&r并将其&6放入&r&b真空陷阱&r中。"]
 	quest.33D0760B5FEF7C46.quest_desc: [
 		"  &o这&r是终极的发电机。"
 		""
@@ -2503,7 +2503,7 @@
 	]
 	quest.3594EFD40D059EA3.quest_subtitle: "辉常棒。"
 	quest.359A7C4C3C5E734F.quest_desc: ["无头鼠人可以偷取附近被击败的怪物的头颅。然后，会为你提供对该怪物类型的&6伤害加成&r。"]
-	quest.359A7C4C3C5E734F.quest_subtitle: "Getting ahead"
+	quest.359A7C4C3C5E734F.quest_subtitle: "拔得“头”筹"
 	quest.35A5048875097D66.quest_desc: [
 		"用于对&b样板&r进行大批量修改。"
 		""
@@ -3017,11 +3017,11 @@
 	]
 	quest.4163F176763D3C2B.title: "超密集 QIO 驱动器"
 	quest.4184B4182CFEF694.quest_desc: [
-		"This tool can be &6attuned&r (by sneak right-clicking) to certain blocks, to find their counterparts in the Other Place. Such blocks &6must be harvested while under the Third Eye&r. The available blocks you can search for are listed:"
+		"这个工具可以通过shift+右击指定的方块进行&6调整&r，以找到对应的异界方块。采集这些方块&6必须装备异界眼镜与灌注镐&r。你可以搜索的方块列表如下："
 		""
-		"- &bAndesite&r searches for &bOtherstone&r."
-		"- &bOak Log&r searches for &bOtherworld Wood&r."
-		"- &bNetherrack&r searches for &bIesnium Ore&r."
+		"- &b安山岩&r 搜索 &b异界石&r。"
+		"- &b橡木原木&r 搜索 &b异界原木&r。"
+		"- &b下界岩&r 搜索 &b艾瑟金属矿石&r。"
 	]
 	quest.4184B4182CFEF694.quest_subtitle: "信号已捕获"
 	quest.418659818AD0712B.quest_desc: ["&b大宗存储元件&f能够&a无限量&f地存储单种物品。"]
@@ -3644,9 +3644,9 @@
 	quest.4E6BB4279E8E793A.title: "丰足硫"
 	quest.4E7439769A073494.title: "护腿"
 	quest.4E8963E1C18ADBAB.quest_desc: [
-		"The &bIncubator&r is a small multiblock used to recombine Principles of matter into objects."
+		"&b培育器&r是一个小型多方块结构，用于将物质各要素重组为物体。"
 		""
-		"It is composed of one of each &bvessel&r type placed on the sides - &bSalt&r, &bSulfur&r, and &bMercury&r - the &bIncubator&r itself, and a source of &6heat&r, in this case a &bPyromantic Brazier&r, below."
+		"它由放置在侧面的每一种&b容具&r类型组成——&b盐&r、&b硫&r和&b汞&r——以及&b培育器&r本身，底下还有一个&6热源&r，是一个&b御炎火盆&r。"
 	]
 	quest.4E8963E1C18ADBAB.quest_subtitle: "警告：这不是用来孵蛋的"
 	quest.4E97BABA7D6B07FE.quest_desc: [
@@ -3926,10 +3926,10 @@
 	quest.52575C93CD6DD5D5.quest_desc: ["用于&6打包&r和&6拆包&r。"]
 	quest.525D3BBD78692516.title: "灵魂果实"
 	quest.5299134A1144826F.quest_desc: [
-		"Can be &6(dis)charged&r using a &bCharging Station&r. "
+		"可以使用&b充气站&r进行&6充放&r气。"
 		""
-		"It's essential for &6crafting&r most pneumatically &bchargeable items&r and can also be used to &6charge&r other &bitems&r."
-		"The amount of power generated depends heavily on the speed of the wind (obviously), and the speed of the wind increases the higher in the world the Wind Generator is placed."
+		"这对于&6制作&r大多数气动&b充气物品&r至关重要，也可以用来为其他&b物品&r&6充气&r。"
+		"输出的充气量取决于风速（显然），而风速随着风力发电机在世界中的位置高度增加而增加。"
 	]
 	quest.52AD3D58B644AA30.quest_desc: [
 		"&b风力发电机&r用&7风&r来产生&e能量&r！"
@@ -4263,7 +4263,7 @@
 		""
 		"通过&b异界眼镜&r可以看到它的真实形态。你可能还需要带上&b探测杖&b。"
 	]
-	quest.5C56A0938613CBC0.quest_subtitle: "How do you say it?"
+	quest.5C56A0938613CBC0.quest_subtitle: "这词英语怎么念？"
 	quest.5C8D7BD3DA61109F.quest_desc: [
 		"  现在你可以造电动版本的&b采石场&r了！这个产矿速度更快，&o还&r有更多钻头可选。"
 		""
@@ -4278,7 +4278,7 @@
 		""
 		"一些盐可以再次&6煅烧&r成其他种类。"
 	]
-	quest.5C98D9127F4CEB74.quest_subtitle: "Not the table kind"
+	quest.5C98D9127F4CEB74.quest_subtitle: "不是吃的那种"
 	quest.5C98D9127F4CEB74.title: "炼金盐"
 	quest.5CD12382792FA310.quest_desc: [
 		" "
@@ -4480,7 +4480,7 @@
 		""
 		"&8小提示：&b星宝石兽&8会自动收获魔源浆果丛。"
 	]
-	quest.62B0913266F48F45.quest_desc: ["The Fairy heals and &6supports&r other fa&bmiliars&r while draining your enemies' life."]
+	quest.62B0913266F48F45.quest_desc: ["妖精使魔可以在吸取敌人生命值的同时治愈并&6支援&r其他&b使魔&r。"]
 	quest.62B0913266F48F45.quest_subtitle: "萨尼铁塔！"
 	quest.62B245A23CA62678.quest_desc: [
 		"  你现在&6合成&r的这些&b管道&r是用于&6运输&r各种&b流体&r和&b气体&r的。它不能同时运输一种以上的&b流体&r，而且它&6不会&r自动连接到附近的&6空&b管道&r、&b容器&r或者&b机器&r，所以你需要用&b扳手&r来&6配置&r它。"
@@ -4701,21 +4701,21 @@
 	]
 	quest.67ACD099BDB606FA.quest_subtitle: "异界视野"
 	quest.67B17617F57B247F.quest_desc: [
-		"The &bElevator&r uses &7pressure&r to move you up and down to different floors using the &bController&r, by placing one &bElevator&r you can go up a &etotal&r of six blocks, if you stack the &bElevator Bases&r on top of each above the &cmax height&r it'll &aincrease&r it with six by each you place."
+		"&b电梯&r使用&7压力&r，使你可以通过&b电梯呼叫器&r上下移动到不同的楼层，放置一个&b电梯&r你可以上升&e总共&r六格，如果你将&b电梯基座&r叠放在每个电梯的&c最大高度&r上，每放置一个就会&a增加&r六格。"
 		""
-		"You can also &aincrease&r the width and depth of the &bElevator&r by adding the same amount of &bElevator Bases&r as the initial placement. "
+		"你还可以像一开始放置的那样，通过&a添加&r一定数量的&b电梯基座&r来增加&b电梯&r的宽度和深度。"
 		""
-		"The &bController&r is placed at &eeye level&r, one block off the ground and to the left or right but adjacent to the &bElevator&r touching the &bElevator Shaft&r, must be placed at every block for the &bElevator&r to go up, as it rides the &brails&r. "
+		"&b电梯呼叫器&r放置在&e与眼睛平齐的高度&r，也就是离地面一格，向左或向右，但与接触&b电梯框架&r的&b电梯&r相邻。因为电梯沿着&b轨道&r行驶，所以每个需要呼叫&b电梯&r的格子都必须放置&b控制器&r。"
 		""
-		"If you want the &bElevator&r to go up &330 blocks&r with &athree floors&r you will need:"
+		"如果你想用三个楼层让&b电梯&r上升&330格&r，你需要："
 		""
-		"&96&r &bElevator Bases&r x width and depth."
+		"&96个&r&b电梯基座&r x 宽度和深度。"
 		""
-		"&930 &bElevator Shafts&r x width and depth."
+		"&930个&b电梯框架&r x 宽度和深度。"
 		""
-		"&91&r &bController&r for each floor, so three. "
+		"每个楼层需要&9一个&r&b电梯呼叫器&r，所以总共三个。"
 		""
-		"The &7pressure&r required for the &bElevator&r maxes out at &c5.0&r and doesnt increase based on &bElevator Bases&r."
+		"&b电梯&r所需的&7压力&r最大为&c5.0&r，不会根据&b电梯基座&r数量增加。"
 	]
 	quest.67B17617F57B247F.title: "电梯"
 	quest.67D5ED5703F35A2D.quest_desc: [
@@ -5502,7 +5502,7 @@
 	quest.75C95D894C3B3428.quest_subtitle: "一阶：已解锁"
 	quest.75FE996305813D68.quest_desc: ["要寻找&6陨石&r，你需要制作一个&b陨石罗盘&r，&b罗盘&f会指向离你最近的&6陨石&f。"]
 	quest.75FE996305813D68.quest_subtitle: "找到陨石"
-	quest.75FE996305813D68.title: "What is the bol- roc- meteor?"
+	quest.75FE996305813D68.title: "那个火—陨—流星是什么？"
 	quest.7610F9A545A15194.quest_desc: [
 		"&b太阳能发电机&r用&6太阳&r来产生&e能量&r。"
 		""
@@ -5523,7 +5523,7 @@
 		""
 		"对具有&6火焰抗性&r的生物&c效果极佳&r。"
 	]
-	quest.7790ABA120E4EBA9.quest_desc: ["Once you have mastered the basics, you can move on to working with &bDjinn&r, intermediate-level spirits."]
+	quest.7790ABA120E4EBA9.quest_desc: ["你掌握了基础知识之后，就可以继续与中级魔灵——&b巨灵&r一起工作了。"]
 	quest.7790ABA120E4EBA9.quest_subtitle: "熟练"
 	quest.77968A26B3D90399.quest_desc: [""]
 	quest.77968A26B3D90399.quest_subtitle: "我敢说，这是游戏中最好用的扳手。"
@@ -5634,9 +5634,9 @@
 		"注意：使用&b水晶装配器&f制作的&b恩特罗化的福鲁伊克斯母岩&f比手动制作的要&a低一级&f。"
 	]
 	quest.7A7F75393420DB4C.quest_desc: [
-		"It can be a hassle to harvest &bOtherwood saplings&r - as they are unstable, you can only see and harvest them while under the Third Eye."
+		"&b异界树苗&r并不稳定，你只能在第三只眼的状态下看到并收集它们，这也许很麻烦。"
 		""
-		"This trade spirit fixes that little problem, by &6exchanging&r your &bunstable saplings&r with ones that need no &bThird Eye&r to interact with."
+		"异界树苗交易者可以解决这个小问题，你可以用&b不稳定的树苗&r，来&6交换&r不用&b第三只眼&r交互的树苗。"
 	]
 	quest.7A7F75393420DB4C.quest_subtitle: "神秘植物园"
 	quest.7A7F75393420DB4C.title: "仪式：召唤异界树苗交易者"
@@ -5754,7 +5754,7 @@
 		""
 		"然而，碎矿魔灵还有几个更&6独特&r的配方，对于获得&b粉笔&r，以接触更强大的魔灵是必不可少的。"
 	]
-	quest.7CB7BF24437115A4.quest_subtitle: "I have a crush"
+	quest.7CB7BF24437115A4.quest_subtitle: "“碎”喜欢你"
 	quest.7CB7BF24437115A4.title: "仪式：召唤魔精碎矿者"
 	quest.7CF09238E123231F.quest_desc: [
 		"&b雷霆之杖&r能为你提供 &a+15%&r的&9法术冷却缩减&r和&e雷霆法术强度&r，它还为非雷霆法术卷轴提供&a5%&r的法术强度。"
@@ -5770,13 +5770,13 @@
 	]
 	quest.7D0CF81F7E703B71.title: "青铜水泵"
 	quest.7D155344A5A6CEF7.quest_desc: [
-		"A &bThermal Compressor&r uses &etemperature differences&r on opposite sides of the block to compress &7air&r. "
+		"&b温差压缩机&r利用块体两侧的&e温差&r来压缩&7空气&r。"
 		""
-		"To operate it, place a &chigh-temperature&r block on one side and a &alow-temperature&r block on the opposite side. "
+		"将一个&c高温&r方块放在一侧，将一个&a低温&r方块放在另一侧来操作它。"
 		""
-		"Note: &3North-South&r faces are &ethermally&r connected to each other, as are the &3East-West&r faces, but there is no &ethermal connection&r between the &3North-South&r and &3East-West&r sides. "
+		"注意：&3南北面&r是&e热连接&r的，就像&3东西面&r一样，但&3南北面&r和&3东西面&r之间没有&e热连接&r。"
 		""
-		"The &ethermally connected&r sides will try to equalize their &btemperatures&r, so it's important to maintain a &csignificant&r temperature differential for &aeffective&r operation."
+		"&e热连接&r侧会试图使它们的&b温度&r相等，因此保持&c显著&r的温差对于&a高效&r操作很重要。"
 	]
 	quest.7D36F35D54BD7812.quest_desc: [
 		"你可以通过破坏矮草偶尔找到&b魔鬼之梦种子&r。"
@@ -5993,7 +5993,7 @@
 	task.4D63FA888F0497B5.title: "召唤克苏鲁使魔"
 	task.4E775BAB4EB29C69.title: "任意#c:crops/garlic"
 	task.4F4699F9117BC270.title: "预编程无人机"
-	task.4F7787C0557CF5CC.title: "Apo The Carist"
+	task.4F7787C0557CF5CC.title: "关怀备至"
 	task.52C834FDFA57A474.title: "召唤眼魔使魔"
 	task.5327B3CEDA60D4BE.title: "任意#c:raw_materials/silver"
 	task.5397C5FA8788480F.title: "任意#c:seeds/rice"
