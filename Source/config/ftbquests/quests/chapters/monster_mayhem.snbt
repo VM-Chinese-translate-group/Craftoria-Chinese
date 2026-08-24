@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: "circle"
 	default_quest_size: 1.25d
-	filename: "Monster Mayhem"
+	filename: "monster_mayhem"
 	group: "07A79347BA55DCA4"
 	icon: {
 		id: "minecraft:zombie_head"
@@ -11,6 +11,7 @@
 	images: [
 		{
 			height: 4.0d
+			id: "2E9B06F3D72F6612"
 			image: "minecraft:block/glow_item_frame"
 			rotation: 45.0d
 			width: 4.0d
@@ -20,6 +21,7 @@
 		{
 			alpha: 128
 			height: 2.0d
+			id: "1C59B8AFA7861A3D"
 			image: "eternal_starlight:block/abyssal_fire_0"
 			order: 2
 			rotation: 0.0d
@@ -30,6 +32,7 @@
 		{
 			alpha: 128
 			height: 2.0d
+			id: "4E5DF2D9A65D49E5"
 			image: "eternal_starlight:block/abyssal_fire_0"
 			order: 2
 			rotation: 180.0d
@@ -40,6 +43,7 @@
 		{
 			alpha: 128
 			height: 2.0d
+			id: "1BD6024DD45E281D"
 			image: "eternal_starlight:block/abyssal_fire_0"
 			order: 2
 			rotation: 90.0d
@@ -50,6 +54,7 @@
 		{
 			alpha: 128
 			height: 2.0d
+			id: "740760A8B8B5E8DE"
 			image: "eternal_starlight:block/abyssal_fire_0"
 			order: 2
 			rotation: -90.0d
@@ -60,6 +65,7 @@
 		{
 			alpha: 128
 			height: 2.0d
+			id: "77E3EB278493A85B"
 			image: "eternal_starlight:block/abyssal_fire_0"
 			order: 2
 			rotation: 45.0d
@@ -70,6 +76,7 @@
 		{
 			alpha: 128
 			height: 2.0d
+			id: "04602A891DE6D5CD"
 			image: "eternal_starlight:block/abyssal_fire_0"
 			order: 2
 			rotation: -45.0d
@@ -80,6 +87,7 @@
 		{
 			alpha: 128
 			height: 2.0d
+			id: "188EA79F77123BEE"
 			image: "eternal_starlight:block/abyssal_fire_0"
 			order: 2
 			rotation: 135.0d
@@ -90,6 +98,7 @@
 		{
 			alpha: 128
 			height: 2.0d
+			id: "7E73CF76AE981A90"
 			image: "eternal_starlight:block/abyssal_fire_0"
 			order: 2
 			rotation: -135.0d
@@ -99,6 +108,7 @@
 		}
 		{
 			height: 5.0d
+			id: "2C978BEEF85BC39C"
 			image: "minecraft:textures/painting/skull_and_roses.png"
 			order: 1
 			rotation: 0.0d
@@ -108,6 +118,7 @@
 		}
 		{
 			height: 5.0d
+			id: "49B8BBFD1850D13F"
 			image: "minecraft:textures/painting/burning_skull.png"
 			order: 1
 			rotation: 0.0d
@@ -117,6 +128,7 @@
 		}
 		{
 			height: 4.0d
+			id: "58F65C4D697E2EF4"
 			image: "yigd:textures/gui/sprites/unclaimed_grave.png"
 			order: 6
 			rotation: 0.0d
@@ -127,6 +139,7 @@
 		{
 			alpha: 192
 			height: 2.0d
+			id: "4C1036B5C40BF5E4"
 			image: "irons_spellbooks:textures/gui/spell_icons/heartstop.png"
 			order: 4
 			rotation: -45.0d
@@ -136,6 +149,7 @@
 		}
 		{
 			height: 4.0d
+			id: "5F3CA1DC5A21B798"
 			image: "chipped:block/glowstone/glowstone_lantern"
 			rotation: 45.0d
 			width: 4.0d
@@ -145,6 +159,7 @@
 		{
 			color: 9699328
 			height: 5.25d
+			id: "1E33BF19B2C7A52E"
 			image: "ftbquests:textures/shapes/square/background.png"
 			rotation: 0.0d
 			width: 5.25d
@@ -154,6 +169,7 @@
 		{
 			color: 9699328
 			height: 5.25d
+			id: "171332C88B5F12D4"
 			image: "ftbquests:textures/shapes/square/background.png"
 			rotation: 0.0d
 			width: 5.25d

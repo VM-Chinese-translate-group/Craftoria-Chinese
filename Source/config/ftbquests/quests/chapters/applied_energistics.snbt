@@ -1,7 +1,7 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "Applied Energistics"
+	filename: "applied_energistics"
 	group: "04696DE4EC4D4A94"
 	icon: {
 		id: "ae2:mysterious_cube"
@@ -11,6 +11,7 @@
 		{
 			color: 5477327
 			height: 21.0d
+			id: "0661EF7BD34A2395"
 			image: "ae2:part/formation_plane_on"
 			rotation: 0.0d
 			width: 34.0d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 21.0d
+			id: "2D064E5A5D030E8A"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			order: 1
 			rotation: 0.0d
@@ -28,6 +30,7 @@
 		}
 		{
 			height: 21.0d
+			id: "13F37590632928D8"
 			image: "ae2:block/spatial_pylon/base_spanned"
 			rotation: 180.0d
 			width: 1.0d
@@ -36,6 +39,7 @@
 		}
 		{
 			height: 1.0d
+			id: "4C1B71727CC80D29"
 			image: "ae2:block/spatial_io_port_top"
 			order: 100
 			rotation: 0.0d
@@ -45,6 +49,7 @@
 		}
 		{
 			height: 1.0d
+			id: "323D9387FDCC9E8B"
 			image: "ae2:item/spatial_storage_cell_128"
 			order: 2
 			rotation: -22.5d
@@ -54,6 +59,7 @@
 		}
 		{
 			height: 1.0d
+			id: "286D2C54AA6ADC29"
 			image: "ae2:block/controller_lights"
 			order: 10
 			rotation: 0.0d
@@ -63,6 +69,7 @@
 		}
 		{
 			height: 1.0d
+			id: "68868287BFC523F9"
 			image: "ae2:block/controller"
 			rotation: 0.0d
 			width: 1.0d
@@ -71,6 +78,7 @@
 		}
 		{
 			height: 1.0d
+			id: "04892D742F1B374F"
 			image: "ae2wtlib:item/wireless_universal_terminal"
 			order: 110
 			rotation: 22.5d
@@ -80,6 +88,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2086C2494D9E234B"
 			image: "ae2:item/spatial_storage_cell_16"
 			rotation: -45.0d
 			width: 1.0d
@@ -88,6 +97,7 @@
 		}
 		{
 			height: 1.0d
+			id: "10D3566199C94EE6"
 			image: "ae2:item/spatial_storage_cell_2"
 			order: 1
 			rotation: 0.0d
@@ -97,6 +107,7 @@
 		}
 		{
 			height: 1.0d
+			id: "3E5572CC74271533"
 			image: "ae2:block/vibration_chamber_front_on"
 			rotation: 0.0d
 			width: 1.0d
@@ -105,6 +116,7 @@
 		}
 		{
 			height: 34.0d
+			id: "38C50FD4FD7CEF68"
 			image: "ae2:block/spatial_pylon/red_spanned"
 			order: 10
 			rotation: 90.0d
@@ -114,6 +126,7 @@
 		}
 		{
 			height: 34.0d
+			id: "1E1FFD034C2E87FF"
 			image: "ae2:block/spatial_pylon/base_spanned"
 			rotation: 90.0d
 			width: 1.0d
@@ -122,6 +135,7 @@
 		}
 		{
 			height: 2.0d
+			id: "318A9EEDFC9B86E9"
 			image: "ae2:block/quantum_ring_light"
 			order: 100
 			rotation: 0.0d
@@ -131,6 +145,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2817B6EF98E116AA"
 			image: "ae2:block/quantum_ring_light_corner"
 			order: 100
 			rotation: 0.0d
@@ -140,6 +155,7 @@
 		}
 		{
 			height: 2.0d
+			id: "1E66C714E98B5EBC"
 			image: "ae2:block/mysterious_cube_side"
 			order: 100
 			rotation: 0.0d
@@ -150,6 +166,7 @@
 		{
 			color: 3377407
 			height: 4.0d
+			id: "17D80C647E34071D"
 			image: "ftbquests:textures/gui/title_ae2.png"
 			order: 10
 			rotation: 0.0d
@@ -159,6 +176,7 @@
 		}
 		{
 			height: 1.0d
+			id: "6F2A6FE7B5F5A5F6"
 			image: "ftbquests:textures/gui/background_warm_black.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -168,6 +186,7 @@
 		{
 			color: 2621695
 			height: 1.0d
+			id: "6E0F5352236B8BEC"
 			image: "ftbquests:textures/shapes/circle/shape.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -450,6 +469,7 @@
 					id: "ae2:flawless_budding_quartz"
 				}
 				id: "7A0371393E813129"
+				observation_type: "block_tag"
 				observe_type: 1
 				timer: 0L
 				to_observe: "craftoria:ae2_buddings"
@@ -1867,6 +1887,7 @@
 					id: "extendedae:entro_budding_fully"
 				}
 				id: "3BC634992A1E9BAD"
+				observation_type: "block_tag"
 				observe_type: 1
 				timer: 0L
 				to_observe: "craftoria:exae_buddings"

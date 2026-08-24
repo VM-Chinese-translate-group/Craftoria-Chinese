@@ -1,7 +1,7 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: "hexagon"
-	filename: "Organized Storage"
+	filename: "organized_storage"
 	group: "49042A4D0EC96D55"
 	icon: {
 		id: "functionalstorage:compacting_drawer"
@@ -10,6 +10,7 @@
 	images: [
 		{
 			height: 6.0d
+			id: "06BD0AF1D1CDCC84"
 			image: "chipped:block/barrel/gilded_barrel_bottom"
 			order: 1
 			rotation: 0.0d
@@ -19,6 +20,7 @@
 		}
 		{
 			height: 6.0d
+			id: "26AA322A64B92CB0"
 			image: "modern_industrialization:block/bronze_barrel_side"
 			order: 1
 			rotation: 0.0d
@@ -29,6 +31,7 @@
 		{
 			alpha: 192
 			height: 6.0d
+			id: "4FD9BF4E2CFE6381"
 			image: "mekanism:ctm/teleporter_frame"
 			order: 1
 			rotation: 0.0d
@@ -38,6 +41,7 @@
 		}
 		{
 			height: 6.0d
+			id: "1C8075294EAF89E3"
 			image: "functionalstorage:block/ender_side"
 			order: 1
 			rotation: 0.0d
@@ -48,6 +52,7 @@
 		{
 			alpha: 196
 			height: 7.0d
+			id: "414586E0CADC16B9"
 			image: "ae2:block/fluix_block_v"
 			order: 1
 			rotation: 0.0d
@@ -58,6 +63,7 @@
 		{
 			alpha: 196
 			height: 7.0d
+			id: "15B4FA46F45C1EBC"
 			image: "ae2:block/fluix_block_v"
 			order: 1
 			rotation: 180.0d
@@ -69,6 +75,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "3034A81D818BED7C"
 			image: "ftbquests:textures/shapes/hexagon/background.png"
 			order: 10
 			rotation: 0.0d
@@ -80,6 +87,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "14BB3CCB3B06DF99"
 			image: "ftbquests:textures/shapes/hexagon/background.png"
 			order: 10
 			rotation: 0.0d
@@ -91,6 +99,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "3C100B2A2DA0E5D0"
 			image: "ftbquests:textures/shapes/hexagon/background.png"
 			order: 3
 			rotation: 0.0d
@@ -102,6 +111,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "30EAA0FFEB7A62DD"
 			image: "ftbquests:textures/shapes/hexagon/background.png"
 			order: 3
 			rotation: 0.0d
@@ -113,6 +123,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "22C147FEC9EDDBC5"
 			image: "ftbquests:textures/shapes/hexagon/background.png"
 			order: 3
 			rotation: 0.0d
@@ -124,6 +135,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "1B6214807F9C35E3"
 			image: "ftbquests:textures/shapes/hexagon/background.png"
 			order: 3
 			rotation: 0.0d
@@ -135,6 +147,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "1C894F230E6ACCC9"
 			image: "ftbquests:textures/shapes/hexagon/background.png"
 			order: 3
 			rotation: 0.0d
@@ -146,6 +159,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "6DB1114BA8FEF2D1"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			order: 3
 			rotation: 0.0d
@@ -157,6 +171,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "67CC9A03D8A67785"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			order: 3
 			rotation: 0.0d
@@ -168,6 +183,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "48A2D599A79743E6"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			order: 3
 			rotation: 0.0d
@@ -179,6 +195,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "071DA761E62F2A77"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			order: 3
 			rotation: 0.0d
@@ -189,6 +206,7 @@
 		{
 			alpha: 192
 			height: 6.0d
+			id: "36BCAAC892355E80"
 			image: "mekanism:ctm/superheating_element_on_led"
 			order: 2
 			rotation: 0.0d
