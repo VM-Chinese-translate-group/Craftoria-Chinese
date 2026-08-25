@@ -1,7 +1,7 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "Relics and Artifacts"
+	filename: "relics_and_artifacts"
 	group: "07A79347BA55DCA4"
 	icon: {
 		components: {
@@ -47,6 +47,7 @@
 	images: [
 		{
 			height: 2.5d
+			id: "456C714E0103BD1A"
 			image: "ftbquests:textures/gui/relics.png"
 			order: 10
 			rotation: 30.0d
@@ -56,6 +57,7 @@
 		}
 		{
 			height: 3.0d
+			id: "630763EC4218CCDB"
 			image: "ftbquests:textures/gui/artifacts.png"
 			order: 10
 			rotation: -150.0d
@@ -66,6 +68,7 @@
 		{
 			color: 7571973
 			height: 128.0d
+			id: "4581FF83A4DC8A69"
 			image: "ftbquests:textures/shapes/square/shape.png"
 			rotation: -60.0d
 			width: 56.0d
@@ -75,6 +78,7 @@
 		{
 			color: 2294015
 			height: 2.0d
+			id: "0A2A32BA0C0F3153"
 			image: "ftbquests:textures/shapes/circle/shape.png"
 			order: 100
 			rotation: 0.0d
@@ -86,6 +90,7 @@
 			alpha: 160
 			color: 0
 			height: 3.0d
+			id: "48174F683E50EE0D"
 			image: "ftbquests:textures/gui/artifacts.png"
 			order: 5
 			rotation: -150.0d
@@ -97,6 +102,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "5283DBBD6E09AAD6"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -106,6 +112,7 @@
 		{
 			color: 5855927
 			height: 128.0d
+			id: "10B66BA2F5EDB144"
 			image: "ftbquests:textures/shapes/square/shape.png"
 			rotation: -60.0d
 			width: 56.0d
@@ -116,6 +123,7 @@
 			alpha: 160
 			color: 0
 			height: 2.5d
+			id: "549C2A9126E18B28"
 			image: "ftbquests:textures/gui/relics.png"
 			order: 5
 			rotation: 30.0d
@@ -127,6 +135,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "08042F9BC6A6E1C4"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -137,6 +146,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "02C9EB32FB9BE173"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -147,6 +157,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "1F2E32838191C70A"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -157,6 +168,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "1D73F39878FF2808"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -167,6 +179,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "4B4B92F3748C3BE2"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -177,6 +190,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "601AC71E6C0EB00C"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -187,6 +201,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "250F1F5C13EE0044"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -197,6 +212,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "5428DD0CB8DAD58E"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -207,6 +223,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "246C6678BADF35BD"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -217,6 +234,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "2F8BCAF08F558775"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -227,6 +245,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "4888A6BBE1DE18C5"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -237,6 +256,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "6B43A5264B3163B8"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -247,6 +267,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "34C3FFC084C720DF"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -257,6 +278,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "58B69AD8096B9BEE"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -267,6 +289,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "30036D1F7150DE0F"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -277,6 +300,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "596A7FC6B284CDF2"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -287,6 +311,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "3DA6D69F8F9C4677"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -297,6 +322,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "29C30E107DF77246"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -307,6 +333,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "755E42B29F9F7256"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -317,6 +344,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "690AD8E7AF16D741"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -327,6 +355,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "0DB3C0924FDBB6D5"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -337,6 +366,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "6E3132D75DB19EB2"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -347,6 +377,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "4C17782FE339EE6D"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -357,6 +388,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "02054DEE114CE158"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -367,6 +399,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "6E81A3F84E0F6713"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -377,6 +410,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "7814FEEFBD8765F1"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -387,6 +421,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "365CD7785D8E9ABB"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -397,6 +432,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "713058A2B6187345"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -407,6 +443,7 @@
 			alpha: 192
 			color: 0
 			height: 1.25d
+			id: "4ABE6C3059724BD6"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -417,6 +454,7 @@
 			alpha: 192
 			color: 0
 			height: 1.25d
+			id: "1DCF1DEFDE1CB23F"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -426,6 +464,7 @@
 		{
 			color: 2294015
 			height: 2.0d
+			id: "3C54AA288D05F47A"
 			image: "ftbquests:textures/shapes/circle/shape.png"
 			order: 100
 			rotation: 0.0d
@@ -437,6 +476,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "0E6EAC708E31C382"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -447,6 +487,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "2624426B26E87AEF"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -457,6 +498,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "7A41937278825F81"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -467,6 +509,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "638BDFC59ACC324D"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -477,6 +520,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "6D8A4DD9EC7DB977"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -487,6 +531,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "08D698FE7FCFFB7F"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -497,6 +542,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "2160A4B4225EC668"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -507,6 +553,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "312CD621B9652C24"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -517,6 +564,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "5C74E6024C5D610C"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -527,6 +575,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "1BFFEF3E5D162E2C"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -537,6 +586,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "4FFD4E787E796E5C"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -547,6 +597,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "686474FFA8E285F4"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -557,6 +608,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "0A86BE19B7F181BA"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -567,6 +619,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "110BDB5C4C69D014"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -577,6 +630,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "3C0CA85B9C01B7E8"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -587,6 +641,7 @@
 			alpha: 192
 			color: 0
 			height: 1.25d
+			id: "09F552CDECEC59CA"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -597,6 +652,7 @@
 			alpha: 192
 			color: 0
 			height: 1.25d
+			id: "1057E0FA1675BB0F"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -607,6 +663,7 @@
 			alpha: 192
 			color: 0
 			height: 1.25d
+			id: "6FAF847B3AA7D4E0"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -617,6 +674,7 @@
 			alpha: 192
 			color: 0
 			height: 1.25d
+			id: "2442F1C22D9A042D"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -627,6 +685,7 @@
 			alpha: 192
 			color: 0
 			height: 1.25d
+			id: "192A85D0CB31A97A"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -637,6 +696,7 @@
 			alpha: 192
 			color: 0
 			height: 1.25d
+			id: "10EC30B4316062B1"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -647,6 +707,7 @@
 			alpha: 192
 			color: 0
 			height: 1.25d
+			id: "616DA48884D10FF6"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -657,6 +718,7 @@
 			alpha: 192
 			color: 0
 			height: 1.25d
+			id: "098DE980865AB97E"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -667,6 +729,7 @@
 			alpha: 192
 			color: 0
 			height: 1.25d
+			id: "1B2CABCED810C3C6"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -677,6 +740,7 @@
 			alpha: 192
 			color: 0
 			height: 1.25d
+			id: "3E2DC249A579A284"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -687,6 +751,7 @@
 			alpha: 192
 			color: 0
 			height: 1.25d
+			id: "1BC1B89132268068"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -697,6 +762,7 @@
 			alpha: 192
 			color: 0
 			height: 1.25d
+			id: "59DA6731EA8EDBC2"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -707,6 +773,7 @@
 			alpha: 192
 			color: 0
 			height: 1.25d
+			id: "1A60A69C64C24418"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -717,6 +784,7 @@
 			alpha: 192
 			color: 0
 			height: 1.25d
+			id: "08026149181A1E41"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -727,6 +795,7 @@
 			alpha: 192
 			color: 0
 			height: 1.25d
+			id: "25EA2A2CA5DFD0C6"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -737,6 +806,7 @@
 			alpha: 192
 			color: 0
 			height: 1.25d
+			id: "64BD3F4AE01C8206"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -747,6 +817,7 @@
 			alpha: 192
 			color: 0
 			height: 1.25d
+			id: "13952C499404BF83"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -757,6 +828,7 @@
 			alpha: 192
 			color: 0
 			height: 1.25d
+			id: "6286E1FE554A9757"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -767,6 +839,7 @@
 			alpha: 192
 			color: 0
 			height: 1.25d
+			id: "477F268935387CBE"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -777,6 +850,7 @@
 			alpha: 192
 			color: 0
 			height: 1.25d
+			id: "10B22D17E0F502D8"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -787,6 +861,7 @@
 			alpha: 192
 			color: 0
 			height: 1.25d
+			id: "7087EA3045A2E201"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -797,6 +872,7 @@
 			alpha: 192
 			color: 0
 			height: 1.25d
+			id: "087A62F0F965A308"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -807,6 +883,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "42950D69836B3E11"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -817,6 +894,7 @@
 			alpha: 192
 			color: 0
 			height: 1.25d
+			id: "298580448038BE5D"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.25d
@@ -827,6 +905,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "01348816C4B02E08"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -837,6 +916,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "433DAE7272D027FB"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -847,6 +927,7 @@
 			alpha: 192
 			color: 0
 			height: 1.0d
+			id: "5CB9392A796B0A9D"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -857,6 +938,7 @@
 			alpha: 192
 			color: 0
 			height: 1.5d
+			id: "58ECA3448D778DAB"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			rotation: 0.0d
 			width: 1.5d

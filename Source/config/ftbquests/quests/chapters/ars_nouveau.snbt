@@ -2,7 +2,7 @@
 	autofocus_id: "70E5F2E588EFEC0D"
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "Ars Nouveau"
+	filename: "ars_nouveau"
 	group: "01BEAD68B1D370D3"
 	icon: {
 		id: "ars_nouveau:creative_spell_book"
@@ -12,6 +12,7 @@
 		{
 			alpha: 128
 			height: 2.0d
+			id: "624D761869D481A1"
 			image: "ars_nouveau:block/fire_0"
 			rotation: 0.0d
 			width: 2.0d
@@ -21,6 +22,7 @@
 		{
 			alpha: 128
 			height: 2.0d
+			id: "72B91BA41D7A324B"
 			image: "ars_nouveau:block/fire_1"
 			order: 90
 			rotation: 45.0d
@@ -31,6 +33,7 @@
 		{
 			alpha: 128
 			height: 2.0d
+			id: "41CC738CE89D1B62"
 			image: "ars_nouveau:block/fire_2"
 			order: 2
 			rotation: 90.0d
@@ -41,6 +44,7 @@
 		{
 			alpha: 128
 			height: 2.0d
+			id: "41072B021C1710D4"
 			image: "ars_nouveau:block/fire_0"
 			order: 3
 			rotation: 135.0d
@@ -51,6 +55,7 @@
 		{
 			alpha: 128
 			height: 2.0d
+			id: "38729BA6E5B8F89F"
 			image: "ars_nouveau:block/fire_1"
 			order: 4
 			rotation: 180.0d
@@ -61,6 +66,7 @@
 		{
 			alpha: 128
 			height: 2.0d
+			id: "20C4632C988B4F47"
 			image: "ars_nouveau:block/fire_2"
 			order: 5
 			rotation: 225.0d
@@ -71,6 +77,7 @@
 		{
 			alpha: 128
 			height: 2.0d
+			id: "39981628C35FAE42"
 			image: "ars_nouveau:block/fire_0"
 			order: 5
 			rotation: 270.0d
@@ -81,6 +88,7 @@
 		{
 			alpha: 128
 			height: 2.0d
+			id: "51F873EE5C1B6530"
 			image: "ars_nouveau:block/fire_1"
 			order: 6
 			rotation: 315.0d
@@ -91,6 +99,7 @@
 		{
 			color: 13415424
 			height: 5.0d
+			id: "7E9526581404BA61"
 			image: "ftbquests:textures/gui/title_an.png"
 			order: 200
 			rotation: 0.0d
@@ -101,6 +110,7 @@
 		{
 			color: 0
 			height: 1.0d
+			id: "3332B73C85B59CF3"
 			image: "ars_nouveau:textures/particle/sparkle_0.png"
 			rotation: 0.0d
 			width: 1.0d
@@ -109,6 +119,7 @@
 		}
 		{
 			height: 2.0d
+			id: "5FC2E51F651F6B59"
 			image: "ars_nouveau:block/mage_block_transparent"
 			order: 100
 			rotation: 0.0d
@@ -118,6 +129,7 @@
 		}
 		{
 			height: 3.0d
+			id: "2ACDA6570D3EF377"
 			image: "occultism:textures/gui/book/pentagram_rose.png"
 			rotation: 36.5d
 			width: 3.0d
@@ -126,6 +138,7 @@
 		}
 		{
 			height: 2.5d
+			id: "1A13B56472654B67"
 			image: "farmersdelight:item/diamond_knife"
 			order: 1
 			rotation: 172.0d
@@ -135,6 +148,7 @@
 		}
 		{
 			height: 3.0d
+			id: "6A3E4C73EA506222"
 			image: "farmersdelight:item/netherite_knife"
 			order: 1
 			rotation: 180.0d
@@ -144,6 +158,7 @@
 		}
 		{
 			height: 3.0d
+			id: "0D5F3F5853E640A8"
 			image: "minecraft:item/cooked_beef"
 			rotation: 40.0d
 			width: 3.0d
@@ -153,6 +168,7 @@
 		{
 			color: 15677439
 			height: 3.0d
+			id: "62E1ACA6327B7D2C"
 			image: "twilightforest:block/pedestal/naga_glow"
 			rotation: 0.0d
 			width: 3.0d
@@ -162,6 +178,7 @@
 		{
 			color: 16367615
 			height: 2.0d
+			id: "7E4C892B64562484"
 			image: "ars_elemental:item/necrotic_focus"
 			order: -1
 			rotation: -45.0d
@@ -172,6 +189,7 @@
 		{
 			color: 16732965
 			height: 1.5d
+			id: "73EF0EF60A22CBC6"
 			image: "apotheosis:items/potion_charm_glow"
 			rotation: 56.0d
 			width: 1.5d
@@ -181,6 +199,7 @@
 		{
 			color: 16718624
 			height: 1.5d
+			id: "553137AC5F39C0B1"
 			image: "apotheosis:items/potion_charm_glow"
 			rotation: 0.0d
 			width: 1.5d
@@ -190,6 +209,7 @@
 		{
 			alpha: 220
 			height: 1.25d
+			id: "2095A94766743585"
 			image: "modern_industrialization:item/aluminum_plate"
 			rotation: -45.0d
 			width: 1.25d
@@ -199,6 +219,7 @@
 		{
 			alpha: 220
 			height: 1.25d
+			id: "2824FC52AC3C96A0"
 			image: "modern_industrialization:item/bronze_plate"
 			rotation: -90.0d
 			width: 1.25d
@@ -208,6 +229,7 @@
 		{
 			alpha: 220
 			height: 1.25d
+			id: "4C96495A016E5221"
 			image: "modern_industrialization:item/stainless_steel_plate"
 			rotation: 0.0d
 			width: 1.25d
@@ -217,6 +239,7 @@
 		{
 			alpha: 220
 			height: 1.25d
+			id: "4CA0CFE352F42745"
 			image: "modern_industrialization:item/copper_dust"
 			rotation: -135.0d
 			width: 1.25d
@@ -226,6 +249,7 @@
 		{
 			alpha: 220
 			height: 1.25d
+			id: "6B76732D4946C3EC"
 			image: "modern_industrialization:item/tin_dust"
 			rotation: 135.0d
 			width: 1.25d
@@ -235,6 +259,7 @@
 		{
 			alpha: 220
 			height: 1.25d
+			id: "1B2B46EF2A23110A"
 			image: "modern_industrialization:item/iron_dust"
 			rotation: -180.0d
 			width: 1.25d
@@ -244,6 +269,7 @@
 		{
 			alpha: 150
 			height: 3.0d
+			id: "02C0FD61122F2707"
 			image: "ars_elemental:item/_glyph_template_form"
 			order: -1
 			rotation: 0.0d
@@ -253,6 +279,7 @@
 		}
 		{
 			height: 2.0d
+			id: "2484846549EB7979"
 			image: "minecraft:block/stonecutter_saw"
 			order: -1
 			rotation: 0.0d
@@ -262,6 +289,7 @@
 		}
 		{
 			height: 2.0d
+			id: "761ADDB3AA75E97E"
 			image: "minecraft:block/stonecutter_saw"
 			order: -1
 			rotation: 180.0d
@@ -271,6 +299,7 @@
 		}
 		{
 			height: 1.0d
+			id: "5B97EFDE142C6DE9"
 			image: "minecraft:block/nether_portal"
 			rotation: 0.0d
 			width: 0.03125d
@@ -279,6 +308,7 @@
 		}
 		{
 			height: 1.0d
+			id: "2D16E4BAA7D99FAA"
 			image: "minecraft:block/nether_portal"
 			rotation: 0.0d
 			width: 0.03125d
@@ -288,6 +318,7 @@
 		{
 			color: 15426815
 			height: 1.0d
+			id: "06B3AA7DD15EED76"
 			image: "minecraft:block/nether_portal"
 			rotation: 0.0d
 			width: 1.0d
@@ -296,6 +327,7 @@
 		}
 		{
 			height: 2.0d
+			id: "6E6B53E2799AFB69"
 			image: "minecraft:block/stonecutter_saw"
 			order: -1
 			rotation: 90.0d
@@ -305,6 +337,7 @@
 		}
 		{
 			height: 2.0d
+			id: "327E72CCF47ADDE6"
 			image: "minecraft:block/stonecutter_saw"
 			order: -1
 			rotation: -90.0d
@@ -2661,8 +2694,8 @@
 											duration: 3600
 											id: "minecraft:wither"
 											"neoforge:cures": [
-												"protected_by_totem"
 												"milk"
+												"protected_by_totem"
 											]
 											show_icon: 1b
 										}
@@ -2673,8 +2706,8 @@
 											duration: 3600
 											id: "minecraft:poison"
 											"neoforge:cures": [
-												"protected_by_totem"
 												"milk"
+												"protected_by_totem"
 											]
 											show_icon: 1b
 										}
@@ -2685,8 +2718,8 @@
 											duration: 3600
 											id: "minecraft:hunger"
 											"neoforge:cures": [
-												"protected_by_totem"
 												"milk"
+												"protected_by_totem"
 											]
 											show_icon: 1b
 										}
@@ -2697,8 +2730,8 @@
 											duration: 3600
 											id: "minecraft:mining_fatigue"
 											"neoforge:cures": [
-												"protected_by_totem"
 												"milk"
+												"protected_by_totem"
 											]
 											show_icon: 1b
 										}

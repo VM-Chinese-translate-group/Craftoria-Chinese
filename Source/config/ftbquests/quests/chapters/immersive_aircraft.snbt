@@ -2,7 +2,7 @@
 	default_hide_dependency_lines: false
 	default_quest_shape: "diamond"
 	default_quest_size: 2.0d
-	filename: "Immersive Aircraft"
+	filename: "immersive_aircraft"
 	group: "07A79347BA55DCA4"
 	icon: {
 		id: "immersive_aircraft:biplane"
@@ -13,6 +13,7 @@
 			alpha: 128
 			color: 16711680
 			height: 2.5d
+			id: "75BA62F1356373E9"
 			image: "ftbquests:textures/shapes/diamond/shape.png"
 			rotation: 0.0d
 			width: 2.5d
@@ -21,7 +22,7 @@
 		}
 		{
 			height: 6.0d
-			hover: ["Air Caravan"]
+			id: "4E34D721F0838706"
 			image: "ftbquests:textures/gui/immair_cargoship.png"
 			rotation: -2.5d
 			width: 6.0d
@@ -30,7 +31,7 @@
 		}
 		{
 			height: 7.0d
-			hover: ["Da' plane! Da' Plane!"]
+			id: "2A6E901ECBE6C133"
 			image: "ftbquests:textures/gui/immair_biplane.png"
 			rotation: -10.0d
 			width: 7.0d
@@ -39,7 +40,7 @@
 		}
 		{
 			height: 7.0d
-			hover: ["Witness me!"]
+			id: "56440EA3C909025B"
 			image: "ftbquests:textures/gui/immair_warship.png"
 			rotation: 0.0d
 			width: 7.0d
@@ -48,7 +49,7 @@
 		}
 		{
 			height: 5.0d
-			hover: ["On a wing and a prayer"]
+			id: "2B673A94F85BBA93"
 			image: "ftbquests:textures/gui/immair_gyrodyne.png"
 			rotation: 0.0d
 			width: 5.0d
@@ -57,8 +58,9 @@
 		}
 		{
 			color: 43520
-			dev: true
+			dev: 1b
 			height: 1.0d
+			id: "195F3FE839665028"
 			image: "ftbquests:textures/shapes/circle/shape.png"
 			order: 100
 			rotation: 0.0d
@@ -68,8 +70,9 @@
 		}
 		{
 			color: 43520
-			dev: true
+			dev: 1b
 			height: 1.0d
+			id: "23B09451060B1D91"
 			image: "ftbquests:textures/shapes/circle/shape.png"
 			order: 100
 			rotation: 0.0d
@@ -81,6 +84,7 @@
 			alpha: 128
 			color: 16711680
 			height: 2.0d
+			id: "7B48DAA23390E540"
 			image: "ftbquests:textures/shapes/diamond/shape.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -91,6 +95,7 @@
 			alpha: 128
 			color: 16711680
 			height: 1.5d
+			id: "6E6A4CDBF61FA56A"
 			image: "ftbquests:textures/shapes/diamond/shape.png"
 			rotation: 0.0d
 			width: 1.5d
@@ -101,6 +106,7 @@
 			alpha: 128
 			color: 255
 			height: 2.5d
+			id: "18A6E325BA39F273"
 			image: "ftbquests:textures/shapes/diamond/shape.png"
 			rotation: 0.0d
 			width: 2.5d
@@ -111,6 +117,7 @@
 			alpha: 128
 			color: 255
 			height: 2.0d
+			id: "1CAA6E46DDEB6462"
 			image: "ftbquests:textures/shapes/diamond/shape.png"
 			rotation: 0.0d
 			width: 2.0d
@@ -121,6 +128,7 @@
 			alpha: 128
 			color: 255
 			height: 1.5d
+			id: "5AA0ED546A03C436"
 			image: "ftbquests:textures/shapes/diamond/shape.png"
 			rotation: 0.0d
 			width: 1.5d

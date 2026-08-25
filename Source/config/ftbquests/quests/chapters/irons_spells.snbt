@@ -1,7 +1,7 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: ""
-	filename: "Irons Spells"
+	filename: "irons_spells"
 	group: "01BEAD68B1D370D3"
 	icon: {
 		components: {
@@ -20,6 +20,7 @@
 			alpha: 128
 			color: 255
 			height: 21.0d
+			id: "6CC7632B0508FDD4"
 			image: "irons_spellbooks:textures/gui/overlays/heartstop.png"
 			order: 3
 			rotation: 0.0d
@@ -30,6 +31,7 @@
 		{
 			alpha: 192
 			height: 9.0d
+			id: "073CE01D3BC413B9"
 			image: "irons_spellbooks:item/energized_core_energy"
 			order: 5
 			rotation: 90.0d
@@ -39,6 +41,7 @@
 		}
 		{
 			height: 5.0d
+			id: "17E4AF1FFED9AF82"
 			image: "irons_spellbooks:item/energized_core_energy"
 			order: 5
 			rotation: -22.5d
@@ -49,6 +52,7 @@
 		{
 			alpha: 128
 			height: 11.0d
+			id: "2465FDFA6285FBCF"
 			image: "irons_spellbooks:item/energized_core_energy"
 			order: 3
 			rotation: 45.0d
@@ -58,6 +62,7 @@
 		}
 		{
 			height: 7.0d
+			id: "6239545CA1E08DFE"
 			image: "irons_spellbooks:item/energized_core_energy"
 			order: 5
 			rotation: 77.0d
@@ -69,6 +74,7 @@
 			alpha: 128
 			color: 255
 			height: 21.0d
+			id: "2059178F99C86261"
 			image: "irons_spellbooks:textures/gui/overlays/heartstop.png"
 			order: 3
 			rotation: 45.0d
@@ -80,6 +86,7 @@
 			alpha: 128
 			color: 255
 			height: 21.0d
+			id: "714889ADFDB868F8"
 			image: "irons_spellbooks:textures/gui/overlays/heartstop.png"
 			order: 3
 			rotation: -22.5d
@@ -91,6 +98,7 @@
 			alpha: 128
 			color: 255
 			height: 21.0d
+			id: "15FC6493A35E7EF8"
 			image: "irons_spellbooks:textures/gui/overlays/heartstop.png"
 			order: 5
 			rotation: 22.5d
@@ -101,6 +109,7 @@
 		{
 			alpha: 128
 			height: 3.0d
+			id: "7C7E543281302848"
 			image: "irons_spellbooks:item/energized_core_energy"
 			order: 10
 			rotation: 0.0d
@@ -112,6 +121,7 @@
 			alpha: 128
 			color: 255
 			height: 21.0d
+			id: "588C074FD8DC51E2"
 			image: "irons_spellbooks:textures/gui/overlays/heartstop.png"
 			order: 3
 			rotation: 12.25d
@@ -123,6 +133,7 @@
 			alpha: 128
 			color: 255
 			height: 21.0d
+			id: "0B0D7F22653B9245"
 			image: "irons_spellbooks:textures/gui/overlays/heartstop.png"
 			order: 3
 			rotation: -12.25d
@@ -134,6 +145,7 @@
 			alpha: 128
 			color: 255
 			height: 21.0d
+			id: "25E50C45DE94FE26"
 			image: "irons_spellbooks:textures/gui/overlays/heartstop.png"
 			order: 3
 			rotation: 34.5d
@@ -145,6 +157,7 @@
 			alpha: 128
 			color: 255
 			height: 21.0d
+			id: "094039AA26CE079E"
 			image: "irons_spellbooks:textures/gui/overlays/heartstop.png"
 			order: 3
 			rotation: -34.5d
@@ -155,6 +168,7 @@
 		{
 			alpha: 192
 			height: 5.0d
+			id: "48071F548777A181"
 			image: "irons_spellbooks:item/energized_core_energy"
 			order: 5
 			rotation: 100.0d
@@ -166,6 +180,7 @@
 			alpha: 128
 			color: 12779777
 			height: 7.0d
+			id: "0E77CD653ED67FF5"
 			image: "irons_spellbooks:textures/gui/overlays/heartstop.png"
 			order: 8
 			rotation: 45.0d
@@ -177,6 +192,7 @@
 			alpha: 128
 			color: 12779777
 			height: 7.0d
+			id: "0C58F8FAAB6FB8D4"
 			image: "irons_spellbooks:textures/gui/overlays/heartstop.png"
 			order: 8
 			rotation: 0.0d
@@ -188,6 +204,7 @@
 			alpha: 128
 			color: 12779777
 			height: 7.0d
+			id: "5668D585AB6B2B0A"
 			image: "irons_spellbooks:textures/gui/overlays/heartstop.png"
 			order: 8
 			rotation: 22.5d
@@ -199,6 +216,7 @@
 			alpha: 128
 			color: 9699328
 			height: 7.0d
+			id: "176AF20F1F3F9104"
 			image: "irons_spellbooks:textures/gui/overlays/heartstop.png"
 			order: 8
 			rotation: -22.5d
@@ -210,6 +228,7 @@
 			alpha: 128
 			color: 11141290
 			height: 14.0d
+			id: "1B8A3B4D9D4524F7"
 			image: "irons_spellbooks:textures/gui/overlays/heartstop.png"
 			order: 6
 			rotation: 0.0d
@@ -221,6 +240,7 @@
 			alpha: 128
 			color: 11141290
 			height: 14.0d
+			id: "745229DEDF3E41CC"
 			image: "irons_spellbooks:textures/gui/overlays/heartstop.png"
 			order: 6
 			rotation: 45.0d
@@ -232,6 +252,7 @@
 			alpha: 128
 			color: 11141290
 			height: 14.0d
+			id: "67E63698E706DCD5"
 			image: "irons_spellbooks:textures/gui/overlays/heartstop.png"
 			order: 6
 			rotation: -22.5d
@@ -243,6 +264,7 @@
 			alpha: 128
 			color: 11141290
 			height: 14.0d
+			id: "2C4D1F4A33CF65CC"
 			image: "irons_spellbooks:textures/gui/overlays/heartstop.png"
 			order: 6
 			rotation: 22.5d
@@ -253,6 +275,7 @@
 		{
 			color: 16711680
 			height: 7.0d
+			id: "18AF09568657B1D6"
 			image: "irons_spellbooks:item/energized_core_energy"
 			order: 5
 			rotation: 140.0d
@@ -264,6 +287,7 @@
 			alpha: 192
 			color: 16711680
 			height: 5.0d
+			id: "5AD0AE78A71D9161"
 			image: "irons_spellbooks:item/energized_core_energy"
 			order: 7
 			rotation: 150.0d
@@ -273,6 +297,7 @@
 		}
 		{
 			height: 2.0d
+			id: "78A01C491FED8B38"
 			image: "irons_spellbooks:item/energized_core"
 			order: 22
 			rotation: 0.0d
@@ -282,6 +307,7 @@
 		}
 		{
 			height: 3.0d
+			id: "122655EF4924D4B5"
 			image: "irons_spellbooks:textures/gui/spell_icons/summon_vex.png"
 			order: 22
 			rotation: 0.0d
@@ -291,6 +317,7 @@
 		}
 		{
 			height: 2.0d
+			id: "0E8B5F6976C67631"
 			image: "irons_spellbooks:textures/gui/spell_icons/raise_dead.png"
 			order: 22
 			rotation: 0.0d
@@ -300,6 +327,7 @@
 		}
 		{
 			height: 2.0d
+			id: "0AABCD2E6CA7526F"
 			image: "irons_spellbooks:textures/gui/spell_icons/summon_horse.png"
 			order: 22
 			rotation: 0.0d
@@ -309,6 +337,7 @@
 		}
 		{
 			height: 2.0d
+			id: "4040A8C1F0ED90ED"
 			image: "irons_spellbooks:textures/gui/spell_icons/summon_polar_bear.png"
 			order: 22
 			rotation: 0.0d
@@ -319,6 +348,7 @@
 		{
 			alpha: 128
 			height: 5.0d
+			id: "37B57582EC0B4F7B"
 			image: "irons_spellbooks:item/energized_core_energy"
 			order: 10
 			rotation: 120.0d
@@ -329,6 +359,7 @@
 		{
 			alpha: 128
 			height: 7.0d
+			id: "0128B216C19574AD"
 			image: "irons_spellbooks:item/energized_core_energy"
 			order: 10
 			rotation: -120.0d
@@ -339,6 +370,7 @@
 		{
 			color: 16711680
 			height: 5.0d
+			id: "52B0BB3AE17A5460"
 			image: "irons_spellbooks:item/energized_core_energy"
 			order: 5
 			rotation: -110.0d
@@ -349,6 +381,7 @@
 		{
 			color: 16711680
 			height: 6.0d
+			id: "5072A69E43417696"
 			image: "irons_spellbooks:item/energized_core_energy"
 			order: 9
 			rotation: 0.0d
@@ -359,6 +392,7 @@
 		{
 			alpha: 192
 			height: 3.0d
+			id: "7873A876DD53BC6C"
 			image: "irons_spellbooks:item/energized_core_energy"
 			order: 7
 			rotation: 30.0d
@@ -370,6 +404,7 @@
 			alpha: 192
 			color: 16711680
 			height: 7.0d
+			id: "79DB4AA24A91ADA0"
 			image: "irons_spellbooks:item/energized_core_energy"
 			order: 7
 			rotation: -90.0d
@@ -947,6 +982,7 @@
 			id: "37A5C2FCA8F75BE6"
 			tasks: [{
 				id: "514B94D781E8D433"
+				observation_type: "entity_type"
 				observe_type: 5
 				timer: 0L
 				to_observe: "irons_spellbooks:priest"

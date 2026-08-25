@@ -1,7 +1,7 @@
 {
 	default_hide_dependency_lines: false
 	default_quest_shape: "hexagon"
-	filename: "Personal Storage"
+	filename: "personal_storage"
 	group: "49042A4D0EC96D55"
 	icon: {
 		id: "sophisticatedbackpacks:backpack"
@@ -12,6 +12,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "214859EA67A167BE"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			order: 3
 			rotation: 0.0d
@@ -23,6 +24,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "3E44C4B1858184BB"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			order: 3
 			rotation: 0.0d
@@ -34,6 +36,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "1A621D22E7DC7234"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			order: 3
 			rotation: 0.0d
@@ -45,6 +48,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "38BCF827178226D2"
 			image: "ftbquests:textures/shapes/circle/background.png"
 			order: 3
 			rotation: 0.0d
@@ -56,6 +60,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "71430B734DB5E83F"
 			image: "ftbquests:textures/shapes/hexagon/background.png"
 			order: 3
 			rotation: 0.0d
@@ -67,6 +72,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "61493620B67741EE"
 			image: "ftbquests:textures/shapes/hexagon/background.png"
 			order: 3
 			rotation: 0.0d
@@ -78,6 +84,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "7A2626F8EBD7B312"
 			image: "ftbquests:textures/shapes/hexagon/background.png"
 			order: 3
 			rotation: 0.0d
@@ -89,6 +96,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "073DC1BCB79EF7DD"
 			image: "ftbquests:textures/shapes/hexagon/background.png"
 			order: 3
 			rotation: 0.0d
@@ -100,6 +108,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "4E5908708C986DB8"
 			image: "ftbquests:textures/shapes/hexagon/background.png"
 			order: 3
 			rotation: 0.0d
@@ -111,6 +120,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "544C4288057F6E01"
 			image: "ftbquests:textures/shapes/hexagon/background.png"
 			order: 3
 			rotation: 0.0d
@@ -122,6 +132,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "32AD2B91572137A6"
 			image: "ftbquests:textures/shapes/hexagon/background.png"
 			order: 3
 			rotation: 0.0d
@@ -133,6 +144,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "1106C9052584D876"
 			image: "ftbquests:textures/shapes/hexagon/background.png"
 			order: 3
 			rotation: 0.0d
@@ -144,6 +156,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "7340763A218DD11D"
 			image: "ftbquests:textures/shapes/hexagon/background.png"
 			order: 3
 			rotation: 0.0d
@@ -155,6 +168,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "64978B47DF144EE7"
 			image: "ftbquests:textures/shapes/hexagon/background.png"
 			order: 3
 			rotation: 0.0d
@@ -166,6 +180,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "13F6DA55CE1A8E0D"
 			image: "ftbquests:textures/shapes/hexagon/background.png"
 			order: 3
 			rotation: 0.0d
@@ -177,6 +192,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "6A5FA7A94F695D87"
 			image: "ftbquests:textures/shapes/hexagon/background.png"
 			order: 3
 			rotation: 0.0d
@@ -188,6 +204,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "637D013398DC8141"
 			image: "ftbquests:textures/shapes/hexagon/background.png"
 			order: 3
 			rotation: 0.0d
@@ -199,6 +216,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "28190F0B3C26F889"
 			image: "ftbquests:textures/shapes/hexagon/background.png"
 			order: 3
 			rotation: 0.0d
@@ -210,6 +228,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "7DA9C11E31D93C7C"
 			image: "ftbquests:textures/shapes/hexagon/background.png"
 			order: 3
 			rotation: 0.0d
@@ -221,6 +240,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "161A93C7A6B28E7C"
 			image: "ftbquests:textures/shapes/hexagon/background.png"
 			order: 3
 			rotation: 0.0d
@@ -232,6 +252,7 @@
 			alpha: 128
 			color: 0
 			height: 1.0d
+			id: "65CD80339F4CC43A"
 			image: "ftbquests:textures/shapes/hexagon/background.png"
 			order: 3
 			rotation: 0.0d
@@ -241,6 +262,7 @@
 		}
 		{
 			height: 6.0d
+			id: "5EB00E394B279744"
 			image: "ftbquests:textures/gui/personal_storage.png"
 			rotation: 0.0d
 			width: 6.0d
@@ -249,6 +271,7 @@
 		}
 		{
 			height: 11.5d
+			id: "32AF66E37809987F"
 			image: "ftbquests:textures/gui/wooden_frame.png"
 			order: -1
 			rotation: 0.0d
