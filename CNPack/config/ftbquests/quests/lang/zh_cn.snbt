@@ -3,6 +3,7 @@
 	chapter.04AD21E8ACC60AFD.title: "气动工艺"
 	chapter.0597AF3E8B286CFA.title: "新生魔艺"
 	chapter.0644AB97E8D8839B.title: "机械动力"
+	chapter.0A7BE8A17BDD53E9.title: "Neo Vitae"
 	chapter.0CF7A598566497C7.title: "&6成就奖杯"
 	chapter.1910D05CD66EC477.title: "垂钓"
 	chapter.1CFBA632673ABBFD.title: "井井有条的存储"
@@ -148,6 +149,9 @@
 		"{image:justdirethings:item/fuel_canister_full width:100 height:100 align:center fit:true}"
 	]
 	quest.030E566682A89105.quest_subtitle: "节省燃油"
+	quest.03107F356240B036.quest_desc: ["Create the &bDominus Orb of Vitae&r and expand your &bAnima&r to a truly formidable level."]
+	quest.03107F356240B036.quest_subtitle: "Command the blood. Command the power."
+	quest.03107F356240B036.title: "Dominus"
 	quest.03271CEB2EBD0979.quest_desc: [
 		"  可使用其附属的&b能量源&r中的&c能量&r为指定区域（可设置偏移与范围）内所有的&b耗能设备&r&6充能&r。"
 		""
@@ -175,6 +179,9 @@
 		"此外，&c“工具”&r画廊下的所有物品也都非常有用，在机械动力的许多任务中甚至是不可或缺的。"
 	]
 	quest.038AAFBA1E0DEF7E.quest_subtitle: "机械动力人士必备"
+	quest.03A2DAC1A090CC65.quest_desc: ["Use your &bHellfire Forge&r to perform your first &bSpiritus&r-infused creation."]
+	quest.03A2DAC1A090CC65.quest_subtitle: "There are forces even blood cannot explain."
+	quest.03A2DAC1A090CC65.title: "Something Beyond Blood"
 	quest.03CF6D6277D93A4A.quest_desc: [
 		"&b滴管&r是一种有用的工具，它可以从&9机器内部&r一次性&6转移&r至多&a16&r桶&7流体&r。"
 		""
@@ -406,6 +413,9 @@
 		"  &6记得先看看有哪些机器是&o真的&r&6需要升级的&r，以免浪费你的资源。"
 	]
 	quest.091C2772ED417247.title: "框架升级"
+	quest.0935BFDC4F0B4C6C.quest_desc: ["Expand your &bAra Vitae&r to its third tier and prepare your network for more powerful transmutations."]
+	quest.0935BFDC4F0B4C6C.quest_subtitle: "Your blood network is beginning to evolve."
+	quest.0935BFDC4F0B4C6C.title: "The Third Circle"
 	quest.098C3858B4FFCE78.quest_desc: ["使用&b热力发电机&f时，可在其下方放置一个&b烈焰晶体块&f，它将以&b280%的效率发电。"]
 	quest.098C3858B4FFCE78.quest_subtitle: "功率增加280%"
 	quest.09B10C121C7E9023.quest_desc: ["用于制作&bME能源存储组件&f与通量访问点。"]
@@ -439,6 +449,17 @@
 		""
 		"从蚀刻器的侧面取出&b未组装的印刷电路板&r，从它的顶部或底部取出&c失效的印刷电路板&r。"
 	]
+	quest.0B7267B31A1CCECA.quest_desc: [
+		"Use the &bRitual Diviner&r to learn a ritual layout and activate your first &bMaster Ritual Stone&r."
+		""
+		"Perform the &2Ritual of Overgrowth&r and accelerate the growth of nature around you."
+		""
+		"Perform the &eRitual of Harvest&r and turn nature's bounty into a reliable resource."
+		""
+		"Perform the &6Ritual of Fallen Trees&r and automate the harvesting of nearby trees."
+	]
+	quest.0B7267B31A1CCECA.quest_subtitle: "Draw the circle. Speak the words. Pay the price."
+	quest.0B7267B31A1CCECA.title: "Your First Ritual"
 	quest.0B94435972292812.quest_desc: [
 		"&b空间IO端口&f是&b空间数字化系统&f的核心，将它摆放在3条&b空间塔的交点&f上，再放入&b空间存储元件&f，即可&6存储或释放任意结构&f。空间IO端口也是你在为整个系统供电时通电的方块。（译注：原文有误，空间塔也可以接收能量。）"
 		""
@@ -446,6 +467,9 @@
 	]
 	quest.0B94435972292812.title: "空间IO端口"
 	quest.0B98E8AC5CFB0FC2.quest_desc: ["破坏&a生长&f至&a最高阶段&f的&b恩特罗簇&f获得。"]
+	quest.0BB01161ABEFCC8A.quest_desc: ["Use the &bHellfire Forge&r to create your first &bSentient Weapon&r and feed it the souls of your enemies."]
+	quest.0BB01161ABEFCC8A.quest_subtitle: "Give your weapons a hunger of their own."
+	quest.0BB01161ABEFCC8A.title: "Sentient Weapons"
 	quest.0BDF41399223A10A.quest_desc: ["使用卷轴撰写台和末影珍珠来制作末影法术卷轴。"]
 	quest.0BF3E2C6D60A58BB.quest_desc: [
 		"可以通过&6快捷菜单&r查看&a表情动作&r。"
@@ -551,6 +575,9 @@
 		"- &6右击&r改衣台的纸页部分。"
 		"- 取下盔甲部件。"
 	]
+	quest.0DD2816485683CE6.quest_desc: ["Forge a complete set of &bSentient Armour&r and begin feeding it the souls of your enemies."]
+	quest.0DD2816485683CE6.quest_subtitle: "The armour no longer serves you. It fights beside you."
+	quest.0DD2816485683CE6.title: "Sentient Armour"
 	quest.0DDE4F5B0FE265B0.quest_desc: [
 		"&b压力管道&r可以在&b压缩机&r与&b各类机器&r之间传输&7空气&r，可以被&2伪装&r并融入环境。"
 		""
@@ -677,6 +704,9 @@
 		"  控制器在第二层，&b耐热机器外壳&r的上面。&6别忘了用&b扳手&r&6可以显示多方块结构的形状和各个方块的位置&r。所需的仓必须放在最底层。你需要输入水和固体燃料，还要输出&b蒸汽&r。"
 	]
 	quest.1081BFCAB3F07FFF.title: "大型蒸汽锅炉"
+	quest.108E216EC6911B77.quest_desc: ["Upgrade your &bAra Vitae&r and create the &bDiscipulus Orb of Vitae&r to greatly expand your &bAnima&r."]
+	quest.108E216EC6911B77.quest_subtitle: "Your first ascension begins."
+	quest.108E216EC6911B77.title: "The Discipulus"
 	quest.1094111FB9512D75.quest_desc: [
 		"  这里一共有三种&b小型柴油发电机&r，作为流体/气体发电的入门。你可以用EMI查看每毫桶各种燃料可以产生多少EU。"
 		""
@@ -1863,6 +1893,9 @@
 	]
 	quest.26A44EDA4AABFF6F.title: "&c欢迎&e游玩&a气动工艺"
 	quest.26AC949F1C3C6214.quest_desc: ["黄铜镶边，黑钢为侧，尽显非凡格调。"]
+	quest.26C7705667EB55E8.quest_desc: ["Upgrade your &bAra Vitae&r to its fourth tier by adding the required &bRunes&r and &bCapstones&r, unlocking greater &bVitae&r capacity and access to more powerful blood magic."]
+	quest.26C7705667EB55E8.quest_subtitle: "Your altar now rivals the power of ancient magic."
+	quest.26C7705667EB55E8.title: "The Fourth Circle"
 	quest.272E31F15A39517B.quest_desc: [
 		"终极&e发电&r设备的第一步——&b聚变反应堆框架&r。"
 		""
@@ -2416,6 +2449,13 @@
 		"- 使用&6Alt&r+&6鼠标滚轮&r改变挖掘速度。"
 	]
 	quest.335BFE2345DAFE03.title: "电动工具"
+	quest.3376D278202F2B4C.quest_desc: [
+		"Bind your &bNovicius Orb of Vitae&r to yourself and establish your first &bAnima&r network."
+		""
+		"Learn to channel &bEssentia Vitae&r between your blood altar and its connected components, laying the foundation for everything that follows."
+	]
+	quest.3376D278202F2B4C.quest_subtitle: "Your power must flow before it can grow."
+	quest.3376D278202F2B4C.title: "The Blood Network"
 	quest.3392424E7E1B68C4.quest_desc: [
 		"需要&b离心机&r吗？"
 		"需要&a更快的&r吗？"
@@ -2557,6 +2597,9 @@
 		""
 		"其次，大型合成作业卡住时，它能突出显示卡住的那个&b样板供应器&f在&a世界中&f的位置。"
 	]
+	quest.35D797292DAB5C89.quest_desc: ["Obtain &bScriptura Vitae&r and begin generating &4Essentia Vitae&r."]
+	quest.35D797292DAB5C89.quest_subtitle: "Learn to turn life itself into energy."
+	quest.35D797292DAB5C89.title: "Blood Is Power"
 	quest.35F320164724B44C.quest_desc: ["两次生成之间的最小时间间隔。"]
 	quest.35F320164724B44C.quest_subtitle: "-10 最小生成延迟"
 	quest.35F6CAD5BE56A32A.quest_desc: [
@@ -2675,6 +2718,9 @@
 		""
 		"拜托，想想看——你第一次在机械动力里&6驾驶&r列车的时候，是不是感觉超棒？那可太对了！"
 	]
+	quest.384E0A6178B5AA5B.quest_desc: ["Craft your first &bReinforced Rune&r and unlock stronger modifications for your &bAra Vitae&r."]
+	quest.384E0A6178B5AA5B.quest_subtitle: "The old runes are no longer enough."
+	quest.384E0A6178B5AA5B.title: "Reinforced Runes"
 	quest.38D846A79BC43920.quest_desc: [
 		"这台机器用于给使用&e空气动力&r的&b物品&r&6充/放气&r，例如&b无人机&r、&b气动扳手&r和&b涡流炮&r。"
 		""
@@ -2754,6 +2800,13 @@
 	]
 	quest.3A20D522302FE7B9.title: "基础处理器"
 	quest.3A23D98042990591.title: "化学灌注为三氧化硫"
+	quest.3A3B3EACB9321FF3.quest_desc: [
+		"Construct the &bHellfire Forge&r and unlock a new method of transforming &bVitae&r into power."
+		""
+		"Use the &bHellfire Forge&r to begin creating more advanced equipment and materials."
+	]
+	quest.3A3B3EACB9321FF3.quest_subtitle: "Some things can only be forged in hellfire."
+	quest.3A3B3EACB9321FF3.title: "The Hellfire Forge"
 	quest.3A5A59C7AEA670C7.quest_desc: ["&b阿维亚之环&r是你要准备的第一个五芒星。它可以用来&6召唤魔精&r。请&6参考&r&b魔灵全典&r了解如何布置。"]
 	quest.3A5A59C7AEA670C7.quest_subtitle: "首个仪式"
 	quest.3A5A59C7AEA670C7.title: "阿维亚之环"
@@ -2782,6 +2835,9 @@
 		"姑且称之为&c“运输”&r的区域包含了各种用于移动和存储物品的装置，还可以为你的其他装置提供更多种类的运动方式——甚至能够利用大气本身产生可再生能源！"
 	]
 	quest.3B6674B3B91BD8B4.quest_subtitle: "系好安全带，我们要出发了！"
+	quest.3B7D0C01193B6FB3.quest_desc: ["Craft your first set of &bRunes&r and begin modifying the speed, capacity and efficiency of your &bAra Vitae&r."]
+	quest.3B7D0C01193B6FB3.quest_subtitle: "Shape the flow of vitae to your will."
+	quest.3B7D0C01193B6FB3.title: "Runes"
 	quest.3B82F8F19AF630D5.quest_desc: ["&bME触发总线&f与&bME玻璃线缆&f相似，但无红石信号时它会&6暂时被禁用&f，&6提供红石信号&f将重新允许频道和能量经过，可用于调控其下游的网络区域。"]
 	quest.3B82F8F19AF630D5.title: "触发总线"
 	quest.3BAA7EC7653A7905.quest_desc: [
@@ -3066,6 +3122,9 @@
 	]
 	quest.4184B4182CFEF694.quest_subtitle: "信号已捕获"
 	quest.418659818AD0712B.quest_desc: ["&b大宗存储元件&f能够&a无限量&f地存储单种物品。"]
+	quest.418CB5EC1FE8CB1A.quest_desc: ["Use the &bAra Vitae&r to create your first &bNovicius Orb of Vitae&r."]
+	quest.418CB5EC1FE8CB1A.quest_subtitle: "Blood is the price. Power is the reward."
+	quest.418CB5EC1FE8CB1A.title: "The First Sacrifice"
 	quest.41D1344A31FEA6DF.quest_desc: [
 		"  &b铁铬铝合金线圈&r是可用于&b电力高炉&r的新线圈，它的&6功率更大&r，可以产生更多热能。小心，别被烫着了。嗷！"
 		""
@@ -3082,6 +3141,11 @@
 	quest.423B29BD8DAC8C3D.quest_subtitle: "+ 幼年"
 	quest.427B70B9D14A1A51.title: "操作升级"
 	quest.42AC14C7D41F0CAB.quest_desc: ["使用卷轴撰写台和烈焰棒制作炽焰法术卷轴，它们非常适合灼烧你的敌人……有时甚至灼烧你的朋友……只是确保不要不小心把火球术施放在他们的宠物身上，这样你就安全了！"]
+	quest.42C757350BE9280A.quest_desc: ["Defeat the various &bDaemonium&r that inhabit the demon realm and collect their unique drops."]
+	quest.42C757350BE9280A.quest_subtitle: "If hell wants a fight, give it one."
+	quest.42C757350BE9280A.title: "Demon Hunter"
+	quest.42D39031CFD335C9.quest_desc: ["Perform the &bRitual of Fallen Trees&r and automate the harvesting of nearby trees."]
+	quest.42D39031CFD335C9.quest_subtitle: "Even the forest can be harvested by force."
 	quest.42D6CC67AB29D7DA.quest_desc: [
 		"  你终于可以造&b数字电路&r了！"
 		""
@@ -3514,6 +3578,13 @@
 	]
 	quest.499C20A6A0D7952F.quest_subtitle: "示例法术"
 	quest.499C20A6A0D7952F.title: "盔甲"
+	quest.49BDD5CCF648A04D.quest_desc: [
+		"Ascend your &bAra Vitae&r and create the &bVeneficus Orb of Vitae&r, expanding your &bAnima&r to a new scale."
+		""
+		"The &6Tier 3&r structure uses Bloodstone/Bloodstone Bricks and requires Tau Fruit from the &4Breaching the Edge of Demon Realm&r ritual"
+	]
+	quest.49BDD5CCF648A04D.quest_subtitle: "Your power has outgrown its first vessel."
+	quest.49BDD5CCF648A04D.title: "Veneficus"
 	quest.49D4F55F8A20DB22.quest_desc: ["提供多种颜色，可搭配任何装饰风格。"]
 	quest.49D4F55F8A20DB22.quest_subtitle: "放轻松，请坐。"
 	quest.49E73DF03C8D28C7.quest_desc: ["&4红色&r粉笔能吸引并束缚火灵，并使他们听从你的命令。"]
@@ -3594,6 +3665,8 @@
 	quest.4CA99DC1D953E1FB.title: "&d末影守卫"
 	quest.4CD943F9416FB352.quest_desc: ["&b能源元件&f能储存&b能量&f，以便在&6停电&f时维持你网络的运转。它也能用于在网络出现&6瞬时能量消耗&f时稳定其他机器的能量传输。"]
 	quest.4CD943F9416FB352.title: "能源元件"
+	quest.4CFB8A6C9DF9988A.quest_desc: ["Create the &bSigil of Teleposition&r and begin manipulating your position through &bVitae&r."]
+	quest.4CFB8A6C9DF9988A.quest_subtitle: "Distance is merely an inconvenience."
 	quest.4D02897DB2CE4C25.title: "芥末"
 	quest.4D05AA18CF654D70.quest_desc: [
 		"  &b核源铁工具和武器&r的强度和耐久度与&b铁制的&r相当。"
@@ -3659,6 +3732,18 @@
 	quest.4DBDCEA0761F1D3B.title: "折跃卷轴"
 	quest.4DC59BCF8833CC3C.title: "牛油果"
 	quest.4DCA027828C2921C.quest_desc: ["便携的随身能源，可给一些机械动力的物品提供动力。"]
+	quest.4DE8993F6A7F096B.quest_desc: [
+		"Obtain the &bLex Vitae&r and wield one of Neo Vitae's most powerful creations."
+		""
+		"Master both the mining and combat capabilities of the &bLex Vitae&r and prove that you can wield its full power."
+		""
+		"Modes:"
+		""
+		"* Mining Mode"
+		"* Damage Mode"
+	]
+	quest.4DE8993F6A7F096B.quest_subtitle: "The culmination of blood, spirit and suffering."
+	quest.4DE8993F6A7F096B.title: "The Lex Vitae"
 	quest.4E026831A66E0A42.quest_desc: ["&1蓝色&r粉笔可以召唤并绑定魔王。"]
 	quest.4E026831A66E0A42.quest_subtitle: "七大洋"
 	quest.4E062B9B4960632D.quest_desc: [
@@ -3796,6 +3881,9 @@
 	quest.4F076E5D6F0BED74.title: "法术小指南 - 1"
 	quest.4F0F24F222AA434A.quest_desc: ["&e黄色&r粉笔的力量比白色的略强。它主要用于降灵仪式。"]
 	quest.4F0F24F222AA434A.quest_subtitle: "降灵"
+	quest.4F144C6D995FED7E.quest_desc: ["Create the &bMagus Orb of Vitae&r and expand your &bAnima&r to support increasingly powerful creations."]
+	quest.4F144C6D995FED7E.quest_subtitle: "Magic bends to those willing to pay its price."
+	quest.4F144C6D995FED7E.title: "Magus"
 	quest.4F2C4595C25E23E1.quest_desc: ["这根探测杖已经预同调，可以定位&9稀有&r材料。"]
 	quest.4F6FD689E65509BF.quest_desc: ["&b基础卡&f是用于制作&b升级卡&f的组件。"]
 	quest.4F6FD689E65509BF.title: "基础卡"
@@ -3995,6 +4083,9 @@
 		"&8（记住不要把赛特斯石英块转化成母岩了）"
 	]
 	quest.52BB8CBB7118C793.quest_subtitle: "紫水晶"
+	quest.52CA774E9F825514.quest_desc: ["Perform the &bRitual of Harvest&r and turn nature's bounty into a reliable resource."]
+	quest.52CA774E9F825514.quest_subtitle: "Let nothing go to waste."
+	quest.52CA774E9F825514.title: "&6Ritual of Harvest"
 	quest.5319FD97D5133E7A.quest_desc: ["将&b1个红石块、1个荧石粉与1个福鲁伊克斯水晶&f&6丢入&f&a水&f中，然后它们就会奇迹般地结合，变成&b红石水晶&f。"]
 	quest.534B63750942C433.quest_desc: [
 		"这条科技线的第一个电路就是&b基础控制电路&r。"
@@ -4012,6 +4103,9 @@
 	quest.53A07420D75804AB.quest_subtitle: "充就完事了！！！"
 	quest.53A66CA8EFE820D1.quest_desc: ["贪婪使魔会为你&6收集&r&b物品&r。当它被放入使魔之戒中时，可以增强你的物品拾取范围。"]
 	quest.53A66CA8EFE820D1.quest_subtitle: "为了宝藏！"
+	quest.53C28D1A140CA4A6.quest_desc: ["Discover the five &bSpiritus&r aspects and learn to harness their different properties."]
+	quest.53C28D1A140CA4A6.quest_subtitle: "Five spirits. Five powers. One path."
+	quest.53C28D1A140CA4A6.title: "The Five Aspects"
 	quest.53DEE3EF1297B630.quest_desc: ["这个&b发射器&r使用&d汞流&r来产生&6热量&r，可以用来替代&b御炎火盆&r。"]
 	quest.53DEE3EF1297B630.quest_subtitle: "新热源"
 	quest.53EC4A657655A7D5.title: "盐水"
@@ -4230,6 +4324,8 @@
 		"它是一种全能工具，而且还能造成&4大量伤害&r。"
 	]
 	quest.59451B5DAD78C46F.title: "原子分解机"
+	quest.5946631C59C788DC.quest_desc: ["Create the &bSigil of Holding&r and learn to carry multiple &bSigils&r at once."]
+	quest.5946631C59C788DC.quest_subtitle: "Carry your power wherever you go."
 	quest.594BC97607EEE341.quest_desc: ["大多数机械动力结构的关键部件：&6交换&r一个平面与另一个平面之间的旋转轴向"]
 	quest.596057832C440706.title: "绝缘"
 	quest.59EC9D8641CF67B8.quest_desc: ["“我们走过的生物群系”模组也添加了不少作物……但你得知道去哪找！"]
@@ -4245,6 +4341,9 @@
 		""
 		"使用&b锻造台&f来对你的建筑棒进行升级，这需要消耗&6铜块&f。"
 	]
+	quest.5A52426AC47A1FE3.quest_desc: ["Complete the final tier of the &bAra Vitae&r and prepare yourself for the ultimate Orb of Vitae."]
+	quest.5A52426AC47A1FE3.quest_subtitle: "You stand at the threshold of true mastery."
+	quest.5A52426AC47A1FE3.title: "The Sixth Circle"
 	quest.5A5583EA02C78372.quest_desc: [
 		"一艘升级版的飞艇，拥有大量的存储空间。"
 		""
@@ -4344,6 +4443,9 @@
 	]
 	quest.5DD99224F29419C1.title: "低压蒸汽涡轮机"
 	quest.5DF4A4E6D5E448D0.title: "用于电解分离器的水"
+	quest.5E978B85065D1E32.quest_desc: ["Craft the tools required to perform rituals and begin manipulating the world through &bVitae&r."]
+	quest.5E978B85065D1E32.quest_subtitle: "Blood alone is no longer enough."
+	quest.5E978B85065D1E32.title: "The Ritualist"
 	quest.5E9F30ADD242C764.quest_desc: [
 		"&4立刻拨打热线，即可享受买一送一超值优惠！！！ "
 		"&b下界水晶&f是制作最高级机械（&b下界等级&f）的必需材料，由&b下界之星、红石&f以及少量&b烈焰晶体&f制成。"
@@ -4375,6 +4477,9 @@
 	]
 	quest.5EC2714894E2CB13.quest_subtitle: "粉碎，剪切，压扁"
 	quest.5EC2714894E2CB13.title: "Ars Unification附属模组"
+	quest.5EC47502FEDE944B.quest_desc: ["Create the &bDivinus Orb of Vitae&r and reach the absolute limit of your &bAnima&r network."]
+	quest.5EC47502FEDE944B.quest_subtitle: "There is almost nothing left beyond you."
+	quest.5EC47502FEDE944B.title: "Divinus"
 	quest.5ECC7F4F5D2591D9.quest_desc: ["&b高级卡&r是用于制作&b升级卡&f的组件。"]
 	quest.5ECC7F4F5D2591D9.title: "高级升级（译注：应为“高级卡”）"
 	quest.5EEF6110DDBEB146.quest_desc: [
@@ -4484,6 +4589,8 @@
 		""
 		"试试它&6批量处理&r（天呐！）和&6推动&r物体的能力。"
 	]
+	quest.61AAFF003014ABBC.quest_desc: ["Craft the &bTabula Vitae&r and unlock the ability to create powerful &bSigils&r."]
+	quest.61AAFF003014ABBC.quest_subtitle: "Knowledge gives blood a purpose."
 	quest.6201E6DF709C29D0.quest_desc: [
 		"  &b核源铁盔甲&r的强度和耐久度与&b铁盔甲&r相当。"
 		""
@@ -4961,6 +5068,8 @@
 		"{image:justdirethings:block/clickert2_side width:100 height:100 align:center}"
 	]
 	quest.69403313B37E8219.quest_subtitle: "玩家模仿者"
+	quest.695071B9E6FB490A.quest_desc: ["Perform the &bRitual of Overgrowth&r and accelerate the growth of nature around you."]
+	quest.695071B9E6FB490A.quest_subtitle: "Force nature to obey."
 	quest.6976592A2FB069AD.quest_desc: ["将&b4个福鲁伊克斯水晶&f以2x2的形式合成就能得到&b福鲁伊克斯块&f。"]
 	quest.69767F69C84AC701.quest_desc: [
 		"&l1. 如何获取绑定手稿？ &r"
@@ -5028,6 +5137,9 @@
 	]
 	quest.6A6C19E36893381B.title: "公式装配器"
 	quest.6AB303BEA478C0F3.quest_desc: ["&6可编程&r旋转控制器！"]
+	quest.6AD3F5CE39D98B03.quest_desc: ["Step through the &bHighway to Hell&r and enter the endless demon realm for the first time."]
+	quest.6AD3F5CE39D98B03.quest_subtitle: "Welcome to a place where the dead do not rest."
+	quest.6AD3F5CE39D98B03.title: "Enter the Demon Realm"
 	quest.6ADBF1DFBDF45D7C.quest_desc: [
 		"使用&b逻辑处理器&f、&b红石&f以及&b石英玻璃&f制作而成。"
 		""
@@ -5121,6 +5233,8 @@
 		"&8提示：如果嫌这套丑，可以&6幻化&r&8成秘术师套装。"
 	]
 	quest.6C7789B56E50B6F1.title: "战法师套装"
+	quest.6C86EFABDB60BE68.quest_desc: ["Create the &bSigil of the Blood Lamp&r and illuminate the world using your &bAnima&r."]
+	quest.6C86EFABDB60BE68.quest_subtitle: "Even darkness bends to your will."
 	quest.6C8AB8E9A547D1C9.quest_desc: [""]
 	quest.6C8AB8E9A547D1C9.title: "ME总线"
 	quest.6C96992416059AC4.quest_desc: [
@@ -5228,6 +5342,9 @@
 	quest.6F760612E07E3CBA.title: "大豆"
 	quest.6F7A998802C99AD4.quest_desc: ["空间塔用于勾勒出你想要存进空间存储元件的空间体积。你需要用空间塔搭建出你所想捕获空间的3条边，每条空间塔需要占用1个频道，最短为2格长。试试测量一下空间塔条数与消耗的能量的关系！也许你能找到一个最优的方案。"]
 	quest.6F7A998802C99AD4.title: "空间塔"
+	quest.6F92D6C797F9C931.quest_desc: ["Construct the &bCrystallarium&r and use &bSpiritus Aura&r to create concentrated spiritual energy."]
+	quest.6F92D6C797F9C931.quest_subtitle: "What was once formless can now be held."
+	quest.6F92D6C797F9C931.title: "Crystallized Essence"
 	quest.6F9513334361D44E.quest_desc: ["&6食用&r这种水果将开启你的&b第三只眼&r，让你看到原本无法看到的事物。"]
 	quest.6F9513334361D44E.quest_subtitle: "灵视剂"
 	quest.6FD3C9B4EF558332.quest_desc: ["边缘泛着黄铜光泽，整体透着不俗的优雅"]
@@ -5462,6 +5579,8 @@
 	]
 	quest.73DF4B8186890BFE.quest_subtitle: "进阶魔源传输"
 	quest.73DF4B8186890BFE.title: "更多类型的魔源中转器"
+	quest.73FC0402BA6033FA.quest_desc: ["Create the &bSigil of Phantom Bridge&r and learn to cross gaps that should be impossible."]
+	quest.73FC0402BA6033FA.quest_subtitle: "Cross the impossible."
 	quest.740B34D7D1AF3FF0.quest_desc: ["&b粉碎机&r是一台用来将物品和方块&6粉碎&r成&7粉&r和其他&9材料&r的机器。"]
 	quest.740B34D7D1AF3FF0.title: "粉碎机"
 	quest.741485F43A560FF3.quest_desc: [
@@ -5645,6 +5764,9 @@
 		"它可以制造出你能想象的最&6强力&r的&9升级&r和&9机器&r。"
 	]
 	quest.79515634992D02A3.title: "反物质"
+	quest.7997AD44CC428BDC.quest_desc: ["Construct the &bVas Maleficum&r and begin generating the &bSpiritus Aura&r needed for more advanced creations."]
+	quest.7997AD44CC428BDC.quest_subtitle: "Give form to the spirits that surround you."
+	quest.7997AD44CC428BDC.title: "The Vas Maleficum"
 	quest.79A693466BF51105.quest_desc: ["这根探测杖可以定位&d珍贵&r材料，并且有极高的耐久度。"]
 	quest.79A693466BF51105.quest_subtitle: "我能看到一切"
 	quest.79C075FFF796FE16.quest_desc: [
@@ -5657,6 +5779,9 @@
 		"- 在存有&b锄头&r的&3容器&r上部署，将指示无人机在其区域内收获的任何&a作物&r并&6重新种植&r。"
 	]
 	quest.79F451F9C8D02A69.quest_desc: ["你已经造出了&b并发处理器&f，现在制作一些更高级的物品来帮你玩转&aAE扩展&f吧。"]
+	quest.7A0A29CC4F524CEE.quest_desc: ["Expand your &bAra Vitae&r with its first ring of &bBlank Runes&r and unlock the next stage of Vitaemancy."]
+	quest.7A0A29CC4F524CEE.quest_subtitle: "The altar is only the beginning."
+	quest.7A0A29CC4F524CEE.title: "The First Circle"
 	quest.7A5466B9F5C79793.quest_desc: ["你将最先与&b魔精&r这种魔灵打交道，它们也是最安全的类型。"]
 	quest.7A5466B9F5C79793.quest_subtitle: "初学"
 	quest.7A6C1605F32F695F.quest_desc: [
@@ -5787,6 +5912,9 @@
 	quest.7C38A9BA01CA3772.quest_desc: ["&9稀有&r材料需要花费更多力气去寻找或制作。在某些情况下，它们在自然环境中找不到。"]
 	quest.7C38A9BA01CA3772.title: "稀有硫"
 	quest.7C57D76FDBD784F8.quest_desc: ["你可以使用&b扳手&r将上方的&b储罐&r和下方的储罐&6连接&r起来，前提是任一&b储罐&r为&c空&r或者两个储罐都装有相同的&7流体&r。"]
+	quest.7C8727CEB9850F24.quest_desc: ["Obtain the &bAra Vitae&r and begin your journey into the forbidden arts."]
+	quest.7C8727CEB9850F24.quest_subtitle: "Every great power begins with a single sacrifice."
+	quest.7C8727CEB9850F24.title: "&4A Strange Power"
 	quest.7C8EF2A739AAC1D7.title: "ME元件外壳"
 	quest.7CB7BF24437115A4.quest_desc: [
 		"碎矿魔灵……可以&6粉碎&b物品。"
@@ -5836,6 +5964,9 @@
 		""
 		"同样，&3冻结过程&r也会随着&3冷却&r的增加而&e加速&r。"
 	]
+	quest.7D740352BE81EBAD.quest_desc: ["Explore the demon realm and obtain your first &bDemonite&r from its corrupted depths."]
+	quest.7D740352BE81EBAD.quest_subtitle: "Harvest power from those who were never meant to live."
+	quest.7D740352BE81EBAD.title: "Blood of the Damned"
 	quest.7DA234839458B333.quest_desc: [
 		"&c火焰喷射器&r能够消耗&7氢气&r，对&b方块&r和&2实体&r喷射&4火焰&r。"
 		""
@@ -5864,6 +5995,9 @@
 	quest.7DB4E20D476B5786.title: "&c米诺菇"
 	quest.7DD81584380EE8F7.quest_desc: ["这个&b魔杖&r用于与&6汞驱物流系统&r进行接口连接。"]
 	quest.7E49DB806DD04701.quest_desc: [""]
+	quest.7E88E36EDE4C0BF0.quest_desc: ["Expand your &bAra Vitae&r to its fifth tier by adding the required &bRunes&r and &bCapstone Blocks&r, unlocking greater &bVitae&r power and access to the most advanced transmutations and rituals."]
+	quest.7E88E36EDE4C0BF0.quest_subtitle: "You are no longer merely a practitioner."
+	quest.7E88E36EDE4C0BF0.title: "The Fifth Circle"
 	quest.7ED9955750255A69.quest_subtitle: "完成对应任务章节。"
 	quest.7ED9955750255A69.title: "&d新生魔艺"
 	quest.7EDF633DDB5DA2A1.quest_desc: ["冰封骨头由流浪者掉落，用于制作冰霜法术卷轴"]
@@ -5913,8 +6047,13 @@
 		"{image:justdirethings:block/coalblock_t1 width:100 height:100 align:center fit:true}"
 	]
 	quest.7F4BFF2C6E887FCC.quest_subtitle: "更好的煤炭"
+	quest.7F5D66A96BCE339D.quest_desc: ["Activate the &bRitual of Sentient Evolution&r and push your &bSentient Armour&r beyond its original limits."]
+	quest.7F5D66A96BCE339D.quest_subtitle: "What you created has learned to evolve."
 	quest.7FA5112E27A0D70C.quest_desc: ["这把镐比起你来用，可能更适合制作&b矿工魔灵&r，但比它脆弱的“前辈”要好得多。"]
 	quest.7FA5112E27A0D70C.quest_subtitle: "魔灵之选"
+	quest.7FAF52B083F86C57.quest_desc: ["Perform the &bHighway to Hell&r ritual and tear open a path to the demon realm."]
+	quest.7FAF52B083F86C57.quest_subtitle: "There is a road to hell. You only need to open it."
+	quest.7FAF52B083F86C57.title: "Open the Gateway"
 	quest.7FBC6EFE948A0CD2.quest_desc: ["龙使魔可以&6增加&r你的&b经验获取&r。"]
 	quest.7FBC6EFE948A0CD2.quest_subtitle: "这条龙囤积知识，而不是黄金"
 	quest.7FC6AE9DB7C1DA52.quest_desc: [
@@ -6018,6 +6157,7 @@
 	task.341F7CB191A0790A.title: "通用线缆"
 	task.3716986BD12061AA.title: "任意#c:raw_materials/gold"
 	task.37DECFA02129E0B8.title: "召唤小鹿使魔"
+	task.38084EDBEB9647AD.title: "Sentient Evolution"
 	task.3BC634992A1E9BAD.title: "观察：&2任意恩特罗化的福鲁伊克斯母岩&r"
 	task.3C8E0C3D705AB65F.title: "任意#c:raw_materials/iron"
 	task.3ED23CC07C23FD76.title: "&b欢迎游玩神秘学"
@@ -6027,16 +6167,21 @@
 	task.41EC40C5739AA13D.title: "你将发现的作物！"
 	task.42634C57B87C09DB.title: "召唤妖精使魔"
 	task.429785464C6CD059.title: "任意#minecraft:axes"
+	task.43CE51B3EC9945C1.title: "&aRitual of Fallen Trees"
 	task.443D8F4CD01CC0C9.title: "召唤鹦鹉“使魔”"
 	task.4552085BF5330776.title: "OK，开搞"
+	task.46DBAE66F97438E6.title: "Runes"
+	task.480E9CFA1CEE6479.title: "Spiritus Gems"
 	task.4CE3EEAAF41AE050.title: "召唤魔精清洁工"
 	task.4D5812F798FB8C8C.title: "&d神通术&9100%"
 	task.4D63FA888F0497B5.title: "召唤克苏鲁使魔"
 	task.4E775BAB4EB29C69.title: "任意#c:crops/garlic"
 	task.4F4699F9117BC270.title: "预编程无人机"
 	task.4F7787C0557CF5CC.title: "关怀备至"
+	task.51B280AD931A2CF4.title: "Demonite"
 	task.52C834FDFA57A474.title: "召唤眼魔使魔"
 	task.5327B3CEDA60D4BE.title: "任意#c:raw_materials/silver"
+	task.537A156153014C88.title: "&2Ritual of Overgrowth"
 	task.5397C5FA8788480F.title: "任意#c:seeds/rice"
 	task.54E5D81FEE18AF83.title: "炽焰术士"
 	task.570D439C4AC9F64C.title: "世界层级"
@@ -6051,6 +6196,7 @@
 	task.6544A3FD1B532809.title: "召唤恶魔丈夫"
 	task.65A43DD683FB39E4.title: "召唤魔精伐木工"
 	task.65B2D0E35B083E82.title: "适者生存"
+	task.66A70863F595A874.title: "Ritual of Harvest"
 	task.66BF2FED6B091A68.title: "探索世界！"
 	task.691E6AA922761E29.title: "鱼钩"
 	task.6C6C366D034AF5C7.title: "召唤异界树苗交易者"
@@ -6061,7 +6207,10 @@
 	task.73DFBACC98E080BC.title: "任意刀"
 	task.741F21CA04FBCB90.title: "物流管道"
 	task.74C6D98426025A18.title: "召唤守护者使魔"
+	task.74EA288EED7CCE71.title: "Reinforced Runes"
 	task.7537E40C4FAB6D5C.title: "欢迎游玩Powah"
+	task.753B3D09A302E973.title: "Raw Spiritus Crystals"
+	task.7617B5CAABCD437A.title: "Bloodstones"
 	task.7A0371393E813129.title: "观察：&2任意赛特斯石英母岩&r"
 	task.7AB3BAEAA2E50F06.title: "高位唤魔者"
 	task.7C14A87514F74DF9.title: "制作虚空辉壤"
