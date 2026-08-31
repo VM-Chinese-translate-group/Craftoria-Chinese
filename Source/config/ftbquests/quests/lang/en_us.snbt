@@ -4,6 +4,7 @@
 	chapter.0597AF3E8B286CFA.title: "Ars Nouveau"
 	chapter.0644AB97E8D8839B.title: "Create"
 	chapter.08639B8433F4CD50.title: "&2Nature's Blessing"
+	chapter.0A7BE8A17BDD53E9.title: "Neo Vitae"
 	chapter.0CF7A598566497C7.title: "&6Completionist"
 	chapter.1910D05CD66EC477.title: "Fishing"
 	chapter.1CFBA632673ABBFD.title: "Organized Storage"
@@ -182,6 +183,9 @@
 		"{image:justdirethings:item/fuel_canister_full width:100 height:100 align:center fit:true}"
 	]
 	quest.030E566682A89105.quest_subtitle: "Fuel Saver"
+	quest.03107F356240B036.quest_desc: ["Create the &bDominus Orb of Vitae&r and expand your &bAnima&r to a truly formidable level."]
+	quest.03107F356240B036.quest_subtitle: "Command the blood. Command the power."
+	quest.03107F356240B036.title: "Dominus"
 	quest.03271CEB2EBD0979.quest_desc: [
 		"  &6Transmits&r &cenergy&r from attached &bsource&r, to any power &bconsumer&r within an offset AOE."
 		""
@@ -213,6 +217,9 @@
 	]
 	quest.038AAFBA1E0DEF7E.quest_subtitle: "Essential for the working Create-or"
 	quest.0390BB0D4F9C388F.title: "hidden/collect_pigment/light_gray"
+	quest.03A2DAC1A090CC65.quest_desc: ["Use your &bHellfire Forge&r to perform your first &bSpiritus&r-infused creation."]
+	quest.03A2DAC1A090CC65.quest_subtitle: "There are forces even blood cannot explain."
+	quest.03A2DAC1A090CC65.title: "Something Beyond Blood"
 	quest.03B562A03308696D.title: "unlocks/items/glass_ampoules"
 	quest.03C11AD9CB224597.title: "unlocks/blocks/item_roundel"
 	quest.03C405F59A8FA1D0.title: "unlocks/blocks/compacting_chest"
@@ -514,6 +521,9 @@
 	quest.0931F12CD1767D8A.title: "unlocks/blocks/pure_pastel_network"
 	quest.09336DBAFB15EF52.quest_desc: ["The &bAdvanced Mechanical Pipe&r has a per-pipe capacity of &98,000mb&r and a per-\"&apull&r\" pipe flow rate of &91,000mb/t&r."]
 	quest.09336DBAFB15EF52.title: "Advanced Mechanical Pipe"
+	quest.0935BFDC4F0B4C6C.quest_desc: ["Expand your &bAra Vitae&r to its third tier and prepare your network for more powerful transmutations."]
+	quest.0935BFDC4F0B4C6C.quest_subtitle: "Your blood network is beginning to evolve."
+	quest.0935BFDC4F0B4C6C.title: "The Third Circle"
 	quest.0953429970AEBCDF.title: "unlocks/food/rabbit_poison"
 	quest.095BF2791DB52A57.title: "unlocks/glowblocks/magenta_glowblock"
 	quest.097ACA8114CD8DA8.quest_desc: ["The &bElite Crushing Factory&r can process up to &a7&r crushing processes at the same time, containing the same \"&eAuto-Sort&r\" function."]
@@ -571,6 +581,17 @@
 		"Extract &bUnassembled PCBs&r from the sides and &cFailed PCBs&r from the top or bottom of the tank."
 	]
 	quest.0B4FA0D7AEB3B6AA.title: "milestones/unlock_shooting_stars"
+	quest.0B7267B31A1CCECA.quest_desc: [
+		"Use the &bRitual Diviner&r to learn a ritual layout and activate your first &bMaster Ritual Stone&r."
+		""
+		"Perform the &2Ritual of Overgrowth&r and accelerate the growth of nature around you."
+		""
+		"Perform the &eRitual of Harvest&r and turn nature's bounty into a reliable resource."
+		""
+		"Perform the &6Ritual of Fallen Trees&r and automate the harvesting of nearby trees."
+	]
+	quest.0B7267B31A1CCECA.quest_subtitle: "Draw the circle. Speak the words. Pay the price."
+	quest.0B7267B31A1CCECA.title: "Your First Ritual"
 	quest.0B94435972292812.quest_desc: [
 		"The &bSpatial IO Port &fis the core of the &bSpatial Digitizing system&f. It's placed at the vertex where all 3 &bpylon edges &fmeet. It's where you place the &bSpatial Drive &fand allow it to&6 capture a build or rlease it&f. This is also the block to power when charging the system."
 		""
@@ -579,6 +600,9 @@
 	quest.0B94435972292812.title: "Spatial IO Port"
 	quest.0B94E87BE3289A8D.title: "hidden/collect_vanilla/nautilus_shell"
 	quest.0B98E8AC5CFB0FC2.quest_desc: ["Obtained when you let your&b Entroized Clusters &agrow&f to the &amax stage&f."]
+	quest.0BB01161ABEFCC8A.quest_desc: ["Use the &bHellfire Forge&r to create your first &bSentient Weapon&r and feed it the souls of your enemies."]
+	quest.0BB01161ABEFCC8A.quest_subtitle: "Give your weapons a hunger of their own."
+	quest.0BB01161ABEFCC8A.title: "Sentient Weapons"
 	quest.0BCCFBE8E29DD5E6.title: "hidden/collect_gilded_book"
 	quest.0BDF41399223A10A.quest_desc: ["Using a Scroll Forge and an Ender Pearl craft an Ender Scrolls."]
 	quest.0BF3E2C6D60A58BB.quest_desc: [
@@ -708,6 +732,9 @@
 		"- &6Right click&r the paper part."
 		"- Take the armor piece out."
 	]
+	quest.0DD2816485683CE6.quest_desc: ["Forge a complete set of &bSentient Armour&r and begin feeding it the souls of your enemies."]
+	quest.0DD2816485683CE6.quest_subtitle: "The armour no longer serves you. It fights beside you."
+	quest.0DD2816485683CE6.title: "Sentient Armour"
 	quest.0DDB41027911D935.title: "hidden/collect_paltaeria_gem"
 	quest.0DDE4F5B0FE265B0.quest_desc: [
 		"&bPressure Tubes&r transfer &7air&r between &bCompressors&r and &bMachines&r, can be &2disguised&r to blend in with their &aenvironment&r. "
@@ -862,6 +889,9 @@
 		"  The Controller is on the second layer, on top of the &bHeatproof Machine Casings&r. &6Don't forget you can use your &bWrench&r &6to show the shape of the multiblock and placement of the blocks needed for it&r. The required hatches must be placed on the bottom layer. You'll need a way to input water and a solid fuel, as well as a way to extract &bSteam&r."
 	]
 	quest.1081BFCAB3F07FFF.title: "Large Steam Boiler"
+	quest.108E216EC6911B77.quest_desc: ["Upgrade your &bAra Vitae&r and create the &bDiscipulus Orb of Vitae&r to greatly expand your &bAnima&r."]
+	quest.108E216EC6911B77.quest_subtitle: "Your first ascension begins."
+	quest.108E216EC6911B77.title: "The Discipulus"
 	quest.1094111FB9512D75.quest_desc: [
 		"  There are three &bSmall Diesel Generators&r that are the beginning of power generation via fluids or gases. You can use your EMI to check for how much EU will be produced per millibucket of each type of fuel."
 		""
@@ -964,6 +994,8 @@
 	quest.12B989BBFB906384.title: "unlocks/reagents/four_leaf_clover"
 	quest.12C0AD9539DE96F2.quest_desc: ["The &bElite Smelting Factory&r can process up to &a7&r smelting processes at the same time, containing the same \"&eAuto-Sort&r\" function."]
 	quest.12C0AD9539DE96F2.title: "Elite Smelting Factory"
+	quest.12C3E39C224DE93B.quest_subtitle: "Complete the quest chapter."
+	quest.12C3E39C224DE93B.title: "&4Neo Vitae"
 	quest.12CFAFA1E247D888.quest_desc: [
 		"Provides &2discount&r to spell."
 		"Also provides a small boost to &6Max Mana&r \\& &6Mana Regen&r."
@@ -2294,6 +2326,9 @@
 	quest.26A44EDA4AABFF6F.title: "&cWelcome &eto &aPNC"
 	quest.26AC949F1C3C6214.quest_desc: ["Brassy, black sided, and very stylish."]
 	quest.26BB351259DAB59B.title: "unlocks/trinkets/take_off_belt"
+	quest.26C7705667EB55E8.quest_desc: ["Upgrade your &bAra Vitae&r to its fourth tier by adding the required &bRunes&r and &bCapstones&r, unlocking greater &bVitae&r capacity and access to more powerful blood magic."]
+	quest.26C7705667EB55E8.quest_subtitle: "Your altar now rivals the power of ancient magic."
+	quest.26C7705667EB55E8.title: "The Fourth Circle"
 	quest.26CD3D7488C51839.title: "hidden/collect_all_jade_vine_products"
 	quest.26E5494402066DB9.title: "triggers/hints/stargazing_page1"
 	quest.26E8913A415EA76B.title: "unlocks/blocks/titration_barrel"
@@ -2972,6 +3007,13 @@
 	]
 	quest.335BFE2345DAFE03.title: "Electric Accessories"
 	quest.336842A5AE730DF1.title: "unlocks/trinkets/radiance_pin"
+	quest.3376D278202F2B4C.quest_desc: [
+		"Bind your &bNovicius Orb of Vitae&r to yourself and establish your first &bAnima&r network."
+		""
+		"Learn to channel &bEssentia Vitae&r between your blood altar and its connected components, laying the foundation for everything that follows."
+	]
+	quest.3376D278202F2B4C.quest_subtitle: "Your power must flow before it can grow."
+	quest.3376D278202F2B4C.title: "The Blood Network"
 	quest.337C66CF05695CB8.title: "triggers/hints/malachite_page1"
 	quest.3392424E7E1B68C4.quest_desc: [
 		"Need a &bcentrifuge&r? "
@@ -3140,6 +3182,9 @@
 		""
 		"Secondly it will provide an &aIn-World&f Highlight of which &bPattern Provider&f is stuck when doing large crafting jobs."
 	]
+	quest.35D797292DAB5C89.quest_desc: ["Obtain &bScriptura Vitae&r and begin generating &4Essentia Vitae&r."]
+	quest.35D797292DAB5C89.quest_subtitle: "Learn to turn life itself into energy."
+	quest.35D797292DAB5C89.title: "Blood Is Power"
 	quest.35F320164724B44C.quest_desc: ["The minimum number of ticks between spawns."]
 	quest.35F320164724B44C.quest_subtitle: "-10 Min Spawn Delay"
 	quest.35F6CAD5BE56A32A.quest_desc: [
@@ -3279,6 +3324,9 @@
 	]
 	quest.3845860EEADB2093.title: "unlocks/food/reprise"
 	quest.384DA51D9FA435CA.title: "unlocks/items/ink_assortment"
+	quest.384E0A6178B5AA5B.quest_desc: ["Craft your first &bReinforced Rune&r and unlock stronger modifications for your &bAra Vitae&r."]
+	quest.384E0A6178B5AA5B.quest_subtitle: "The old runes are no longer enough."
+	quest.384E0A6178B5AA5B.title: "Reinforced Runes"
 	quest.3850B26FC78DD874.quest_desc: [
 		"The &bBasic Smelting Factory&r can process up to &a3&r smelting processs at once. "
 		""
@@ -3385,6 +3433,13 @@
 	quest.3A20D522302FE7B9.title: "Basic Processors"
 	quest.3A23D98042990591.title: "Chemical Infuser for Sulfur Trioxide"
 	quest.3A330803CC14920C.title: "unlocks/blocks/heartbound_chest"
+	quest.3A3B3EACB9321FF3.quest_desc: [
+		"Construct the &bHellfire Forge&r and unlock a new method of transforming &bVitae&r into power."
+		""
+		"Use the &bHellfire Forge&r to begin creating more advanced equipment and materials."
+	]
+	quest.3A3B3EACB9321FF3.quest_subtitle: "Some things can only be forged in hellfire."
+	quest.3A3B3EACB9321FF3.title: "The Hellfire Forge"
 	quest.3A5A59C7AEA670C7.quest_desc: ["&bAviar's Circle&r is the first pentacle you will prepare. It is for &6summoning Foliot&r. &6Refer&r to the &bDictionary of Spirits&r for how to lay it out."]
 	quest.3A5A59C7AEA670C7.quest_subtitle: "First ritual"
 	quest.3A5A59C7AEA670C7.title: "Aviar's Circle"
@@ -3424,6 +3479,9 @@
 	]
 	quest.3B6674B3B91BD8B4.quest_subtitle: "Buckle up, we're going for a ride!"
 	quest.3B794A7C9A822632.title: "triggers/hints/quitoxic_reeds_page1"
+	quest.3B7D0C01193B6FB3.quest_desc: ["Craft your first set of &bRunes&r and begin modifying the speed, capacity and efficiency of your &bAra Vitae&r."]
+	quest.3B7D0C01193B6FB3.quest_subtitle: "Shape the flow of vitae to your will."
+	quest.3B7D0C01193B6FB3.title: "Runes"
 	quest.3B82F8F19AF630D5.quest_desc: ["The&b Toggle Bus &fis the same as a &bGlass Cable&f, but is used to &6temporarily disable&f the section of a system downstream from it when unpowered. &6Powering it&f will allow data and power to pass once again."]
 	quest.3B82F8F19AF630D5.title: "Toggle Bus"
 	quest.3B875C6E2FFCE86E.title: "unlocks/blocks/color_picker"
@@ -3762,6 +3820,9 @@
 	]
 	quest.4184B4182CFEF694.quest_subtitle: "Signal acquired"
 	quest.418659818AD0712B.quest_desc: ["&bBulk Storage Cells&f can hold an &ainfinite &famount of 1 singular item."]
+	quest.418CB5EC1FE8CB1A.quest_desc: ["Use the &bAra Vitae&r to create your first &bNovicius Orb of Vitae&r."]
+	quest.418CB5EC1FE8CB1A.quest_subtitle: "Blood is the price. Power is the reward."
+	quest.418CB5EC1FE8CB1A.title: "The First Sacrifice"
 	quest.41A6A67501853BDF.title: "unlocks/items/pipe_bomb"
 	quest.41BFB47E0B652609.title: "unlocks/food/gin"
 	quest.41D1344A31FEA6DF.quest_desc: [
@@ -3789,7 +3850,12 @@
 	quest.42AC14C7D41F0CAB.quest_desc: ["Using the Scroll Forge and a Blaze Rod craft a Fire Scrolls, which are really good at burning your enemies... and sometimes your friends... Just make sure you dont accodently cast fireball on their pets and you should be fine!"]
 	quest.42BD2180A2C7818F.title: "unlocks/colored_saplings/cyan_sapling"
 	quest.42C5954DE45C0AF1.title: "unlocks/equipment/oblivion_pickaxe"
+	quest.42C757350BE9280A.quest_desc: ["Defeat the various &bDaemonium&r that inhabit the demon realm and collect their unique drops."]
+	quest.42C757350BE9280A.quest_subtitle: "If hell wants a fight, give it one."
+	quest.42C757350BE9280A.title: "Demon Hunter"
 	quest.42CBBA942DBD600E.title: "unlocks/equipment/tender_pickaxe"
+	quest.42D39031CFD335C9.quest_desc: ["Perform the &bRitual of Fallen Trees&r and automate the harvesting of nearby trees."]
+	quest.42D39031CFD335C9.quest_subtitle: "Even the forest can be harvested by force."
 	quest.42D6CC67AB29D7DA.quest_desc: [
 		"  You've finally reached &bDigital Circuits&r!"
 		""
@@ -4291,6 +4357,13 @@
 	quest.499C20A6A0D7952F.quest_subtitle: "Example Spell"
 	quest.499C20A6A0D7952F.title: "Armor"
 	quest.49A2B2B2B23C856E.title: "unlocks/weather/rain"
+	quest.49BDD5CCF648A04D.quest_desc: [
+		"Ascend your &bAra Vitae&r and create the &bVeneficus Orb of Vitae&r, expanding your &bAnima&r to a new scale."
+		""
+		"The &6Tier 3&r structure uses Bloodstone/Bloodstone Bricks and requires Tau Fruit from the &4Breaching the Edge of Demon Realm&r ritual"
+	]
+	quest.49BDD5CCF648A04D.quest_subtitle: "Your power has outgrown its first vessel."
+	quest.49BDD5CCF648A04D.title: "Veneficus"
 	quest.49C508DCB4AAC3CB.quest_desc: ["The &bUltimate Sawing Factory&r can process up to &a9&r sawing processes at the same time, containing the same \"&eAuto-Sort&r\" function."]
 	quest.49C508DCB4AAC3CB.title: "Ultimate Sawing Factory"
 	quest.49C5862DCDDE0F53.title: "unlocks/trinkets/fanciful_pendant"
@@ -4410,6 +4483,8 @@
 	quest.4CD943F9416FB352.quest_desc: ["This is an &bEnergy Cell &fthat can hold &bpower&f to be used by your system during times of a &6power outages&f. It can also handle &6instant power draw&f from machines you might use down the road."]
 	quest.4CD943F9416FB352.title: "Energy Cell"
 	quest.4CF10B1859DB33AF.title: "unlocks/blocks/crystal_apothecary"
+	quest.4CFB8A6C9DF9988A.quest_desc: ["Create the &bSigil of Teleposition&r and begin manipulating your position through &bVitae&r."]
+	quest.4CFB8A6C9DF9988A.quest_subtitle: "Distance is merely an inconvenience."
 	quest.4D02897DB2CE4C25.title: "Wasabi"
 	quest.4D05AA18CF654D70.quest_desc: [
 		"  &bFerricore Tools and Weapons&r are as strong and durable as their &biron equivalents&r."
@@ -4487,6 +4562,18 @@
 	quest.4DCA7554F0B54086.title: "unlocks/reagents/bedrock_dust"
 	quest.4DCAA7606A2913C7.title: "hidden/status_effects/immunity"
 	quest.4DE80794D0109F0A.title: "unlocks/food/reprise"
+	quest.4DE8993F6A7F096B.quest_desc: [
+		"Obtain the &bLex Vitae&r and wield one of Neo Vitae's most powerful creations."
+		""
+		"Master both the mining and combat capabilities of the &bLex Vitae&r and prove that you can wield its full power."
+		""
+		"Modes:"
+		""
+		"* Mining Mode"
+		"* Damage Mode"
+	]
+	quest.4DE8993F6A7F096B.quest_subtitle: "The culmination of blood, spirit and suffering."
+	quest.4DE8993F6A7F096B.title: "The Lex Vitae"
 	quest.4DF37A1DE450900F.title: "unlocks/reagents/bismuth_flake"
 	quest.4E026831A66E0A42.quest_desc: ["&1Blue&r Chalk allows summoning and binding Marid."]
 	quest.4E026831A66E0A42.quest_subtitle: "Seven Seas"
@@ -4634,6 +4721,9 @@
 	quest.4F076E5D6F0BED74.title: "Spell 101 - 1"
 	quest.4F0F24F222AA434A.quest_desc: ["&eYellow&r Chalk is marginally more powerful than the simple White. It is primarily used for Possession rituals."]
 	quest.4F0F24F222AA434A.quest_subtitle: "Possession"
+	quest.4F144C6D995FED7E.quest_desc: ["Create the &bMagus Orb of Vitae&r and expand your &bAnima&r to support increasingly powerful creations."]
+	quest.4F144C6D995FED7E.quest_subtitle: "Magic bends to those willing to pay its price."
+	quest.4F144C6D995FED7E.title: "Magus"
 	quest.4F1C83596F196B59.title: "hidden/interact_with_doombloom"
 	quest.4F2C4595C25E23E1.quest_desc: ["This Rod is pre-attuned to locate a &9Rare&r material."]
 	quest.4F2C8B8D013484F8.title: "hidden/collect_cookbooks/melochites_cookbook_vol_2"
@@ -4878,6 +4968,9 @@
 	]
 	quest.52BB8CBB7118C793.quest_subtitle: "Amethyst"
 	quest.52C0FAC54A3C11AF.title: "unlocks/items/crescent_clock"
+	quest.52CA774E9F825514.quest_desc: ["Perform the &bRitual of Harvest&r and turn nature's bounty into a reliable resource."]
+	quest.52CA774E9F825514.quest_subtitle: "Let nothing go to waste."
+	quest.52CA774E9F825514.title: "&6Ritual of Harvest"
 	quest.5304EACB52CF4715.title: "unlocks/items/night_salts"
 	quest.5319FD97D5133E7A.quest_desc: ["To craft &bRedstone Crystal&6 throw&b 1 Block of Redstone, 1 Glowstone Dust, and 1 Fluix Crystal &finto &awater &fand watch the magic happen."]
 	quest.5320AA6BC3158A58.title: "unlocks/trinkets/jeopardant"
@@ -4903,6 +4996,9 @@
 	quest.53A07420D75804AB.quest_subtitle: "Just Charge It!!!"
 	quest.53A66CA8EFE820D1.quest_desc: ["Greedy Familiars &6collect&r &bitems&r for you. When put in a Familiar Ring, they enhance your item collection range."]
 	quest.53A66CA8EFE820D1.quest_subtitle: "For the hoard"
+	quest.53C28D1A140CA4A6.quest_desc: ["Discover the five &bSpiritus&r aspects and learn to harness their different properties."]
+	quest.53C28D1A140CA4A6.quest_subtitle: "Five spirits. Five powers. One path."
+	quest.53C28D1A140CA4A6.title: "The Five Aspects"
 	quest.53C7E3E3572DA8CE.title: "hidden/visit_dd_biomes/deep_dripstone_caves"
 	quest.53CBCFCCAD084BA8.title: "unlocks/glowblocks/cyan_glowblock"
 	quest.53CBE51D1E359FE7.title: "hidden/collect_shards/topaz"
@@ -5186,6 +5282,8 @@
 		"It’s every tool in one and can inflict &4a lot of damage&r."
 	]
 	quest.59451B5DAD78C46F.title: "Atomic Disassembler"
+	quest.5946631C59C788DC.quest_desc: ["Create the &bSigil of Holding&r and learn to carry multiple &bSigils&r at once."]
+	quest.5946631C59C788DC.quest_subtitle: "Carry your power wherever you go."
 	quest.594BC97607EEE341.quest_desc: ["A key piece of most Create builds: &6interchanges&r axis of rotational motion between one plane and another"]
 	quest.59552E5C69FBC99E.title: "hidden/collect_stratine_gem"
 	quest.596057832C440706.title: "Dielectric"
@@ -5213,6 +5311,9 @@
 	quest.5A4ABDA1103A6C98.title: "unlocks/colored_saplings/light_blue_sapling"
 	quest.5A4E9D4056DA2C67.quest_desc: ["The &bElite Universal Cable&r can hold &e409.6 kFE per cable&r in the network and each additional cable adds &e409.6 kFE/t&r to the total network trasmission rate."]
 	quest.5A4E9D4056DA2C67.title: "Elite Universal Cable"
+	quest.5A52426AC47A1FE3.quest_desc: ["Complete the final tier of the &bAra Vitae&r and prepare yourself for the ultimate Orb of Vitae."]
+	quest.5A52426AC47A1FE3.quest_subtitle: "You stand at the threshold of true mastery."
+	quest.5A52426AC47A1FE3.title: "The Sixth Circle"
 	quest.5A5583EA02C78372.quest_desc: [
 		"An upgraded airship, with heaps of storage space."
 		""
@@ -5352,6 +5453,9 @@
 	quest.5E80F68DC426EE3A.title: "unlocks/trinkets/totem_pendant"
 	quest.5E8396CEEB2F2395.title: "hidden/status_effects/calming"
 	quest.5E8FBBB9378BD7E0.title: "unlocks/ampoules/raw_malachite_ampoule"
+	quest.5E978B85065D1E32.quest_desc: ["Craft the tools required to perform rituals and begin manipulating the world through &bVitae&r."]
+	quest.5E978B85065D1E32.quest_subtitle: "Blood alone is no longer enough."
+	quest.5E978B85065D1E32.title: "The Ritualist"
 	quest.5E9F30ADD242C764.quest_desc: [
 		"&4Buy 2 for the same price if you call right now!!!"
 		"&bNitro crystals &fare materials required for the highest tier of machinery, that being &bNitro. &fIt is made with &bNether stars, Redstone&f and a touch of &bblaze crystals."
@@ -5383,6 +5487,9 @@
 	]
 	quest.5EC2714894E2CB13.quest_subtitle: "Crush, Cut, Flatten"
 	quest.5EC2714894E2CB13.title: "Ars Unification Addon"
+	quest.5EC47502FEDE944B.quest_desc: ["Create the &bDivinus Orb of Vitae&r and reach the absolute limit of your &bAnima&r network."]
+	quest.5EC47502FEDE944B.quest_subtitle: "There is almost nothing left beyond you."
+	quest.5EC47502FEDE944B.title: "Divinus"
 	quest.5ECC7F4F5D2591D9.quest_desc: ["The &bAdvanced Card &fis a crafting component used to craft &bUpgrades&f."]
 	quest.5ECC7F4F5D2591D9.title: "Advanced Upgrades"
 	quest.5ED90DDC4B3189F6.title: "triggers/hints/stratine_page1"
@@ -5519,6 +5626,8 @@
 		""
 		"Check out&6 bulk-blasting&r (omg!) and &6pushing&r stuff around."
 	]
+	quest.61AAFF003014ABBC.quest_desc: ["Craft the &bTabula Vitae&r and unlock the ability to create powerful &bSigils&r."]
+	quest.61AAFF003014ABBC.quest_subtitle: "Knowledge gives blood a purpose."
 	quest.6201E6DF709C29D0.quest_desc: [
 		"  &bFerricore armor&r is as strong and durable as &biron armor&r."
 		""
@@ -6056,6 +6165,8 @@
 	]
 	quest.69403313B37E8219.quest_subtitle: "Player Impersonator"
 	quest.694D7CF02B1D0B3D.title: "unlocks/enchantments/sniping"
+	quest.695071B9E6FB490A.quest_desc: ["Perform the &bRitual of Overgrowth&r and accelerate the growth of nature around you."]
+	quest.695071B9E6FB490A.quest_subtitle: "Force nature to obey."
 	quest.696E3EA2446A17E9.title: "unlocks/food/moonshine"
 	quest.6976592A2FB069AD.quest_desc: ["Crafted with &b4 Fluix Crystals&f in a 2x2 pattern you will obtain a &bFluix Block&f."]
 	quest.69767F69C84AC701.quest_desc: [
@@ -6136,6 +6247,9 @@
 	quest.6A9DAB624949191E.quest_desc: ["The &bElite Enriching Factory&r can process up to &a7&r recipes at the same time, containing the same \"&eAuto-Sort&r\" function."]
 	quest.6A9DAB624949191E.title: "Elite Enriching Factory"
 	quest.6AB303BEA478C0F3.quest_desc: ["&6Programmable&r Rotation Control!"]
+	quest.6AD3F5CE39D98B03.quest_desc: ["Step through the &bHighway to Hell&r and enter the endless demon realm for the first time."]
+	quest.6AD3F5CE39D98B03.quest_subtitle: "Welcome to a place where the dead do not rest."
+	quest.6AD3F5CE39D98B03.title: "Enter the Demon Realm"
 	quest.6ADAB3DC1A06B9F4.title: "unlocks/enchantments/big_catch"
 	quest.6ADBF1DFBDF45D7C.quest_desc: [
 		"Made with a &bLogic Processor &fsome &bRedstone&f and some &bQuartz Glass&f. "
@@ -6240,6 +6354,8 @@
 		"&8Tip: &6transmog&r &8to the Arcanist armor if you want to look like Arcanist set. "
 	]
 	quest.6C7789B56E50B6F1.title: "BattleMage's Cloak"
+	quest.6C86EFABDB60BE68.quest_desc: ["Create the &bSigil of the Blood Lamp&r and illuminate the world using your &bAnima&r."]
+	quest.6C86EFABDB60BE68.quest_subtitle: "Even darkness bends to your will."
 	quest.6C8AB8E9A547D1C9.quest_desc: [""]
 	quest.6C8AB8E9A547D1C9.title: "ME Buses"
 	quest.6C8AE89A59001D7C.title: "unlocks/colored_saplings/light_blue_sapling"
@@ -6377,6 +6493,9 @@
 	quest.6F7A998802C99AD4.quest_desc: ["These are pylons designed to outline the volume you wish to store into spatial drives. You must use these to outline 3 edges to an imaginary box surrounding the build. Each line of them uses 1 channel and each line needs to be at at least 2 pylons long. Try experimenting with the number of lines and how much power it uses! You might be able to optimize your digitizing."]
 	quest.6F7A998802C99AD4.title: "Spatial Pylon"
 	quest.6F7FE6968448DC79.title: "unlocks/malachite/ferocious_glass_crest_bident"
+	quest.6F92D6C797F9C931.quest_desc: ["Construct the &bCrystallarium&r and use &bSpiritus Aura&r to create concentrated spiritual energy."]
+	quest.6F92D6C797F9C931.quest_subtitle: "What was once formless can now be held."
+	quest.6F92D6C797F9C931.title: "Crystallized Essence"
 	quest.6F9513334361D44E.quest_desc: ["&6Consuming&r this fruit will open your &bThird Eye&r, allowing you to see things you otherwise could not."]
 	quest.6F9513334361D44E.quest_subtitle: "Hallucinogens"
 	quest.6FA1BD39E9BB9392.quest_desc: ["The &bUltimate Combining Factory&r allows you to process &a9&r combining recipes at once."]
@@ -6654,6 +6773,8 @@
 	quest.73DF4B8186890BFE.quest_subtitle: "Advanced Source Transfer"
 	quest.73DF4B8186890BFE.title: "More Source Relays"
 	quest.73DFEB3A3758F0BE.title: "unlocks/trinkets/greater_potion_pendant"
+	quest.73FC0402BA6033FA.quest_desc: ["Create the &bSigil of Phantom Bridge&r and learn to cross gaps that should be impossible."]
+	quest.73FC0402BA6033FA.quest_subtitle: "Cross the impossible."
 	quest.740B34D7D1AF3FF0.quest_desc: ["The &bCrusher&r is a machine used to &6crush&r items and blocks into &7dusts&r and other &9materials&r."]
 	quest.740B34D7D1AF3FF0.title: "Crusher"
 	quest.7410A962F38D6B06.title: "unlocks/malachite/glass_crest_tools"
@@ -6904,6 +7025,9 @@
 	quest.7992491EE3E2BED3.title: "Advanced Thermodynamic Conductor"
 	quest.7992D4B118EDFA07.title: "unlocks/equipment/lagoon_rod"
 	quest.7996A925BA9D3093.title: "hidden/collect_vanilla/dragon_breath"
+	quest.7997AD44CC428BDC.quest_desc: ["Construct the &bVas Maleficum&r and begin generating the &bSpiritus Aura&r needed for more advanced creations."]
+	quest.7997AD44CC428BDC.quest_subtitle: "Give form to the spirits that surround you."
+	quest.7997AD44CC428BDC.title: "The Vas Maleficum"
 	quest.79A324CF6BFB5FEE.title: "hidden/collect_vanilla/glowstone_dust"
 	quest.79A693466BF51105.quest_desc: ["This Rod can locate &dPrecious&r materials, and has far superior durability."]
 	quest.79A693466BF51105.quest_subtitle: "I can see it all"
@@ -6921,6 +7045,9 @@
 		"- Deploying on top of an &3inventory&r containing a &bHoe&r will tell the drone to &6replant&r any &acrops&r it harvests within its area."
 	]
 	quest.79F451F9C8D02A69.quest_desc: ["Now that you have a &bConcurrent Processor &fyou can now craft some more items to help you through &aExtenedAE&f."]
+	quest.7A0A29CC4F524CEE.quest_desc: ["Expand your &bAra Vitae&r with its first ring of &bBlank Runes&r and unlock the next stage of Vitaemancy."]
+	quest.7A0A29CC4F524CEE.quest_subtitle: "The altar is only the beginning."
+	quest.7A0A29CC4F524CEE.title: "The First Circle"
 	quest.7A0D5428B17233EF.title: "unlocks/food/restoration_tea"
 	quest.7A447129529A7681.title: "unlocks/blocks/modular_explosives"
 	quest.7A5466B9F5C79793.quest_desc: ["&bFoliot&r are the first type of spirit you will work with, and the least dangerous."]
@@ -7066,6 +7193,9 @@
 	quest.7C7C88C2FC6C20AC.title: "unlocks/trinkets/glow_vision_goggles"
 	quest.7C834204DEE1813C.quest_desc: ["The &bAdvnaced Enriching Factory&r can process up to &a5&r recipes at the same time, containing the same \"&eAuto-Sort&r\" function."]
 	quest.7C834204DEE1813C.title: "Advanced Enriching Factory"
+	quest.7C8727CEB9850F24.quest_desc: ["Obtain the &bAra Vitae&r and begin your journey into the forbidden arts."]
+	quest.7C8727CEB9850F24.quest_subtitle: "Every great power begins with a single sacrifice."
+	quest.7C8727CEB9850F24.title: "&4A Strange Power"
 	quest.7C8EF2A739AAC1D7.title: "ME Cell Housing"
 	quest.7C954CBED348A2EB.title: "hidden/used_tip"
 	quest.7CA8702581BA6AE6.title: "unlocks/enchantments/vanilla_projectile"
@@ -7125,6 +7255,9 @@
 	]
 	quest.7D7029D50B0302E7.title: "unlocks/upgrades/upgrade_speed"
 	quest.7D717BA3F55103B2.title: "triggers/hints/clover_page1"
+	quest.7D740352BE81EBAD.quest_desc: ["Explore the demon realm and obtain your first &bDemonite&r from its corrupted depths."]
+	quest.7D740352BE81EBAD.quest_subtitle: "Harvest power from those who were never meant to live."
+	quest.7D740352BE81EBAD.title: "Blood of the Damned"
 	quest.7DA234839458B333.quest_desc: [
 		"The &cFlamethrower&r allows you to use &7Hydrogen&r to spew &4fire&r at &bblocks&r and &2entities&r. "
 		""
@@ -7157,6 +7290,9 @@
 	quest.7E141B9A82750F83.title: "hidden/collect_ash_and_slush"
 	quest.7E3BD249213C7036.title: "unlocks/trinkets/azure_dike_belt"
 	quest.7E49DB806DD04701.quest_desc: [""]
+	quest.7E88E36EDE4C0BF0.quest_desc: ["Expand your &bAra Vitae&r to its fifth tier by adding the required &bRunes&r and &bCapstone Blocks&r, unlocking greater &bVitae&r power and access to the most advanced transmutations and rituals."]
+	quest.7E88E36EDE4C0BF0.quest_subtitle: "You are no longer merely a practitioner."
+	quest.7E88E36EDE4C0BF0.title: "The Fifth Circle"
 	quest.7EAA0A13EF60E267.title: "hidden/visit_dd_biomes/deep_barrens"
 	quest.7EBDCA060A3CC055.title: "unlocks/blocks/shimmerstone_lights"
 	quest.7ED9955750255A69.quest_subtitle: "Complete the quest chapter."
@@ -7214,11 +7350,16 @@
 	quest.7F4DE16B3EA6232F.title: "unlocks/upgrades/upgrade_speed2"
 	quest.7F57BFB41865173A.title: "unlocks/glowblocks/any_glowblock"
 	quest.7F5C7E623935E63B.title: "hidden/status_effects/divinity"
+	quest.7F5D66A96BCE339D.quest_desc: ["Activate the &bRitual of Sentient Evolution&r and push your &bSentient Armour&r beyond its original limits."]
+	quest.7F5D66A96BCE339D.quest_subtitle: "What you created has learned to evolve."
 	quest.7F7AB9192CD7FC70.quest_desc: ["The &bElite Sawing Factory&r can process up to &a7&r sawing processes at the same time, containing the same \"&eAuto-Sort&r\" function."]
 	quest.7F7AB9192CD7FC70.title: "Elite Sawing Factory"
 	quest.7F7BA1F878A2219B.title: "unlocks/blocks/block_flooder"
 	quest.7FA5112E27A0D70C.quest_desc: ["This pickaxe may be more useful for making &bminer spirits&r than it is for you, but it is far better than its brittle predecessor."]
 	quest.7FA5112E27A0D70C.quest_subtitle: "Spirit pick"
+	quest.7FAF52B083F86C57.quest_desc: ["Perform the &bHighway to Hell&r ritual and tear open a path to the demon realm."]
+	quest.7FAF52B083F86C57.quest_subtitle: "There is a road to hell. You only need to open it."
+	quest.7FAF52B083F86C57.title: "Open the Gateway"
 	quest.7FBC6EFE948A0CD2.quest_desc: ["The Dragon &6bolsters&r your &bexperience gain&r."]
 	quest.7FBC6EFE948A0CD2.quest_subtitle: "This one hoards knowledge, not gold"
 	quest.7FC6AE9DB7C1DA52.quest_desc: [
@@ -7323,6 +7464,7 @@
 	task.341F7CB191A0790A.title: "Universal Cables"
 	task.3716986BD12061AA.title: "Any #c:raw_materials/gold"
 	task.37DECFA02129E0B8.title: "Summon a Deer Familiar"
+	task.38084EDBEB9647AD.title: "Sentient Evolution"
 	task.3BC634992A1E9BAD.title: "Observe: &2Any Entro Budding&r"
 	task.3C8E0C3D705AB65F.title: "Any #c:raw_materials/iron"
 	task.3ED23CC07C23FD76.title: "&bWelcome To Occultism"
@@ -7332,16 +7474,21 @@
 	task.41EC40C5739AA13D.title: "Oh The Crops You'll Find!"
 	task.42634C57B87C09DB.title: "Summon a Fairy Familiar"
 	task.429785464C6CD059.title: "Any #minecraft:axes"
+	task.43CE51B3EC9945C1.title: "&aRitual of Fallen Trees"
 	task.443D8F4CD01CC0C9.title: "Summon a Parrot \"Familiar\""
 	task.4552085BF5330776.title: "OK, Let Me Cook"
+	task.46DBAE66F97438E6.title: "Runes"
+	task.480E9CFA1CEE6479.title: "Spiritus Gems"
 	task.4CE3EEAAF41AE050.title: "Summon a Foliot Janitor"
 	task.4D5812F798FB8C8C.title: "&dTheurgy &9100%"
 	task.4D63FA888F0497B5.title: "Summon a Cthulhu Familiar"
 	task.4E775BAB4EB29C69.title: "Any #c:crops/garlic"
 	task.4F4699F9117BC270.title: "Pre-Programmed Drones"
 	task.4F7787C0557CF5CC.title: "Apo The Carist"
+	task.51B280AD931A2CF4.title: "Demonite"
 	task.52C834FDFA57A474.title: "Summon a Beholder Familiar"
 	task.5327B3CEDA60D4BE.title: "Any #c:raw_materials/silver"
+	task.537A156153014C88.title: "&2Ritual of Overgrowth"
 	task.5397C5FA8788480F.title: "Any #c:seeds/rice"
 	task.54E5D81FEE18AF83.title: "Pyromancer"
 	task.570D439C4AC9F64C.title: "World Tiers"
@@ -7356,6 +7503,7 @@
 	task.6544A3FD1B532809.title: "Summon a Demonic Husband"
 	task.65A43DD683FB39E4.title: "Summon a Foliot Lumberjack"
 	task.65B2D0E35B083E82.title: "Survival of the Fittest"
+	task.66A70863F595A874.title: "Ritual of Harvest"
 	task.66BF2FED6B091A68.title: "Exploration!"
 	task.691E6AA922761E29.title: "Hooks"
 	task.6C6C366D034AF5C7.title: "Summon an Otherworld Sapling Trader"
@@ -7366,7 +7514,10 @@
 	task.73DFBACC98E080BC.title: "Any Knife"
 	task.741F21CA04FBCB90.title: "Logistical Transporters"
 	task.74C6D98426025A18.title: "Summon a Guardian Familiar"
+	task.74EA288EED7CCE71.title: "Reinforced Runes"
 	task.7537E40C4FAB6D5C.title: "Welcome To Powah"
+	task.753B3D09A302E973.title: "Raw Spiritus Crystals"
+	task.7617B5CAABCD437A.title: "Bloodstones"
 	task.7A0371393E813129.title: "Observe: &2Any Certus Budding&r"
 	task.7AB3BAEAA2E50F06.title: "Archevoker"
 	task.7C14A87514F74DF9.title: "Make VoidShimmer Soil"
