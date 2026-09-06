@@ -5626,7 +5626,7 @@
 		""
 		"Check out&6 bulk-blasting&r (omg!) and &6pushing&r stuff around."
 	]
-	quest.61AAFF003014ABBC.quest_desc: ["Craft the &bTabula Vitae&r and unlock the ability to create powerful &bSigils&r."]
+	quest.61AAFF003014ABBC.quest_desc: ["Craft the &bTabula Vitae&r and unlock the ability to create powerful &bSigils&r, &bflasks&r and other useful items."]
 	quest.61AAFF003014ABBC.quest_subtitle: "Knowledge gives blood a purpose."
 	quest.6201E6DF709C29D0.quest_desc: [
 		"  &bFerricore armor&r is as strong and durable as &biron armor&r."
@@ -6738,7 +6738,7 @@
 	quest.73661FD985B372E9.title: "milestones/unlock_shooting_stars"
 	quest.73712AE5CA6D3EC6.title: "unlocks/blocks/lava_sponge"
 	quest.739D2E03341174B1.quest_subtitle: "Complete the quest chapter."
-	quest.739D2E03341174B1.title: "&6Relics"
+	quest.739D2E03341174B1.title: "&dRelics"
 	quest.73A48DA93F67805B.quest_desc: ["&6Facilitates&r having multiple &9fluids&r flowing in your &bpipe&r networks."]
 	quest.73A75FEFDFB27A5C.quest_desc: [
 		"Cheap, ranged transportation."
