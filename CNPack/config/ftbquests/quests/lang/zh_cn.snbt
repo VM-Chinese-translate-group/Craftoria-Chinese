@@ -1,9 +1,12 @@
 {
+	chapter.0138B258F57524B9.title: "Cultivation"
 	chapter.01B56BD678E7745B.title: "Powah"
 	chapter.04AD21E8ACC60AFD.title: "气动工艺"
 	chapter.0597AF3E8B286CFA.title: "新生魔艺"
 	chapter.0644AB97E8D8839B.title: "机械动力"
+	chapter.09343C303E49C46F.title: "Mekanism: Power"
 	chapter.0A7BE8A17BDD53E9.title: "Neo Vitae"
+	chapter.0CB064DDBC477A56.title: "Culinary Arts"
 	chapter.0CF7A598566497C7.title: "&6成就奖杯"
 	chapter.1910D05CD66EC477.title: "垂钓"
 	chapter.1CFBA632673ABBFD.title: "井井有条的存储"
@@ -23,8 +26,10 @@
 	chapter.51BB74521F2334FA.title: "烹饪"
 	chapter.53A9F74C4BFE02D2.title: "现代工业化：电力时代"
 	chapter.587D73D979FA9D28.title: "现代工业化：量子时代"
+	chapter.58ABCA8D818937AA.title: "Mekanism: Logistics"
 	chapter.5A3894BACC5E8994.title: "神通术"
 	chapter.5BF964A2F3CAA6E8.title: "物流系统"
+	chapter.61F4FCD929EE04DC.title: "Apotheosis"
 	chapter.679ED31B5B1D91DA.title: "Replication"
 	chapter.70FFEE37C7ABD690.title: "应用能源"
 	chapter.7269FD2B5B0F0424.title: "神秘学"
@@ -59,7 +64,6 @@
 	image.2B673A94F85BBA93.title: "在翅膀上祈祷"
 	image.2DAE06874F45272D.title: "见证我吧！"
 	image.34720C1FAB96676D.title: "现代工业化：量子时代"
-	image.35EB0EFA6CEE269C.title: "吧唧吧唧"
 	image.3CF0F77E92FC46E7.title: "黄铜"
 	image.438707DEEBEEC04A.title: "在翅膀上祈祷"
 	image.49AA2A6DAD246A83.title: "流体运输"
@@ -117,6 +121,23 @@
 		""
 		"所以，这或许会是你第一个想要造个机器来批量生产的东西。"
 	]
+	quest.01D3ED8EDE07740B.quest_desc: [
+		"The &6Pinnacle&r is the highest World Tier."
+		""
+		"Equip a complete set of &5Epic&r Affix Gear:"
+		""
+		"&5Epic Helmet"
+		"&5Epic Chestplate"
+		"&5Epic Leggings"
+		"&5Epic Boots"
+		"&5Epic Weapon"
+		""
+		"Then defeat the &cEnder Dragon&r."
+		""
+		"Complete both requirements to reach the &6Pinnacle&r."
+	]
+	quest.01D3ED8EDE07740B.quest_subtitle: "The final World Tier awaits."
+	quest.01D3ED8EDE07740B.title: "&z&lPinnacle"
 	quest.01E8A006742F7A00.quest_desc: [
 		"默认情况下，促动器的存储空间不是最大的。"
 		""
@@ -259,8 +280,21 @@
 	quest.0541F90AD95B4B5E.quest_subtitle: "我能为你压一份黄瓜三明治吗？"
 	quest.0547229FF5334CF5.quest_desc: ["&bME接口&f就像一个箱子，你可以在&bME接口&的GUI中&a标记物品或者流体&r，这样它就会自动从&5网络&f中拉取物品来维持库存。"]
 	quest.0578945AE9664476.quest_subtitle: "在觉醒之门试炼中掉落。"
-	quest.05A0AC380BB141A0.quest_desc: ["&b限流管道&r属于一种&b物流管道&r，充当着“&6溢出&r”管道的角色，如果管道中的&3物品&r无处可去，他们就会&6穿过&r&b限流管道&r。"]
-	quest.05A0AC380BB141A0.title: "限流管道"
+	quest.05A0AC380BB141A0.quest_desc: [
+		"Not every item needs to go wherever the network sends it. &bRestrictive&r and &dDiversion&r Transporters give you more control over how items move through your &eLogistical Transporter&r network."
+		""
+		"&bRestrictive Transporter&r"
+		""
+		"Acts as an &6overflow&r route. Items will only enter it when they have nowhere else to go, making it useful for handling excess items or directing unwanted materials to a backup destination."
+		""
+		"&dDiversion Transporter&r"
+		""
+		"Acts as a &6priority&r route. It encourages items to pass through it before normal transporter paths, making it useful for directing specific items toward a preferred destination."
+		""
+		"Use both together to build organized item networks that know where your resources should - and shouldn't - go."
+	]
+	quest.05A0AC380BB141A0.quest_subtitle: "Control the flow of items"
+	quest.05A0AC380BB141A0.title: "Transporters"
 	quest.05B2AA73EAEDCCF4.quest_desc: [
 		"这些&b输出总线&r相较于常规的&b输出总线&r具有更多高级的功能。"
 		""
@@ -321,6 +355,17 @@
 		"  你可以在&6EMI&r中查看它采集的产物。另外，钻头有一定几率损坏，所以最好多做几个备用。"
 	]
 	quest.0729CB454B970201.title: "青铜钻"
+	quest.07428CAC35BEA69B.quest_desc: [
+		"The &5Reforging Table&r provides a more powerful way to reshape your Affix Gear."
+		""
+		"Place an Affix Item inside to replace its current Affixes with a new combination."
+		""
+		"Reforging uses &6Rarity Materials&r and reforging resources."
+		""
+		"Use it when an item's rarity and potential are worth keeping, but its Affixes aren't."
+	]
+	quest.07428CAC35BEA69B.quest_subtitle: "Good gear can still have bad Affixes."
+	quest.07428CAC35BEA69B.title: "&dReforge Your Gear"
 	quest.077658D04D0D4AB3.quest_desc: [
 		"&b硇砂储罐&r必须放置在硇砂蓄积器&6下方&r。这两个设备协同工作，可以从&9水&r中制造出&d硇砂溶剂&r。"
 		""
@@ -413,12 +458,30 @@
 		"  &6记得先看看有哪些机器是&o真的&r&6需要升级的&r，以免浪费你的资源。"
 	]
 	quest.091C2772ED417247.title: "框架升级"
-	quest.0935BFDC4F0B4C6C.quest_desc: ["Expand your &bAra Vitae&r to its third tier and prepare your network for more powerful transmutations."]
-	quest.0935BFDC4F0B4C6C.quest_subtitle: "Your blood network is beginning to evolve."
-	quest.0935BFDC4F0B4C6C.title: "The Third Circle"
+	quest.0935BFDC4F0B4C6C.quest_desc: [
+		"It's time to expand your Ara Vitae."
+		""
+		"Add a second ring of &d16 Runes&f, one level lower and farther out than the first."
+		""
+		"The new positions give you more room for &dSpecialized Runes&f, allowing you to further customize your altar."
+		""
+		"Complete the four pillars and cap them with &dBlood Stained Glass&f."
+		""
+		"Your altar now contains &d24 Runes&f."
+	]
+	quest.0935BFDC4F0B4C6C.quest_subtitle: "The altar grows"
+	quest.0935BFDC4F0B4C6C.title: "The Second Circle"
 	quest.098C3858B4FFCE78.quest_desc: ["使用&b热力发电机&f时，可在其下方放置一个&b烈焰晶体块&f，它将以&b280%的效率发电。"]
 	quest.098C3858B4FFCE78.quest_subtitle: "功率增加280%"
 	quest.09B10C121C7E9023.quest_desc: ["用于制作&bME能源存储组件&f与通量访问点。"]
+	quest.09E90B321012651A.quest_desc: [
+		"The &bPersonal Chest&r gives you a private storage space that stays with you wherever you go."
+		""
+		"Unlike a normal chest, its contents can be accessed from any &bPersonal Chest&r linked to you, making it perfect for keeping frequently used items close at hand."
+		""
+		"Use it as your personal stash for tools, building materials, or anything else you don't want cluttering your inventory."
+	]
+	quest.09E90B321012651A.quest_subtitle: "Your storage, wherever you go"
 	quest.0A67575BAF8596B0.quest_desc: ["比你常见的列车轨道模型更强大：直轨、曲轨（两种类型）和坡道——即使是跨越下界传送门和未加载区块也能正常工作！"]
 	quest.0ABC6D5601DCD95F.quest_desc: ["可通过&6宝箱&r或达成钓鱼&3目标&r获得。"]
 	quest.0ABC6D5601DCD95F.quest_subtitle: "这些升级能提供各种不同的加成，助力你的旅途。"
@@ -552,15 +615,18 @@
 	quest.0D8988AF02D890EA.quest_subtitle: "找到远古战场"
 	quest.0D8988AF02D890EA.title: "行尸走肉"
 	quest.0DA354D54D288D20.quest_desc: [
-		"&b基础热导线缆&r用于将&4热量&r从一个地方传导到另一个地方。"
+		"Thermodynamic Conductors transport &cHeat&r between machines and other heat-handling blocks, forming a shared &cThermodynamic Network&r."
 		""
-		"每个线缆都会为&c热导网络&r提供&a1.0&r点总&4热容&r，而整个网络的热导保持为&e5.0&r不变，热阻也保持为&c10.0&r不变。"
+		"Each conductor added to the network increases its total &cHeat Capacity&r. The network also has a fixed &eConduction&r and &cInsulation&r value based on the conductor tier."
 		""
-		"&b热导线缆&r的热阻值取决于所处的&2生物群系&r。"
+		"The &cInsulation&r of your network is also affected by the &abiome&r you're in."
 		""
-		"处于&c温暖或炎热&r的生物群系时，传输效率会&a更高&r；处于&b寒冷或冰封&r的生物群系时，传输速率会&c更低&r。"
+		"In &cwarmer biomes&r, heat transfer is more efficient. In &bcolder biomes&r, the network becomes less efficient."
+		""
+		"As your heat systems grow, upgrade your conductors to keep up with the increasing &cHeat&r demands."
 	]
-	quest.0DA354D54D288D20.title: "基础热导线缆"
+	quest.0DA354D54D288D20.quest_subtitle: "Move heat where it's needed"
+	quest.0DA354D54D288D20.title: "Thermodynamic Conductors"
 	quest.0DC8081D9EA61411.title: "猕猴桃"
 	quest.0DC83D9B8B09C093.quest_desc: [
 		"&b改衣台&r可用于&6升级&r&b盔甲&r。 "
@@ -585,6 +651,14 @@
 	]
 	quest.0E30CFA6C5B58BEA.quest_desc: ["这个&b釜&r可以将&b炼金硝&r从一个品级转换为另一个品级。"]
 	quest.0E30CFA6C5B58BEA.quest_subtitle: "升级？"
+	quest.0E36B0F444159DC6.quest_desc: [
+		"The &bPersonal Barrel&r gives you a private storage space for keeping large quantities of &fitems&r close at hand."
+		""
+		"Like the &bPersonal Chest&r, its contents are tied to you, letting you access your stored items without needing to return to a specific location."
+		""
+		"Perfect for storing bulk resources while keeping your main storage system organized."
+	]
+	quest.0E36B0F444159DC6.quest_subtitle: "Your private bulk storage"
 	quest.0E3A8954B2AAF9F7.quest_desc: [
 		"使用&b仪式火盆&r召唤&4荒野奇美拉&r，然后将其击败。"
 		""
@@ -683,6 +757,19 @@
 	quest.0FA3C7049E71EA4A.quest_desc: ["你这是打算开一家&b采石场&f吗？"]
 	quest.0FA3C7049E71EA4A.title: "64k 存储组件"
 	quest.0FB6106D73ABB512.title: "管道升级"
+	quest.0FC1A7168D389575.quest_desc: [
+		"Your Ara Vitae continues to grow."
+		""
+		"Add a fourth ring of &d48 Runes&f, once again one level lower and farther out."
+		""
+		"Use &dSpecialized Runes&f to tailor the altar toward your needs, or use their &5Reinforced&f variants for even stronger effects."
+		""
+		"Complete the four pillars with &4Hellforged Blocks&f."
+		""
+		"Your altar now contains &d100 Runes&f."
+	]
+	quest.0FC1A7168D389575.quest_subtitle: "Into the depths"
+	quest.0FC1A7168D389575.title: "The Fourth Circle"
 	quest.0FDA602713778AF0.title: "三阶 1:3"
 	quest.0FE6DFF73BE7AA10.quest_desc: ["召唤比魔精更强大的魔灵需要使用&a黄绿色&r粉笔。它证明了你对神秘学基础知识的掌握。"]
 	quest.0FE6DFF73BE7AA10.quest_subtitle: "知识"
@@ -717,6 +804,18 @@
 		"  消耗同样多的燃料，达到最高温度的&b大型蒸汽锅炉&r&6与&b中压柴油发电机&r产生的能量是一样多的。"
 	]
 	quest.1094111FB9512D75.title: "柴油发电机"
+	quest.10BD26FC074B3066.quest_desc: [
+		"The ultimate evolution of the &bEnchantment Library&r."
+		""
+		"The &zLibrary of Alexandria&r greatly expands your ability to store enchantments, making it easier to build and maintain a collection of powerful enchanted books."
+		""
+		"Store your accumulated enchantment knowledge here and retrieve it whenever you need it, instead of keeping piles of enchanted books in storage."
+		""
+		"This is the final step in building a dedicated enchantment library."
+		""
+		"Tip: Combine this with the &eTome of Extraction&r to safely move powerful enchantments from existing gear into your collection."
+	]
+	quest.10BD26FC074B3066.quest_subtitle: "Master the Art of Enchanting"
 	quest.110B0C8DD2FD5BE7.quest_desc: [
 		"欢迎来到这个由&7固体&r、&b液体&r、&9气体&r和&e电力&r构成的世界！"
 		""
@@ -767,11 +866,24 @@
 	quest.123F10122DCC72F9.title: "大宗元件的自动压缩"
 	quest.1246838BA3EEE910.quest_desc: ["这种&3物质&r可以在&b精炼厂&r中&6加工&r，以制造各种&7燃料&r，这些燃料最后可以用来生产&b塑料&r。"]
 	quest.124D18DDDDC4D102.quest_desc: [
-		"每个&b基础通用线缆&r能够容纳&e3.2 kFE/t&r，意思是说，每个线缆都会给网络增加&e3.2 kFE&r的&3内部&r缓存总量，&o同时&r也会增加同等FE/t的网络总传输速率。"
+		"Universal Cables are the backbone of your &eMekanism&r power network. They transfer &eFE&r between generators, machines, Energy Cubes, and other compatible systems."
 		""
-		"举个例子：如果一个网络里有&a10&r个基础通用线缆，它的总&3缓存量&r应为&e32.0 kFE&r，同时，网络的总传输速率应为&e32.0 kFE/t&r。"
+		"Each cable in a network contributes to its total &9energy buffer&r and &etransfer capacity&r. As your power generation grows, upgrading your cables prevents them from becoming a bottleneck."
+		""
+		"The standard progression is:"
+		""
+		"&2Basic&r → &cAdvanced&r → &bElite&r → &dUltimate&r"
+		""
+		"With &5Mekanism Extras&r, the progression continues:"
+		""
+		"&eAbsolute&r → &4Supreme&r → &dCosmic&r → &zInfinite&r"
+		""
+		"Higher-tier cables can handle vastly more energy, making them essential for the enormous power demands of late-game machinery."
+		""
+		"Use a &eConfigurator&r to control cable connections and shape your power network exactly how you need it."
 	]
-	quest.124D18DDDDC4D102.title: "基础通用线缆"
+	quest.124D18DDDDC4D102.quest_subtitle: "Move energy where it's needed"
+	quest.124D18DDDDC4D102.title: "Universal Cables"
 	quest.12A7971658135C90.quest_desc: [
 		"&b哨戒炮&r是一种自主防御武器，当&6装备&r了&b枪械弹药&r时，会对16格范围内的任何&2生物实体&r&c进行射击&r。"
 		""
@@ -821,6 +933,13 @@
 	]
 	quest.141E3D92CBA9F1B3.title: "离心机"
 	quest.1439B72B421AF009.quest_subtitle: "甜甜的派"
+	quest.14DDF01D6F7D46A7.quest_desc: [
+		"&bThe Enchanting Table of the Raven&r allows direct customization of the core enchanting stats. "
+		""
+		"Use it when you want &eprecise control&r over your enchanting setup."
+	]
+	quest.14DDF01D6F7D46A7.quest_subtitle: "Manual stat control"
+	quest.14DDF01D6F7D46A7.title: "The Raven Knows"
 	quest.14F545E632726FEE.quest_desc: ["生成的生物将处于燃烧状态。"]
 	quest.14F545E632726FEE.quest_subtitle: "+燃烧"
 	quest.15008EFBA92CC3DC.quest_desc: [
@@ -896,8 +1015,28 @@
 		"{image:justdirethings:block/coalblock_t4 width:100 height:100 align:center fit:true}"
 	]
 	quest.1607D3C2384B6CFF.quest_desc: ["制作所有的&bMEGA存储组件&f都需要用到&b累积处理器&f。"]
-	quest.1610E88D5231E670.quest_desc: ["&b热力蒸馏控制器&r是热力蒸馏塔的大脑。热力蒸馏塔可以接收&7流体&r，&6蒸发&r其中的&7水分&r，&9浓缩&r&3其中的溶质&r。&6EMI&r中可以查看能够得到的物品。你&o也许&r需要多建几个……"]
-	quest.1610E88D5231E670.title: "热力蒸馏控制器"
+	quest.1610E88D5231E670.quest_desc: [
+		"The &bThermal Evaporation Controller&r is the heart of a &eThermal Evaporation Plant&r, allowing you to concentrate &9fluids&r by evaporating the water within them."
+		""
+		"Feed a suitable &9fluid&r into the plant and provide &eheat&r to increase its concentration, producing more concentrated fluids as water is removed."
+		""
+		"The exact products depend on what you put in. Check your &bEMI&r to see what your plant can produce."
+		""
+		"Some recipes require multiple stages of evaporation, so don't be surprised if your first tower isn't enough!"
+	]
+	quest.1610E88D5231E670.quest_subtitle: "Concentrate fluids through evaporation"
+	quest.1610E88D5231E670.title: "Thermal Evaporation Controller"
+	quest.162DAA9CC7C05079.quest_desc: [
+		"Not every Affix Item comes with the Affixes you want."
+		""
+		"The &5Simple Reforging Table&r lets you reforge equipment and replace its current Affixes with a new combination."
+		""
+		"It's a simple way to improve promising gear without needing the full reforging setup."
+		""
+		"Craft a &5Simple Reforging Table&r and try your luck."
+	]
+	quest.162DAA9CC7C05079.quest_subtitle: "Sometimes a little luck is all you need."
+	quest.162DAA9CC7C05079.title: "Simple Reforging"
 	quest.162DD68C3B91FC5E.quest_desc: [
 		"  这里有好多要讲的。"
 		""
@@ -940,10 +1079,15 @@
 	]
 	quest.163BCEEEE08F3898.title: "电磁偏振器"
 	quest.1646940008F2A109.quest_desc: [
-		"&b辞典&r用于查找&b物品&r和&b方块&r的&9标签&r。"
+		"The &bDictionary&r lets you look up the &9tags&r assigned to any &fitem&r or &bblock&r."
 		""
-		"在&6配置&r过滤器时非常有用。"
+		"Tags group similar items together, making them especially useful when setting up &6filters&r for your &bLogistical Sorters&r."
+		""
+		"Instead of adding every item individually, you can filter entire groups of items using their shared tags."
+		""
+		"When you're unsure which tag to use, check the &bDictionary&r first."
 	]
+	quest.1646940008F2A109.quest_subtitle: "Find the tags behind your items"
 	quest.164F4710E109F7F2.quest_desc: [
 		"  现在该做这些美丽闪亮的&b橙色金属锭&r啦。你需要从&b锻压台&r上弄一点&b铜&r粉和&b锡&r粉，然后把它们在工作台中按照&b铜&r：&b锡&r=&63：1&r的比例混合即可。随着游戏进程的&6推进&r，还会有更&6高效&r的生产这种混合物的方法，毕竟用手工的话，难免会有些&b粉&r沾到手上而损耗掉。"
 		""
@@ -1091,17 +1235,18 @@
 	quest.17E8751018E9E0F6.title: "致密能源元件"
 	quest.17FCD3ECDC775E69.quest_desc: ["- &c护甲穿透"]
 	quest.183E523C25CC6C3F.quest_desc: [
-		"&b基础物流管道&r可以点对点&6传输物品&r。"
+		"Logistical Transporters are Mekanism's item transportation system, allowing you to move &fitems&r between machines, inventories, and other containers."
 		""
-		"每个“&c抽出&r”管道每秒可以将&a两个&r物品抽出到传输网络中。"
+		"Each &6Basic Logistical Transporter&r can move up to &a2 items per second&r into a network when &cpulling&r items."
 		""
-		"管道本身只有&e每秒1.0米&r的传输速度，也就是物品在管道里飘的速度。"
+		"Once an item is inside the network, it travels through the transporter at up to &e1.0 m/s&r. Higher-tier transporters can move items significantly faster."
 		""
-		"高级的&b管道&r会极大增加传输速度。"
+		"The &apush&r rate into a destination is effectively unlimited, so long as the item can enter the network in the first place."
 		""
-		"虽然“&c抽出&r”管道有速度限制，向容器或机器里“&a输入&r”时却没有限制，只需要将其接入传输网络中即可。"
+		"Use a &eConfigurator&r to configure connections, or add &bLogistical Sorters&r to control exactly where your items go."
 	]
-	quest.183E523C25CC6C3F.title: "基础物流管道"
+	quest.183E523C25CC6C3F.quest_subtitle: "Move items with ease"
+	quest.183E523C25CC6C3F.title: "Logistical Transporters"
 	quest.183EB573F8F1DC8C.quest_desc: [
 		"可用于自动酿造药水。"
 		"或附魔装置自动化（需有&5Ars Addditions&r模组）。"
@@ -1254,8 +1399,15 @@
 	]
 	quest.1A6929801D08F2C5.quest_desc: ["在各种模组中，或许存在其他&6提供更多能源&r的方式，但很难有哪种能超越锅炉驱动多台&b蒸汽引擎&r带来的满足感……只要你能搭建足够的结构，为其&6供给&r充足的&c热量&r与&9水源&r，它便能驱动无数引擎。"]
 	quest.1A6929801D08F2C5.quest_subtitle: "咔嚓 咔嚓 咔嚓。"
-	quest.1A885E0BA312B916.quest_desc: ["&b电阻形加热器&r可以将&a能量&r转化为热量，然后，通过&b热力蒸馏阀门&r，你可以把热量&6输入&r蒸馏塔，以提高蒸馏塔的温度。"]
-	quest.1A885E0BA312B916.title: "电阻型加热器"
+	quest.1A885E0BA312B916.quest_desc: [
+		"The &bResistive Heater&r converts &eFE&r into &cHeat&r, giving you a reliable way to supply heat to your &eThermal Evaporation Plant&r."
+		""
+		"Connect it to the plant's &cThermal Evaporation Valve&r to transfer the generated &cHeat&r directly into the tower."
+		""
+		"Use it when you need a controllable heat source for increasing the temperature and improving the evaporation process."
+	]
+	quest.1A885E0BA312B916.quest_subtitle: "Turn FE into heat"
+	quest.1A885E0BA312B916.title: "Resistive Heater"
 	quest.1A8D5373290BC1A6.quest_desc: [
 		"你可以在魔灵的帮助下，创建通往另一个维度的链接。在那里你可以&6存储&r收集到的所有&b物品&r- 说真的，你的收藏真是惊人。"
 		""
@@ -1360,6 +1512,9 @@
 		"你会想要有足够的供应的。"
 	]
 	quest.1CD1F5A08AE6E557.quest_subtitle: "在深处闪耀"
+	quest.1CD3AD0FB5604882.quest_desc: ["Craft the &bApothic Enchanting Table&r and begin using &2Eterna&r, &4Quanta&r and &5Arcana&r to push enchanting beyond vanilla limits, with progression reaching level 100."]
+	quest.1CD3AD0FB5604882.quest_subtitle: "Begin the overhaul"
+	quest.1CD3AD0FB5604882.title: "The Secrets of Enchanting"
 	quest.1CD404EA948FF868.quest_desc: [
 		"你可以使用这台&b机器&r，将任何具有物质值的物品&6转化&r成&d物质。"
 		""
@@ -1405,6 +1560,15 @@
 	]
 	quest.1D57C823A1F0203C.quest_subtitle: "叮铃，当啷，叮铃，当啷！"
 	quest.1D57C823A1F0203C.title: "蒸汽采矿钻头"
+	quest.1D9FEC69371DC538.quest_desc: [
+		"Found the perfect Affix Gear, but it doesn't have enough &bSockets&r?"
+		""
+		"A &bSigil of Socketing&r can add another socket to compatible Affix Gear."
+		""
+		"Use one to make room for another Gem."
+	]
+	quest.1D9FEC69371DC538.quest_subtitle: "The right gear deserves more sockets."
+	quest.1D9FEC69371DC538.title: "More Room"
 	quest.1DB0824C333DDA8E.quest_desc: [
 		"用&b能量升级&r来对抗&b速度升级&r吧！"
 		""
@@ -1412,11 +1576,16 @@
 	]
 	quest.1DB0824C333DDA8E.title: "能量升级"
 	quest.1DE9A85C2E5348D1.quest_desc: [
-		"&b聚变反应堆控制器&r是&b聚变反应堆&r的心脏。"
+		"The &bFusion Reactor Controller&r is the control center of your &dFusion Reactor&r, managing the reactor's operation and keeping the reaction under control."
 		""
-		"只要给反应堆提供合适的&8燃料&r和&9冷却剂&r，它就可以维持反应堆的&a稳定&r运行。"
+		"Once your reactor is assembled, it needs a steady supply of &9fuel&r and &bcoolant&r to maintain the reaction."
+		""
+		"Keep the reactor properly fueled and cooled, and the controller will handle the rest - turning an incredibly powerful fusion reaction into a reliable source of &eFE&r."
+		""
+		"Keep an eye on your inputs, though. Fusion power is impressive, but it isn't particularly forgiving."
 	]
-	quest.1DE9A85C2E5348D1.title: "聚变反应堆控制器"
+	quest.1DE9A85C2E5348D1.quest_subtitle: "Control the heart of fusion power"
+	quest.1DE9A85C2E5348D1.title: "Fusion Reactor Controller"
 	quest.1DF80E9D2A1732BC.quest_desc: ["使用&5解除魔法&r的法术或&4杀死&r对应生物即可回收护符。"]
 	quest.1DF80E9D2A1732BC.quest_subtitle: "解除魔法 / 杀死使魔"
 	quest.1DF80E9D2A1732BC.title: "不小心召唤了使魔？"
@@ -1630,6 +1799,16 @@
 		"4. 最后将最终输出结果的物品存入德格米石阵旁的&b容器&r中。（DrygmyTile）"
 	]
 	quest.21286633DE0F586E.quest_subtitle: "刷取生物掉落物"
+	quest.21474801C1472EF7.quest_desc: [
+		"A &bTome of Scrapping&r lets you remove enchantments from an item and recover them as enchanted books."
+		""
+		"The process is lossy - only half of the item's enchantments are recovered, and the original item is destroyed."
+		""
+		"For a complete extraction without destroying the item, use a Tome of Extraction instead."
+		""
+		"Tip: Use the &bTome of Superior Scrapping&r if you want to recover all of the enchantments but don't mind sacrificing the item."
+	]
+	quest.21474801C1472EF7.quest_subtitle: "Salvage Enchantments"
 	quest.215606B3A894512E.quest_desc: [
 		"  你看到采石场产物列表中每种矿石都有的产物概率了吗？"
 		""
@@ -1708,8 +1887,17 @@
 	quest.22420EF3089DD7F6.title: "装配机"
 	quest.22488BFDDB85DB29.quest_desc: ["不少人觉得，这是游戏里最好看的&b流体管道&r——甚至还有透明观察窗来&6展示&r在内部流动的&9流体&r。"]
 	quest.22822DD2E10F65EA.quest_desc: ["当这个仪器&6放置&r在&b汞催化器&r上时，可以为&b重塑阵列&r提供动力。"]
-	quest.22A2121A25A010AB.quest_desc: ["每个&b基础感应元件&r可以为你的感应矩阵增加&e3.2 GFE&r的存储容量。"]
-	quest.22A2121A25A010AB.title: "基础感应元件"
+	quest.22A2121A25A010AB.quest_desc: [
+		"&bInduction Cells&r are the main storage component of an &dInduction Matrix&r."
+		""
+		"Each cell adds energy storage to the matrix, allowing you to build an enormous centralized power bank."
+		""
+		"Higher-tier cells provide significantly more storage, letting your matrix hold increasingly massive amounts of &eFE&r."
+		""
+		"Combine them with &bInduction Providers&r to increase the rate at which energy can be transferred in and out of the matrix."
+	]
+	quest.22A2121A25A010AB.quest_subtitle: "Expand your energy storage"
+	quest.22A2121A25A010AB.title: "Induction Cells"
 	quest.22AC242F0A230278.quest_desc: ["&dQIO红石适配器&r可以让你通过它发出的&4红石信号&r来&6监控&r你的存储系统。"]
 	quest.22AC242F0A230278.title: "QIO红石适配器"
 	quest.22D2716905D415E5.quest_desc: [
@@ -1786,23 +1974,23 @@
 	quest.24A9E9A5E3B7B041.quest_subtitle: "请出示证件！"
 	quest.24AE78EE11D2AFFD.title: "碎片"
 	quest.24B44DAA8C43CF11.quest_desc: [
-		"&b配置器&r不止是一个扳手，它还可以用来&6配置&r任意种类的&a输入&r和&c输出&r。"
+		"The &bConfigurator&r is more than just a wrench - it's the essential tool for managing your &eMekanism&r setup."
 		""
-		"按住&6潜行键滚动鼠标滚轮&r可以选择所需的&3模式&r，模式会显示在屏幕下方。"
+		"Hold &6SHIFT&r and &6scroll&r to switch between its different modes. The currently selected mode is displayed in the bottom-left of your screen."
 		""
-		"处于&e配置&r模式时，依据不同的配置类型，你可以在不使用GUI的情况下&6配置&r&b机器&r的侧面。"
+		"* &eConfigure&r"
+		"Change the &binput&r and &coutput&r sides of machines without opening their GUI."
 		""
-		"处于&7空&r模式时，&6潜行右击&r可以清空机器内的物品。"
+		"* &7Empty&r"
+		"Hold &6SHIFT + RIGHT-CLICK&r to empty the contents of a machine or container."
 		""
-		"处于&a旋转&r模式时，你可以通过&6右击&r&o和&f&6潜行右击&r来旋转机器，机器旋转的方向与右击的面有关。"
+		"* &aRotate&r"
+		"Rotate machines with &aRIGHT-CLICK&r or &6SHIFT + RIGHT-CLICK&r, depending on the desired orientation."
 		""
-		"&6右击&r时，&b机器&r的正面会面对你点击的面。"
-		""
-		"&6潜行右击&r时，&b机器&r的正面会背对你点击的面。"
-		""
-		"处于&9扳手&r模式时，&6潜行右击&r可以破坏机器，机器内的&b物品&r、&e能量&r和&d配置&r会保留。"
+		"You can also &aRIGHT-CLICK&r a machine's face to make it face the side you're clicking."
 	]
-	quest.24B44DAA8C43CF11.title: "配置器"
+	quest.24B44DAA8C43CF11.quest_subtitle: "Configure your machines with ease"
+	quest.24B44DAA8C43CF11.title: "Configurator"
 	quest.24D4796E0026F9F7.quest_desc: [
 		"&l1. 介绍&r"
 		"&b炮塔&r在接收&4红石脉冲&r时会发射&b法术&r。"
@@ -1845,33 +2033,46 @@
 	quest.253FA8D6C09E2BD5.quest_desc: ["生成实体将不会发出任何声音。"]
 	quest.253FA8D6C09E2BD5.quest_subtitle: "+ 静音"
 	quest.2571BC62616A45AB.quest_desc: [
-		"这是你的&dQIO仪表板&r。"
+		"The &dQIO Dashboard&r is your interface to the &eQuantum Item Orchestration&r system."
 		""
-		"它是你访问系统中所存&b物品&r的端口。"
+		"From here, you can access and manage all the &fitems&r stored within your connected &bQIO Drive Array&r."
 		""
-		"时尚而深邃，放在哪里都好看。"
+		"Search for items, view your storage, and interact with your network without having to dig through physical storage."
+		""
+		"For the best experience, place the dashboard somewhere convenient - your entire digital warehouse is only a few clicks away."
 	]
-	quest.2571BC62616A45AB.title: "QIO仪表板"
+	quest.2571BC62616A45AB.quest_subtitle: "Access your digital storage"
+	quest.2571BC62616A45AB.title: "QIO Network"
 	quest.263FE6D3550CD41C.quest_desc: [""]
 	quest.263FE6D3550CD41C.title: "高级升级"
 	quest.264DA461C59E31C3.quest_desc: ["将你的&b烈焰人燃烧室&r&6加热&r至全新高温。"]
 	quest.264DA461C59E31C3.quest_subtitle: "烈焰人！这次可是真家伙。"
 	quest.264F371D2A18EAEC.quest_desc: [
-		"&b基础加压管道&r能够&6传输&r各种东西，比如&e气体&r、&a灌注物&r、&d颜料&r和&5浆液&r。"
+		"Pressurized Tubes transport &9gases&r, &5infuse types&r, &dPigments&r, &5slurries&r, and other &eMekanism&r fluids between machines and containers."
 		""
-		"每个管道可以给网络增加&94,000mb/t&r的总容量和基础传输速率。"
+		"Each tube added to the network increases its total capacity and base throughput."
 		""
-		"如果靠管道自身&6抽出&r物品，那么泵速将限制在&9750mb/t&r。"
+		"The &bBasic Pressurized Tube&r provides &94000 mB/t&r of throughput per tube."
 		""
-		"如果由机器或容器自动将物品输入进管道，那么网络中的每个管道将提供&94000mb/t&r的传输速率。"
+		"When a tube is &6pulling&r contents into itself, its pulling rate is limited to &9750 mB/t&r."
+		""
+		"Machines and containers that &apush&r contents into the network use the full throughput of the connected tubes, allowing large networks to move huge amounts of material."
+		""
+		"Upgrade your tubes as your factory grows to keep your &echemical and fluid&r processing lines flowing."
 	]
-	quest.264F371D2A18EAEC.title: "基础加压管道"
+	quest.264F371D2A18EAEC.quest_subtitle: "Move fluids at high pressure"
+	quest.264F371D2A18EAEC.title: "Pressurized Tubes"
 	quest.2675A4EA019B383F.quest_desc: [
-		"你需要建造一些&b工业涡轮&r，才能&7利用&r你生产的&7蒸汽&r来发&e电&r。"
+		"Your reactor can produce an incredible amount of &9steam&r, but there's no point making all that steam if you can't put it to work."
 		""
-		"请搭建中心的涡轮及涡轮的周边结构。"
+		"The &bIndustrial Turbine&r converts &9steam&r into &eFE&r by spinning its internal rotor and generating power."
+		""
+		"Build the central turbine components and surround them with the required multiblock structure. Connect the turbine to your reactor's steam output and watch the power roll in."
+		""
+		"Larger turbines can process more &9steam&r and generate more &eFE&r, making them an essential part of a serious power-generation setup."
 	]
-	quest.2675A4EA019B383F.title: "涡轮时间"
+	quest.2675A4EA019B383F.quest_subtitle: "Turn steam into power"
+	quest.2675A4EA019B383F.title: "Turbine Time"
 	quest.2689A56675E12245.quest_desc: [
 		"在&b热气动加工机&r中，这种&3物质&r用于与&8煤炭&r一起处理以&6生产&r&7塑料&r。"
 		""
@@ -1893,26 +2094,50 @@
 	]
 	quest.26A44EDA4AABFF6F.title: "&c欢迎&e游玩&a气动工艺"
 	quest.26AC949F1C3C6214.quest_desc: ["黄铜镶边，黑钢为侧，尽显非凡格调。"]
-	quest.26C7705667EB55E8.quest_desc: ["Upgrade your &bAra Vitae&r to its fourth tier by adding the required &bRunes&r and &bCapstones&r, unlocking greater &bVitae&r capacity and access to more powerful blood magic."]
-	quest.26C7705667EB55E8.quest_subtitle: "Your altar now rivals the power of ancient magic."
-	quest.26C7705667EB55E8.title: "The Fourth Circle"
-	quest.272E31F15A39517B.quest_desc: [
-		"终极&e发电&r设备的第一步——&b聚变反应堆框架&r。"
+	quest.26C7705667EB55E8.quest_desc: [
+		"The Ara Vitae demands more than blood now."
 		""
-		"这些框架搭建的墙壁可将&4极其强大&r的聚变反应束缚于其中。"
+		"Add another ring of &d28 Runes&f, one level lower and farther out."
+		""
+		"More rune positions become available, giving you even greater control over your altar."
+		""
+		"Place &cBloodstone Bricks&f at the four corners to complete the circle."
+		""
+		"Your altar now contains &d52 Runes&f."
 	]
-	quest.272E31F15A39517B.title: "聚变反应堆框架"
+	quest.26C7705667EB55E8.quest_subtitle: "Beyond the blood"
+	quest.26C7705667EB55E8.title: "The Third Circle"
+	quest.272E31F15A39517B.quest_desc: [
+		"The &bFusion Reactor Frame&r is the foundation of Mekanism's most powerful energy system."
+		""
+		"Build a multiblock structure from &bFusion Reactor Frames&r to contain the &dFusion Reactor&r and its incredibly powerful reaction."
+		""
+		"The frame forms the walls of the reactor, working together with the other required components to create a functioning fusion system."
+		""
+		"Once assembled, you'll be able to harness &dFusion Power&r on a scale far beyond conventional generators."
+	]
+	quest.272E31F15A39517B.quest_subtitle: "Build the heart of fusion power"
+	quest.272E31F15A39517B.title: "Fusion Reactor Frame"
 	quest.27A396E8628B269E.quest_desc: ["  &b金钻&r可产出下界的建筑方块和矿物。"]
 	quest.27A396E8628B269E.title: "金钻"
 	quest.27B6C6079B5FE918.quest_desc: ["&b回旋式气液转换机&r能够将&e气体&r&6冷凝&r成&7液体&r，也可以反过来，按GUI左上角的按钮就可以切换。"]
 	quest.27B6C6079B5FE918.title: "回旋式气液转换机"
 	quest.2805DA3A1F411588.quest_desc: ["用于&a存储&f&4能量&f，你会需要一个&bFE元件外壳&f的。"]
 	quest.2821236A1E8FEF73.quest_desc: [
-		"&b聚变反应堆端口&r是一条直通&b聚变反应堆&r中心的坚固通道。"
+		"The &bFusion Reactor Port&r is a reinforced passage into the center of the &bFusion Reactor&r."
 		""
-		"通常情况下，它就和框架一样坚固；如果将它与其他东西&6连接&r，它就可以提供一个&a单向&r的通路，将资源输入核心或从核心输出。"
+		"Without anything &6connected&r to it, it's as strong as the frame, but with something &6connected&r it provides a &a1 way&r protected passage in or out of the core."
 	]
-	quest.2821236A1E8FEF73.title: "聚变反应堆端口"
+	quest.2821236A1E8FEF73.title: "Fusion Reactor Port"
+	quest.282C623AA0870088.quest_desc: [
+		"The &bGem Cutting Table&r allows you to improve your Gems."
+		""
+		"It uses &bGem Dust&r and &6Rarity Materials&r to increase a Gem's power."
+		""
+		"Craft a &bGem Cutting Table&r and start refining your Gems."
+	]
+	quest.282C623AA0870088.quest_subtitle: "Better Gems require better tools."
+	quest.282C623AA0870088.title: "Cut to Size"
 	quest.286229410FA571B7.quest_desc: ["&6防止&r列车相撞，并&6调控&r被调度的列车的运行。"]
 	quest.286229410FA571B7.quest_subtitle: "让列车永不停歇！"
 	quest.28724CA9F837F710.quest_desc: ["紫水晶共鸣护符——当佩戴此护符时，将为你提供15%的法力值恢复。"]
@@ -1938,7 +2163,25 @@
 	quest.292875386D7B9981.quest_desc: ["&b晶质铀&f是一种可通过&6采矿&f获得的矿石。你也可以通过&bMI的采石机&f获取。&b晶质铀&f是Powah模组中的核心资源，被用于大量合成配方，还可以用作&b反应堆&f燃料。"]
 	quest.292875386D7B9981.quest_subtitle: "可能想戴上手套"
 	quest.292875386D7B9981.title: "&a晶质铀矿"
+	quest.2936EE38CEAB4337.quest_desc: ["&bWeapon&r and &bBow Tomes&r focus on combat-related enchantments and help keep your specialized enchantment collections organized."]
+	quest.2936EE38CEAB4337.quest_subtitle: "Target combat enchantments"
+	quest.2936EE38CEAB4337.title: "Tomes of Combat"
 	quest.293C22FC12999302.title: "月辉浆果"
+	quest.2943A8844EAD8107.quest_desc: [
+		"Not all equipment is created equal."
+		""
+		"Some weapons and armor can be found with"
+		"powerful &dAffixes&r attached to them."
+		""
+		"These Affixes can grant everything from"
+		"increased damage and durability to entirely"
+		"new abilities."
+		""
+		"Find your first piece of &dAffix Gear&r and"
+		"begin your journey into Apotheosis."
+	]
+	quest.2943A8844EAD8107.quest_subtitle: "There is more to your gear than meets the eye."
+	quest.2943A8844EAD8107.title: "&5A New Power"
 	quest.2976D5A533FDEE8F.quest_subtitle: "推拉得更远"
 	quest.299CBEA2571FD97A.quest_subtitle: "&b蓝水晶"
 	quest.299CBEA2571FD97A.title: "&b钻石水晶"
@@ -2045,7 +2288,16 @@
 	quest.2AB5183A0BD8D387.title: "多核并行处理单元"
 	quest.2ABCACEBACE7A37D.title: "门瑞欧浆果"
 	quest.2ACF8F5EFD3C4AF7.title: "靴子"
-	quest.2ADDD30536A7FF68.quest_desc: ["&b强化玻璃&r是一种&3超强的透明材料&r，可用于搭建&b聚变反应堆&r的核心墙体。人人都喜欢&6看&r漂亮的颜色（虽然它可能会&4抹杀&r你，也可能不会）。"]
+	quest.2ADDD30536A7FF68.quest_desc: [
+		"&bReactor Glass&r is used as the viewing panels of your &dFusion Reactor&r, allowing you to see the reaction happening inside."
+		""
+		"Unlike ordinary glass, it's built to withstand the extreme conditions of a fusion reaction."
+		""
+		"Build it into the reactor walls to get a clear view of all that beautiful &dFusion Power&r."
+		""
+		"Just don't stand too close if something goes wrong."
+	]
+	quest.2ADDD30536A7FF68.quest_subtitle: "See the power within"
 	quest.2B1717F5D6E20B79.quest_desc: [
 		"  消耗大量能量，用&b电解机&r长时间电解刚刚制得的&b奇点&r，你就可以通过&b量子霍金辐射&r以&b通用物质&r——即&dUU物质&r的形式，提取大量能量。"
 		""
@@ -2053,8 +2305,17 @@
 	]
 	quest.2B1717F5D6E20B79.title: "UU物质桶"
 	quest.2B2D3B338662F02C.quest_desc: ["可以用纯化金来&6改变&r&b硫&r的&a品级&r。"]
-	quest.2B3B96DDFE5D3ACA.quest_desc: ["你可以用&b锅炉外壳&r搭建&b热力锅炉&r，利用&c外部热源&r&6产出&r更多&7蒸汽&r，比如&b裂变反应堆&r产生的&9过热钠&r。"]
-	quest.2B3B96DDFE5D3ACA.title: "锅炉外壳"
+	quest.2B3B96DDFE5D3ACA.quest_desc: [
+		"With &bBoiler Casings&r, you can build a &eThermoelectric Boiler&r to turn external &cHeat&r into &9Steam&r."
+		""
+		"The boiler is especially useful when you have excess heat that would otherwise go to waste, giving you another way to produce steam for your &bIndustrial Turbine&r."
+		""
+		"It can also make use of &dSuperheated Liquid Sodium&r produced by an active &cFission Reactor&r, allowing you to convert your reactor's heat into even more useful &9Steam&r."
+		""
+		"Pair it with an &bIndustrial Turbine&r to turn that steam into &eFE&r and build a complete heat-to-power system."
+	]
+	quest.2B3B96DDFE5D3ACA.quest_subtitle: "Turn heat into steam"
+	quest.2B3B96DDFE5D3ACA.title: "Boiler Casing"
 	quest.2B41DC5E4D733C9C.quest_subtitle: "在觉醒之门试炼中掉落。"
 	quest.2B482168EC0C6EB8.quest_subtitle: "潜行，并保持风度。"
 	quest.2B4BFD88DF1A934D.quest_desc: ["  它的重量只有钢的三分之一，而且延展性和可塑性都非常好。用你刚造好的&b电力高炉&r加热&b铝土&r，即可获得铝。&b铝&r的生产最好实现&6自动化&r，因为这玩意未来的用量可是很大的。"]
@@ -2253,15 +2514,18 @@
 	quest.2E883FCCA2FB281B.quest_subtitle: "了得的艺术品"
 	quest.2E883FCCA2FB281B.title: "量子环"
 	quest.2E97456B0ED0AB1A.quest_desc: [
-		"用&b电动泵&r是从世界中收集大量&7流体&r最&e直接&r的方法。"
+		"The &bElectric Pump&r is your go-to tool for gathering &9fluids&r from the world and feeding them into your factory."
 		""
-		"将电动泵放置在&7流体&r上方一格的位置，提供&e能量&r，并在其上方连接&9管道&r或&9储罐&r，就可以开始&6抽取&r流体了。"
+		"Place the pump directly above the &9fluid&r you want to extract, provide it with &eFE&r, and connect a &bMechanical Pipe&r or &9Fluid Tank&r to its output."
 		""
-		"使用&b升级&r可以极大提高抽取的速度。"
+		"The pump can automatically extract fluids from large bodies of liquid, making it perfect for supplying your machines with a steady source of &9fluids&r."
 		""
-		"一个小提示：它不会消耗&9水源方块&r。"
+		"Install &bUpgrades&r to dramatically increase its pumping speed."
+		""
+		"Best of all, pumping &bwater&r does not consume the &9water source blocks&r - so you can keep drawing from the same source indefinitely."
 	]
-	quest.2E97456B0ED0AB1A.title: "电动泵"
+	quest.2E97456B0ED0AB1A.quest_subtitle: "Pull fluids from the world"
+	quest.2E97456B0ED0AB1A.title: "Electric Pump"
 	quest.2F53567C34E86536.quest_desc: ["这是最基础的法术书，它只能容纳五个法术"]
 	quest.2F66F85A601AC908.quest_desc: [
 		"{image:modern_industrialization:block/machines/macerator/overlay_top_active width:32 height:32 align:center}"
@@ -2342,11 +2606,16 @@
 	quest.30A0D33361D77D7E.quest_subtitle: "累计捕获&535&r种不同鱼类。"
 	quest.30BD7370506EBC6C.title: "氧"
 	quest.30D584EAD9243548.quest_desc: [
-		"向&b流体填充机&r&6注入&r&7流体&r，它就可以用&7其中的流体&r填满下方的空间。"
+		"The &bFluidic Plenisher&r lets you fill empty spaces with any &9fluid&r you provide."
 		""
-		"这样你就可以用任何你喜欢的&7流体&r造出一整片湖。"
+		"Feed it a &9fluid&r and it will replace open spaces beneath it, allowing you to create entire lakes, reservoirs, or even seas of virtually any fluid."
+		""
+		"Connect it to your &bMechanical Pipe&r network and let it do the work for you."
+		""
+		"Perfect for large-scale fluid projects - or simply making an absolutely massive pool of something that probably shouldn't be swimming in."
 	]
-	quest.30D584EAD9243548.title: "流体填充机"
+	quest.30D584EAD9243548.quest_subtitle: "Fill the world with fluids"
+	quest.30D584EAD9243548.title: "Fluidic Plenisher"
 	quest.30ED8D5374012D92.quest_desc: ["用玻璃瓶右击闪电苦力怕，可以获得一个雷电瓶。"]
 	quest.30FB66E92909D4B9.quest_subtitle: "所有的硝"
 	quest.30FB66E92909D4B9.title: "&b炼金硝"
@@ -2635,8 +2904,17 @@
 		"使用时，你须要把&b御炎火盆&r放在蒸馏器下方，并为它&6添加燃料&r提供热量。&a燃料的持续时间是原版熔炉里的两倍&r。"
 	]
 	quest.367A013744D689E4.quest_subtitle: "炼金汞？"
-	quest.3689AAE9D0DB96FB.quest_desc: ["&b热力蒸馏阀门&r是从蒸馏塔&6输入&r以及&6提取&r&7流体&r的媒介，你需要最少&9两个&r阀门，用来输入和输出。阀门还可以&6用来&r从&b热导线缆&r输入&c热量&r。"]
-	quest.3689AAE9D0DB96FB.title: "热力蒸馏阀门"
+	quest.3689AAE9D0DB96FB.quest_desc: [
+		"The &bThermal Evaporation Valve&r is the interface between your &eThermal Evaporation Plant&r and the outside world."
+		""
+		"Use valves to &9input&r and &9extract fluids&r from the tower. You'll need separate valves for the inputs and outputs of your setup."
+		""
+		"Valves can also transfer &cHeat&r into the tower when connected to a &bThermodynamic Conductor&r network, giving you another way to heat your evaporation plant."
+		""
+		"Plan your valve placement carefully - a well-connected tower makes managing your &9fluids&r and &cheat&r much easier."
+	]
+	quest.3689AAE9D0DB96FB.quest_subtitle: "Connect your evaporation tower"
+	quest.3689AAE9D0DB96FB.title: "Thermal Evaporation Valve"
 	quest.3696D20B77DF1B24.quest_desc: [
 		"&b刷怪笼&r的&3核心组件&r。"
 		""
@@ -2696,6 +2974,14 @@
 	quest.378E30F8E12695A2.quest_desc: ["&b充电台&r可以&6放置在地面上&r。它可为其上的所有东西&6充能&r，包括站在上面的玩家背包里的&e电动工具或电池&r。"]
 	quest.378E30F8E12695A2.title: "充电台"
 	quest.37A5C2FCA8F75BE6.title: "与牧师交易"
+	quest.37A89C0012C86E9A.quest_desc: [
+		"Harness the wind with the &bLarge Wind Generator&r."
+		""
+		"It produces between &a90,000 FE/t&r and &a150,000 FE/t&r depending on altitude, without consuming any fuel."
+		""
+		"Build it high above the ground to take advantage of stronger winds and maximize its &eFE&r output."
+	]
+	quest.37A89C0012C86E9A.quest_subtitle: "Harness the power of the wind, MK2"
 	quest.37AC7F3340783FD3.quest_desc: ["你可以使用&eLaserIO&f模组来&a传输&b物品、流体、能量以及红石信号&f。每一个面最多支持9种传输配置。"]
 	quest.37AC7F3340783FD3.title: "&6LaserIO"
 	quest.37C0F6CAEE15D410.quest_desc: ["就像&b智能观测器&r既能&6侦测&r前方物体也能这个物体的内容物，&b列车侦测器&r也可&6侦测&r经过的列车或其运载的货物。"]
@@ -2718,6 +3004,27 @@
 		""
 		"拜托，想想看——你第一次在机械动力里&6驾驶&r列车的时候，是不是感觉超棒？那可太对了！"
 	]
+	quest.382C37A47810F0CF.quest_desc: [
+		"Affix Gear comes in five rarities:"
+		""
+		"&7Common&r — Basic equipment with few special stats."
+		"&aUncommon&r — More Affixes and occasional Gem Sockets."
+		"&9Rare&r — Multiple Affixes with Sockets becoming more common."
+		"&5Epic&r — Powerful effect Affixes and multiple Gem Sockets."
+		"&6Mythic&r — Maximum Affixes and the strongest stats."
+		""
+		"To reach the &6Frontier&r, equip a complete set of &7Common&r Affix Gear:"
+		""
+		"&7Common Helmet"
+		"&7Common Chestplate"
+		"&7Common Leggings"
+		"&7Common Boots"
+		"&7Common Weapon"
+		""
+		"Use &fCtrl + T&r to manage your World Tier."
+	]
+	quest.382C37A47810F0CF.quest_subtitle: "Reach World Tier: Frontier"
+	quest.382C37A47810F0CF.title: "&aThe Frontier"
 	quest.384E0A6178B5AA5B.quest_desc: ["Craft your first &bReinforced Rune&r and unlock stronger modifications for your &bAra Vitae&r."]
 	quest.384E0A6178B5AA5B.quest_subtitle: "The old runes are no longer enough."
 	quest.384E0A6178B5AA5B.title: "Reinforced Runes"
@@ -2734,6 +3041,23 @@
 	]
 	quest.38E1A4E0A032E377.quest_subtitle: "远程交换"
 	quest.38E1A4E0A032E377.title: "存储访问"
+	quest.38E5EBCA2079EF22.quest_desc: [
+		"The &6Ascent&r demands stronger gear and a stronger opponent."
+		""
+		"Equip a complete set of &aUncommon&r Affix Gear:"
+		""
+		"&aUncommon Helmet"
+		"&aUncommon Chestplate"
+		"&aUncommon Leggings"
+		"&aUncommon Boots"
+		"&aUncommon Weapon"
+		""
+		"Then defeat an &cApothic Invader&r."
+		""
+		"Complete both requirements to reach the &6Ascent&r."
+	]
+	quest.38E5EBCA2079EF22.quest_subtitle: "The Frontier was only the beginning."
+	quest.38E5EBCA2079EF22.title: "&6The Ascent"
 	quest.38EF4E7FE82B62A6.quest_subtitle: "别迟到，别迟到，有个非常重要的约会。"
 	quest.392EC503FD52E32A.quest_desc: ["有着多种类别、多种&6品级&r的&b硫&r。"]
 	quest.392EC503FD52E32A.title: "硫"
@@ -2773,8 +3097,17 @@
 		"- &b合成盔甲&r。"
 		"- 村民交易 (&2暗影导师&r)"
 	]
-	quest.39A4FF688D140EC2.quest_desc: ["&b物流分类机&r是一台&6基于过滤自动分类的机器&r，不仅可以将&3物品&r&b过滤&r后进行点对点&6输送&r，还可以控制经过过滤（或者未经过过滤）的物品被输送到网络的何处。用&b辞典&r可以查找物品和方块的标签，帮你更&6轻松&r地编辑特定的过滤器。"]
-	quest.39A4FF688D140EC2.title: "物流分类机"
+	quest.39A4FF688D140EC2.quest_desc: [
+		"The &bLogistical Sorter&r is the brains of your &eitem transportation&r network, letting you control exactly where your items go."
+		""
+		"Set up &6filters&r to match specific items, tags, or even entire categories of resources. Filtered items can then be directed to a chosen destination within the network."
+		""
+		"You can use the &bDictionary&r to search for available item and block tags, making it much easier to create broad or highly specific filters."
+		""
+		"Combine Sorters with &bRestrictive&r and &dDiversion Transporters&r to create reliable, automated item routing throughout your factory."
+	]
+	quest.39A4FF688D140EC2.quest_subtitle: "Sort your items with precision"
+	quest.39A4FF688D140EC2.title: "Logistical Sorter"
 	quest.39CF27CAC4EE33DB.quest_desc: [
 		"- &6右击&9水源&r或者&9流动的水&r来给它装水。"
 		""
@@ -2807,6 +3140,25 @@
 	]
 	quest.3A3B3EACB9321FF3.quest_subtitle: "Some things can only be forged in hellfire."
 	quest.3A3B3EACB9321FF3.title: "The Hellfire Forge"
+	quest.3A41A00BEF324EF3.quest_desc: [
+		"Shelves are the foundation of an Apothic Enchanting setup. Different shelves provide different combinations of &2Eterna&f, &4Quanta&f, and &5Arcana&f, allowing you to customize your Enchanting Table."
+		""
+		"There are &e32&r valid bookshelf positions around an &bApothic Enchanting Table&f. "
+		""
+		"Shelves need an &7air block&r between them and the table to provide their stats."
+		""
+		"&2Eterna&r determines the available enchantment level and how powerful your enchantments can be."
+		""
+		"&4Quanta&f changes the enchantment pool, increasing the variety of enchantments available. However, too much Quanta can also make weaker enchantments more likely."
+		""
+		"&5Arcana&r influences the rarity and quality of the enchantments you can obtain."
+		""
+		"Each shelf has its own &2Eterna cap&f. Once that limit is reached, additional Eterna from that shelf is ignored."
+		""
+		"&aTip:&r Experiment with different shelf combinations to find the perfect balance of Eterna, Quanta, and Arcana for your enchanting setup."
+	]
+	quest.3A41A00BEF324EF3.quest_subtitle: "Build Your Enchanting Setup"
+	quest.3A41A00BEF324EF3.title: "Bookshelves"
 	quest.3A5A59C7AEA670C7.quest_desc: ["&b阿维亚之环&r是你要准备的第一个五芒星。它可以用来&6召唤魔精&r。请&6参考&r&b魔灵全典&r了解如何布置。"]
 	quest.3A5A59C7AEA670C7.quest_subtitle: "首个仪式"
 	quest.3A5A59C7AEA670C7.title: "阿维亚之环"
@@ -2881,14 +3233,32 @@
 	]
 	quest.3C3519AFEBBAEC70.quest_subtitle: "金属冲压"
 	quest.3C3519AFEBBAEC70.title: "活塞"
-	quest.3C6E442CEB73191F.quest_desc: [
-		"&b燃气发电机&r可以使用各种&c可燃气体&r发&e电&r。"
+	quest.3C5915D24087ED3D.quest_desc: [
+		"The &6Summit&r demands even better equipment."
 		""
-		"在前期，&7氢气&r、&d乙烯&r等气体非常适合用来大量&e产能&r。"
+		"Equip a complete set of &9Rare&r Affix Gear:"
 		""
-		"在&dEMI&r中可以查看哪些&7气体&r是&c可燃&r的，以及它们能够产出多少&6能量&r。"
+		"&9Rare Helmet"
+		"&9Rare Chestplate"
+		"&9Rare Leggings"
+		"&9Rare Boots"
+		"&9Rare Weapon"
+		""
+		"Then defeat the &cWither&r."
+		""
+		"Complete both requirements to reach the &6Summit&r."
 	]
-	quest.3C6E442CEB73191F.title: "燃气发电机"
+	quest.3C5915D24087ED3D.quest_subtitle: "Only the strongest reach the top."
+	quest.3C5915D24087ED3D.title: "&4The Summit"
+	quest.3C6E442CEB73191F.quest_desc: [
+		"The &bGas-Burning Generator&r can use a plethora of &cflammable gases&r to generate &eelectricity&r. "
+		""
+		"Gases like &7Hydrogen&r and &dEthene&r can be good for a large amount of &epower&r early on. "
+		""
+		"Check your &dEMI&r to see which &7gases&r are truly &cflammable&r and how much &6power&r you can generate with them."
+	]
+	quest.3C6E442CEB73191F.quest_subtitle: "Burn gas for massive power"
+	quest.3C6E442CEB73191F.title: "Gas-Burning Generator"
 	quest.3CABE90D2D99AAD0.quest_desc: ["&b合成配方&r用于存储合成配方，供&b公式装配器&r使用。"]
 	quest.3CABE90D2D99AAD0.title: "合成配方"
 	quest.3CF03758A5C98E5B.quest_desc: [
@@ -2921,13 +3291,14 @@
 		"根据你选择的&6墨水&r的&b品质&r，可获得更稀有的、更强大的卷轴。"
 	]
 	quest.3D5B74D9663AAB5A.quest_desc: [
-		"&b热力发电机&r是一个简易的能量源，依靠周围的&c热源&r来发电。"
+		"The &bHeat Generator&r is a simple source of energy that relies on &cheat sources&r surrounding it. "
 		""
-		"&b热力发电机&r能够从&a七个&r地方吸收&c热量&r，其中&a六个&r是它的六个面。剩下的一个是发电机本身，它可以&4装载熔岩&r。虽然它能&6产生&r的能量不多，但在游戏初期也算不少了！"
+		"The &bGenerator&r can take in &cheat&r from &a7&r locations, &a6&r of which are it's different faces. Another is the generator itself which can be &4lava-logged&r. It doesnt &6generate&r a lot of power, but for the beginning of your journey, it's plenty!"
 		""
-		"除了放&c热&r的&b方块&r和&7流体&r以外，&b热导线缆&r的热量也能够用来发电。"
+		"Not only will &cheat&r emitting &bblocks&r and &7fluids&r generate power, but heat from &bThermodynamic Conductors&r as well."
 	]
-	quest.3D5B74D9663AAB5A.title: "热力发电机"
+	quest.3D5B74D9663AAB5A.quest_subtitle: "Turn heat into power!"
+	quest.3D5B74D9663AAB5A.title: "Heat Generator"
 	quest.3D7406A517FA591D.quest_desc: ["你可以使用这些&b材料&r来&6建造&r第一个&b压力室&r。"]
 	quest.3D7406A517FA591D.title: "你的第一个压力室"
 	quest.3D9DED933A80CAFA.quest_desc: ["内存卡能够&6复制并粘贴&r&bAE2设备&f的设置，也用于&6连接&bP2P通道&f。"]
@@ -2994,6 +3365,17 @@
 	quest.3F6174E82DDC48C3.quest_desc: ["&b电力熔炼炉&r是一台用来将物品和方块&6烧炼&r成对应的“&8煮熟版&r”的机器。"]
 	quest.3F6174E82DDC48C3.title: "电力熔炼炉"
 	quest.3F6730383CCC8BB0.quest_desc: ["可别被它的外表骗了……它看起来或许和朴素的&b炼药锅&r有几分相似，但其功能要灵活得多，能够与&b传送带&r、&b流体管道&r、&b动力搅拌器&r和&b动力冲压机&r协同工作——&6实现&r多种合成配方的自动化。"]
+	quest.3F72C49DDD72A5AD.quest_desc: [
+		"The &5Augmenting Table&r lets you improve individual Affixes."
+		""
+		"Use &5Sigils of Enhancement&r to upgrade an Affix or reroll it."
+		""
+		"Unlike reforging, you can work on a specific Affix without replacing the entire set."
+		""
+		"Use augmentation to fine-tune your best equipment."
+	]
+	quest.3F72C49DDD72A5AD.quest_subtitle: "Good Affixes can become great ones."
+	quest.3F72C49DDD72A5AD.title: "Perfect the Affix"
 	quest.3F73EC8E087E2920.quest_desc: ["生成的生物将会掉落额外战利品，且回响等级越高，额外战利品也越多。"]
 	quest.3F73EC8E087E2920.quest_subtitle: "+1 回响属性"
 	quest.3F8B9421E85C047D.title: "用于化学清洗的水"
@@ -3004,7 +3386,16 @@
 		"&8可为施法者施加“自身”法术。用巫师之镜施放的法术&2消耗魔力更少&r&8且&6持续时间更长&r（对法术中的所有魔符均起效）&8。（巫师工具均不需要&5形态&r&8魔符）"
 	]
 	quest.3FB60EC2EE4D0435.title: "巫师工具"
-	quest.400274581B9BD5FC.quest_desc: ["&b激光聚焦矩阵&r可将&c激光&r束直接聚焦到反应堆的核心，给&b聚变反应堆&r点火。"]
+	quest.400274581B9BD5FC.quest_desc: [
+		"The &bLaser Focus Matrix&r is the ignition system for your &dFusion Reactor&r."
+		""
+		"It focuses the beam from a powerful &cLaser&r directly into the reactor's core, providing the energy needed to start the fusion reaction."
+		""
+		"Once the reactor is ready, send a &cLaser&r pulse into the matrix and watch the reaction come to life."
+		""
+		"Just make sure your reactor is properly prepared before you pull the trigger."
+	]
+	quest.400274581B9BD5FC.quest_subtitle: "Ignite the fusion reaction"
 	quest.40148704F9175B05.quest_desc: [
 		"绑定好键位以后，将鼠标悬停在&b头盔&r上，按shift即可查看按哪个键可以启用&5夜视&r。"
 		""
@@ -3125,6 +3516,18 @@
 	quest.418CB5EC1FE8CB1A.quest_desc: ["Use the &bAra Vitae&r to create your first &bNovicius Orb of Vitae&r."]
 	quest.418CB5EC1FE8CB1A.quest_subtitle: "Blood is the price. Power is the reward."
 	quest.418CB5EC1FE8CB1A.title: "The First Sacrifice"
+	quest.41986354B4227FFE.quest_desc: [
+		"Some Affix Gear come with empty &bSockets&r."
+		""
+		"To socket a Gem, use a &fSmithing Table&r."
+		""
+		"Place your &dAffix Gear&r in the left slot and an &bApothic Gem&r in the right slot."
+		""
+		"If the item has an available socket, the Gem will be added to the equipment and its bonuses will take effect."
+		""
+		"Choose your Gems carefully - their effects can make a major difference to your build."
+	]
+	quest.41986354B4227FFE.quest_subtitle: "Your Gems need somewhere to go."
 	quest.41D1344A31FEA6DF.quest_desc: [
 		"  &b铁铬铝合金线圈&r是可用于&b电力高炉&r的新线圈，它的&6功率更大&r，可以产生更多热能。小心，别被烫着了。嗷！"
 		""
@@ -3222,18 +3625,30 @@
 		"界面中还有一个槽位，用来将&d营养糊剂&r装进&b餐壶&r。"
 	]
 	quest.4351715A36CA0DA6.title: "营养液化器"
-	quest.436C9C6FF59C4FD5.quest_desc: ["每个&b基础感应供应器&r可以为你的感应矩阵增加&e102.4 kFE/t&r的能量传输（输入/输出）速率。"]
-	quest.436C9C6FF59C4FD5.title: "基础感应供应器"
-	quest.43985FE38B0EBCB5.quest_desc: [
-		"&b基础机械管道&r用于在管道网络中传输&7流体&r。"
+	quest.436C9C6FF59C4FD5.quest_desc: [
+		"&bInduction Providers&r determine how quickly energy can be transferred into and out of your &dInduction Matrix&r."
 		""
-		"网络中的每个管道会增加&92000mb&r的缓存量，缓存量也是理论最大总传输量。"
+		"Each provider adds transfer capacity to the matrix, allowing it to charge and discharge &eFE&r at a higher rate."
 		""
-		"&9250mb/t&r泵速只应用于“&c抽出&r”端，对“&a输入&r”端没有限制。"
+		"Higher-tier providers offer vastly greater transfer rates, letting your matrix keep up with increasingly powerful generators and machines."
 		""
-		"举个例子：如果你放置了两个“抽出”管道，&7流体&r将以&9500mb/t&r的速度抽入到管道网络中，而所有可用的“&a输入&r”管道会以总速率为&9500mb/t&r的速率将流体输出管道（即使只有一个输入管道时同样如此）。"
+		"Balance your &bInduction Cells&r and &bInduction Providers&r to build a storage system with both massive capacity and high throughput."
 	]
-	quest.43985FE38B0EBCB5.title: "基础机械管道"
+	quest.436C9C6FF59C4FD5.quest_subtitle: "Move power at scale"
+	quest.436C9C6FF59C4FD5.title: "Induction Providers"
+	quest.43985FE38B0EBCB5.quest_desc: [
+		"Mechanical Pipes are Mekanism's primary way of transporting &9fluids&r between machines, tanks, and other compatible containers."
+		""
+		"Pipes form a shared network, allowing fluids to flow between connected machines and storage."
+		""
+		"Use &6pull&r connections to draw fluids into the network, while &apush&r connections send fluids toward connected destinations."
+		""
+		"Higher-tier pipes provide greater capacity and throughput, making them important as your fluid processing systems grow."
+		""
+		"Use a &eConfigurator&r to manage connections and control how fluids move through your network."
+	]
+	quest.43985FE38B0EBCB5.quest_subtitle: "Move fluids where they're needed"
+	quest.43985FE38B0EBCB5.title: "Mechanical Pipes"
 	quest.439D48E9647FC8C2.quest_desc: [
 		"  蒸汽机嘛肯定需要——&b蒸汽&r！获得蒸汽的方法就是造一个&b蒸汽锅炉&r！&b蒸汽锅炉&r会缓慢消耗你提供的各种&6燃料&r来加热，当它的温度足够高时，就会产生&b蒸汽&r，前提是它的&6内部储罐&r里有&b水&r。如果没有的话，那就是浪费燃料咯。"
 		""
@@ -3656,11 +4071,14 @@
 	quest.4C357D8CF72B8F25.quest_subtitle: "在下界的稀有结构中出现。"
 	quest.4C357D8CF72B8F25.title: "&4下界铁掌"
 	quest.4CA2A53F4C298E2B.quest_desc: [
-		"&b便携式QIO仪表板&r能够让你在世界中的任何地方访问你的&dQIO存储系统&r。"
+		"The &dPortable QIO Dashboard&r lets you access your &dQIO Storage System&r from anywhere in the world."
 		""
-		"非常方便。"
+		"No need to run back to your base whenever you need an item. Open your &dQIO&r network directly from your inventory and access your digital storage on the go."
+		""
+		"Pair it with a &bQIO Drive Array&r and &bQIO Drives&r to keep your entire storage system at your fingertips."
 	]
-	quest.4CA2A53F4C298E2B.title: "便携式QIO仪表板"
+	quest.4CA2A53F4C298E2B.quest_subtitle: "Access your storage anywhere"
+	quest.4CA2A53F4C298E2B.title: "Portable QIO Dashboard"
 	quest.4CA99DC1D953E1FB.quest_subtitle: "可使用虚空之眼找到"
 	quest.4CA99DC1D953E1FB.title: "&d末影守卫"
 	quest.4CD943F9416FB352.quest_desc: ["&b能源元件&f能储存&b能量&f，以便在&6停电&f时维持你网络的运转。它也能用于在网络出现&6瞬时能量消耗&f时稳定其他机器的能量传输。"]
@@ -3836,11 +4254,16 @@
 	]
 	quest.4E97BABA7D6B07FE.quest_subtitle: "作物与树木的自动收获"
 	quest.4EA0C90A02A43131.quest_desc: [
-		"&b加压反应室&r能够在高压环境中用&3固体&r、&7流体&r和&e气体&r来生产其他&3固体&r和&e气体&r。"
+		"The &bPressurized Reaction Chamber&r is a versatile machine that combines &fsolids&r, &9fluids&r, and &eGases&r to create new materials."
 		""
-		"&6查看&rEMI以了解具体用途。"
+		"Many of Mekanism's more advanced processing chains rely on the PRC, making it an important step toward more complex automation."
+		""
+		"Provide the required inputs and let the chamber handle the reaction. Check your &6EMI&r to discover its available recipes and what each one requires."
+		""
+		"From &2Bio Fuel&r and &eHydrogen&r to advanced materials, you'll be using this machine quite a lot as your factory grows."
 	]
-	quest.4EA0C90A02A43131.title: "加压反应室"
+	quest.4EA0C90A02A43131.quest_subtitle: "Combine matter under pressure"
+	quest.4EA0C90A02A43131.title: "Pressurized Reaction Chamber"
 	quest.4EC894E7808440AC.quest_desc: [
 		"&b扩展样板供应器&r能够容纳的样板数是普通供应器的4倍。"
 		""
@@ -3898,11 +4321,18 @@
 	]
 	quest.4F987C54768D8E3D.quest_subtitle: "认知诡计"
 	quest.4FBA0ECAC8AEBCD8.quest_desc: [
-		"&b裂变燃料组件&r是一组含有&d裂变燃料&r的燃料棒。"
+		"The &bFission Fuel Assembly&r holds the &dFissile Fuel&r that powers your &cNuclear Reactor&r."
 		""
-		"将它们一个叠一个地摞起来放置，并在顶部放上&b控制棒组件&r。"
+		"Build multiple assemblies into the reactor core, with &eControl Rod Assemblies&r placed directly above them to control the &cchain reaction&r."
+		""
+		"The more fuel assemblies you add, the greater your reactor’s potential output - but also the more &cheat&r you’ll need to manage."
+		""
+		"Once everything is assembled, keep a steady supply of &9coolant&r flowing through the reactor to keep it running safely."
+		""
+		"Keep a close eye on your reactor. Unlike most power generators, a fission reactor can have some rather &cexplosive&r consequences when things go wrong."
 	]
-	quest.4FBA0ECAC8AEBCD8.title: "核裂变"
+	quest.4FBA0ECAC8AEBCD8.quest_subtitle: "Harness the atoms"
+	quest.4FBA0ECAC8AEBCD8.title: "Nuclear Fission"
 	quest.4FDD66D88C90C951.quest_desc: ["想要获得&b刷怪笼&f，你需要使用&a精准采集&f挖掘&b刷怪笼&f。每一个&b刷怪笼&f的基础数值都是一样的且可以被修改。"]
 	quest.4FDD66D88C90C951.title: "&c神化刷怪笼"
 	quest.5021D7D55A0B3533.quest_desc: ["欢迎来到&b化学&r的世界！有些&e化学品&r实际上很&c危险&r，不过幸运的是，在这里，你的身体对那些危险化学品是有&7抗性&r的。"]
@@ -3927,8 +4357,17 @@
 		"  &b焦炉&r控制器确认结构有效后，你就可以向&b流体输入仓&r&6输入&b蒸汽&r了。然后将&b煤炭&r或者&b煤粉&r放入&b物品输入仓&r，&b焦炉&r就会点火，开始运行。如果它没有开始工作，你就得回头想想是不是有哪里搞错了。"
 	]
 	quest.50BFFEAF92B72965.title: "焦炉"
-	quest.50D1398BBF8DBBB2.quest_desc: ["&b电解分离器&r通过一种被称为“&6电解&r”的方式，用&e电&r将分子解离，把各种&7流体&r&6分解&r成构成它们的核心元素。"]
-	quest.50D1398BBF8DBBB2.title: "电解分离器"
+	quest.50D1398BBF8DBBB2.quest_desc: [
+		"The &bElectrolytic Separator&r uses &eFE&r to break certain &9fluids&r down into their elemental components through &6electrolysis&r."
+		""
+		"Feed it the appropriate fluid and it will separate it into useful &dGases&r for your production chains."
+		""
+		"This machine is essential for producing several key chemicals, including &bHydrogen&r and &eOxygen&r."
+		""
+		"Check your &6EMI&r to discover which fluids can be separated and what each process produces."
+	]
+	quest.50D1398BBF8DBBB2.quest_subtitle: "Split fluids with electricity"
+	quest.50D1398BBF8DBBB2.title: "Electrolytic Separator"
 	quest.510EAAAA3E08FCD5.quest_desc: ["这种矿工魔灵无与伦比，能够获得&b大部分矿石&r。它偶尔还会产出一件&6特殊&r物品……"]
 	quest.510EAAAA3E08FCD5.quest_subtitle: "小矿石，大师作"
 	quest.511C07DFE796F377.quest_desc: [
@@ -4009,6 +4448,9 @@
 		"潜行右击以切换建筑模式。"
 	]
 	quest.51B59A987F916C7A.quest_subtitle: "便携存储方案！"
+	quest.51E14807C39F4111.quest_desc: ["&bThe Improved Tome of Scrapping&r is the upgraded version for recovering enchantments more effectively when dismantling enchanted gear."]
+	quest.51E14807C39F4111.quest_subtitle: "Recover More"
+	quest.51E14807C39F4111.title: "Superior Scrapping"
 	quest.51E386BC7692D06C.quest_desc: ["为了&6建立&r&6汞驱物流系统&r，必须使用这些&b线缆&r来&6连接&r输入和输出。如果需要，&b连接节点&r允许多条线缆汇聚到一个点。"]
 	quest.51E386BC7692D06C.title: "汞驱连接"
 	quest.51ECF72F223BDB3A.title: "咖啡"
@@ -4061,11 +4503,12 @@
 		"输出的充气量取决于风速（显然），而风速随着风力发电机在世界中的位置高度增加而增加。"
 	]
 	quest.52AD3D58B644AA30.quest_desc: [
-		"&b风力发电机&r用&7风&r来产生&e能量&r！"
+		"The &bWind Generator&r produces &epower&r using the &7wind&r! "
 		""
-		"它是一个“&a放下来就能用&r”的东西，也就是说它不需要玩家的交互。"
+		"It's a \"&aplace and play&r\" meaning that there is no need for human interaction."
 	]
-	quest.52AD3D58B644AA30.title: "风力发电机"
+	quest.52AD3D58B644AA30.quest_subtitle: "Harness the power of the wind"
+	quest.52AD3D58B644AA30.title: "Wind Generator"
 	quest.52BB8CBB7118C793.quest_desc: [
 		"紫晶傀儡会收获、种植&8（有时会捡起）&r它家附近的紫水晶。"
 		"紫晶傀儡可以将&b紫水晶块&r转化成&5紫水晶母岩&r（同时会加速母岩上紫水晶的生长）。"
@@ -4100,6 +4543,17 @@
 	quest.53724D97E9DE80D5.title: "储罐坞与储罐接口"
 	quest.537DCC3519883A20.quest_desc: ["&b过滤升级&r可以安装在电动泵上，将&9重水&r从普通的&7H2O&r中&6分离&r出来。"]
 	quest.537DCC3519883A20.title: "过滤升级"
+	quest.5399B28FAC1756EF.quest_desc: [
+		"Bins are compact storage blocks designed for holding large quantities of &fitems&r."
+		""
+		"They are especially useful for bulk resources such as &7Cobblestone&r, &7Stone&r, ores, and other materials you produce in large amounts."
+		""
+		"Connect them to &bLogistical Transporters&r to automatically insert and extract items, making them a great addition to automated storage systems."
+		""
+		"Higher-tier bins provide significantly more storage, letting you keep your most common resources neatly contained without filling up your base with chests."
+	]
+	quest.5399B28FAC1756EF.quest_subtitle: "Keep your resources organized"
+	quest.5399B28FAC1756EF.title: "Bins"
 	quest.53A07420D75804AB.quest_subtitle: "充就完事了！！！"
 	quest.53A66CA8EFE820D1.quest_desc: ["贪婪使魔会为你&6收集&r&b物品&r。当它被放入使魔之戒中时，可以增强你的物品拾取范围。"]
 	quest.53A66CA8EFE820D1.quest_subtitle: "为了宝藏！"
@@ -4125,6 +4579,22 @@
 	quest.5401B18217772D6C.title: "热交换机"
 	quest.5408EFD0B9CA0527.quest_desc: ["每个&b终极感应供应器&r可以为你的感应矩阵增加&e52.42 MFE/t&r的能量传输（输入/输出）速率。"]
 	quest.5408EFD0B9CA0527.title: "终极感应供应器"
+	quest.546445899EA26829.quest_desc: [
+		"Apothic Gems have different levels of &bPurity&r."
+		""
+		"&7Cracked&r"
+		"&aChipped&r"
+		"&9Flawed&r"
+		"&5Normal&r"
+		"&6Flawless&r"
+		"&zPerfect&r"
+		""
+		"The &bGem Cutting Table&r can increase a Gem's Purity."
+		""
+		"Create a &bFlawless Gem&r to push your Gems to their highest normal purity."
+	]
+	quest.546445899EA26829.quest_subtitle: "A Gem's purity matters just as much as its rarity."
+	quest.546445899EA26829.title: "&6Flawless"
 	quest.54BCC1A0203B2351.quest_desc: ["如果你希望给&b水晶&f的&6生长&f打点鸡血的话，可以在&b母岩&f的六个面旁边放上&b催生器&f。&b催生器&f需要从底部或者顶部输入能量。"]
 	quest.54BF53CB70636C3F.quest_desc: [
 		"  将冬季囚禁于冰冷的铝制框架中……为什么抽走空气可以冷却物品？我用水举个例子："
@@ -4208,6 +4678,16 @@
 	]
 	quest.5570CFF754032FDB.quest_subtitle: "可以在&3极光冰川&r之上的绚丽高塔中找到。"
 	quest.5570CFF754032FDB.title: "&9冰雪女王"
+	quest.557B8123056FBF8C.quest_desc: [
+		"&bThe Enchantment Library&r provides a convenient way to store and manage enchantments."
+		""
+		"Enchanted books can be deposited into the &bLibrary&r and later retrieved when needed, allowing you to build up a collection of useful enchantments without filling your storage with countless books."
+		""
+		"&bThe Library&r is especially useful for keeping &6valuable&r or &drare&r enchantments until you have the perfect piece of gear to apply them to."
+		""
+		"Tip: Pair the &bLibrary&r with the &eTome of Extraction&r to safely transfer enchantments from your existing gear into books for storage."
+	]
+	quest.557B8123056FBF8C.quest_subtitle: "Store Your Enchantments"
 	quest.55A5C20E17BD3038.quest_desc: [
 		"万具之具。"
 		""
@@ -4239,6 +4719,17 @@
 	quest.56079AB13D721BC7.title: "术士套装"
 	quest.5619683321410B74.quest_desc: ["去他丫的房子，直接把你的老巢都打包带走吧！不过注意了，这东西可不便宜喔！"]
 	quest.5619683321410B74.title: "大型空间组件"
+	quest.565AF8294E95CBA7.quest_desc: [
+		"Energy Cubes are Mekanism's portable energy storage blocks, allowing you to store and move large amounts of &eFE&r."
+		""
+		"Connect them to &bUniversal Cables&r to charge and discharge your stored energy, or use them as buffers between &egenerators&r and machines."
+		""
+		"Higher-tier Energy Cubes provide greater storage capacity and higher transfer rates, making them increasingly useful as your power network grows."
+		""
+		"They can also be configured to automatically charge or discharge from connected sides using a &eConfigurator&r."
+	]
+	quest.565AF8294E95CBA7.quest_subtitle: "Store your power for later"
+	quest.565AF8294E95CBA7.title: "Energy Cubes"
 	quest.5663A6C559490A29.quest_desc: ["&6右击&f对&b僵尸&f或&b尸壳&f使用&b天线珍珠&f，可以获得玩家天线珍珠。"]
 	quest.5663A6C559490A29.quest_subtitle: "别以为你能把那个僵尸找回来"
 	quest.566D039774A4DB9D.quest_desc: ["将&2核废料&r再处理可以获得钚，再将钚与&9氟石粉&r结合即可制成&b钚球&r。"]
@@ -4328,6 +4819,7 @@
 	quest.5946631C59C788DC.quest_subtitle: "Carry your power wherever you go."
 	quest.594BC97607EEE341.quest_desc: ["大多数机械动力结构的关键部件：&6交换&r一个平面与另一个平面之间的旋转轴向"]
 	quest.596057832C440706.title: "绝缘"
+	quest.59B0B5B66DA2BFE4.quest_subtitle: "Catch ALL &z131&r fishes."
 	quest.59EC9D8641CF67B8.quest_desc: ["“我们走过的生物群系”模组也添加了不少作物……但你得知道去哪找！"]
 	quest.59EE97EF70F6F962.quest_desc: ["你有时能在野外的水边找到野生的亚麻植株！采几棵吧！"]
 	quest.59EE97EF70F6F962.quest_subtitle: "纯素……纤维？"
@@ -4341,8 +4833,18 @@
 		""
 		"使用&b锻造台&f来对你的建筑棒进行升级，这需要消耗&6铜块&f。"
 	]
-	quest.5A52426AC47A1FE3.quest_desc: ["Complete the final tier of the &bAra Vitae&r and prepare yourself for the ultimate Orb of Vitae."]
-	quest.5A52426AC47A1FE3.quest_subtitle: "You stand at the threshold of true mastery."
+	quest.5A52426AC47A1FE3.quest_desc: [
+		"The Ara Vitae has reached its final form."
+		""
+		"With every circle completed, more rune positions become available, allowing you to further specialize your altar with &dSpecialized Runes&f and their &5Reinforced&f variants."
+		""
+		"Complete the final circle and bring your Ara Vitae to its &5Transcendent&f potential."
+		""
+		"There is no higher circle."
+		""
+		"Whatever comes next, you'll have to discover for yourself."
+	]
+	quest.5A52426AC47A1FE3.quest_subtitle: "Beyond mortal limits"
 	quest.5A52426AC47A1FE3.title: "The Sixth Circle"
 	quest.5A5583EA02C78372.quest_desc: [
 		"一艘升级版的飞艇，拥有大量的存储空间。"
@@ -4351,8 +4853,15 @@
 		""
 		"也非常适合那些想过游牧生活的玩家。"
 	]
-	quest.5AB4D1D72EFD4428.quest_desc: ["&b感应端口&r是你与&9感应矩阵&r交互的接口。"]
-	quest.5AB4D1D72EFD4428.title: "感应端口"
+	quest.5AB4D1D72EFD4428.quest_desc: [
+		"The &bInduction Port&r is the interface between your factory and the &dInduction Matrix&r."
+		""
+		"Use it to &einput&r and &eoutput&r &eFE&r, allowing the matrix to charge and discharge energy to connected machines and power networks."
+		""
+		"Multiple ports can be used to handle different energy connections, giving you greater control over how your &dInduction Matrix&r interacts with the rest of your power grid."
+	]
+	quest.5AB4D1D72EFD4428.quest_subtitle: "Connect your energy storage"
+	quest.5AB4D1D72EFD4428.title: "Induction Port"
 	quest.5B1D88BFEA39DBAE.quest_desc: ["将&b充能赛特斯石英水晶&f、&b下界石英&f与&b红石粉&f&6丢入&f&b水&f中然后等待片刻，即可获得&b福鲁伊克斯水晶&f。"]
 	quest.5B1D88BFEA39DBAE.quest_subtitle: "一种十分重要的原材料"
 	quest.5B1D88BFEA39DBAE.title: "福鲁伊克斯水晶"
@@ -4413,6 +4922,20 @@
 	]
 	quest.5C8D7BD3DA61109F.quest_subtitle: "资源BRRR！"
 	quest.5C8D7BD3DA61109F.title: "电动采石机"
+	quest.5C8DA6A4F83731BC.quest_desc: [
+		"The ultimate tool for salvaging enchantments."
+		""
+		"Use a &bTome of Extraction&r on an enchanted item in an &9Anvil&r to transfer all of its enchantments onto an &eEnchanted Book&r."
+		""
+		"Unlike the &bTome of Scrapping&r, the original item is preserved."
+		""
+		"&bTome of Scrapping&r: Extracts half of the enchantments and destroys the item."
+		"&bTome of Superior Scrapping&r: Extracts all enchantments but destroys the item."
+		"&bTome of Extraction&r: Extracts all enchantments and preserves the item."
+		""
+		"Perfect for moving valuable enchantments onto better gear without losing the original item."
+	]
+	quest.5C8DA6A4F83731BC.quest_subtitle: "Extract Without Sacrifice"
 	quest.5C98D9127F4CEB74.quest_desc: [
 		"有几种不同类型的&b盐&r，每种最终都用于制作&6不同类型的资源&r。"
 		""
@@ -4545,8 +5068,17 @@
 	quest.60868DF852E6028B.title: "更多装备"
 	quest.60A38769895A0B14.quest_subtitle: "将库放入其中，即可在世界中轻松访问。"
 	quest.60A38769895A0B14.title: "库坞与库接口"
-	quest.60AEE273431548B6.quest_desc: ["在涡轮和锅炉里放置一层&b分压元件&r以更好地调节&7压力的释放&r。"]
-	quest.60AEE273431548B6.title: "分压元件"
+	quest.60AEE273431548B6.quest_desc: [
+		"The &bPressure Disperser&r helps regulate pressure inside your &eThermoelectric Boiler&r and &bIndustrial Turbine&r."
+		""
+		"Place it within the multiblock structure to provide a controlled &6pressure relief&r when pressure builds too high."
+		""
+		"Proper pressure management keeps your multiblocks running safely and prevents dangerous overpressure situations."
+		""
+		"Make sure your boiler and turbine have adequate pressure management before putting them under heavy load."
+	]
+	quest.60AEE273431548B6.quest_subtitle: "Keep pressure under control"
+	quest.60AEE273431548B6.title: "Pressure Disperser"
 	quest.60F4F5FE0C3748C3.quest_desc: [
 		"&b化学清洗机&r能够清洗&d浆液&r，供&9结晶&r使用。"
 		""
@@ -4570,6 +5102,8 @@
 	]
 	quest.61340C2A12FEAA26.quest_desc: ["&bME驱动器&f用于存放&b存储元件&f。"]
 	quest.61340C2A12FEAA26.title: "ME驱动器"
+	quest.6137C9FB49DB4A9C.quest_desc: ["Process organic materials into &2Bio Fuel&r, a versatile fuel for your factory. Burn it directly in a &eBio Generator&r for power, or use it with &bHydrogen&r in the &ePressurized Reaction Chamber&r to produce &dEthylene&r."]
+	quest.6137C9FB49DB4A9C.quest_subtitle: "Turning organic matter into energy"
 	quest.614E49D8AA7F85FC.quest_desc: ["每个&b精英感应供应器&r可以为你的感应矩阵增加&e9.55 MFE/t&r的能量传输（输入/输出）速率。"]
 	quest.614E49D8AA7F85FC.title: "精英感应供应器"
 	quest.61748279816F2D7F.quest_desc: [
@@ -4644,6 +5178,17 @@
 		"  &c要来点意大利面吗？&r"
 	]
 	quest.62B245A23CA62678.title: "流体运输"
+	quest.62CF33223F7108D6.quest_desc: [
+		"Not every Affix Item is worth keeping."
+		""
+		"The &5Salvaging Table&r lets you break down unwanted Affix Gear into &6Rarity Materials&r."
+		""
+		"These materials are useful for improving your equipment and progressing through Apotheosis."
+		""
+		"Craft a &5Salvaging Table&r and put your unwanted loot to use."
+	]
+	quest.62CF33223F7108D6.quest_subtitle: "Unwanted gear can still be useful."
+	quest.62CF33223F7108D6.title: "Salvaging"
 	quest.62F43B936E236071.quest_desc: [
 		"   可&6收集&r指定区域（可设置偏移与范围）内的&b物品&r，并将它们&6放入&r其&b附属的容器&r中。"
 		""
@@ -4716,6 +5261,18 @@
 	quest.6441C36C63A59445.title: "&ePipeZ"
 	quest.64D625C86F3AB75C.quest_desc: ["眼魔可以使附近的生物&b发光&r，并向&b敌人&r&6发射&r激光。"]
 	quest.64D625C86F3AB75C.quest_subtitle: "电眼逼人！"
+	quest.64F025DAA4A9D40C.quest_desc: [
+		"All Apotheosis Gems can be reduced to"
+		"&bGem Dust&r through crushing."
+		""
+		"One method is to crush them with an"
+		"&fAnvil&r in-world."
+		""
+		"Once you've crushed a few Gems with an"
+		"&fAnvil&r, you can create and use the"
+		"&5Salvaging Table&r instead."
+	]
+	quest.64F025DAA4A9D40C.quest_subtitle: "Not every Gem needs to remain intact."
 	quest.65043D06CD1BCB53.title: "韭菜"
 	quest.65210BAE0163445F.title: "荔枝"
 	quest.6531DF5573672E9E.quest_desc: [
@@ -4840,8 +5397,15 @@
 	]
 	quest.6794A40DE2A79575.quest_subtitle: "暗影导师"
 	quest.6794A40DE2A79575.title: "村民"
-	quest.67A41E4D6BCA5F2B.quest_desc: ["这是量子物品编排（Quantum Item Orchestration）系统的核心。你的QIO驱动器都存放在此处，务必用你的生命保护它。"]
-	quest.67A41E4D6BCA5F2B.title: "QIO驱动器阵列"
+	quest.67A41E4D6BCA5F2B.quest_desc: [
+		"The &bQIO Drive Array&r is the core of the &eQuantum Item Orchestration&r system, providing a central place to manage your digital item storage."
+		""
+		"Insert &bQIO Drives&r to store huge quantities of items digitally, all accessible through your connected &eQIO&r network."
+		""
+		"Keep your drives safe - losing the Drive Array means losing access to everything stored inside it."
+	]
+	quest.67A41E4D6BCA5F2B.quest_subtitle: "The heart of your item storage"
+	quest.67A41E4D6BCA5F2B.title: "QIO Drive Array"
 	quest.67ACD099BDB606FA.quest_desc: [
 		"戴上这个&b护目镜&r，你将仿佛拥有&b第三只眼&r一般。"
 		""
@@ -5275,13 +5839,16 @@
 	quest.6E3F0C072B55467B.quest_desc: ["简单地说：&6收获&r并&6重置&r&b成熟作物&r的生长进度。"]
 	quest.6E60988E8F8C4FF2.title: "三氧化硫"
 	quest.6EA29403BF85B19C.quest_desc: [
-		"你的第一个&dQIO 驱动器&r。"
+		"QIO Drives are the storage units used by the &bQIO Drive Array&r. Each drive expands the amount of &fitems&r your network can store digitally."
 		""
-		"能够存储&3128&r种不同类型的总计&a16,000&r个物品。"
+		"The &dQIO Drive&r can hold up to &a16,000 items&r across &b128 different item types&r."
 		""
-		"这只是它的最小容量。"
+		"Need more storage? Simply add more drives to your &bQIO Drive Array&r and keep expanding your digital warehouse."
+		""
+		"Higher-capacity drives become available as you progress, letting your storage system grow alongside your factory."
 	]
-	quest.6EA29403BF85B19C.title: "QIO 驱动器"
+	quest.6EA29403BF85B19C.quest_subtitle: "Expand your digital storage"
+	quest.6EA29403BF85B19C.title: "QIO Drives"
 	quest.6EBFFFB567687A1E.quest_desc: [
 		"  &b不锈钢&r的强度和普通钢差不多，但是&b不锈钢&r永远不会腐蚀生锈。它是你遇见的第一个，不是简单丢进炉子里就能美美炼好的金属喽。"
 		""
@@ -5459,6 +6026,16 @@
 		""
 		"&8注：此合成配方无需基座。"
 	]
+	quest.722818115860F349.quest_desc: [
+		"Fluid Tanks provide convenient storage for &9fluids&r, giving you somewhere to keep the liquids your machines produce or require."
+		""
+		"They can be connected to &bMechanical Pipes&r and other compatible systems to automatically fill and drain the tank."
+		""
+		"Higher-tier tanks offer significantly more storage, making them ideal for keeping large reserves of &9fluids&r on hand."
+		""
+		"Use a &eConfigurator&r to manage connections and control how fluids flow in and out."
+	]
+	quest.722818115860F349.quest_subtitle: "Store your fluids for later"
 	quest.72481CA0AC8AFD6A.quest_desc: [
 		"虽然外观上与&b福鲁伊克斯色ME包层线缆&r有些相似，但&b智能线缆&r能够在其上显示&6频道的使用情况&r，这为频道诊断提供了巨大的便利。&6频道&r会显示为&b线缆&r黑色条纹上的有色发光线，你可以直观地看到你&6网络&r中&6频道&r的使用情况。"
 		""
@@ -5468,7 +6045,7 @@
 	quest.72481CA0AC8AFD6A.title: "福鲁伊克斯色智能线缆"
 	quest.72539873C7201A47.quest_desc: ["毒马铃薯用于制作自然法术卷轴。"]
 	quest.7277A0413086D71A.quest_desc: ["用&b恩特罗种子&f&6右击&f&b福鲁伊克斯块&f可将它转变为&b恩特罗化的福鲁伊克斯母岩&f。"]
-	quest.7283C1B759AF0F5F.quest_subtitle: "捕获全部&6140&r种鱼类。"
+	quest.7283C1B759AF0F5F.quest_subtitle: "Catch &a500&r total fishes and &610&r unique golden fishes."
 	quest.7290F8670BBBF12E.quest_desc: ["&bME主动成型面板&f与普通的&b成型面板&r作用相同，不过它可以主动拉取网络中的方块/物品，这真的方便到爆不是吗？"]
 	quest.72CBC6171104037F.quest_desc: [
 		"我个人认为，说真的，这堪称模组界最炫酷的门之一。"
@@ -5491,6 +6068,17 @@
 	quest.72E69FF9753D3CEA.title: "仪式：召唤异界石交易者"
 	quest.72FF205D1C9A9178.quest_subtitle: "可使用巨兽之眼找到"
 	quest.72FF205D1C9A9178.title: "&c下界合金巨兽"
+	quest.73156BF022D5710F.quest_desc: [
+		"Chemical Tanks are designed to safely store &dGases&r and other &5chemical substances&r used throughout your &eMekanism&r factory."
+		""
+		"Connect them to &bPressurized Tubes&r to move chemicals between machines, or use them as convenient storage for large reserves."
+		""
+		"Higher-tier tanks provide vastly more storage, making them ideal for keeping important chemicals ready for when your production lines need them."
+		""
+		"Use a &eConfigurator&r to manage connections and control how chemicals flow in and out."
+	]
+	quest.73156BF022D5710F.quest_subtitle: "Store gases and chemicals"
+	quest.73156BF022D5710F.title: "Chemical Tanks"
 	quest.7342ABDAD6467123.quest_desc: [
 		"物流框架简化了其网络内的物流任务，无论是通过无人机还是至少3bar压力的管道。使用所有的物流框架都需要&4物流扳手&r。"
 		""
@@ -5620,6 +6208,15 @@
 	quest.74D9B681E8EFE064.quest_desc: ["末影珍珠由末影人掉落，用于制作末影法术卷轴。"]
 	quest.7529F840525E5BDF.quest_desc: ["每个&b终极感应元件&r可以为你的感应矩阵增加&e1.6 TFE&r的存储容量。"]
 	quest.7529F840525E5BDF.title: "终极感应元件"
+	quest.752C5D1FE766F040.quest_desc: [
+		"Two &bFlawless Gems&r of the same type and rarity can be combined at the &bGem Cutting Table&r to create a &6Perfect Gem&r."
+		""
+		"Perfect Gems represent the highest possible Purity."
+		""
+		"Create one and take your Gems to their absolute limit."
+	]
+	quest.752C5D1FE766F040.quest_subtitle: "There is no room for improvement."
+	quest.752C5D1FE766F040.title: "&z&lPerfect"
 	quest.7533E0212EFE326D.quest_subtitle: "面向&e蜂箱&r放置时，可将&6蜂蜜&r以&b流体形式&r抽取出来。"
 	quest.754EC4FE62F454E8.quest_desc: [
 		"你知道把一个箱子放在另一个旁边可以组成一个大箱子吧？"
@@ -5664,11 +6261,12 @@
 	quest.75FE996305813D68.quest_subtitle: "找到陨石"
 	quest.75FE996305813D68.title: "那个火—陨—流星是什么？"
 	quest.7610F9A545A15194.quest_desc: [
-		"&b太阳能发电机&r用&6太阳&r来产生&e能量&r。"
+		"The &bSolar Generator&r uses the &6sun&r to generate &epower&r. "
 		""
-		"显然，&6太阳&r一落山，它就不会产生&e能量&r了。"
+		"Obviously, when the &6sun&r is down, no &epower&r is generated. "
 	]
-	quest.7610F9A545A15194.title: "太阳能发电机"
+	quest.7610F9A545A15194.quest_subtitle: "Harness the sunlight"
+	quest.7610F9A545A15194.title: "Solar Generator"
 	quest.768973710C811CB1.quest_subtitle: "二型——更多配件，更加新潮！"
 	quest.768973710C811CB1.title: "&a量子纳米套装"
 	quest.76BA847F28ACE170.title: "二阶 1:2"
@@ -5744,11 +6342,16 @@
 	quest.791CAEBAE57EF0E1.quest_subtitle: "你耍得我团团转"
 	quest.791CAEBAE57EF0E1.title: "电动机"
 	quest.7921D6460E480F82.quest_desc: [
-		"使用&b锅炉阀门&r来&c输入热量&r和&9水&r。"
+		"The &bBoiler Valve&r connects your &eThermoelectric Boiler&r to the rest of your factory."
 		""
-		"以及&a输出&r&7蒸汽&r。"
+		"Use it to &cinput&r &cHeat&r and &9Water&r into the boiler."
+		""
+		"The valve can also &aextract&r the &7Steam&r produced by the boiler, allowing you to send it directly to an &bIndustrial Turbine&r or store it for later."
+		""
+		"Use multiple valves to keep your inputs and outputs flowing efficiently."
 	]
-	quest.7921D6460E480F82.title: "锅炉阀门"
+	quest.7921D6460E480F82.quest_subtitle: "Connect heat, water, and steam"
+	quest.7921D6460E480F82.title: "Boiler Valve"
 	quest.79288A7251986136.quest_desc: [
 		""
 		"[ 提示：即使对于不打算在铁轨上运行的装置，&b矿车装配站&r也非常方便，可以用来将装置放置到世界中，或者将其转换回装置形态——然后再用&b扳手&r将其收回成物品形态。你好啊，四次元口袋！]"
@@ -5779,11 +6382,26 @@
 		"- 在存有&b锄头&r的&3容器&r上部署，将指示无人机在其区域内收获的任何&a作物&r并&6重新种植&r。"
 	]
 	quest.79F451F9C8D02A69.quest_desc: ["你已经造出了&b并发处理器&f，现在制作一些更高级的物品来帮你玩转&aAE扩展&f吧。"]
-	quest.7A0A29CC4F524CEE.quest_desc: ["Expand your &bAra Vitae&r with its first ring of &bBlank Runes&r and unlock the next stage of Vitaemancy."]
-	quest.7A0A29CC4F524CEE.quest_subtitle: "The altar is only the beginning."
+	quest.7A0A29CC4F524CEE.quest_desc: [
+		"The Ara Vitae can be expanded beyond its humble beginnings."
+		""
+		"Build the first circle with &d8 Runes&f, one level below the altar."
+		""
+		"The four cardinal positions can be filled with &dSpecialized Runes&f, while the diagonal positions remain inactive for now."
+		""
+		"Choose your runes carefully - each one can change how your altar performs."
+	]
+	quest.7A0A29CC4F524CEE.quest_subtitle: "The beginning of something greater"
 	quest.7A0A29CC4F524CEE.title: "The First Circle"
 	quest.7A5466B9F5C79793.quest_desc: ["你将最先与&b魔精&r这种魔灵打交道，它们也是最安全的类型。"]
 	quest.7A5466B9F5C79793.quest_subtitle: "初学"
+	quest.7A699D1A92A84C51.quest_desc: [
+		"&8Pickaxes&r, &3Fishing&r and &9Other Tomes&r cover specialized item categories. "
+		""
+		"&9The Other Tome&r handles enchantments that do not fit the other categories."
+	]
+	quest.7A699D1A92A84C51.quest_subtitle: "Specialized categories"
+	quest.7A699D1A92A84C51.title: "Tomes of Utility"
 	quest.7A6C1605F32F695F.quest_desc: [
 		"这个火炉可以将各种材料&6煅烧&r为&b炼金盐&r。"
 		""
@@ -5886,13 +6504,14 @@
 	quest.7BDBE300D4B0B1F7.quest_subtitle: "骨粉堆成山！"
 	quest.7BE64AF022E35ADE.quest_desc: ["你可以使用&b更多红石&f模组来&b自由设计&f你的红石系统。例如贴在墙壁上，放置在屋顶上，或是吸附在天花板上。"]
 	quest.7BE64AF022E35ADE.title: "&c更多红石"
-	quest.7BEA5B1D1B410E82.quest.desc: "&3高级太阳能发电机&r是小型&3太阳能发电机&r的升级版，能够提供更多的&a能量&r。你可以将其&6放置&r在&3热力蒸馏塔&r的顶角，将绿色的&a能量输出口&r对准&3热力蒸馏方块&r，这样白天它就可以为蒸馏塔&6提供&r&c热量&r。"
+	quest.7BEA5B1D1B410E82.quest.desc: "The &3Advanced Solar Generator&r is an upgraded version of the small &3Solar Generator&r and provides much more &apower&r. You can &6place&r them in the top corners of the &3Thermal Evaporation Tower&r with the green power &aenergy output&r facing the &3Thermal Evaporation Block&r to &6increase&r the &cheat&r of the tower in the day."
 	quest.7BEA5B1D1B410E82.quest_desc: [
-		"&b高级太阳能发电机&r是小型&3太阳能发电机&r的升级版，能够提供更多的&a能量&r。"
+		"The &bAdvanced Solar Generator&r is an upgraded version of the small &3Solar Generator&r and provides much more &apower&r. "
 		""
-		"你可以将其&6放置&r在&b热力蒸馏塔&r的顶角，将绿色的&a能量输出口&r对准&b热力蒸馏方块&r，这样白天它就可以为蒸馏塔&6提供&r&c热量&r。"
+		"You can &6place&r them in the top corners of the &bThermal Evaporation Tower&r with the green power &aenergy output&r facing the &bThermal Evaporation Block&r to &6increase&r the &cheat&r of the tower in the day."
 	]
-	quest.7BEA5B1D1B410E82.title: "高级太阳能发电机"
+	quest.7BEA5B1D1B410E82.quest_subtitle: "More power from the sun"
+	quest.7BEA5B1D1B410E82.title: "Advanced Solar Generator"
 	quest.7C0FA555C5FE00D1.quest_desc: [
 		"  &b机械臂&r是机器中用于自动移动物品的部件。"
 		""
@@ -5902,6 +6521,9 @@
 	]
 	quest.7C0FA555C5FE00D1.quest_subtitle: "哔啵"
 	quest.7C0FA555C5FE00D1.title: "机械臂"
+	quest.7C11028E6B1F402B.quest_desc: ["&bArmor Tomes&r restrict their stored enchantments to the relevant armor category, making focused gear progression much easier."]
+	quest.7C11028E6B1F402B.quest_subtitle: "Target armor enchantments"
+	quest.7C11028E6B1F402B.title: "Tomes of Armor"
 	quest.7C201074DDBAE831.quest_desc: ["我感觉你的&bME存储网络&r都能塞下一整个生物群系了……"]
 	quest.7C201074DDBAE831.title: "256k 存储组件"
 	quest.7C31082BB88384BF.quest_desc: [
@@ -5995,8 +6617,18 @@
 	quest.7DB4E20D476B5786.title: "&c米诺菇"
 	quest.7DD81584380EE8F7.quest_desc: ["这个&b魔杖&r用于与&6汞驱物流系统&r进行接口连接。"]
 	quest.7E49DB806DD04701.quest_desc: [""]
-	quest.7E88E36EDE4C0BF0.quest_desc: ["Expand your &bAra Vitae&r to its fifth tier by adding the required &bRunes&r and &bCapstone Blocks&r, unlocking greater &bVitae&r power and access to the most advanced transmutations and rituals."]
-	quest.7E88E36EDE4C0BF0.quest_subtitle: "You are no longer merely a practitioner."
+	quest.7E88E36EDE4C0BF0.quest_desc: [
+		"One final expansion remains."
+		""
+		"Add the widest ring of &d72 Runes&f, one level below and farther out than the previous circle."
+		""
+		"With so many rune positions available, you can heavily specialize your altar with &dSpeed&f, &bCapacity&f, &eCharging&f, &cSacrifice&f and other specialized runes."
+		""
+		"Crown the four pillars with &5Crystal Clusters&f or &5Crystal Cluster Bricks&f."
+		""
+		"Your Ara Vitae now contains &d172 Runes&f and has reached its maximum construction tier."
+	]
+	quest.7E88E36EDE4C0BF0.quest_subtitle: "The final ascent"
 	quest.7E88E36EDE4C0BF0.title: "The Fifth Circle"
 	quest.7ED9955750255A69.quest_subtitle: "完成对应任务章节。"
 	quest.7ED9955750255A69.title: "&d新生魔艺"
@@ -6006,6 +6638,21 @@
 		""
 		"若想更快速地完成这一过程，你可以进行批量充能！只要拥有充足的&b能量&r，即可加速&b充能&r进程。若以&b块状&r材料替代&b锭状&r材料进行充能，速度更可&b提升9倍&r。"
 	]
+	quest.7F3584DB86B09C4D.quest_desc: [
+		"Your enchanting setup isn't limited to &bShelves&f."
+		""
+		"Certain blocks can provide additional bonuses when placed around your &bApothic Enchanting Table&f."
+		""
+		"&6Candles&f increase the &2Eterna&f of your enchanting setup, helping you reach higher enchantment levels."
+		""
+		"&6Mob Heads and Skulls&f provide different bonuses depending on the type used. Some can improve your &4Quanta&f, &2Arcana&f, or other enchanting stats."
+		""
+		"These effects work alongside your shelves, allowing you to fine-tune your enchanting setup without replacing valuable shelf slots."
+		""
+		"&aTip:&r Experiment with different candles and mob heads to squeeze extra stats out of your enchanting setup.&f"
+	]
+	quest.7F3584DB86B09C4D.quest_subtitle: "Enhance Your Enchanting Setup"
+	quest.7F3584DB86B09C4D.title: "Enchanting Catalysts"
 	quest.7F3A28754CD6AD41.quest_desc: [
 		"  &6转化&b："
 		""
@@ -6057,11 +6704,12 @@
 	quest.7FBC6EFE948A0CD2.quest_desc: ["龙使魔可以&6增加&r你的&b经验获取&r。"]
 	quest.7FBC6EFE948A0CD2.quest_subtitle: "这条龙囤积知识，而不是黄金"
 	quest.7FC6AE9DB7C1DA52.quest_desc: [
-		"&b生物能发电机&r消耗&2生物燃料&r以产生&e能量&r。"
+		"The &bBio-Generator&r takes &2biofuel&r to generate &epower&r. "
 		""
-		"&6粉碎&r任何&b有机材料&r基本上都可以得到&2生物燃料&r。"
+		"You can make &2biofuel&r by &6crushing down&r almost any &borganic based material&r."
 	]
-	quest.7FC6AE9DB7C1DA52.title: "生物能发电机"
+	quest.7FC6AE9DB7C1DA52.quest_subtitle: "Turn waste into power"
+	quest.7FC6AE9DB7C1DA52.title: "Bio-Generator"
 	quest.7FCA9352AF05C235.quest_desc: [
 		"这些管道可以&6自动化&r一些流程："
 		""
@@ -6092,6 +6740,7 @@
 	quest.7FD5FCEFE3697A7C.quest_subtitle: "&e谷子&r宝宝对&e谷子&r妈妈说了什么？"
 	quest.7FEBDFAE021B3C56.quest_desc: ["很适合那些&o超级庞大&r的合成任务。"]
 	quest.7FEBDFAE021B3C56.title: "Mega合成存储器"
+	reward_table.0414572B7C36F04F.title: "Powah Rewards"
 	reward_table.0DF6EBF90213BF49.title: "沉浸式飞机"
 	reward_table.1CD342FEDCDF6159.title: "通用机械 T3"
 	reward_table.1D192DA13A51FB61.title: "JDT 2"
@@ -6112,8 +6761,11 @@
 	task.013281B2076D21ED.title: "实用提示与技巧"
 	task.02D1703C79A7F3EF.title: "任意#c:logs/archwood"
 	task.04FBCF96BB8F176A.title: "矿脉枯竭！"
-	task.0B2C0AF7B7B4B841.title: "热导线缆"
+	task.0AAA27790F8C94A0.title: "Chemical Tanks"
+	task.0B2C0AF7B7B4B841.title: "Thermodynamic Conductors"
+	task.0B9C85688F6EEAFB.title: "Fluid Tanks"
 	task.0BA54BE324AE1978.title: "人生乐事何其多！"
+	task.0D4D94F0997C1769.title: "Reach World Tier: Ascent"
 	task.0D974A2537B460E2.title: "升级啊啊啊啊啊啊啊啊啊啊啊"
 	task.0FA270C84C6558F4.title: "纯净浆液"
 	task.0FF55D7FA5CEAD32.title: "任意#c:seeds/flax"
@@ -6124,6 +6776,7 @@
 	task.1531CE8CE061AFC3.title: "任意#handcrafted:chests"
 	task.15E07774D19A4B1A.title: "探索世界？组装机械？研习魔法？"
 	task.160306663D203B48.title: "团队与区块声明"
+	task.1605ACA907712B09.title: "Skulls and Candles"
 	task.17EAF020DF15D376.title: "杂项植物"
 	task.1A36A5D48C75BE0D.title: "任意#minecraft:candles"
 	task.1ACF33BDD92D15DA.title: "击杀牧师"
@@ -6134,17 +6787,20 @@
 	task.203841AC95941F00.title: "欢迎来到机械动力！"
 	task.2103677DA5F292DE.title: "召唤龙使魔"
 	task.21895164503139CA.title: "用于气液转换机的水"
+	task.22915CF7043550CD.title: "Induction Cells"
 	task.22E777BE43621489.title: "任意#handcrafted:chests"
+	task.24A76A503F53AA7B.title: "Bookshelves"
 	task.253E536043DBF3EA.title: "量子计算机存储器"
 	task.256831387C82AA19.title: "Iron的法术与魔法书"
 	task.268DC896793A48C7.title: "觅食时间到！"
 	task.2772306CF31750FD.title: "任意#minecraft:coals"
 	task.2836DAFB8BAF8D7B.title: "召唤无头鼠骑士使魔"
 	task.296A456AF1F00270.title: "召唤异界石交易者"
+	task.29E9B2B466DF099E.title: "QIO Drives"
 	task.2A1C946A44A39D6F.title: "制作原初浆壤"
 	task.2A344C35DC371D0C.title: "工厂安装器"
 	task.2DCC056348E9BB4B.title: "召唤恶魔妻子"
-	task.2E011A6CEC3FE9F6.title: "加压管道"
+	task.2E011A6CEC3FE9F6.title: "Pressurized Tubes"
 	task.2FA7F24545E1C37E.title: "从这里开始"
 	task.3033BCAB98641150.title: "高级样板供应器"
 	task.310C3BFD53972F70.title: "寿司狗！Go！Go！"
@@ -6154,7 +6810,7 @@
 	task.339C2D373170BE2F.title: "来让图标变得更时尚！"
 	task.33DEB184944AC7D0.title: "水"
 	task.3404171FB712C24D.title: "五阶矿石 1:5"
-	task.341F7CB191A0790A.title: "通用线缆"
+	task.341F7CB191A0790A.title: "Universal Cables"
 	task.3716986BD12061AA.title: "任意#c:raw_materials/gold"
 	task.37DECFA02129E0B8.title: "召唤小鹿使魔"
 	task.38084EDBEB9647AD.title: "Sentient Evolution"
@@ -6172,9 +6828,12 @@
 	task.4552085BF5330776.title: "OK，开搞"
 	task.46DBAE66F97438E6.title: "Runes"
 	task.480E9CFA1CEE6479.title: "Spiritus Gems"
+	task.498AC4BAB884D0A6.title: "Reach World Tier: Summit"
+	task.4C7021388543ED23.title: "Obtain any Affix item"
 	task.4CE3EEAAF41AE050.title: "召唤魔精清洁工"
 	task.4D5812F798FB8C8C.title: "&d神通术&9100%"
 	task.4D63FA888F0497B5.title: "召唤克苏鲁使魔"
+	task.4E146480AAEB65FB.title: "Reach World Tier: Pinnacle"
 	task.4E775BAB4EB29C69.title: "任意#c:crops/garlic"
 	task.4F4699F9117BC270.title: "预编程无人机"
 	task.4F7787C0557CF5CC.title: "关怀备至"
@@ -6183,37 +6842,48 @@
 	task.5327B3CEDA60D4BE.title: "任意#c:raw_materials/silver"
 	task.537A156153014C88.title: "&2Ritual of Overgrowth"
 	task.5397C5FA8788480F.title: "任意#c:seeds/rice"
+	task.53EBF200E3ED18E8.title: "Energy Cubes"
 	task.54E5D81FEE18AF83.title: "炽焰术士"
 	task.570D439C4AC9F64C.title: "世界层级"
+	task.57F02AA9BFBA7624.title: "Enchanting Tables"
 	task.58AC1E8BBD7EAB5B.title: "召唤木乃伊使魔"
+	task.597ECA1E95F8C178.title: "Tomes of Armor"
+	task.59BF158D97C90086.title: "Bins"
+	task.5B40B4748A49BE45.title: "Rare Materials"
 	task.5CB700830F80DFD8.title: "用于化学清洗的水"
 	task.5D5634634E3879E5.title: "召唤蝙蝠使魔"
 	task.5DAF1EE0903D876A.title: "组装机械？"
 	task.601F7C69458E7589.title: "欢迎游玩神通术"
 	task.61ADF1E6345BC7E1.title: "任意#c:raw_materials/copper"
+	task.62E5D383DDDA0BBE.title: "Fill the Socket"
 	task.63DAD8D3277DA248.title: "进化生产目录"
 	task.64433571E92D5E65.title: "表情动作"
+	task.644BA76D2324EF21.title: "Induction Providers"
 	task.6544A3FD1B532809.title: "召唤恶魔丈夫"
 	task.65A43DD683FB39E4.title: "召唤魔精伐木工"
 	task.65B2D0E35B083E82.title: "适者生存"
 	task.66A70863F595A874.title: "Ritual of Harvest"
 	task.66BF2FED6B091A68.title: "探索世界！"
+	task.68AA0F8A3FADC35E.title: "Perfect Gems"
 	task.691E6AA922761E29.title: "鱼钩"
+	task.6BDAFFD29A7695BF.title: "Obtain a Rare Affix Item"
 	task.6C6C366D034AF5C7.title: "召唤异界树苗交易者"
 	task.708EE345AEBB270B.title: "制作暗影脉壤"
 	task.7206B162C5B4E0B8.title: "一阶矿石"
+	task.72F89F43852EBF65.title: "Crystal Clusters"
 	task.7376AAE3B45AD4B9.title: "浮漂"
 	task.73B852C41DE1F864.title: "任意#c:crops/rice"
 	task.73DFBACC98E080BC.title: "任意刀"
-	task.741F21CA04FBCB90.title: "物流管道"
+	task.741F21CA04FBCB90.title: "Logistical Transporters"
 	task.74C6D98426025A18.title: "召唤守护者使魔"
 	task.74EA288EED7CCE71.title: "Reinforced Runes"
 	task.7537E40C4FAB6D5C.title: "欢迎游玩Powah"
 	task.753B3D09A302E973.title: "Raw Spiritus Crystals"
 	task.7617B5CAABCD437A.title: "Bloodstones"
+	task.780048015B8387EE.title: "Flawless Gems"
 	task.7A0371393E813129.title: "观察：&2任意赛特斯石英母岩&r"
 	task.7AB3BAEAA2E50F06.title: "高位唤魔者"
 	task.7C14A87514F74DF9.title: "制作虚空辉壤"
-	task.7DFBA79EE9616973.title: "机械管道"
+	task.7DFBA79EE9616973.title: "Mechanical Pipes"
 	task.7E36340AFD8F91C6.title: "召唤贪婪使魔"
 }
